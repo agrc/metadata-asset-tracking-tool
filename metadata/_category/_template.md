@@ -1,8 +1,12 @@
-<!-- The filename should match the OpenSGID category.layer_name. For example, transportation.roads.md -->
+<!-- The filename should match the OpenSGID layer_name. For example, roads.md. The category will be inferred from the directory structure -->
 
 # Title
 
 <!-- The human-readable layer name. If it's a statewide layer, it should include "Utah" - "Utah Roads" -->
+
+## Brief Summary
+
+<!-- A super-short, one-liner description of the dataset. Corresponds to the pageDescription item in the data page's metadata -->
 
 ## Summary
 
@@ -27,3 +31,15 @@
 ## Tags
 
 <!-- Each data set's tags should include the stewarding agency (UGRC, DWR, etc), "SGID," and the layer's category. Add any other relevant tags, but don't include any words in the layer's title-->
+
+## Secondary Category
+
+<!-- Another category the layer fits in, if applicable. Can be left blank. -->
+
+## Data Page Link
+
+<!-- Link to the layer's data page on gis.utah.gov -->
+
+## Update Schedule
+
+<!-- A general description of when the dataset is updated- weekly, quarterly, as needed, etc -->
