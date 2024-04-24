@@ -14,18 +14,29 @@
 
 ## Description
 
-<!-- A more in-depth explanation of the dataset, where it came from and how its created, so the user can decide if its what they need. It should answer the following questions (but the answers don't need to be formatted in this order; they can be merged, combined, or woven into a narrative if sensible):
+<!-- A more in-depth explanation of the dataset, where it came from and how its created, so the user can decide if its what they need. -->
 
-What is the dataset
-What is the purpose of the dataset
-What does the dataset represent
-How was the dataset created
-How reliable and accurate is the dataset
--->
+### What is the dataset
+
+### What is the purpose of the dataset
+
+### What does the dataset represent
+
+### How was the dataset created
+
+### How reliable and accurate is the dataset
 
 ## Credits
 
 <!-- List both who created the original data and who created and is hosting the dataset itself. For example, the roads layer data come from UDOT, cities, and counties and is created and hosted by UGRC. -->
+
+### Data Source
+
+<!-- Who created or provides the data. For roads, this would be UDOT, Counties -->
+
+### Host
+
+<!-- Who is aggregating and hosting the feature service, downloadable zip file, etc. For roads, this would be UGRC -->
 
 ## Restrictions
 
@@ -47,6 +58,12 @@ How reliable and accurate is the dataset
 
 <!-- Link to the layer's data page on gis.utah.gov -->
 
-## Update Schedule
+## Update
+
+### Update Schedule
 
 <!-- A general description of when the dataset is updated- weekly, quarterly, as needed, etc -->
+
+### Previous Updates
+
+<!-- A list of previous updates, matching the updateHistory from the data page -->
