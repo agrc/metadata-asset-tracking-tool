@@ -2,7 +2,7 @@
 
 # Title
 
-<!-- The human-readable layer name. If it's a statewide layer, it should include "Utah" - "Utah Roads" -->
+<!-- The human-readable layer name that should match the pageTitle item in the data page's metadata. If it's a statewide layer, it should include "Utah", e.g. "Utah Roads" -->
 
 ## Brief Summary
 
@@ -14,7 +14,14 @@
 
 ## Description
 
-<!-- A more in-depth explanation of the dataset, where it came from and how its created, so the user can decide if its what they need. Should include the major points from the Description section of the layer's data page, but can omit deep explanations, esoteric history, and other things not necessary for determining usefulness. -->
+<!-- A more in-depth explanation of the dataset, where it came from and how its created, so the user can decide if its what they need. It should answer the following questions (but the answers don't need to be formatted in this order; they can be merged, combined, or woven into a narrative if sensible):
+
+What is the dataset
+What is the purpose of the dataset
+What does the dataset represent
+How was the dataset created
+How reliable and accurate is the dataset
+-->
 
 ## Credits
 
