@@ -28,8 +28,6 @@
 
 ## Credits
 
-<!-- List both who created the original data and who created and is hosting the dataset itself. For example, the roads layer data come from UDOT, cities, and counties and is created and hosted by UGRC. -->
-
 ### Data Source
 
 <!-- Who created or provides the data. For roads, this would be UDOT, Counties -->
