@@ -21,7 +21,7 @@ Census Blocks are the smallest geographic unit used by the United States Census 
 
 ### What is the dataset
 
-Census blocks are small geographic zones through which population data can be collected and organized. These blocks are often bounded by physical features such as roads or rivers, as well as municipal boundaries such as city limits or property lines. This dataset includes the census blocks for the State of Utah, current as of the 2020 Census. These blocks are represented as polygons and are available for download in the following formats: CSV, Shapefile, Excel, File Geodatabase, GeoJSON, GeoPackage, and SQLite Geodatabase. 
+Census blocks are small geographic zones through which population data can be collected and organized. These blocks are often bounded by physical features such as roads or rivers, as well as municipal boundaries such as city limits or property lines. This dataset includes the census blocks for the State of Utah, current as of the 2020 Census. These blocks are represented as polygons and are available for download in the following formats: CSV, Shapefile, Excel, File Geodatabase, GeoJSON, GeoPackage, and SQLite Geodatabase.
 
 ### What is the purpose of the dataset
 
