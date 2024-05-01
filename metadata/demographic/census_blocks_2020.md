@@ -2,22 +2,19 @@
 
 # Title
 
-<!-- The human-readable layer name that should match the pageTitle item in the data page's metadata. If it's a statewide layer, it should include "Utah", e.g. "Utah Roads" -->
 Utah Census 2020 Blocks
 
 ## Brief Summary
 
-<!-- A super-short, one-liner description of the dataset. Corresponds to the pageDescription item in the data page's metadata -->
 Basic demographic data in the smallest geographic unit used by the US Census Bureau.
 
 ## Summary
 
-<!-- A brief (<2048 characters for AGOL) explanation of the dataset to give the user a high-level overview of what the layer is when skimming lists of datasets. Will be the first description people see in Hub open data and should match the Summary section of the layer's data page  -->
 Census Blocks are the smallest geographic unit used by the United States Census Bureau for tabulating population information. Due to privacy concerns, only a limited amount of data is available at the block level.
 
 ## Description
 
-<!-- A more in-depth explanation of the dataset, where it came from and how its created, so the user can decide if its what they need. -->
+
 
 ### What is the dataset
 
@@ -45,46 +42,36 @@ These datasets were downloaded from the 2020 Census Redistricting Data (P.L. 94-
 
 ### Data Source
 
-<!-- Who created or provides the data. For roads, this would be UDOT, Counties -->
 US Census Bureau
 
 ### Host
 
-<!-- Who is aggregating and hosting the feature service, downloadable zip file, etc. For roads, this would be UGRC -->
 UGRC
 
 ## Restrictions
 
-<!-- Any usage limitations or constraints on where or how the dataset can be used, including disclaimers and attribution rules -->
-
 For more information on usage limitations for this dataset, please see our disclaimer [here](https://gis.utah.gov/documentation/policy/license/#disclaimer).
 
 ## License
-<!-- The license the data are released under. Will usually be CC BY 4.0, but could be different. -->
+
 CC BY 4.0 License
 
 ## Tags
 
-<!-- Each data set's tags should include the stewarding agency (UGRC, DWR, etc), "SGID," and the layer's category. Add any other relevant tags, but don't include any words in the layer's title-->
 UGRC, SGID, US Census Bureau
 
 ## Secondary Category
 
-<!-- Another category the layer fits in, if applicable. Can be left blank. -->
-
 ## Data Page Link
 
-<!-- Link to the layer's data page on gis.utah.gov -->
 https://gis.utah.gov/products/sgid/demographic/census-2020-blocks/
 
 ## Update
 
 ### Update Schedule
 
-<!-- A general description of when the dataset is updated- weekly, quarterly, as needed, etc -->
 The US Census occurs every ten years, (how soon after that do we release ready-to-use GIS data?)
 
 ### Previous Updates
 
-<!-- A list of previous updates, matching the updateHistory from the data page -->
 August 2021 - Initial load
