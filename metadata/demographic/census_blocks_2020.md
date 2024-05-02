@@ -2,7 +2,7 @@
 
 Utah Census 2020 Blocks
 
-## Item ID 
+## Item ID
 
 f1d471af-8db1-4597-a6bb-b4f2125ad70d
 
