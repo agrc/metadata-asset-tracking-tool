@@ -12,17 +12,25 @@ Contains US Postal Service address points for all twenty-nine counties in Utah.
 
 ## Summary
 
-An address point represents a geographic location that has been assigned a US Postal Service (USPS) address by the local address authority (i.e., county or municipality) but does not necessarily receive mail. This data layer contains address points for all twenty-nine counties in Utah.
+An address point represents a geographic location that has been assigned a US Postal Service (USPS) address by the local address authority (i.e., county or municipality) but does not necessarily receive mail.
 
 ## Description
 
 ### What is the dataset
 
-This dataset contains vector point data for over one million addresses in the State of Utah. Maintaining this dataset is an ongoing effort between UGRC, counties, and local municipalities. UGRC works with each county or municipality's MAL authority to continually improve the address point data.
+This dataset contains vector point data for over one million addresses in the State of Utah.
+
+<!---
+This is a very short description,and admittedly, I had some difficulty coming up with what to add to it that didn't stray into "what is the purpose of this dataset" or "how was this dataset created" categories. I will keep thinking on it though, and I am open to suggestions on what else to describe the nature of the data.
+-->
 
 ### What is the purpose of the dataset
 
-The Address Points GIS data are used for geocoding, 911 response, and analysis and planning purposes. The data are also used as reference data for the [api.mapserv.utah.gov](https://api.mapserv.utah.gov/) geocoding endpoint, and you can find the address points in many [web mapping applications](https://atlas.utah.gov/).
+The Address Points GIS data are used for [geocoding](api.mapserv.utah.gov), city planning, and [redistricting](https://redistricting.utah.gov/wp-content/uploads/2021/07/Redistricting-Packet-1-compressed.pdf).
+
+<!---
+Add information about how the address points is used in ballots and redistricting here
+-->
 
 ### What does the dataset represent
 
@@ -43,11 +51,16 @@ The information in the Address Points dataset was originally compiled by Utah co
 
 This dataset is a mapping-grade framework layer that receives regular updates. As with all our datasets, UGRC works to ensure the quality and accuracy of our data to the best of our abilities.
 
+<!---
+Is "we do our best" good enough an answer for how reliable and accurate something is? This was included in the original text for the metadata, but I find it to be something of a non-answer. I'm our layers undergo rigorous accuracy checks, but how much of that do we want to include here? Should we say "we do our best" for brevity's sake?
+-->
+
 ## Credits
 
 ### Data Source
 
-UGRC, local government partners
+- UGRC
+- Local government partners
 
 ### Host
 
@@ -69,32 +82,48 @@ CC BY 4.0 License
 
 ## Secondary Category
 
+Address
+
 ## Data Page Link
 
-https://gis.utah.gov/products/sgid/location/address-points/
+[https://gis.utah.gov/products/sgid/location/address-points/]
 
 ## Updates
 
 ### Update Schedule
 
-Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. Densely populated counties, such as Salt Lake, Utah, and Weber, are updated monthly, while less populous counties may be updated quarterly or every six months.
+Maintaining this dataset is an ongoing effort between UGRC, counties, and local municipalities. UGRC works with each county or municipality's MAL authority to continually improve the address point data. Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. Densely populated counties, such as Salt Lake, Utah, and Weber, are updated monthly, while less populous counties may be updated quarterly or semi-annually.
 
 ### Previous Updates
 
-- April 2024 - Piute, Salt Lake, Sevier, Utah, Wasatch, Washington, Wayne, and Weber Counties
-- March 2024 - Carbon, Iron, Salt Lake, Utah, Washington, and Weber Counties
-- February 2024 - Davis, Garfield, Grand, Morgan, Salt Lake, Tooele, Utah, Wasatch, Washington, and Weber Counties
-- January 2024 - Box Elder, Davis, Millard, Morgan, Salt Lake, Utah, Washington, and Weber Counties
-- December 2023 - Davis, Iron, Salt Lake, Utah, Washington, and Weber Counties
-- November 2023 - Davis, Kane, Salt Lake, Tooele, Utah, Washington, and Weber Counties
-- October 2023 - Box Elder, Carbon, Davis, Salt Lake, Sevier, Utah, Washington and Weber Counties
-- September 2023 - Davis, Iron, Salt Lake, Utah, Washington, and Weber Counties
-- August 2023 - Davis, Garfield, Salt Lake, Tooele, Utah, Washington, and Weber Counties
-- July 2023 - Box Elder, Davis, Grand, Salt Lake, San Juan, Summit, Utah, Washington, and Weber Counties
-- June 2023 - Beaver, Emery, Davis, Salt Lake, Utah, Washington, and Weber Counties
-- May 2023 - Cache, Davis, Morgan, Salt Lake, Tooele, Utah, Wasatch, Washington, and Weber Counties
-- April 2023 - Davis, Morgan, Piute, Salt Lake, Sevier, Summit, Utah, Washington, and Weber Counties
-- March 2023 - Box Elder, Cache, Davis, Iron, Salt Lake, Utah, Washington, Weber Counties
-- February 2023 - Carbon, Davis, Garfield, Grand, Salt Lake, Tooele, Utah, Washington, Weber Counties
-- January 2023 - Box Elder, Davis, Iron, Salt Lake, Utah, Wasatch, Washington, Weber Counties
-- Address Points were made public by UGRC on June 27, 2013
+<!---
+This is another way of displaying previous updates. I like the way it looks, however, I recognize that this sort of metadata would need to be updated regularly, and that might not be the most efficient if we had to update this paragraph every time an update was performed on the address points layer.
+-->
+
+- Beaver County - June 2023
+- Box Elder County - January 2024
+- Cache County - May 2023
+- Carbon County - March 2024
+- Daggett County - June 2020
+- Davis County - February 2024
+- Duchesne County - Unknown
+- Emery County - June 2023
+- Garfield County - February 2024
+- Grand County - February 2024
+- Iron County - March 2024
+- Juab County - April 2023
+- Kane County - November 2023
+- Millard County - January 2024
+- Morgan County - February 2024
+- Piute County - April 2024
+- Rich County - November 2021
+- Salt Lake County - April 2024
+- Sanpete County - July 2021
+- Sevier County - April 2024
+- Tooele County - February 2024
+- Uintah County - September of 2022
+- Utah County - April 2024
+- Wasatch County - April 2024
+- Washington County - April 2024
+- Wayne County - April 2024
+- Weber County - April 2024
