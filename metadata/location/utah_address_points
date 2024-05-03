@@ -18,16 +18,7 @@ An address point represents a geographic location that has been assigned a US Po
 
 ### What is the dataset
 
-Address points may include several pieces of information about the structure or location that's being mapped, such as:
-
-- Full address (i.e., the USPS mailing address, if the address is for a physical location [rather than a PO box])
-- Landmark name
-- Whether the location is a building
-- The type of unit
-- The city and ZIP code
-- Unique code identifiers of the specific geographic location, including the Federal Information Processing Standard Publication (FIPS) county code and the US National Grid (USNG) spatial address;
-the address source
-- The date that the address point was loaded into the map layer.
+This dataset contains vector point data for over one million addresses in the State of Utah. Maintaining this dataset is an ongoing effort between UGRC, counties, and local municipalities. UGRC works with each county or municipality's MAL authority to continually improve the address point data.
 
 ### What is the purpose of the dataset
 
@@ -35,15 +26,22 @@ The Address Points GIS data are used for geocoding, 911 response, and analysis a
 
 ### What does the dataset represent
 
-Address points 
+The address points in this dataset include information such as:
+
+- Full street address (i.e., the USPS mailing address, if the address is for a physical location [rather than a PO box])
+- Whether the location is a building
+- The type of unit
+- The city and ZIP code
+- Unique code identifiers of the specific geographic location, including the Federal Information Processing Standard Publication (FIPS) county code and the US National Grid (USNG) spatial address
+- The date that the address point was added to the dataset
 
 ### How was the dataset created
 
-Maintaining this dataset is an ongoing effort between UGRC, counties, and municipalities. Specifically, UGRC works with each county or municipality's Master Address List [(MAL)](https://docs.google.com/spreadsheets/d/1MIHEnmJ1dRekSd6n0s_oiS-Xy84JOaWUEqXXTnKsF1U/edit#gid=0) authority to continually improve the address point data. The information in the Address Points dataset was originally compiled by Utah counties and municipalities and was aggregated by UGRC for the MAL grant initiative in 2012. The purpose of this initiative was to ensure that all state entities were using the same verified, accurate county and municipal address information.
+The information in the Address Points dataset was originally compiled by Utah counties and municipalities and was aggregated by UGRC for the Master Address List ([MAL](https://docs.google.com/spreadsheets/d/1MIHEnmJ1dRekSd6n0s_oiS-Xy84JOaWUEqXXTnKsF1U/edit#gid=0)) grant initiative in 2012. The purpose of this initiative was to ensure that all state entities were using the same verified, accurate county and municipal address information.
 
 ### How reliable and accurate is the dataset
 
-This dataset is mapping grade; it is a framework layer that receives regular updates. As with all our datasets, the Utah Geospatial Resource Center (UGRC) works to ensure the quality and accuracy of our data to the best of our abilities.
+This dataset is a mapping-grade framework layer that receives regular updates. As with all our datasets, UGRC works to ensure the quality and accuracy of our data to the best of our abilities.
 
 ## Credits
 
@@ -61,19 +59,25 @@ For more information on usage limitations for this dataset, please see our [disc
 
 ## License
 
-CC
+CC BY 4.0 License
 
 ## Tags
+
+- UGRC
+- SGID
+- US Postal Service
 
 ## Secondary Category
 
 ## Data Page Link
 
-## Update
+https://gis.utah.gov/products/sgid/location/address-points/
+
+## Updates
 
 ### Update Schedule
 
-Counties have been placed on an update schedule depending on the rate of new development and change within them. Populous counties, such as Weber, Davis, Salt Lake, Utah, and Washington, are more complete and are updated monthly, while rural or less populous counties may be updated quarterly or every six months.
+Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. Densely populated counties, such as Salt Lake, Utah, and Weber, are updated monthly, while less populous counties may be updated quarterly or every six months.
 
 ### Previous Updates
 
