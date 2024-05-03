@@ -32,7 +32,7 @@ The address points in this dataset include information such as:
 - Whether the location is a building
 - The type of unit
 - The city and ZIP code
-- Unique code identifiers of the specific geographic location, including the Federal Information Processing Standard Publication (FIPS) county code and the US National Grid (USNG) spatial address
+- Unique code identifiers, including the Federal Information Processing Standard ([FIPS](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips)) county code and the US National Grid ([USNG](https://www.fgdc.gov/usng/how-to-read-usng)) spatial address
 - The date that the address point was added to the dataset
 
 ### How was the dataset created
