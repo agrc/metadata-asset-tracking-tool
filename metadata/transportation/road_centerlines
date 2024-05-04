@@ -16,6 +16,8 @@ Utah Roads is a multi-purpose statewide roads dataset for cartography, routing, 
 
 ## Description
 
+This dataset includes information such as the road name, type, speed limit, and infrastructure such as bike lanes. To see specific information about the data model including field names and descriptions, data types, coded value domains, and data model updates, see the [data model spreadsheet](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) and the corresponding tabs for update notes. The color-coded section titled Addressing is primarily maintained by the local stewards, where as the section titled DOT/FHWA is primarily maintained by UDOT. UGRC spatially assigns fields in the section titled Placename/Area, based on current SGID polygon boundaries.
+
 ### What is the dataset?
 
 ### What is the purpose of the dataset?
@@ -30,9 +32,7 @@ This data model is meant to suggest 'best practices'. It is not the intent that 
 
 ### What does the dataset represent?
 
-To see specific information about the data model including field names and descriptions, data types, coded value domains, and data model updates, see the [data model spreadsheet](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) and the corresponding tabs for update notes. The color-coded section titled Addressing is primarily maintained by the local stewards, where as the section titled DOT/FHWA is primarily maintained by UDOT. UGRC spatially assigns fields in the section titled Placename/Area, based on current SGID polygon boundaries.
-
-<!--- How did we decide to delineate the individual polylines? -->
+<!--- How did we decide to delineate the individual polylines? I noticed that for many roads there is more than one polyline segment for one named road. -->
 
 ### How was the dataset created?
 
