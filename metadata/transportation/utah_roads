@@ -1,0 +1,84 @@
+# Title
+
+Utah Roads
+
+## ID
+
+a6cf0b81-a99e-4ec3-a9b7-7372ae6a6cbb
+
+## Brief Summary
+
+Statewide road centerline data for Utah.
+
+## Summary
+
+Utah Roads is a multi-purpose statewide roads dataset for cartography, routing, and range-based address location. This dataset is also used as the base geometry for deriving the geospatial representation of UDOT's advanced highway linear referencing system ([ALRS](https://gis.utah.gov/products/sgid/transportation/highway-routes-lrs/)) as well as [UGRC's network analysis datasets](https://gis.utah.gov/products/sgid/transportation/).
+
+## Description
+
+### What is the dataset?
+
+### What is the purpose of the dataset?
+
+The Utah Roads layer plays an important role in active transportation planning in Utah. Recent collaborative efforts between UGRC, [UDOT](https://www.udot.utah.gov/connect/,) and [WFRC](https://wfrc.org/) have led to significant enhancements in the bike and pedestrian data on both the roads and trails/pathways layers. You can contribute to the on-street bike data by letting us know where we have gaps or inaccurate information.
+
+<!--- Is there a contact form people should use when they want to let us know there is a gap in the data? Should we direct them to the office email address? -->
+
+This data model is meant to suggest 'best practices'. It is not the intent that all stewards will change their current data management process to match this standard, but rather that stewards will evaluate their current practices to see how well their data 'translates' to this schema for data sharing and Next Generation 911 preparedness.
+
+<!--- Is it common practice for data stewards to change their data to fit ours?  -->
+
+### What does the dataset represent?
+
+To see specific information about the data model including field names and descriptions, data types, coded value domains, and data model updates, see the [data model spreadsheet](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) and the corresponding tabs for update notes. The color-coded section titled Addressing is primarily maintained by the local stewards, where as the section titled DOT/FHWA is primarily maintained by UDOT. UGRC spatially assigns fields in the section titled Placename/Area, based on current SGID polygon boundaries.
+
+<!--- How did we decide to delineate the individual polylines? -->
+
+### How was the dataset created?
+
+The Utah Roads dataset utilizes a data model based on [Next-Generation 911 standards](https://www.911.gov/issues/ng911/) and the Federal Highway Administration's All Roads Network Of Linear-referenced Data ([ARNOLD](https://highways.dot.gov/safety/data-analysis-tools/rsdp/rsdp-tools/arnold-reference-manual)) reporting requirements for state DOTs. UGRC adopted this data model on September 13th, 2017. The statewide roads dataset is maintained by UGRC in partnership with local government, UDOT, and the 911 community.
+
+### How reliable and accurate is the dataset?
+
+We are currently working with US Forest Service to improve the Forest Service roads in this dataset, however, for the most current and complete set of USFS roads, please visit the
+[FSGeodata Clearinghouse](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=transportation).
+
+Please direct questions about this layer to Greg Bunce from UGRC at [gbunce@utah.gov] or by calling 801-349-0039.
+
+## Credits
+
+### Data Source
+
+- Local data stewards
+- UDOT
+- UGRC
+
+### Host
+
+UGRC
+
+## Restrictions
+
+For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
+
+## License
+
+CC by 4.0 License
+
+## Tags
+
+- UDOT
+
+## Secondary Category
+
+## Data Page Link
+
+[https://gis.utah.gov/products/sgid/transportation/road-centerlines/]
+
+## Update
+
+### Update Schedule
+
+Monthly
+
+### Previous Updates
