@@ -18,8 +18,6 @@ Utah Roads is a multi-purpose statewide roads dataset for cartography, routing, 
 
 This dataset includes information such as the road name, type, speed limit, and infrastructure such as bike lanes. To see specific information about the data model including field names and descriptions, data types, coded value domains, and data model updates, see the [data model spreadsheet](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) and the corresponding tabs for update notes. The color-coded section titled "Addressing" is primarily maintained by local stewards, whereas the section titled "DOT/FHWA" is primarily maintained by UDOT. UGRC spatially assigns fields in the section titled "Placename/Area", based on current SGID polygon boundaries.
 
-This dataset does not contain USFS roads. For the most current and complete set of USFS roads, please visit the [FSGeodata Clearinghouse](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=transportation).
-
 ### What is the dataset?
 
 ### What is the purpose of the dataset?
@@ -34,11 +32,11 @@ As part of UGRC's ongoing effort to standardize schema and improve data shareabi
 
 ### How was the dataset created?
 
-The Utah Roads dataset utilizes a data model based on Next-Generation 911 (NG911) standards and the Federal Highway Administration's ([ARNOLD](https://highways.dot.gov/safety/data-analysis-tools/rsdp/rsdp-tools/arnold-reference-manual)) reporting requirements for state DOTs. UGRC adopted this data model on September 13, 2017. This statewide roads dataset is maintained by UGRC in partnership with local government, UDOT, and NG911 officials. 
+The Utah Roads dataset utilizes a data model based on Next-Generation 911 (NG911) standards and the Federal Highway Administration's ([ARNOLD](https://highways.dot.gov/safety/data-analysis-tools/rsdp/rsdp-tools/arnold-reference-manual)) reporting requirements for state DOTs. UGRC adopted this data model on September 13, 2017. This statewide roads dataset is maintained by UGRC in partnership with local government, UDOT, and NG911 officials.
 
 ### How reliable and accurate is the dataset?
 
-This is the most accurate representation of statewide roads. Please direct questions about this layer to Greg Bunce from UGRC at [gbunce@utah.gov] or by calling 801-349-0039.
+This is the most accurate representation of statewide roads and highways. While this dataset does contain USFS roads, please visit the [FSGeodata Clearinghouse](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=transportation) for the most current and complete datasets for USFS roads.
 
 ## Credits
 
