@@ -8,33 +8,54 @@ e9eba9ba-3950-4b99-89d2-b1d9282133b6
 
 ## Brief Summary
 
-The official State of Utah School and Institutional Trust Lands Administration surface land ownership data.
+The official State of Utah School and Institutional Trust Lands Administration (SITLA) surface land ownership data.
 
 ## Summary
 
-Land ownership depicts land ownership status and areas of responsibility for the State of Utah surface lands at a scale of 1:24,000. This is a statewide dataset of land ownership status, and therefore is a compilation of all surface land ownership administration, and designation categories.
+Maintained by a joint effort between SITLA, the BLM, and UGRC, this dataset represents current land ownership in the state of Utah, categorized as federal, state, private, or tribal land. In the cases of federal, state, or private land, this dataset specifies the organization or agency that claims stewardship over that area. However, in the case of private land, this dataset does not identify the specific landowner.
 
 ## Description
 
+### What is the dataset?
+
+This dataset depicts land ownership status and areas of responsibility for surface lands in the State of Utah. Land ownership is represented as polygons at a scale of 1:24,000.
+
 Standard colors are recommended when displaying this feature class. A layer file containing the standard color scheme is available by contacting SITLA GIS staff directly at the GIS staff from SITLA at [TLA-GIS@utah.gov] | 801-538-5100, or visiting [https://trustlands.utah.gov].
 
-### What is the dataset?
+<!--- Did some digging on the SITLA website and did not find the standard color scheme mentioned, so I believe users will need to contact SITLA directly if they are interested in using it. -->
 
 ### What is the purpose of the dataset?
 
+Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the Bureau of Land Management and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and other interested parties.
+
+<!--- While this is general information on how land ownership data could be used, SITLA does have a disclaimer on their website that specifies that their data is not suitable for "legal, engineering, or surveying purposes" and that the data is for "reference only". Is this something we should include here as well?
+
+Here's the link if anyone wants to read their disclaimer: https://trustlands.utah.gov/tools/maps/ 
+t this point, I am unsure if this disclaimer applies to all their GIS data, or if just to a specific reference map. -->
+
 ### What does the dataset represent?
+
+Land ownership types are divided into four categories: Federal, State, Tribal, and Private ownership. This dataset also includes official land use designation, the administrator of the parcel, and the area of the parcel in square meters. For a full explanation of the field names and descriptions, please see the [schema summary](https://docs.google.com/document/d/1CW9Y8MgxBEo53Hzs7ZdKeAfFeG_6cGwN4WOzAIBDreU/edit?usp=sharing).
 
 ### How was the dataset created?
 
+<!--- Took a look around SITLA's website and found this layer, but it turns out our metadata is the same as theirs, so there isn't too much information about this layer there. Thus, I will be reaching out to SITLA to fill in some of the gaps in the metadata. Feel free to add notes about how this dataset was created if you have them! -->
+
 ### How reliable and accurate is the dataset?
 
- Maintenance of this data layer is performed by a cooperative federal and state effort between the Bureau of Land Management (BLM) and the State of Utah School and Institutional Trust Lands Administration (SITLA). Both the Utah School and Institutional Trust Lands Administration (SITLA) and the Bureau of Land Management (BLM) update this dataset regularly.
+Maintenance of this data layer is performed by a cooperative federal and state effort between the Bureau of Land Management (BLM) and the State of Utah School and Institutional Trust Lands Administration (SITLA). Both SITLA and the BLM update this dataset regularly.
 
 ## Credits
 
 ### Data Source
 
+- STILA
+- BLM
+- Local Partners
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -46,9 +67,18 @@ CC by 4.0 License
 
 ## Tags
 
+- SITLA
+- Public Land
+- Private Land
+- Land Use Designation
+
 ## Secondary Category
 
+Boundaries
+
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/cadastre/land-ownership/]
 
 ## Update
 
