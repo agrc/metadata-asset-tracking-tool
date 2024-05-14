@@ -1,0 +1,57 @@
+# Title
+
+Utah Parcels
+
+## ID
+
+## Brief Summary
+
+## Summary
+
+The SGID contains parcel boundaries for each of the 29 counties in Utah and is updated as new data is provided from the data steward in each county. Some counties are more complete than others. The SGID also contains parcel boundaries with additional Land Information Records (LIR) with county tax roll attributes for most counties.
+
+## Description
+
+### What is the dataset?
+
+### What is the purpose of the dataset?
+
+### What does the dataset represent?
+
+### How was the dataset created?
+
+In 2005, HB113 was passed requiring the UGRC Cadastral Surveyor to work with local government to create a parcel database for the State.
+
+### How reliable and accurate is the dataset?
+
+## Credits
+
+### Data Source
+
+### Host
+
+## Restrictions
+
+For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
+
+## License
+
+CC by 4.0 License
+
+## Tags
+
+## Secondary Category
+
+Boundaries
+
+## Data Page Link
+
+## Update
+
+### Update Schedule
+
+We aim to update the basic parcels for Davis, Salt Lake, Utah, Washington, and Weber, also known as the Big 5, every month. The rest of the rural counties are on a rotating schedule ranging from quarterly to annually.
+
+LIR parcels are updated annually with county year end tax roll information when provided.
+
+### Previous Updates
