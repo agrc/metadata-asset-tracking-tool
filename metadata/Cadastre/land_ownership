@@ -20,13 +20,11 @@ Maintained by a joint effort between SITLA, the BLM, and UGRC, this dataset repr
 
 This dataset depicts land ownership status and areas of responsibility for surface lands in the State of Utah. Land ownership is represented as polygons at a scale of 1:24,000.
 
-Standard colors are recommended when displaying this feature class. A layer file containing the standard color scheme is available by contacting SITLA GIS staff directly at the GIS staff from SITLA at [TLA-GIS@utah.gov] | 801-538-5100, or visiting [https://trustlands.utah.gov].
-
-<!--- Did some digging on the SITLA website and did not find the standard color scheme mentioned, so I believe users will need to contact SITLA directly if they are interested in using it. -->
+Standard colors are recommended when displaying this feature class. A layer file containing the standard color scheme is available by contacting SITLA GIS staff directly at the GIS staff from SITLA at [SITLA-GIS@utah.gov], or visiting [https://trustlands.utah.gov].
 
 ### What is the purpose of the dataset?
 
-Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the Bureau of Land Management and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and other interested parties.
+Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the Bureau of Land Management and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts.
 
 <!--- While this is general information on how land ownership data could be used, SITLA does have a disclaimer on their website that specifies that their data is not suitable for "legal, engineering, or surveying purposes" and that the data is for "reference only". Is this something we should include here as well?
 
@@ -43,7 +41,7 @@ Land ownership types are divided into four categories: Federal, State, Tribal, a
 
 ### How reliable and accurate is the dataset?
 
-Maintenance of this data layer is performed by a cooperative federal and state effort between the Bureau of Land Management (BLM) and the State of Utah School and Institutional Trust Lands Administration (SITLA). Both SITLA and the BLM update this dataset regularly.
+Maintenance of this data layer is performed by a cooperative federal and state effort between the Bureau of Land Management (BLM) and the State of Utah School and Institutional Trust Lands Administration (SITLA). Both SITLA and the BLM update this dataset weekly.
 
 ## Credits
 
@@ -59,7 +57,9 @@ UGRC
 
 ## Restrictions
 
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
+Data represented in this dataset is for reference use only and is not suitable for legal, engineering, or surveying purposes.  Users of this information should review or consult the primary data and information sources to ascertain the usability of the information.  The Trust Lands Administration provides this data in good faith and shall in no event be liable for any incorrect results, or any special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon.
+
+For more information on usage limitations for this dataset, please visit the [SITLA website](https://trustlands.utah.gov/tools/maps/).
 
 ## License
 
