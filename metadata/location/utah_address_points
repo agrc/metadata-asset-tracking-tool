@@ -18,19 +18,11 @@ An address point represents a geographic location that has been assigned a US Po
 
 ### What is the dataset
 
-This dataset contains vector point data for over one million addresses in the State of Utah.
-
-<!---
-This is a very short description,and admittedly, I had some difficulty coming up with what to add to it that didn't stray into "what is the purpose of this dataset" or "how was this dataset created" categories. I will keep thinking on it though, and I am open to suggestions on what else to describe the nature of the data.
--->
+This dataset contains vector point data for over one million addresses in the State of Utah and includes information such as the street address and the type of unit the point represents. This dataset is a mapping-grade framework layer that receives regular updates. Maintaining this dataset is an ongoing effort between UGRC, counties, and local municipalities.
 
 ### What is the purpose of the dataset
 
 The Address Points GIS data are used for [geocoding](api.mapserv.utah.gov), city planning, and [redistricting](https://redistricting.utah.gov/wp-content/uploads/2021/07/Redistricting-Packet-1-compressed.pdf).
-
-<!---
-Add information about how the address points is used in ballots and redistricting here
--->
 
 ### What does the dataset represent
 
@@ -45,15 +37,11 @@ The address points in this dataset include information such as:
 
 ### How was the dataset created
 
-The information in the Address Points dataset was originally compiled by Utah counties and municipalities and was aggregated by UGRC for the Master Address List ([MAL](https://docs.google.com/spreadsheets/d/1MIHEnmJ1dRekSd6n0s_oiS-Xy84JOaWUEqXXTnKsF1U/edit#gid=0)) grant initiative in 2012. The purpose of this initiative was to ensure that all state entities were using the same verified, accurate county and municipal address information.
+The information in the Address Points dataset was originally compiled by Utah counties and municipalities and was aggregated by UGRC for the Master Address List (MAL) grant initiative in 2012. The purpose of this initiative was to ensure that all state entities were using the same verified, accurate county and municipal address information.
 
 ### How reliable and accurate is the dataset
 
-This dataset is a mapping-grade framework layer that receives regular updates. As with all our datasets, UGRC works to ensure the quality and accuracy of our data to the best of our abilities.
-
-<!---
-Is "we do our best" good enough an answer for how reliable and accurate something is? This was included in the original text for the metadata, but I find it to be something of a non-answer. I'm our layers undergo rigorous accuracy checks, but how much of that do we want to include here? Should we say "we do our best" for brevity's sake?
--->
+As with all our datasets, UGRC works to ensure the quality and accuracy of our data to the best of our abilities. Questions about specific counties and their address points can be directed to the [county addressing authorities](https://docs.google.com/spreadsheets/d/1MIHEnmJ1dRekSd6n0s_oiS-Xy84JOaWUEqXXTnKsF1U/edit#gid=0).
 
 ## Credits
 
@@ -92,6 +80,6 @@ Address
 
 ### Update Schedule
 
-Maintaining this dataset is an ongoing effort between UGRC, counties, and local municipalities. UGRC works with each county or municipality's MAL authority to continually improve the address point data. Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. Densely populated counties, such as Salt Lake, Utah, and Weber, are updated monthly, while less populous counties may be updated quarterly or semi-annually.
+UGRC works with each county or municipality's MAL authority to continually improve the address point data. Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. Densely populated counties, such as Salt Lake, Utah, and Weber, are updated monthly, while less populous counties may be updated quarterly or semi-annually.
 
 ### Previous Updates
