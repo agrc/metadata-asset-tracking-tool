@@ -8,7 +8,7 @@ e9eba9ba-3950-4b99-89d2-b1d9282133b6
 
 ## Brief Summary
 
-The official State of Utah School and Institutional Trust Lands Administration (SITLA) surface land ownership data.
+Land ownership polygons categorized as federal, state, private, or tribal land.
 
 ## Summary
 
@@ -20,24 +20,19 @@ Maintained by a joint effort between SITLA, the BLM, and UGRC, this dataset repr
 
 This dataset depicts land ownership status and areas of responsibility for surface lands in the State of Utah. Land ownership is represented as polygons at a scale of 1:24,000.
 
-Standard colors are recommended when displaying this feature class. A layer file containing the standard color scheme is available by contacting SITLA GIS staff directly at the GIS staff from SITLA at [SITLA-GIS@utah.gov], or visiting [https://trustlands.utah.gov].
+Standard colors are recommended when displaying this feature class. A layer file containing the standard color symbology is available for [download](https://sitla.maps.arcgis.com/home/item.html?id=30a09ecd4d304a1880f6f0b2fe47c59c) directly from SITLA.
 
 ### What is the purpose of the dataset?
 
-Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the Bureau of Land Management and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts.
-
-<!--- While this is general information on how land ownership data could be used, SITLA does have a disclaimer on their website that specifies that their data is not suitable for "legal, engineering, or surveying purposes" and that the data is for "reference only". Is this something we should include here as well?
-
-Here's the link if anyone wants to read their disclaimer: https://trustlands.utah.gov/tools/maps/ 
-t this point, I am unsure if this disclaimer applies to all their GIS data, or if just to a specific reference map. -->
+Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the Bureau of Land Management and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts. For example, land ownership data has been used by the [Utah Broadband Center](https://business.utah.gov/broadband/) and UGRC to determine areas with limited broadband internet access in an effort to improve services in  underserved communities. You can learn more about the Utah Broadband Project on our [blog](https://gis.utah.gov/blog/2016-02-01-utah-broadband-outreach-center-releases-revamped-availability-map/).
 
 ### What does the dataset represent?
 
-Land ownership types are divided into four categories: Federal, State, Tribal, and Private ownership. This dataset also includes official land use designation, the administrator of the parcel, and the area of the parcel in square meters. For a full explanation of the field names and descriptions, please see the [schema summary](https://docs.google.com/document/d/1CW9Y8MgxBEo53Hzs7ZdKeAfFeG_6cGwN4WOzAIBDreU/edit?usp=sharing).
+This dataset includes information such as official land use designation, the administrator of the parcel, and the area of the parcel in square meters. For a full explanation of the field names and descriptions, please see the [schema summary](https://docs.google.com/document/d/1CW9Y8MgxBEo53Hzs7ZdKeAfFeG_6cGwN4WOzAIBDreU/edit?usp=sharing).
 
 ### How was the dataset created?
 
-<!--- Took a look around SITLA's website and found this layer, but it turns out our metadata is the same as theirs, so there isn't too much information about this layer there. Thus, I will be reaching out to SITLA to fill in some of the gaps in the metadata. Feel free to add notes about how this dataset was created if you have them! -->
+<!--- Currently waiting to hear back from SITLA about this section. -->
 
 ### How reliable and accurate is the dataset?
 
