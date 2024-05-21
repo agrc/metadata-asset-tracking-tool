@@ -12,7 +12,7 @@ Utah Roads is a multi-purpose statewide roads dataset for cartography, routing, 
 
 ## Summary
 
-Utah Roads is a multi-purpose statewide roads dataset for cartography, routing, and range-based address location. This dataset is also used as the base geometry for deriving the geospatial representation of UDOT's advanced highway linear referencing system ([ALRS](https://gis.utah.gov/products/sgid/transportation/highway-routes-lrs/)) as well as [UGRC's network analysis datasets](https://gis.utah.gov/products/sgid/transportation/).
+Utah Roads is a comprehensive statewide roads dataset for mapping, addressing, and route planning. This data follows national standards for [NENA NG911](https://www.nena.org/page/standards) and [USDOT ARNOLD](https://highways.dot.gov/safety/data-analysis-tools/rsdp/rsdp-tools/arnold-reference-manual) and is updated monthly for key areas, with additional counties updated throughout the year. UGRC collaborates with various agencies to ensure data accuracy and consistency.
 
 ## Description
 
@@ -26,7 +26,7 @@ Please reach out to [our team](https://gis.utah.gov/contact/) with questions con
 
 The Utah Roads layer plays an important role in [active transportation](https://gis.utah.gov/products/sgid/transportation/) planning in Utah. For example, recent collaborative efforts between UGRC, [UDOT](https://www.udot.utah.gov/connect/,) and [WFRC](https://wfrc.org/) have led to significant enhancements in the bike and pedestrian data not only on this roads layer, but also on the trails and pathways layers. You can contribute to the on-street bike data by [letting us know](https://gis.utah.gov/contact/) where we have gaps or inaccurate information.
 
-As part of UGRC's ongoing efforts to standardize schema and improve data shareability, this model has been designed to suggest 'best practices' for stewards. We encourage stewards to use this model to estimate how well a given dataset 'translates' to this schema and [Next Generation 911 preparedness](https://www.911.gov/issues/ng911/).
+As part of UGRC's ongoing efforts to standardize schema and improve data shareability, this model has been designed to suggest best practices for stewards. We encourage stewards to use this model to estimate how well a given dataset 'translates' to this schema and [Next Generation 911 preparedness](https://www.911.gov/issues/ng911/).
 
 ### What does the dataset represent?
 
@@ -34,7 +34,7 @@ This dataset contains over 400,000 polyline features representing more than 50,0
 
 ### How was the dataset created?
 
-The Utah Roads dataset utilizes a data model based on Next-Generation 911 (NG911) standards and the Federal Highway Administration's ([ARNOLD](https://highways.dot.gov/safety/data-analysis-tools/rsdp/rsdp-tools/arnold-reference-manual)) reporting requirements for state DOTs. UGRC adopted this data model on September 13, 2017. This statewide roads dataset is maintained by UGRC in partnership with local government, UDOT, and NG911 officials.
+The Utah Roads dataset utilizes a data model based on Next-Generation 911 (NG911) standards and the [Federal Highway Administration's](https://highways.dot.gov/) ARNOLD reporting requirements for state DOTs. UGRC adopted this data model on September 13, 2017. This statewide roads dataset is maintained by UGRC in partnership with local government, UDOT, and NG911 officials.
 
 ### How reliable and accurate is the dataset?
 
@@ -44,7 +44,7 @@ This is the most accurate representation of statewide roads and highways. While 
 
 ### Data Source
 
-- Local data stewards
+- Local Data Stewards
 - UDOT
 - UGRC
 - Active Transportation
@@ -81,21 +81,3 @@ CC by 4.0 License
 This dataset is updated on a monthly basis.
 
 ### Previous Updates
-
-April 2024 - Piute, Salt Lake, Sevier, Utah, Wasatch, Washington, Wayne, and Weber Counties
-March 2024 - Carbon, Iron, Salt Lake, Utah, Washington, and Weber Counties
-February 2024 - Davis, Garfield, Grand, Morgan, Salt Lake, Tooele, Utah, Wasatch, Washington, and Weber Counties
-January 2024 - Box Elder, Davis, Millard, Morgan, Salt Lake, Utah, Washington, and Weber Counties
-December 2023 - Davis, Iron, Salt Lake, Utah, Washington, and Weber Counties
-November 2023 - Davis, Kane, Salt Lake, Tooele, Utah, Washington, and Weber Counties
-October 2023 - Box Elder, Carbon, Davis, Salt Lake, Sevier, Utah, Washington and Weber Counties
-September 2023 - Davis, Iron, Salt Lake, Utah, Washington, and Weber Counties
-August 2023 - Davis, Garfield, Salt Lake, Tooele, Utah, Washington, and Weber Counties
-July 2023 - Box Elder, Davis, Grand, Salt Lake, San Juan, Summit, Utah, Washington, and Weber Counties
-June 2023 - Beaver, Emery, Davis, Salt Lake, Utah, Washington, and Weber Counties
-May 2023 - Cache, Davis, Morgan, Salt Lake, Tooele, Utah, Wasatch, Washington, and Weber Counties
-April 2023 - Davis, Morgan, Piute, Salt Lake, Sevier, Summit, Utah, Washington, and Weber Counties
-March 2023 - Box Elder, Cache, Davis, Iron, Salt Lake, Utah, Washington, Weber Counties
-February 2023 - Carbon, Davis, Garfield, Grand, Salt Lake, Tooele, Utah, Washington, Weber Counties
-January 2023 - Box Elder, Davis, Iron, Salt Lake, Utah, Wasatch, Washington, Weber Counties
-Address Points were made public by UGRC on June 27, 201
