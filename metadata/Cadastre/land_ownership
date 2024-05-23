@@ -12,7 +12,7 @@ Land ownership polygons categorized as federal, state, private, or tribal land.
 
 ## Summary
 
-Maintained by a joint effort between SITLA, the BLM, and UGRC, this dataset represents current land ownership in the state of Utah, categorized as federal, state, private, or tribal land. In the cases of federal, state, or private land, this dataset specifies the organization or agency that claims stewardship over that area. However, in the case of private land, this dataset does not identify the specific landowner.
+Maintained by a joint effort between the School and Institutional Trust Lands Administration [(SITLA)](https://trustlands.utah.gov/), the [Bureau of Land Management (BLM)](https://gbp-blm-egis.hub.arcgis.com/pages/utah), and UGRC, this dataset represents current land ownership in the state of Utah, categorized as federal, state, private, or tribal land. In the cases of federal, state, or tribal land, this dataset specifies the organization or agency that claims stewardship over that area. However, in the case of private land, this dataset does not identify the specific landowner.
 
 ## Description
 
@@ -24,11 +24,13 @@ Standard colors are recommended when displaying this feature class. A layer file
 
 ### What is the purpose of the dataset?
 
-Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the Bureau of Land Management and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts. For example, land ownership data has been used by the [Utah Broadband Center](https://business.utah.gov/broadband/) and UGRC to determine areas with limited broadband internet access in an effort to improve services in  underserved communities. You can learn more about the Utah Broadband Project on our [blog](https://gis.utah.gov/blog/2016-02-01-utah-broadband-outreach-center-releases-revamped-availability-map/).
+Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the BLM and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts.
+
+For example, land ownership data has been used by the [Utah Broadband Center](https://business.utah.gov/broadband/) and UGRC to determine areas with limited internet access in an effort to improve services in underserved communities. You can learn more about the Utah Broadband Project on our [blog](https://gis.utah.gov/blog/2016-02-01-utah-broadband-outreach-center-releases-revamped-availability-map/).
 
 ### What does the dataset represent?
 
-This dataset includes information such as official land use designation, the administrator of the parcel, and the area of the parcel in square meters. For a full explanation of the field names and descriptions, please see the [schema summary](https://docs.google.com/document/d/1CW9Y8MgxBEo53Hzs7ZdKeAfFeG_6cGwN4WOzAIBDreU/edit?usp=sharing).
+This dataset includes information such as official land use designation, the administrator of the parcel, and the area of the parcel in square meters. For a full explanation of the field names and descriptions, please see the [schema summary](https://docs.google.com/document/d/1CW9Y8MgxBEo53Hzs7ZdKeAfFeG_6cGwN4WOzAIBDreU/edit?usp=sharing) document.
 
 ### How was the dataset created?
 
@@ -36,7 +38,7 @@ This dataset includes information such as official land use designation, the adm
 
 ### How reliable and accurate is the dataset?
 
-Maintenance of this data layer is performed by a cooperative federal and state effort between the Bureau of Land Management (BLM) and the State of Utah School and Institutional Trust Lands Administration (SITLA). Both SITLA and the BLM update this dataset weekly.
+Maintenance of this data layer is performed by a cooperative federal and state effort between BLM and SITLA. Both SITLA and the BLM update this dataset weekly.
 
 ## Credits
 
@@ -52,7 +54,7 @@ UGRC
 
 ## Restrictions
 
-Data represented in this dataset is for reference use only and is not suitable for legal, engineering, or surveying purposes.  Users of this information should review or consult the primary data and information sources to ascertain the usability of the information.  The Trust Lands Administration provides this data in good faith and shall in no event be liable for any incorrect results, or any special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon.
+Data represented in this dataset is for reference only and is not suitable for legal, engineering, or surveying purposes.  Users of this information should review or consult the primary data and information sources to ascertain the usability of the information.  The Trust Lands Administration provides this data in good faith and shall in no event be liable for any incorrect results, or any special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon.
 
 For more information on usage limitations for this dataset, please visit the [SITLA website](https://trustlands.utah.gov/tools/maps/).
 
