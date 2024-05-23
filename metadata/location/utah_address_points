@@ -18,11 +18,11 @@ An address point represents a geographic location that has been assigned a US Po
 
 ### What is the dataset
 
-This dataset contains vector point data for over one million addresses in the State of Utah and includes information such as the street address and the type of unit the point represents. This dataset is a mapping-grade framework layer that receives regular updates. Maintaining this dataset is an ongoing effort between UGRC and county-level data stewards.
+This dataset contains vector point data for over one million addresses in the State of Utah and includes information such as the full street address and the type of unit the point represents. This dataset is a mapping-grade framework layer that receives regular updates. Maintaining this dataset is an ongoing effort between UGRC and county-level data stewards.
 
 ### What is the purpose of the dataset
 
-Address data are used for a variety of purposes, including [geocoding](api.mapserv.utah.gov), city planning, and [redistricting](https://redistricting.utah.gov/wp-content/uploads/2021/07/Redistricting-Packet-1-compressed.pdf). In addition, UGRC actively collaborates with the US Postal Service and Google Maps to improve mail and package delivery, navigation apps, and emergency services using the Address Points dataset.
+Address data are used for a variety of purposes, including [geocoding](api.mapserv.utah.gov), city planning, and [redistricting](https://redistricting.utah.gov/wp-content/uploads/2021/07/Redistricting-Packet-1-compressed.pdf). In addition, UGRC actively collaborates with the US Postal Service and Google Maps to improve mail and package delivery, navigation apps, and emergency services.
 
 ### What does the dataset represent
 
@@ -41,7 +41,7 @@ The information in the Address Points dataset was originally compiled by Utah co
 
 ### How reliable and accurate is the dataset
 
-As with all our datasets, UGRC works to ensure the quality and accuracy of our data. Questions about specific counties and their address points can be directed to the [county addressing authorities](https://docs.google.com/spreadsheets/d/1MIHEnmJ1dRekSd6n0s_oiS-Xy84JOaWUEqXXTnKsF1U/edit#gid=0).
+As with all our datasets, UGRC works to ensure the quality and accuracy of our data. Questions about specific counties and their address points can be directed to the [county addressing authorities](https://docs.google.com/spreadsheets/d/1MIHEnmJ1dRekSd6n0s_oiS-Xy84JOaWUEqXXTnKsF1U/edit#gid=0). Please reach out to [our team](https://gis.utah.gov/contact/) with any other questions or concerns about this dataset.
 
 ## Credits
 
