@@ -24,6 +24,8 @@ This dataset contains vector point data for over one million addresses in the St
 
 Address data are used for a variety of purposes, including [geocoding](api.mapserv.utah.gov), city planning, and [redistricting](https://redistricting.utah.gov/wp-content/uploads/2021/07/Redistricting-Packet-1-compressed.pdf). In addition, UGRC actively collaborates with the US Postal Service and Google Maps to improve mail and package delivery, navigation apps, and emergency services.
 
+This dataset has also been used by the [Utah Broadband Center](https://business.utah.gov/broadband/) and UGRC to determine areas with limited internet access in an effort to improve services in underserved communities. You can learn more about the Utah Broadband Project on our [blog](https://gis.utah.gov/blog/2016-02-01-utah-broadband-outreach-center-releases-revamped-availability-map/).
+
 ### What does the dataset represent
 
 Points are generally placed on the structure of the address, but may also be found on the driveway or otherwise within the parcel of land. In cases where the county has provided the specific location of the address point for a given address, it is denoted in the "PtLocation" field. The address points in this dataset also include information such as:
