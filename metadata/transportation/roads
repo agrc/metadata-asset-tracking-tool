@@ -30,7 +30,7 @@ As part of UGRC's ongoing efforts to standardize schema and improve data shareab
 
 ### What does the dataset represent?
 
-This dataset contains over 400,000 polyline features representing more than 50,000 roads in Utah. Each polyline represents the centerline of the road and indicates its cardinal direction. Divided highways such as I-15 include both a positive and negative direction segment.
+This dataset contains polyline features representing more than 50,000 roads in Utah. Each polyline represents the centerline of the road and indicates its cardinal direction. Divided highways such as I-15 include both a positive and negative direction segment.
 
 ### How was the dataset created?
 
