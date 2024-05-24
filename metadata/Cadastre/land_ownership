@@ -26,8 +26,6 @@ Standard colors are recommended when displaying this feature class. A layer file
 
 Land ownership data is used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the BLM and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts.
 
-For example, land ownership data has been used by the [Utah Broadband Center](https://business.utah.gov/broadband/) and UGRC to determine areas with limited internet access in an effort to improve services in underserved communities. You can learn more about the Utah Broadband Project on our [blog](https://gis.utah.gov/blog/2016-02-01-utah-broadband-outreach-center-releases-revamped-availability-map/).
-
 ### What does the dataset represent?
 
 This dataset includes information such as official land use designation, the administrator of the parcel, and the area of the parcel in square meters. For a full explanation of the field names and descriptions, please see the [schema summary](https://docs.google.com/document/d/1CW9Y8MgxBEo53Hzs7ZdKeAfFeG_6cGwN4WOzAIBDreU/edit?usp=sharing) document.
