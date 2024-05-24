@@ -28,9 +28,8 @@ Address data are used for a variety of purposes, including [geocoding](api.mapse
 
 Points are generally placed on the structure of the address, but may also be found on the driveway or otherwise within the parcel of land. In cases where the county has provided the specific location of the address point for a given address, it is denoted in the "PtLocation" field. The address points in this dataset also include information such as:
 
-- Full street address (i.e., the USPS mailing address, if the address is for a physical location [rather than a PO box])
-- Whether the location is a building
 - The type of unit
+- Whether the location is a building
 - The city and ZIP code
 - Unique code identifiers, including the Federal Information Processing Standard ([FIPS](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips)) county code and the US National Grid ([USNG](https://www.fgdc.gov/usng/how-to-read-usng)) spatial address
 - The date that the address point was added to the dataset
@@ -38,6 +37,8 @@ Points are generally placed on the structure of the address, but may also be fou
 ### How was the dataset created
 
 The information in the Address Points dataset was originally compiled by Utah counties and was aggregated by UGRC for the Master Address List (MAL) grant initiative in 2012. The purpose of this initiative was to ensure that all state entities were using the same verified, accurate county and municipal address information.
+
+Updated address points are received from county MAL authorities and aggregated by UGRC to produce the latest version of the Address Points dataset.
 
 ### How reliable and accurate is the dataset
 
@@ -56,11 +57,7 @@ UGRC
 
 ## Restrictions
 
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
-
 ## License
-
-CC BY 4.0 License
 
 ## Tags
 
@@ -80,6 +77,6 @@ Address
 
 ### Update Schedule
 
-UGRC works with each county's MAL authority to continually improve the address point data. Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. The "Big 5" counties in Utah (Davis, Salt Lake, Utah, Washington, and Weber) are updated monthly, while less populous counties are updated quarterly or semi-annually.
+Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. The "Big 5" counties in Utah (Davis, Salt Lake, Utah, Washington, and Weber) are updated monthly, while less populous counties are updated quarterly or semi-annually.
 
 ### Previous Updates
