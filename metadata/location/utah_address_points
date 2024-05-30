@@ -28,7 +28,7 @@ This dataset has also been used by the [Utah Broadband Center](https://business.
 
 ### What does the dataset represent
 
-Points are generally placed on the structure of the address, but may also be found on the driveway or otherwise within the parcel of land. In cases where the county has provided the specific location of the address point for a given address, it is denoted in the "PtLocation" field. The address points in this dataset also include information such as:
+Points are generally placed on the structure associated with the address, but may also be found on the driveway or otherwise within the parcel of land. In cases where the county has provided the specific location of the address point for a given address, it is denoted in the "PtLocation" field. The address points also include information such as:
 
 - The type of unit
 - Whether the location is a building
