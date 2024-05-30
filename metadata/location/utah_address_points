@@ -12,7 +12,7 @@ Contains US Postal Service address points for all twenty-nine counties in Utah.
 
 ## Summary
 
-An address point represents a geographic location that has been assigned a US Postal Service (USPS) address by the local address authority (i.e., county or municipality) but does not necessarily receive mail.
+An address point represents a geographic location that has been assigned a US Postal Service (USPS) address by the local addressing authority (i.e., county or municipality) but does not necessarily receive mail.
 
 ## Description
 
