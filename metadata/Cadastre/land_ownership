@@ -8,7 +8,7 @@ e9eba9ba-3950-4b99-89d2-b1d9282133b6
 
 ## Brief Summary
 
-Land ownership polygons categorized as federal, state, private, or tribal land.
+Land ownership area polygons categorized as federal, state, private, or tribal land.
 
 ## Summary
 
@@ -32,11 +32,15 @@ Areas of differing land ownership are delineated as polygons. Features in this d
 
 ### How was the dataset created?
 
-<!--- Currently waiting to hear back from SITLA about this section. -->
+Land ownership information is derived from a variety of sources, including BLM [Master Title Plats](https://www.blm.gov/services/land-records), SITLA’s [land and lease records](https://trustlands.utah.gov/resources/policies-records/land-lease/), [Digital Line Graphs](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-line-graphs-dlgs-large-scale), [Digital Raster Graphics](https://www.usgs.gov/publications/digital-raster-graphics-0) and other county and state records.
+
+Maintenance of this data layer is performed by a cooperative federal and state effort between the BLM and SITLA. Both SITLA and the BLM update this dataset weekly.
 
 ### How reliable and accurate is the dataset?
 
-Maintenance of this data layer is performed by a cooperative federal and state effort between the BLM and SITLA. Both SITLA and the BLM update this dataset weekly.
+Land parcels, lease boundaries, and associated SITLA data layers may have been adjusted to allow for visual “best fit.” The Surface Ownership Land Status data (if present) are maintained by the SITLA to reflect current trust lands status and surface ownership. Lakes, rivers, streams, highways, roads, county and state boundaries are distributed UGRC and other sources as specified.
+
+While the Trust Lands Administration seeks to verify data for accuracy and content, discrepancies may exist within the data. Acquiring the most updated Trust Lands Administration ownership GIS data may require contacting the GIS staff at [TLA-GIS@utah.gov].
 
 ## Credits
 
@@ -44,7 +48,7 @@ Maintenance of this data layer is performed by a cooperative federal and state e
 
 - STILA
 - BLM
-- Local Partners
+- Local Government Partners
 
 ### Host
 
@@ -52,7 +56,7 @@ UGRC
 
 ## Restrictions
 
-Data represented in this dataset is for reference only and is not suitable for legal, engineering, or surveying purposes.  Users of this information should review or consult the primary data and information sources to ascertain the usability of the information.  The Trust Lands Administration provides this data in good faith and shall in no event be liable for any incorrect results, or any special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon.
+Data represented in this dataset is for reference only and is not suitable for legal, engineering, or surveying purposes. Users of this information should review or consult the primary data and information sources to ascertain the usability of the information. The Trust Lands Administration provides this data in good faith and shall in no event be liable for any incorrect results, or any special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon.
 
 For more information on usage limitations for this dataset, please visit the [SITLA website](https://trustlands.utah.gov/tools/maps/).
 
