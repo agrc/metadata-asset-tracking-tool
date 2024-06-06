@@ -18,7 +18,7 @@ Maintained by a joint effort between the School and Institutional Trust Lands Ad
 
 ### What is the dataset?
 
-This dataset depicts land ownership status and areas of responsibility for surface lands in the State of Utah. Land ownership is represented as polygons at a scale of 1:24,000.
+This dataset depicts land ownership status and areas of responsibility for surface lands in the State of Utah. Land ownership is represented as polygons and is maintained at a scale of 1:24,000.
 
 We recommend using standard colors when displaying this feature class. A layer file containing the standard color symbology is available for [download](https://sitla.maps.arcgis.com/home/item.html?id=30a09ecd4d304a1880f6f0b2fe47c59c) directly from SITLA.
 
