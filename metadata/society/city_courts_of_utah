@@ -12,11 +12,9 @@ City court jurisdiction boundaries
 
 ## Summary
 
-## Description
-
 This data was developed for the Utah Department of Public Safety Bureau of Investigations for use in planning operations throughout the State. It indicates which city court has responsibility in a specific area.
 
-This data was developed for the Utah Department of Public Safety Bureau of Investigations for use in planning operations throughout the State. It indicates which city court has responsibility in a specific area. Information identifying cities that have a court was provided the Utah Courts Administrative Office and boundaries are the municipal boundaries in SGID. Periodic boundary boundary changes will be made as municipal boundaries change and responsibilities of city courts will be updated as they become known.
+## Description
 
 ### What is the dataset?
 
@@ -25,6 +23,10 @@ This data was developed for the Utah Department of Public Safety Bureau of Inves
 ### What does the dataset represent?
 
 ### How was the dataset created?
+
+Information identifying cities that have a court was provided by the Utah Courts Administrative Office and boundaries are the [municipal boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) in the SGID.
+
+Periodic boundary boundary changes will be made as municipal boundaries change and responsibilities of city courts will be updated as they become known.
 
 ### How reliable and accurate is the dataset?
 
