@@ -8,25 +8,25 @@ cbe4da2a-3edb-4a4a-b082-60f9371c8006
 
 ## Brief Summary
 
-Database representing parcel boundaries for all 29 counties in Utah that includes basic information such as parcel address and generalized land ownership.
+Parcel boundaries for all 29 counties in Utah that includes basic information such as parcel address and generalized land ownership.
 
 ## Summary
 
-The Basic Parcels dataset contains information such as the county name, parcel address, land owner type, and phone number for the county recorder. Landowners of privately owned parcels are not specified.
+Utah Basic Parcels contains information such as the county name, parcel address, land owner type, and phone number for the county recorder. Landowners of privately owned parcels are not specified.
 
 ## Description
 
 ### What is the dataset?
 
-A parcel is a defined area of land that is owned by a public or private entity. The Utah Basic Parcels database includes a polygon layer of parcels for each of Utah's 29 counties. Each county provides its own data for UGRC, thus, users should expect some variation in schema and completeness between counties.
+A parcel is a defined area of land that is owned by a public or private entity. Utah Basic Parcels includes a polygon layer of parcels for each of Utah's 29 counties. Each county provides its own data for UGRC, thus, users should expect some variation in schema and completeness between counties.
 
 ### What is the purpose of the dataset?
 
-This database represents UGRC's ongoing efforts to compile statewide parcels following the passage of [HB113](https://le.utah.gov/~2005/bills/hbillenr/HB0113.htm) in 2005. Parcel data is used in a variety of contexts, including public safety, economic development, transportation, planning, and the provision of public services.
+These data represents UGRC's ongoing efforts to compile statewide parcels following the passage of [HB113](https://le.utah.gov/~2005/bills/hbillenr/HB0113.htm) in 2005. Parcel data is used in a variety of contexts, including public safety, economic development, transportation, planning, and the provision of public services.
 
 ### What does the dataset represent?
 
-Parcels in this database are represented as polygons. Parcel polygons contain attributes unique to each parcel such as a unique parcel number (PARCEL_ID), address for the parcel (PARCEL_ADD, PARCEL_CITY, PARCEL_ZIP), update information (ParcelsCur, ParcelsRec, ParcelsPub, ParcelYear, ParcelNotes), a generalized land ownership designation (OWN_TYPE), and the phone number for the county recorders office (RECORDER). Fields and field definitions may vary from county to county.
+Parcels are represented as polygons. Parcel polygons contain attributes unique to each parcel such as a unique parcel number (PARCEL_ID), address for the parcel (PARCEL_ADD, PARCEL_CITY, PARCEL_ZIP), update information (ParcelsCur, ParcelsRec, ParcelsPub, ParcelYear, ParcelNotes), a generalized land ownership designation (OWN_TYPE), and the phone number for the county recorders office (RECORDER). Fields and field definitions may vary from county to county.
 
 ### How was the dataset created?
 
@@ -34,7 +34,7 @@ Parcels in this database are represented as polygons. Parcel polygons contain at
 
 ### How reliable and accurate is the dataset?
 
-This multi-purpose database is not a substitute for obtaining the most current, legal land records information from county authorities. These datasets do not represent exact legal boundaries of Utah Parcels and should be used for general analysis and visualization purposes only.
+These multi-purpose datasets are not a substitute for obtaining the most current, legal land records information from county authorities. These datasets do not represent exact legal boundaries of Utah Parcels and should be used for general analysis and visualization purposes only.
 
 ## Credits
 
@@ -70,6 +70,6 @@ Boundaries
 
 ### Update Schedule
 
-UGRC updates the basic parcels for Davis, Salt Lake, Utah, Washington, and Weber counties, also known as the Big 5, every month. All other counties are on a rotating schedule ranging from quarterly to annually.
+UGRC updates the Basic Parcels for Davis, Salt Lake, Utah, Washington, and Weber counties (also known as the Big Five) every month. All other counties are updated on a rotating schedule ranging from quarterly to annually.
 
 ### Previous Updates
