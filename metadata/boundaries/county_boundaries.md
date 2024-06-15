@@ -18,7 +18,7 @@ This dataset contains polygons for all 29 counties in Utah, where the perimeter 
 
 ### What is the dataset
 
-This dataset represents each county as a polygon with information such as the Entity Number and FIPS code. A full explanation of the field definitions for this dataset is available on the [schema summary](https://docs.google.com/document/d/1e98nKP6PW9tuTy3nZYS4qhMp9fC8E6uv73SVbBOYvsk/edit?usp=sharing) document.
+This dataset represents each county as a polygon with information such as the Entity Number and [GNIS](https://www.usgs.gov/tools/geographic-names-information-system-gnis) code. This dataset also specifies what [state plane coordinate system](https://www.usgs.gov/faqs/what-state-plane-coordinate-system-can-gps-provide-coordinates-these-values#:~:text=The%20State%20Plane%20Coordinate%20System%20(SPCS)%2C%20which%20is%20only,the%20state's%20size%20and%20shape.) the county is in (North, Central, or South). Population data is derived from the 2020 Census (pop_lastcensus) and the Census Bureau's [Population Estimates Program](https://www.census.gov/programs-surveys/popest.html) (poplastest).
 
 ### What is the purpose of the dataset
 
@@ -26,7 +26,7 @@ This dataset provides an administrative baseline for the current extent of each 
 
 ### What does the dataset represent
 
-This dataset does not represent exact legal boundaries, but, rather a set of boundaries used for general purposes that conforms to logical and administrative rules (e.g. no two counties areas may cover the same geographic extent).
+This dataset does not represent exact legal boundaries, rather, it contains a set of boundaries used for general purposes that conforms to logical and administrative rules (e.g. no two counties areas may cover the same geographic extent).
 
 ### How was the dataset created
 
