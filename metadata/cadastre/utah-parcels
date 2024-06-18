@@ -18,7 +18,7 @@ Utah Basic Parcels contains information such as the county name, parcel address,
 
 ### What is the dataset?
 
-A parcel is a defined area of land that is owned by a public or private entity. Utah Basic Parcels includes a polygon layer of parcels for each of Utah's 29 counties. Each county provides its own data for UGRC, thus, users should expect some variation in schema and completeness between counties.
+A parcel is a defined area of land that is owned by a public or private entity. Utah Basic Parcels includes a polygon layer of parcels for each of Utah's 29 counties. Each county provides its individual parcel data to UGRC; thus, users should expect some variation in schema and completeness between counties.
 
 ### What is the purpose of the dataset?
 
