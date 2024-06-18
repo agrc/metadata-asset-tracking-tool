@@ -20,7 +20,7 @@ This dataset comprises bodies of water found in and around the state of Utah. Th
 
 The NHD is a national framework for assigning [reach addresses](https://enviro.epa.gov/enviro/ef_metadata_html.tri_page?p_column_name=reach_code#:~:text=Description%3A%20A%20reach%20code%20is,National%20Hydrography%20Dataset%20(NHD).) to water-related entities, such as industrial discharges, drinking water supplies, and fish habitat areas. Reach addresses establish the locations of these entities relative to one another within the NHD surface water drainage network, much like addresses on streets.
 
-The NHD contains reach codes for networked features, flow direction, names, and centerline representations for areal water bodies. The NHD also incorporates the National Spatial Data Infrastructure framework criteria established by the Federal Geographic Data Committee.
+The NHD contains reach codes for networked features, flow direction, names, and centerline representations for water bodies. The NHD also incorporates the National Spatial Data Infrastructure framework criteria established by the Federal Geographic Data Committee.
 
 ### What is the purpose of the dataset?
 
