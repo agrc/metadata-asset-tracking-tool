@@ -8,7 +8,7 @@ b0a55056-bdb9-4b7c-8812-8f246b328f88
 
 ## Brief Summary
 
-Statewide areal bodies of water such as lakes, reservoirs, and ponds derived from the National Hydrography Dataset (NHD).
+Statewide bodies of water including lakes, reservoirs, and ponds derived from the National Hydrography Dataset (NHD).
 
 ## Summary
 
