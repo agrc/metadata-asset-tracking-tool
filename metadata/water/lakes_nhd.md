@@ -26,9 +26,11 @@ Water body data are also a helpful resource for [cartography](https://19january2
 
 ### What does the dataset represent?
 
-This dataset approximates bodies of water as polygons that include attributes such as the area in square kilometers and [GNIS](https://www.usgs.gov/tools/geographic-names-information-system-gnis) name. Each polygon has also been categorized as major or minor using UGRC's custom fields. The "IsMajor" field identifies major lakes for coarse scale mapping and display, where 1 = major and 0 = minor. The "InUtah" field identifies whether a given body of water is within the state boundary, where 1 = in Utah and 0 = outside of Utah.
+This dataset approximates bodies of water as polygons that include attributes such as the area in square kilometers and [GNIS](https://www.usgs.gov/tools/geographic-names-information-system-gnis) name.
 
 ### How was the dataset created?
+
+UGRC has modified the source NHD data to produce this layer. The "IsMajor" field identifies major lakes for coarse scale mapping and display, where 1 = major and 0 = minor. The "InUtah" field identifies whether a given body of water is within the state boundary, where 1 = in Utah and 0 = outside of Utah.
 
 The current high-resolution, 1:24,000 scale NHD is an improvement of the original 1:100,000 scale dataset first created in the late 1990s by the USGS in collaboration with the Environmental Protection Agency [(EPA)](https://www.epa.gov/). It was created by the USGS and United States Forest Service [(USFS)](https://www.fs.usda.gov/) in the 2000s while the EPA maintained the original, moderate-scale dataset.
 
