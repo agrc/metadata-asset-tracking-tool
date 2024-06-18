@@ -12,15 +12,13 @@ Statewide polyline dataset of rivers, streams, and other watercourses derived fr
 
 ## Summary
 
-This dataset includes river and stream features as well as other watercourses like canals, and ephemeral/intermittent streams. This dataset is derived from the [National Hydrography Database](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) compiled by the United State Geological Survey [USGS](https://www.usgs.gov/) and modified by UGRC to provide additional functionality for Utah-based users.
+This dataset contains river and stream features as well as other watercourses like canals, and ephemeral streams. This dataset is derived from the [National Hydrography Database](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) and has been modified by UGRC to provide additional functionality for Utah-based users.
 
 ## Description
 
 ### What is the dataset?
 
-The NHD is a national framework for assigning [reach addresses](https://enviro.epa.gov/enviro/ef_metadata_html.tri_page?p_column_name=reach_code#:~:text=Description%3A%20A%20reach%20code%20is,National%20Hydrography%20Dataset%20(NHD).) to water-related entities, such as industrial discharges, drinking water supplies, and fish habitat areas. Reach addresses establish the locations of these entities relative to one another within the NHD surface water drainage network, much like addresses on streets.
-
-The NHD contains reach codes for networked features, flow direction, names, and centerline representations for watercourses. The NHD also incorporates the [National Spatial Data Infrastructure](https://www.fgdc.gov/nsdi/nsdi.html) framework criteria established by the Federal Geographic Data Committee.
+The NHD provides a nationally consistent framework for addressing and analyzing water-related information. UGRC has modified the source NHD data by adding three fields (InUtah, IsMajor, and Submerged) and splitting features at the state boundary. In addition to the fields we've added, this dataset contains [reach codes](https://enviro.epa.gov/enviro/ef_metadata_html.tri_page?p_column_name=reach_code#:~:text=Description%3A%20A%20reach%20code%20is,National%20Hydrography%20Dataset%20(NHD).) for networked features, flow direction, names, and centerline representations for water bodies. The NHD also incorporates the National Spatial Data Infrastructure framework criteria established by the Federal Geographic Data Committee.
 
 ### What is the purpose of the dataset?
 
@@ -28,15 +26,15 @@ The NHD provides a nationally consistent framework for addressing and analyzing 
 
 ### What does the dataset represent?
 
-This dataset represents watercourses such as streams, rivers, and canals as polylines that include attributes such as the length in kilometers and [GNIS](https://www.usgs.gov/tools/geographic-names-information-system-gnis) name. For a full description of the fields in this dataset, please see the [schema summary](https://docs.google.com/document/d/1wMNskRJnoOd2fYfrddXgY4cG3LelqMRBBoH8cVIXRVw/edit?usp=sharing) document.
+This dataset represents watercourses such as streams, rivers, and canals as polylines that include attributes such as the length in kilometers and [GNIS](https://www.usgs.gov/tools/geographic-names-information-system-gnis) name.
 
 ### How was the dataset created?
 
-The NHD was first created in the late 1990s by USGS in collaboration with the Environmental Protection Agency [(EPA)](https://www.epa.gov/). The original product, the National Hydrography Dataset, was created at a 1:100,000 scale for the conterminous United States. The EPA became the primary custodian of this medium resolution dataset in the early 2000s, while USGS and United States Forest Service [(USFS)](https://www.fs.usda.gov/) began the production of what would become the high resolution National Hydrography Database. Today, the high-resolution NHD is available at a nationwide 1:24,000 scale.
+UGRC has modified the source NHD data to produce this layer. The "IsMajor" field identifies major lakes for coarse scale mapping and display, where 1 = major and 0 = minor. The "InUtah" field identifies whether a given body of water is within the state boundary, where 1 = in Utah and 0 = outside of Utah. Finally, the "Submerged" field can be used to exclude the hydrologic network features that have been added across water bodies for linear water flow modeling. Values are 1 = submerged, and 0 = surface.
+
+The current high-resolution, 1:24,000 scale NHD is an improvement of the original 1:100,000 scale dataset first created in the late 1990s by the USGS in collaboration with the Environmental Protection Agency [(EPA)](https://www.epa.gov/). It was created by the USGS and United States Forest Service [(USFS)](https://www.fs.usda.gov/) in the 2000s while the EPA maintained the original, moderate-scale dataset.
 
 More information on the history of this database can be found in [official publications](https://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Documentation/History/Making_the_Digital_Water_Flow.pdf) from USGS and on the [NHD website](https://www.usgs.gov/national-hydrography/national-hydrography-dataset#:~:text=In%20the%20late%201990s%2C%20the,and%20those%20of%20other%20medium).
-
-UGRC has modified the source NHD data to produce this layer. Three fields have been added to this feature class (InUtah, IsMajor, and Submerged) and features have been split at the state boundary.  The "IsMajor" field identifies major lakes for coarse scale mapping and display, where 1 = major and 0 = minor. The "InUtah" field identifies whether a given body of water is within the state boundary, where 1 = in Utah and 0 = outside of Utah. Finally, the "Submerged" field can be used to exclude the hydrologic network features that have been added across water bodies for linear water flow modeling. Values are 1 = submerged, and 0 = surface.
 
 ### How reliable and accurate is the dataset?
 
@@ -77,6 +75,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- Will be adding more to this once we get things figured out with the NHD being retired. -->
+This layer is updated as needed.
 
 ### Previous Updates
