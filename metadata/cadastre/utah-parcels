@@ -34,7 +34,7 @@ Parcels are represented as polygons. Parcel polygons contain attributes unique t
 
 ### How reliable and accurate is the dataset?
 
-These multi-purpose datasets are not a substitute for obtaining the most current, legal land records information from county authorities. These datasets do not represent exact legal boundaries of Utah Parcels and should be used for general analysis and visualization purposes only.
+These multi-purpose datasets are not a substitute for obtaining the most current, legal land records information from county authorities. They do not represent exact legal boundaries of parcels in Utah and should be used for general analysis and visualization purposes only.
 
 ## Credits
 
