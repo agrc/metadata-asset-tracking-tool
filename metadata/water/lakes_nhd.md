@@ -36,7 +36,7 @@ The current high-resolution, 1:24,000 scale NHD is an improvement of the origina
 
 More information on the history of this database can be found in [publications](https://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Documentation/History/Making_the_Digital_Water_Flow.pdf) from USGS and on the [NHD website](https://www.usgs.gov/national-hydrography/national-hydrography-dataset#:~:text=In%20the%20late%201990s%2C%20the,and%20those%20of%20other%20medium).
 
-UGRC has modified the source NHD data to produce this layer. Four fields have been added to this feature class (FType_Text, FCode_Text, InUtah and IsMajor) and features have been split at the state boundary.  The "IsMajor" field identifies major lakes for coarse scale mapping and display, where 1 = major and 0 = minor. The "InUtah" field identifies whether a given body of water is within the state boundary, where 1 = in Utah and 0 = outside of Utah.
+UGRC has modified the source NHD data by adding four fields (FType_Text, FCode_Text, InUtah and IsMajor) and splitting features at the state boundary.  The "IsMajor" field identifies major lakes for coarse scale mapping and display, where 1 = major and 0 = minor. The "InUtah" field identifies whether a given body of water is within the state boundary, where 1 = in Utah and 0 = outside of Utah.
 
 ### How reliable and accurate is the dataset?
 
