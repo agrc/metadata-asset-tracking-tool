@@ -12,7 +12,7 @@ Statewide polygon dataset of municipal boundaries for cartography and general an
 
 ## Summary
 
-Utah municipal boundaries as defined by County Recorders' offices and certified by the Lieutenant Governor's Office. UGRC aggregates updated boundaries from county authorities to produce this dataset.
+Utah municipal boundaries as defined by county recorders and certified by the Lieutenant Governor's Office. UGRC aggregates updated boundaries from county authorities to produce this dataset.
 
 ## Description
 
@@ -27,11 +27,11 @@ This dataset represents the 250+ municipalities in Utah as polygons with accompa
 
 ### What is the purpose of the dataset?
 
-Municipal boundary data are used in a variety of sectors, including city planning, real estate, and public services. In addition to displaying the extent of current municipalities, you can find a map of recent annexations and disconnections on our [blog](https://www.arcgis.com/home/webmap/viewer.html?webmap=c5ab7e0fcd514f1a9db6b8dad55bba63). Municipal data can help the public see where [annexations](https://gis.utah.gov/blog/2023-01-30-municipal-boundaries-final-update-for-2022/) have occurred in the past and where [new cities and towns](https://gis.utah.gov/blog/2018-09-04-newest-city-added-to-state-and-municipal-boundary-updates-for-third-quarter-2018/) have been established in Utah.
+Municipal boundary data are used in a variety of sectors, including city planning, real estate, and public services. Municipal data can also help the public see where [annexations](https://gis.utah.gov/blog/2023-01-30-municipal-boundaries-final-update-for-2022/) have occurred in the past and where [new cities and towns](https://gis.utah.gov/blog/2018-09-04-newest-city-added-to-state-and-municipal-boundary-updates-for-third-quarter-2018/) have been established in Utah. You can find a map of recent annexations and disconnections on our [blog](https://www.arcgis.com/home/webmap/viewer.html?webmap=c5ab7e0fcd514f1a9db6b8dad55bba63).
 
 ### What does the dataset represent?
 
-This dataset does not represent exact legal boundaries, rather, it contains a set of polygon boundaries used for general geospatial purposes that conforms to logical and administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent).
+This dataset does not represent exact legal boundaries, rather, it contains a set of polygon boundaries used for general geospatial purposes that conform to logical and administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent).
 
 ### How was the dataset created?
 
