@@ -8,7 +8,7 @@ Utah PLSS Quarter Quarter Sections GCDB
 
 ## Brief Summary
 
-Cartographic representation of the smallest unit of the Public Land Survey System (PLSS), where each polygon represents approximately 40 acres of land.
+Polygon dataset of the smallest unit of the Public Land Survey System (PLSS), where each unit represents 40 acres of land.
 
 ## Summary
 
@@ -18,33 +18,29 @@ This dataset represents the GIS Version of the Public Land Survey System. Geogra
 
 ### What is the dataset?
 
-Originally established by the Land Ordinance of 1785, the PLSS is a nationwide framework for surveying, dividing, and quantifying land. The PLSS is administered by the Bureau of Land Management (BLM) and is first grouped by longitudinal lines. Those lines are divided into a grid with 640 acres in each square, which is further divided into quarter sections (160 acres per square) and then quarter quarter sections (40 acres per square). This dataset represents this final division as polygons.
+Originally established in 1785 and currently administered by the Bureau of Land Management (BLM), the PLSS is a nationwide framework for surveying, dividing, and quantifying land. PLSS sections are divided into a grid with 640 acres in each square, which is further divided into quarter sections (160 acres per square) and quarter quarter sections (40 acres per square). This dataset represents this final division as polygons.
 
-The second (quarter sections) and third (quarter quarter sections) divisions are combined into this feature class as an intentional de-normalization of the PLSS hierarchical data. The polygons in this feature class represent the smallest division that has been defined by the BLM. In most cases, the smallest division for the cadastral reference will be the quarter quarter sections. However, in some circumstances, sections have only been divided to the quarter.
-
-This dataset is the fourth level of a hierarchical break down of the Public Land Survey System Rectangular surveys. This data is derived from Version 2.3 2020 of the [Utah PLSS Fabric](https://gis.utah.gov/products/sgid/cadastre/parcel-fabric/). Other PLSS section break downs can be found in the [Cadastre data index](https://gis.utah.gov/products/sgid/cadastre/).
+The polygons in this feature class represent the smallest division that has been defined by the BLM.  This data is derived from Version 2.3 2020 of the [Utah PLSS Fabric](https://gis.utah.gov/products/sgid/cadastre/parcel-fabric/). Other PLSS section break downs can be found in the [Cadastre data index](https://gis.utah.gov/products/sgid/cadastre/).
 
 ### What is the purpose of the dataset?
 
-This data is a useful representation of the geometry and topology of parcels contained within the PLSS, but its application is intended for mapping purposes only. The GCDB data is not a substitute for a legal land survey.
+PLSS data are used in many areas of natural resource management, land ownership designation, and public planning. Though not a substitute for a legal land survey, this dataset is a helpful resource for cartography and general analytic purposes.
 
 ### What does the dataset represent?
 
-The attributes assigned to PLSS polygons were taken from the BLM's Legal Land Description (LLD) data set, contained within the Legacy Rehost for the year 2000 (LR2000) automated records system. The coordinate data was produced by using control stations of known location, with varying degrees of accuracy, from various sources which include but are not limited to; U.S. Geological Survey (USGS) topological quadrangles and other sources, National Geodetic Survey (NGS) and US Coast & Geodetic Survey (USC&GS) Cooperative Base Network (CBN) control, Federal Base Network control (FBN), and Continuous Operating Reference Stations (CORS), and Global Positioning System (GPS) data, which is then analyzed and adjusted in concert with official survey data for any given geographic area.
+This dataset represents PLSS quarter quarter sections as polygons spanning 40 acres each. The attributes assigned to PLSS polygons were taken from the BLM's Legal Land Description (LLD) dataset, which can be found in the the Legacy Rehost for the year 2000 (LR2000) automated records system.
 
 ### How was the dataset created?
 
-The primary source for the data is cadastral survey records housed by the BLM supplemented with local records and geographic control coordinates from states, counties as well as other federal agencies such as the USGS and USFS. This data was orginally published on 1/3/2017.
+The primary source for the data is cadastral survey records housed by the BLM and supplemented with local records and geographic control coordinates from states, counties, and federal agencies. This data was originally published on 1/3/2017 and is based on GCDB coordinate data.
 
-The locations of Public Land Survey System (PLSS) corners, as represented in geographic coordinate pairs, were derived from a variety of source documents, which include U.S. General Land Office and BLM survey plats/notes, as well as survey data obtained from other U.S. Government agencies, private sector survey firms, and local governments.
+<!--- I admit I don't know what this next paragraph refers to. Is it worth including for those that use this dataset regularly? -->
 
-Lots were dissolved to the section level. Survey_type: B (aliquot parts less than 40 acres) for geopolitical splits were attributed as Survey_type: A. This data is derived from the PLSS Intersected feature class of the Utah PLSS Fabric GISv2.3 2020. This layer is based on GCDB coordinate data.
+Lots were dissolved to the section level. Survey_type: B (aliquot parts less than 40 acres) for geopolitical splits were attributed as Survey_type: A.
 
 ### How reliable and accurate is the dataset?
 
-Cadastral publication data has two primary components, land parcel data and cadastral reference data. It is important to recognize that the publication data are not the same as the operation and maintenance or production data. The production data is structured to optimize maintenance processes, is integrated with internal agency operations and contains much more detail than the publication data.
-
-Divisions beyond the quarter quarter sections may be included in this feature class, but in most implementations these smaller divisions will be parcels.
+This dataset represents the most current and complete version of PLSS quarter quarter sections in Utah. Divisions beyond the quarter quarter sections may be included in this feature class, but in most implementations these smaller divisions will be [parcels](https://gis.utah.gov/products/sgid/cadastre/parcels/).
 
 ## Credits
 
