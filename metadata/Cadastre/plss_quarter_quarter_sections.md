@@ -20,7 +20,7 @@ This dataset represents the GIS Version of the Public Land Survey System. Geogra
 
 Originally established in 1785 and currently administered by the Bureau of Land Management (BLM), the PLSS is a nationwide framework for surveying, dividing, and quantifying land. PLSS sections are divided into a grid with 640 acres in each square, which is further divided into quarter sections (160 acres per square) and quarter quarter sections (40 acres per square). This dataset represents this final division as polygons.
 
-The polygons in this feature class represent the smallest division that has been defined by the BLM.  This data is derived from Version 2.3 2020 of the [Utah PLSS Fabric](https://gis.utah.gov/products/sgid/cadastre/parcel-fabric/). Other PLSS section break downs can be found in the [Cadastre data index](https://gis.utah.gov/products/sgid/cadastre/).
+The polygons in this feature class represent the smallest division that has been defined by the BLM. This data is derived from the [Utah PLSS Fabric](https://gis.utah.gov/products/sgid/cadastre/parcel-fabric/). Other PLSS section break downs can be found in the [Cadastre data index](https://gis.utah.gov/products/sgid/cadastre/).
 
 ### What is the purpose of the dataset?
 
