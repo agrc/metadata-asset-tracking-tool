@@ -22,7 +22,7 @@ Voting precincts are used to determine a voter's ballot composition and polling 
 
 ### What is the purpose of the dataset?
 
-This dataset is actively used in more than 20 counties in Utah. These are counties that have adopted a GIS-based approach to manage precinct-to-residence assignment within VISTA, the statewide voter registration database. This dataset also drives many of the State's voter information pages and helps citizens know [how and where to vote](https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote).
+This dataset is actively used in all 29 counties in Utah. The counties have adopted a GIS-based approach to manage precinct-to-residence assignment within VISTA, the statewide voter registration database. This dataset also drives many of the State's voter information pages and helps citizens know [how and where to vote](https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote).
 
 ### What does the dataset represent?
 
