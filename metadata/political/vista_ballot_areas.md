@@ -18,7 +18,7 @@ Statewide polygon layer that depicts voting precinct and subprecinct boundaries.
 
 ### What is the dataset?
 
-Voting precincts are used to determine a voter's ballot composition and polling location. A number of factors contribute to this, including the boundaries of all political districts covering the voter's address (U.S. Congress, State House and Senate, State School Board, municipal districts, etc.) and the legislatively-mandated maximum limit of voters per precinct.
+Voting precincts are used to determine a voter's ballot composition and polling location. A number of factors contribute to this, including the boundaries of all political districts covering the voter's address (U.S. Congress, State House and Senate, State School Board, local county and municipal districts, etc.) and the legislatively-mandated maximum limit of voters per precinct.
 
 ### What is the purpose of the dataset?
 
