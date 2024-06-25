@@ -2,8 +2,6 @@
 
 Utah VISTA Ballot Areas
 
-<!--- VISTA or Vista? I've seen it both ways in the metadata and on our blog. Also, I noticed the information on this dataset mostly refers to the polygons as "voting precincts" rather than ballot areas, should we change the title accordingly? -->
-
 ## ID
 
 fb485021-1a93-43b3-bd3b-13c68d7e5b3c
@@ -14,7 +12,7 @@ Official voting precincts used by Utah's VISTA election framework.
 
 ## Summary
 
-Statewide polygon layer that depicts voting precinct and subprecinct boundaries. This dataset serves as the baseline for VISTA, Utah's election registration database, as well as many other voter information websites.
+Statewide polygon layer that depicts voting precinct and subprecinct boundaries. This dataset serves as the baseline for the Voter Information and State Tracking Application (VISTA), as well as many other voter information websites.
 
 ## Description
 
@@ -25,8 +23,6 @@ Voting precincts are used to determine a voter's ballot composition and polling 
 ### What is the purpose of the dataset?
 
 This dataset is actively used in more than 20 counties in Utah. These are counties that have adopted a GIS-based approach to manage precinct-to-residence assignment within VISTA, the statewide voter registration database. This dataset also drives many of the State's voter information pages and helps citizens know [how and where to vote](https://votesearch.utah.gov/voter-search/search/search-by-address/how-and-where-can-i-vote).
-
-<!--- The blog post I got this information from was from 2012. Do all of the counties in Utah use this dataset nowadays? -->
 
 ### What does the dataset represent?
 
