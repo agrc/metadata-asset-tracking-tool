@@ -31,7 +31,11 @@ Parcels are represented as polygons. Parcel polygons contain attributes unique t
 ### How was the dataset created?
 
 <!--- When talking about how the dataset was made, the original metadata talks about the "LIR Working Group", which I presume was the primary force behind the LIR parcels, but was that group also responsible for these basic parcels? Is the history of both datasets about the same? -->
+This dataset was compiled from digital parcel data submitted by Utah counties to UGRC.
 
+While addresses are provided with the parcel boundaries the authoritative dataset for addresses from UGRC are the [Utah Address Points](https://gis.utah.gov/products/sgid/location/address-points/).
+
+The owner type field OWN_TYPE in the Basic Parcels is a generalized ownership type (Federal, Private, State, Tribal) and is populated with the value of the OWNER field where the parcel's centroid intersects the [Land Ownership](https://gis.utah.gov/products/sgid/cadastre/land-ownership/).
 ### How reliable and accurate is the dataset?
 
 These multi-purpose datasets are not a substitute for obtaining the most current, legal land records information from county authorities. They do not represent exact legal boundaries of parcels in Utah and should be used for general analysis and visualization purposes only.
