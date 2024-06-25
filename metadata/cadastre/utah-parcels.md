@@ -26,7 +26,7 @@ These data represents UGRC's ongoing efforts to compile statewide parcels follow
 
 ### What does the dataset represent?
 
-Parcels are represented as polygons. Parcel polygons contain attributes unique to each parcel such as a unique parcel number (PARCEL_ID), address for the parcel (PARCEL_ADD, PARCEL_CITY, PARCEL_ZIP), update information (ParcelsCur, ParcelsRec, ParcelsPub, ParcelYear, ParcelNotes), a generalized land ownership designation (OWN_TYPE), and the phone number for the county recorders office (RECORDER). Fields and field definitions may vary from county to county.
+Parcels are represented as polygons. Parcel polygons contain attributes unique to each parcel such as a unique parcel number (PARCEL_ID), address for the parcel (PARCEL_ADD, PARCEL_CITY, PARCEL_ZIP), update information (ParcelsCur, ParcelsRec, ParcelsPub, ParcelYear, ParcelNotes), a generalized land ownership designation (OWN_TYPE), the phone number for the county recorders office (RECORDER), and a link to the county parcel website (CoParcel_URL) if available. Fields and field definitions may vary from county to county.
 
 ### How was the dataset created?
 
