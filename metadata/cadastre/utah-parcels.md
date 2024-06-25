@@ -8,7 +8,7 @@ cbe4da2a-3edb-4a4a-b082-60f9371c8006
 
 ## Brief Summary
 
-Parcel boundaries for all 29 counties in Utah that include basic information such as parcel address and generalized land ownership.
+Parcel boundaries for all 29 counties in Utah that include basic information such as parcel ID, parcel address, and generalized land ownership.
 
 ## Summary
 
