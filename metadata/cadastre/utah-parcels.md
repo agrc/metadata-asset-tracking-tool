@@ -12,7 +12,7 @@ Parcel boundaries for all 29 counties in Utah that include basic information suc
 
 ## Summary
 
-Utah Basic Parcels contains information such as the county name, parcel address, land owner type, and phone number for the county recorder. Landowners of privately owned parcels are not specified.
+Utah Basic Parcels contain information such as the county FIPS code, parcel ID, parcel address, generalized land ownership type, currency dates, phone number for the county recorder, and a county parcel website if available. Landowners of privately owned parcels are not specified.
 
 ## Description
 
