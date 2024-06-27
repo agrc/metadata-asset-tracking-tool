@@ -30,7 +30,7 @@ This dataset approximates bodies of water as polygons that include attributes su
 
 ### How was the dataset created?
 
-The United States Geological Survey ([USGS](usgs.gov)) maintains the current high-resolution NHD at a 1:24,000 scale. The NHD was originally created in the late 1990s by USGS in collaboration with the Environmental Protection Agency ([EPA](https://www.epa.gov/)) at a 1:100,000 scale, this moderate scale dataset is currently maintained by the EPA and is available nationwide.
+The United States Geological Survey ([USGS](usgs.gov)) maintains the current high-resolution NHD at a 1:24,000 scale. The NHD was originally created in the late 1990s by USGS in collaboration with the Environmental Protection Agency ([EPA](https://www.epa.gov/)) at a 1:100,000 scale. Both the high-resolution and moderate scale datasets are available nationwide.
 
 More information on the history of this database can be found in [publications](https://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Documentation/History/Making_the_Digital_Water_Flow.pdf) from USGS and on the [NHD website](https://www.usgs.gov/national-hydrography/national-hydrography-dataset#:~:text=In%20the%20late%201990s%2C%20the,and%20those%20of%20other%20medium).
 
