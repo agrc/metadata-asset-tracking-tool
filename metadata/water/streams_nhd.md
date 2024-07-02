@@ -12,7 +12,7 @@ Statewide polyline dataset of rivers, streams, and other watercourses derived fr
 
 ## Summary
 
-This dataset contains river and stream features as well as other watercourses like canals, and ephemeral streams. This dataset is derived from the [National Hydrography Database](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) and has been modified by UGRC to provide additional functionality for Utah-based users.
+This dataset contains river and stream features as well as other watercourses like canals, and ephemeral streams. This dataset is derived from the [National Hydrography Dataset](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) and has been modified by UGRC to provide additional functionality for Utah-based users.
 
 ## Description
 
