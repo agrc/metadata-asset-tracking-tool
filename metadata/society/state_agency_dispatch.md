@@ -1,6 +1,6 @@
 # Title
 
-Utah State Agency Dispatch
+Utah State Agency Dispatch Zones
 
 ## ID
 
@@ -8,23 +8,25 @@ Utah State Agency Dispatch
 
 ## Brief Summary
 
-Polygon dataset displaying areas of responsibility for the State Department of Public Communications Centers.
+Polygon dataset displaying areas of responsibility for the State Department of Public Communications Dispatch Centers.
 
 ## Summary
 
-This data shows the areas of responsibility for the State Department of Public Communications Centers for dispatching State agencies, such as Highway Patrol, Wildlife Resources, Corrections, Park Ranges etc.
+This dataset shows the areas of responsibility for the State Department of Public Communications Centers for dispatching state agencies, such as Utah Highway Patrol and the Utah Divsion of Wildlife Resources.
 
 ## Description
 
 ### What is the dataset?
 
-The Utah Department of Public Safety Communications Bureau serves as the dispatch center for many state agencies, including Utah Highway Patrol and the Division of Wildlife Resources.
+The Utah Department of Public Safety Communications Bureau serves as the dispatch center for many state agencies, including Utah Highway Patrol and the Division of Wildlife Resources. This dataset displays the approximate geographic extent of each dispatch center's area of responsibility. It does not include the specific locations of law enforcement facilities or dispatch centers.
 
 ### What is the purpose of the dataset?
 
-This dataset is primarily used in emergency services and public safety. 
+This dataset is primarily used in emergency services and public safety.
 
 ### What does the dataset represent?
+
+Dispatch zones in this dataset are represented as polygons and are labelled with the corresponding dispatch center.
 
 ### How was the dataset created?
 
@@ -45,6 +47,9 @@ For more information on usage limitations for this dataset, please see our [disc
 ## License
 
 ## Tags
+
+- Division of Wildlife Resources
+- Utah Highway Patrol
 
 ## Secondary Category
 
