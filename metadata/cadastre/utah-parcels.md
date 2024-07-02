@@ -30,7 +30,9 @@ Parcels are represented as polygons and contain attributes unique to each parcel
 
 ### How was the dataset created?
 
-UGRC compiled this dataset from digital parcel data submissions provided by county authorities. The owner type field OWN_TYPE is a generalized ownership type (Federal, Private, State, Tribal) and is populated with the value of the OWNER field where the parcel's centroid intersects the [Land Ownership](https://gis.utah.gov/products/sgid/cadastre/land-ownership/) data layer.
+UGRC compiled this dataset from digital parcel data submissions provided by county authorities. The owner type field OWN_TYPE is a generalized ownership type (Federal, Private, State, Tribal) and is populated with the value of the OWNER field where the parcel's centroid intersects the [Land Ownership](https://gis.utah.gov/products/sgid/cadastre/land-ownership/) data layer found in the SGID.
+
+UGRC currently maintains this dataset is partnership with local county authorities.
 
 ### How reliable and accurate is the dataset?
 
