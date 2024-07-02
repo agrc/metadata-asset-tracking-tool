@@ -32,7 +32,7 @@ This dataset is comprised of point data indicating the locations of law enforcem
 
 ### How was the dataset created?
 
-<!--- Gathering more information on this. -->
+UGRC derived this dataset from the Homeland Infrastructure Foundation-Level Data (HIFLD) database as maintained by the [US Bureau of Justice Statistics](https://bjs.ojp.gov/). The primary source for this database was the 2008 [Census of State and Local Law Enforcement Agencies](https://bjs.ojp.gov/library/publications/census-state-and-local-law-enforcement-agencies-2008). This dataset is currently maintained by UGRC in collaboration with local and state government authorities.
 
 ### How reliable and accurate is the dataset?
 
@@ -42,7 +42,9 @@ This dataset previously included home addresses for constables who work out of t
 
 ### Data Source
 
-UGRC
+- US Bureau of Justice Statistics
+- Department of Public Safety
+- UGRC
 
 ### Host
 
@@ -55,9 +57,9 @@ UGRC
 ## Tags
 
 - Police
-- Police Stations
-- County Sheriff
 - LEMAS
+- Department of Public Safety
+- HIFLD
 
 ## Secondary Category
 
