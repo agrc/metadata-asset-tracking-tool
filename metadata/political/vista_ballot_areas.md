@@ -26,11 +26,7 @@ This dataset is actively used in all 29 counties in Utah. The counties have adop
 
 ### What does the dataset represent?
 
-This dataset contains polygons representing more than 3000 voting precincts and subprecincts in Utah. Each feature contains attributes such as the date the precinct boundary took effect (effectivedate) and whether the polygon contains a subprecinct boundary (indicated, where applicable, in the subprecinct field).
-
-<!--- This next paragraph is from the original metadata. I haven't seen other data pages explain GIS operations for a dataset in this way, is this something we generally like to include? -->
-
-Precincts can be formed by eliminating subprecinct divisions by dissolving the features on the precinctid field.
+This dataset contains polygons representing more than 3000 voting precincts and subprecincts in Utah. Each feature contains attributes such as the date the precinct boundary took effect (effectivedate) and whether the polygon contains a subprecinct boundary (indicated, where applicable, in the subprecinct field). Subprecinct divisions can be eliminated by dissolving the features using the precinctid field.
 
 ### How was the dataset created?
 
@@ -38,7 +34,7 @@ UGRC aggregates voter precinct data submitted by County Clerk and GIS offices. T
 
 ### How reliable and accurate is the dataset?
 
-This dataset represents the most current and complete compilation of precincts and subprecincts in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions concerning this dataset.
+This dataset represents the most current and complete compilation of voting precincts and subprecincts in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions concerning this dataset.
 
 ## Credits
 
