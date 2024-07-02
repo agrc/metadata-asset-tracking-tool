@@ -30,7 +30,7 @@ This dataset contains polygons representing more than 3000 voting precincts and 
 
 <!--- This next paragraph is from the original metadata. I haven't seen other data pages explain GIS operations for a dataset in this way, is this something we generally like to include? -->
 
-Precincts can be formed (and subprecinct divisions eliminated) by performing a GIS ‘dissolve’ operation on the precinctid field.
+Precincts can be formed by eliminating subprecinct divisions by dissolving the features on the precinctid field.
 
 ### How was the dataset created?
 
