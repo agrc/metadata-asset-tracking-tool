@@ -34,7 +34,7 @@ Precincts can be formed by eliminating subprecinct divisions by dissolving the f
 
 ### How was the dataset created?
 
-UGRC aggregates voter precinct data submitted by County Clerk and GIS offices. This dataset is updated periodically as municipal and county boundaries change and as voter count grows beyond the maximum number of voters allowed per precinct (currently 1250 voters).
+UGRC aggregates voter precinct data submitted by County Clerk and GIS offices. They send periodic updates as municipal and county boundaries change and as voter count grows beyond the maximum number of voters allowed per precinct (currently 1250 voters).
 
 ### How reliable and accurate is the dataset?
 
