@@ -12,7 +12,7 @@ Parcel boundaries for all 29 counties in Utah that include basic information suc
 
 ## Summary
 
-This dataset contains information such as the county FIPS code, parcel ID, parcel address, generalized land ownership type, currency dates, phone number for the county recorder, and a county parcel website if available. Landowners of privately owned parcels are not specified.
+This dataset contains information such as the county FIPS code, parcel ID, parcel address, generalized land ownership type, currency dates, phone number for the county recorder, and the county parcel website if available. Landowners of privately owned parcels are not specified.
 
 ## Description
 
@@ -22,7 +22,7 @@ A parcel is a defined area of land that is owned by a public or private entity. 
 
 ### What is the purpose of the dataset?
 
-These data represent UGRC's ongoing efforts to compile statewide parcels following the passage of [HB113](https://le.utah.gov/~2005/bills/hbillenr/HB0113.htm) in 2005. Parcel data is used in a variety of contexts, including public safety, economic development, transportation, planning, and the provision of public services.
+These data represent UGRC's ongoing efforts to compile statewide parcels following the passage of [HB113](https://le.utah.gov/~2005/bills/hbillenr/HB0113.htm) in 2005. Parcel data are used in city planning, economic development, transportation, public services, and many other areas.
 
 ### What does the dataset represent?
 
@@ -74,6 +74,6 @@ Boundaries
 
 ### Update Schedule
 
-UGRC updates the Basic Parcels for Davis, Salt Lake, Utah, Washington, and Weber counties (also known as the Big Five) every month. All other counties are updated on a rotating schedule ranging from quarterly to annually.
+UGRC updates the parcel datasets for Davis, Salt Lake, Utah, Washington, and Weber counties every month. All other counties are updated on a rotating schedule ranging from a quarterly to an annual basis.
 
 ### Previous Updates
