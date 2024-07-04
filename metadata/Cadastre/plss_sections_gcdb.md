@@ -8,11 +8,11 @@ d9ac0241-402b-464e-90bd-d2f8eb56685d
 
 ## Brief Summary
 
-Polygon dataset of the largest unit of the Public Land Survey System (PLSS), where each unit represents one square mile of land (640 acres).
+Polygon dataset of the primary unit of the Public Land Survey System (PLSS), where each unit represents one square mile of land (640 acres).
 
 ## Summary
 
-This dataset represents the largest unit of the Public Land Survey System (PLSS). Each polygon represents approximately 640 acres of land and is labelled by its first and second division identifier, otherwise known as township and range. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create this  feature class.
+This dataset represents the largest unit of the Public Land Survey System (PLSS). Each polygon represents 640 acres of land and is labelled  its township, range, and section identifiers. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create this feature class.
 
 ## Description
 
@@ -38,7 +38,7 @@ This statewide dataset is maintained by UGRC in partnership with the BLM and loc
 
 ### How reliable and accurate is the dataset?
 
-This dataset represents the most current and complete version of PLSS sections in Utah.
+This dataset represents the most current and complete version of PLSS sections in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions about this dataset.
 
 ## Credits
 
@@ -72,6 +72,6 @@ The geographic coordinates used in this dataset and their associated products ar
 
 ### Update Schedule
 
-We update this dataset annually as horizontal control positions from published sources and GPS observations become available. Beyond these additions, this dataset is updated as needed.
+This dataset is updated semi-annually.
 
 ### Previous Updates
