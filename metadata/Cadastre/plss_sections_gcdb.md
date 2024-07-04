@@ -8,11 +8,11 @@ d9ac0241-402b-464e-90bd-d2f8eb56685d
 
 ## Brief Summary
 
-Polygon dataset of the primary unit of the Public Land Survey System (PLSS), where each unit represents one square mile of land (640 acres).
+Polygon dataset of the first division of the Public Land Survey System (PLSS), where each unit represents one square mile of land (640 acres).
 
 ## Summary
 
-This dataset represents the largest unit of the Public Land Survey System (PLSS). Each polygon represents 640 acres of land and is labelled  its township, range, and section identifiers. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create this feature class.
+This dataset represents the first division of the Public Land Survey System (PLSS). Each polygon represents 640 acres of land and is labelled  its township, range, and section identifiers. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create this feature class.
 
 ## Description
 
