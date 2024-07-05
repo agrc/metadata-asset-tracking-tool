@@ -18,9 +18,7 @@ Utah Law Enforcement contains locations where law enforcement officers are regul
 
 ### What is the dataset?
 
-Law enforcement agencies "are publicly funded and employ at least one full-time or part-time sworn officer with general arrest powers". This is the definition used by the US Department of Justice - Bureau of Justice Statistics (DOJ-BJS) for their Law Enforcement Management and Administrative Statistics [(LEMAS)](https://bjs.ojp.gov/data-collection/law-enforcement-management-and-administrative-statistics-lemas) survey. Although LEMAS only includes non-federal agencies, this dataset includes locations for federal, state, local, and special jurisdiction law enforcement agencies.
-
-<!--- LEMAS was mentioned in the original dataset, so I kept it in, but other than being another helpful resource for those looking for law enforcement data, I'm not sure why it was specifically mentioned. -->
+The US Bureau of Justice Statistics describes law enforcement agencies as "publicly funded and employ at least one full-time or part-time sworn officer with general arrest powers". This dataset includes point locations for federal, state, local, and special jurisdiction law enforcement agency facilities.
 
 ### What is the purpose of the dataset?
 
@@ -28,7 +26,7 @@ This dataset was created to provide a general purpose database of law enforcemen
 
 ### What does the dataset represent?
 
-This dataset is comprised of point data indicating the locations of law enforcement facilities throughout the state of Utah. Each point includes attributes such as the facility name, street address, and date it was added to the dataset (indicated by the CONTDATE field). Points have been placed on or near the main structure of the facility.
+The points in this dataset indicate the locations of law enforcement facilities throughout the state of Utah. Each point includes attributes such as the facility name, street address, and date it was added to the dataset (indicated by the CONTDATE field). Points have been placed on or near the main structure of the facility.
 
 ### How was the dataset created?
 
@@ -71,6 +69,6 @@ UGRC
 
 ### Update Schedule
 
-This database is updated as needed.
+This dataset is updated as needed.
 
 ### Previous Updates
