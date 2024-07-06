@@ -28,19 +28,30 @@ Each point represents the address point of a given healthcare facility and inclu
 
 ### How was the dataset created?
 
+UGRC developed this dataset using the annual [Health Facilities Report](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8pLW5yVrV9EY811pE3leFw9u65FtXkMaADaYYdBi0zpjAhrIhaGDQpdQA-jPn8D07DxStjKcWXUcF/pubhtml?gid=1835834361&single=true) from the the DHHS.
+
 ### How reliable and accurate is the dataset?
 
 ## Credits
 
 ### Data Source
 
+Utah Department of Health and Human Services
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Hospitals
+- Clinics
+- Department of Health and Human Services
+- DHHS
 
 ## Secondary Category
 
@@ -49,5 +60,7 @@ Each point represents the address point of a given healthcare facility and inclu
 ## Update
 
 ### Update Schedule
+
+This dataset is updated annually.
 
 ### Previous Updates
