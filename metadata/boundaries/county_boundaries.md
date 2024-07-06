@@ -30,7 +30,7 @@ This dataset does not represent exact legal boundaries, rather, it contains a se
 
 ### How was the dataset created
 
-UGRC developed this dataset using coordinate geometry ([COGO](https://pro.arcgis.com/en/pro-app/latest/help/editing/introduction-to-cogo.htm)) from legal descriptions provided by each county. When necessary, this dataset was adjusted to conform to known physical features such as rivers or mountain ranges.
+UGRC developed this dataset using coordinate geometry ([COGO](https://pro.arcgis.com/en/pro-app/latest/help/editing/introduction-to-cogo.htm)) from legal descriptions provided by each county. When necessary, this dataset was adjusted to conform to known physical features such as rivers or mountain ranges as indicated in the legal descriptions. Details on how the boundaries were drawn can be found on the official [Municipal Certifications](https://municert.utah.gov/) website.
 
 All updates, corrections, or clarifications to the county boundaries represented in this dataset must first be filed with the [Lieutenant Governor's](https://ltgovernor.utah.gov/) office. Once approved, UGRC receives the updated data and adjusts the polygon boundaries accordingly.
 
