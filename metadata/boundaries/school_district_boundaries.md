@@ -12,6 +12,8 @@ Polygon dataset representing more than 40 school district boundaries in Utah.
 
 ## Summary
 
+This dataset is comprised of polygons representing the approximate geographic boundaries of all school districts in Utah.
+
 ## Description
 
 ### What is the dataset?
@@ -32,13 +34,22 @@ Data was collected through Utah State Tax Commission, Utah State Board of Educat
 
 ### Data Source
 
+UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Enrollment
+- Students
+- Education
+- School board
 
 ## Secondary Category
 
@@ -49,5 +60,7 @@ Data was collected through Utah State Tax Commission, Utah State Board of Educat
 ## Update
 
 ### Update Schedule
+
+This dataset is updated annually.
 
 ### Previous Updates
