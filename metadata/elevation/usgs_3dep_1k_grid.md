@@ -8,9 +8,9 @@ USGS 3DEP Elevation Products
 
 ## Summary
 
-The USGS 3DEP elevation products from The National Map are the primary elevation datasets available from the USGS. These elevation products are continually updated by the USGS with Lidar collected through the 3DEP program as part of the National Enhanced Elevation Assessment. Additional 3DEP resources can be found on the 3DEP for the Nation Information Hub and the NSGIC Review of Existing Standard and Derivative 3DEP Data Products and Applications. ArcGIS Image Services of these elevation products are also available from the USGS. These include functions available from the processing templates to view contours, aspects, hillshades, slopes, and digital elevation models.
+The USGS 3DEP elevation products from The National Map are the primary elevation datasets available from the USGS. Additional 3DEP resources can be found on the 3DEP for the Nation Information Hub and the NSGIC Review of Existing Standard and Derivative 3DEP Data Products and Applications. ArcGIS Image Services of these elevation products are also available from the USGS.
 
-The UGRC has a statewide collection of the 10 and 30 meter bare-earth DEMs. This dataset was reprojected to UTM NAD83 Zone12 meters. The vertical datum is NAVD88. The boundaries of the elevation models can be viewed in the 10 meter and 30 meter tile index shapefiles.
+UGRC has a statewide collection of the 10 and 30 meter bare-earth DEMs. The vertical datum is NAVD88. The boundaries of the elevation models can be viewed in the 10 meter and 30 meter tile index shapefiles.
 
 Want to determine where Lidar information was used to update 5, 10, and 30 meter USGS DEM products? There are spatial metadata files for each elevation product that have polygons depicting what the source data is for the DEM in that area. They can be found on the 3DEP Product Metadata. Links to the spatial metadata files for 5 meter, 1/3 Arc-Second (10 meter), and 1 Arc-Second (30 meter) can be found under “Standard DEMs”. The data dictionary that describes each attribute and their domains is also available from the 3DEP Spatial Metadata Glossary. PMETHOD (Production Method) is the attribute you are looking for and any polygon with a PMETHOD value of 7 has Lidar as it’s source. If you need further assistance please contact the National Map Help Desk from USGS at tnm_help@usgs.gov
 
@@ -23,6 +23,10 @@ Want to determine where Lidar information was used to update 5, 10, and 30 meter
 ### What does the dataset represent?
 
 ### How was the dataset created?
+
+These elevation products are continually updated by the USGS with Lidar collected through the 3DEP program as part of the National Enhanced Elevation Assessment.
+
+These include functions available from the processing templates to view contours, aspects, hillshades, slopes, and digital elevation models.
 
 ### How reliable and accurate is the dataset?
 
