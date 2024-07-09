@@ -2,6 +2,8 @@
 
 Census 2020 Places
 
+<!--- Should this be called "Census Designated Places 2020"? -->
+
 ## ID
 
 b5f022ca-96c8-4f16-bc47-8bbf35c67db9
@@ -27,6 +29,8 @@ Geography is a fundamental aspect of the census, providing the framework for the
 In Utah, “places” include cities, towns, metro townships, and census-designated places (CDPs). The first three are legal boundaries in Utah, representing incorporated places that provide governmental functions for a concentration of people. CDPs are statistical boundaries delineated by the Census Bureau. They provide data for recognizable places that are not legally incorporated.
 
 ### What is the dataset?
+
+The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines Census Designated Places as "CDPs are a statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name."
 
 ### What is the purpose of the dataset?
 
