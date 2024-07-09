@@ -12,7 +12,7 @@ Polygon dataset of the first division of the Public Land Survey System (PLSS), w
 
 ## Summary
 
-This dataset represents the first division of the Public Land Survey System (PLSS). Each polygon represents 640 acres of land and is labelled  its township, range, and section identifiers. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create this feature class.
+This dataset represents the first division of the Public Land Survey System (PLSS). Each polygon represents 640 acres of land and is labelled by its township, range, and section identifiers. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create this feature class.
 
 ## Description
 
