@@ -34,7 +34,11 @@ These include functions available from the processing templates to view contours
 
 ### Data Source
 
+USGS
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -42,9 +46,15 @@ These include functions available from the processing templates to view contours
 
 ## Tags
 
+- Lidar
+- DEM
+- USGS
+
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/elevation/usgs-3d-elevation-program/]
 
 ## Update
 
