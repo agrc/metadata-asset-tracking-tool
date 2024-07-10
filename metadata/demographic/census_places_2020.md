@@ -12,23 +12,23 @@ Incorporated towns and Census Designated Places (CDPs) in Utah from the 2020 Cen
 
 ## Summary
 
-Census Places consist of both legally-established cities and Census Designated Places (CDPs). CDPs provide data for unincorporated but concentrated areas of development that are readily identifiable by name but aren't officially incorporated as a city. This layer only contains boundary information to enable you to join your own demographic data.
+Census Places consist of both legally-established cities and Census Designated Places (CDPs). This dataset contains boundary information only and does not include demographic data.
 
 ## Description
 
 ### What is the dataset?
 
-In Utah, “places” include cities, towns, metro townships, and census-designated places (CDPs). The first three are legal boundaries in Utah, representing incorporated places that provide governmental functions for a concentration of people. CDPs are statistical boundaries delineated by the Census Bureau. They provide data for recognizable places that are not legally incorporated.
- 
-The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines Census Designated Places as "CDPs are a statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name."
+In Utah, “places” include cities, towns, metro townships, and census-designated places (CDPs). The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." These places are represented as polygons showing the geographic extent of the place boundary.
 
 ### What is the purpose of the dataset?
 
-Geography is a fundamental aspect of the Census, providing the framework for the once-a-decade count of population and housing. You can read more about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
+The US Census Bureau uses both legally incorporated (cities, towns, etc) and unincorporated places (CDPs) for the once-a-decade count of population and housing. Geography has always been a fundamental aspect of the Census. You can read more about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
 
 ### What does the dataset represent?
 
-Incorporated cities and CDPs can be distinguished by the CLASSFP20 field.
+Incorporated cities and CDPs are represented as polygons and can be distinguished by the CLASSFP20 field.
+
+<!--- Gathering more information on this field. -->
 
 ### How was the dataset created?
 
@@ -36,7 +36,7 @@ Utah's 2020 census geographic boundaries became available in February 2021 and t
 
 ### How reliable and accurate is the dataset?
 
-The data available on this page was downloaded from the [2020 Census Redistricting Data (P.L. 94-171)](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the [census redistricting data](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
+This dataset is the most current and complete dataset for incorporated municipalities and CDPs in Utah. All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
 
 ## Credits
 
