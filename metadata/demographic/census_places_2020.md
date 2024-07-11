@@ -12,7 +12,7 @@ Incorporated towns and Census Designated Places (CDPs) in Utah from the 2020 Cen
 
 ## Summary
 
-Census Places consist of both legally-established cities and Census Designated Places (CDPs). This dataset contains boundary information only and does not include demographic data.
+Census Places consist of both legally incorporated cities and Census Designated Places (CDPs). This dataset contains boundary information only and does not include demographic data.
 
 ## Description
 
