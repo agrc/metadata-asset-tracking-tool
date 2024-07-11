@@ -18,17 +18,21 @@ Census Places consist of both legally-established cities and Census Designated P
 
 ### What is the dataset?
 
-In Utah, “places” include cities, towns, metro townships, and census-designated places (CDPs). The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." These places are represented as polygons showing the geographic extent of the place boundary.
+This dataset contains polygon boundaries for cities, towns, metro townships, and census-designated places (CDPs) in Utah. The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." Both these unincorporated communities and legally incorporated areas of development are represented in this dataset.
 
 ### What is the purpose of the dataset?
 
-The US Census Bureau uses both legally incorporated (cities, towns, etc) and unincorporated places (CDPs) for the once-a-decade count of population and housing. Geography has always been a fundamental aspect of the Census. You can read more about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
+The US Census Bureau uses both legally incorporated (cities, towns, etc) and unincorporated places (CDPs) for the once-a-decade count of population and housing. While this dataset does not contain demographic information, it can be joined to other layers to visualize population data.
+
+Geography has always been a fundamental aspect of the census. You can read more about how geography is used in the census on the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
+
+<!--- Are the data also involved in the redistricting process? -->
 
 ### What does the dataset represent?
 
-Incorporated cities and CDPs are represented as polygons and can be distinguished by the CLASSFP20 field.
+Incorporated cities and CDPs are represented as polygons and can be distinguished by the CLASSFP20 field. Each polygon represents the geographic extent of a given place and includes the place name and type.
 
-<!--- Gathering more information on this field. -->
+<!--- I'm planning on including more information about the CLASSFP20 field once I hear back from Greg, but are there other fields that would be helpful to include here? -->
 
 ### How was the dataset created?
 
@@ -49,8 +53,6 @@ US Census Bureau
 UGRC
 
 ## Restrictions
-
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
 
 ## License
 
