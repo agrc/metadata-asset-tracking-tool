@@ -39,12 +39,24 @@ Phone number for the county recorders office for a given parcel.
 
 ### ParcelsCur
 
+<!--- No definition for this field. -->
+
 ### ParcelsRec
+
+<!--- No definition for this field. -->
 
 ### ParcelsPub
 
+<!--- No definition for this field. -->
+
 ### ParcelYear
+
+<!--- No definition for this field. -->
 
 ### ParcelNote
 
+<!--- No definition for this field. -->
+
 ### CoParcel_U
+
+<!--- No definition for this field. -->

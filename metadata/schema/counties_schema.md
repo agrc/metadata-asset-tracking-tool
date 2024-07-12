@@ -8,6 +8,8 @@ b2c8af56-3d92-4aa7-ac2f-b1388051d9ce
 
 ### COUNTYNBR
 
+<!--- No definition for this field. -->
+
 ### ENTITYNBR
 
 Entity number for the county, as assigned by the [Universal Service Administration Company](https://www.usac.org/e-rate/applicant-process/before-you-begin/entity-numbers/).
@@ -38,7 +40,11 @@ The current population estimate for the county.
 
 ### GLOBAL_ID
 
+<!--- No definition for this field. -->
+
 ### FIPS_STR
+
+<!--- No definition for this field. -->
 
 ### Shape_Area
 
