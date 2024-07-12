@@ -8,11 +8,15 @@ b05ae129-2047-464e-bac4-3edf3a16cd9a
 
 ### permanent_identifier
 
+<!--- No definition for this field. -->
+
 ### fdate
 
 The date the feature was added to the dataset.
 
 ### resolution
+
+<!--- No definition for this field. -->
 
 ### gnis_name
 
@@ -27,6 +31,8 @@ Length of the watercourse in kilometers.
 From the [Environmental Protection Agency](https://enviro.epa.gov/enviro/ef_metadata_html.tri_page?p_column_name=reach_code#:~:text=Description%3A%20A%20reach%20code%20is,National%20Hydrography%20Dataset%20(NHD).): “A reach code is a unique 14-digit code that identifies a continuous piece of surface water with similar hydrologic characteristics. It is assigned to each receiving water body by the United States Geological Survey's (USGS) National Hydrography Dataset (NHD).” Reach addresses establish the locations of features relative to one another within the NHD surface water drainage network, much like addresses on streets.
 
 ### flowdir
+
+<!--- No definition for this field. -->
 
 ### ftype
 
@@ -45,6 +51,8 @@ A six-digit code that can be used to classify water body features by NHD functio
 Associated text for the Fcode.
 
 ### enabled
+
+<!--- No definition for this field. -->
 
 ### ismajor
 

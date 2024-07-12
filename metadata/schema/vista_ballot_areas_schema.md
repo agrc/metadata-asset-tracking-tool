@@ -29,4 +29,3 @@ The date the precinct boundary took effect. A date of 1/1/2011 is the default ef
 ### RcvdDate
 
 Indicate the date the precinct boundary was sent from the county to the UGRC. Updates will reflect the new city/town boundaries due to annexations.
-
