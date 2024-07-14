@@ -34,7 +34,7 @@ UGRC derived this dataset from the Homeland Infrastructure Foundation-Level Data
 
 ### How reliable and accurate is the dataset?
 
-This dataset previously included home addresses for constables who work out of their private residence, temporary offices, and FBI entities. The most recent version of this dataset excludes these facilities, however, some discrepancies may still exist. Please reach out to [our team](https://gis.utah.gov/contact/) with questions concerning this dataset.
+This dataset previously included home addresses for constables who work out of their private residence, temporary offices, and FBI entities. The most recent version of this dataset excludes these facilities; however, some discrepancies may still exist. Please reach out to [our team](https://gis.utah.gov/contact/) with questions concerning this dataset.
 
 ## Credits
 
