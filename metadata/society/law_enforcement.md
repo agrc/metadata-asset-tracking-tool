@@ -26,7 +26,7 @@ This dataset was created to provide a general purpose database of law enforcemen
 
 ### What does the dataset represent?
 
-The points in this dataset indicate the locations of law enforcement facilities throughout the state of Utah. Each point includes attributes such as the facility name, street address, and date it was added to the dataset (indicated by the CONTDATE field). Points have been placed on or near the main structure of the facility.
+The points in this dataset indicate the locations of law enforcement facilities (police stations, sheriff's offices, etc) throughout the state of Utah. Each point includes attributes such as the facility name, street address, and date it was added to the dataset (indicated by the CONTDATE field). Points have been placed on or near the main structure of the facility.
 
 ### How was the dataset created?
 
