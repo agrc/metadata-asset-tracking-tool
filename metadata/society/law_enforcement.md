@@ -30,7 +30,7 @@ The points in this dataset indicate the locations of law enforcement facilities 
 
 ### How was the dataset created?
 
-UGRC derived this dataset from the Homeland Infrastructure Foundation-Level Data (HIFLD) database as maintained by the [US Bureau of Justice Statistics](https://bjs.ojp.gov/). The primary source for this database was the 2008 [Census of State and Local Law Enforcement Agencies](https://bjs.ojp.gov/library/publications/census-state-and-local-law-enforcement-agencies-2008). This dataset is currently maintained by UGRC in collaboration with local and state government authorities.
+UGRC derived this dataset from the Homeland Infrastructure Foundation-Level Data (HIFLD) database maintained by the [US Bureau of Justice Statistics](https://bjs.ojp.gov/). The primary source for this database was the 2008 [Census of State and Local Law Enforcement Agencies](https://bjs.ojp.gov/library/publications/census-state-and-local-law-enforcement-agencies-2008). Our dataset is currently maintained by UGRC in collaboration with local and state government authorities.
 
 ### How reliable and accurate is the dataset?
 
