@@ -8,7 +8,7 @@ Utah Law Enforcement Facilities
 
 ## Brief Summary
 
-Point locations of facilities where sworn officers of a law enforcement agency are regularly stationed.
+Point locations of facilities where sworn law enforcement officers are regularly stationed.
 
 ## Summary
 
