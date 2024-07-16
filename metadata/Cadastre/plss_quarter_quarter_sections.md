@@ -12,7 +12,7 @@ Polygon dataset of the smallest unit of the Public Land Survey System (PLSS), wh
 
 ## Summary
 
-This dataset represents the smallest unit of the Public Land Survey System (PLSS). Each polygon represents approximately 40 acres of land and is labelled by its township and range. We used Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)) base attributes to create the second division class (quarter quarter sections).
+This dataset represents the smallest unit of the Public Land Survey System (PLSS). Each polygon represents approximately 40 acres of land and is labelled by its township and range. UGRC created the second division class (quarter quarter sections) from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
 
 ## Description
 
