@@ -38,7 +38,7 @@ We created this dataset using cadastral survey records housed by the BLM, local 
 
 This dataset represents the most current and complete version of PLSS quarter quarter sections in Utah. Divisions beyond the quarter quarter sections may be included in this feature class, but in most implementations these smaller divisions will be [parcels](https://gis.utah.gov/products/sgid/cadastre/parcels/).
 
-The geographic coordinates used in this dataset and their associated products are not legal land survey records. The coordinates can not be used as a substitute for a legal land survey. They can be used for record keeping, mapping, graphics and planning purposes only. No warranty is made by the Bureau of Land Management for use of the data for purposes not intended by BLM.
+The geographic coordinates used in this dataset and their associated products are not legal land survey records and can not be used as a substitute for a legal land survey. They should only be used for record keeping, mapping, graphics, and planning purposes. No warranty is made by the Bureau of Land Management for use of the data for purposes not intended by BLM.
 
 ## Credits
 
