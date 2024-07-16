@@ -32,7 +32,7 @@ This dataset represents PLSS quarter quarter sections as polygons spanning 40 ac
 
 ### How was the dataset created?
 
-We created this dataset using cadastral survey records housed by the BLM, local records, and geographic control coordinates from states, counties, and federal agencies. We dissolved individual lots that were smaller than 40 acres to the section level. This data was originally published in January of 2017 and is currently maintained by UGRC in partnership with the BLM and local government authorities.
+UGRC created this dataset using cadastral survey records housed by the BLM, local records, and geographic control coordinates from states, counties, and federal agencies. We dissolved individual lots that were smaller than 40 acres to the section level. This data was originally published in January of 2017 and is currently maintained by UGRC in partnership with the BLM and local government authorities.
 
 ### How reliable and accurate is the dataset?
 
@@ -70,6 +70,6 @@ UGRC
 
 ### Update Schedule
 
-We update this dataset annually as horizontal control positions from published sources and GPS observations become available. Beyond these additions, this dataset is updated as needed.
+UGRC updates this dataset annually as horizontal control positions from published sources and GPS observations become available. Beyond these additions, this dataset is updated as needed.
 
 ### Previous Updates
