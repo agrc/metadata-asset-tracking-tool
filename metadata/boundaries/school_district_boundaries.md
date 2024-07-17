@@ -32,7 +32,7 @@ School district boundaries are represented as polygons and include the school di
 
 ### How was the dataset created?
 
-We developed this dataset using coordinate geometry ([COGO](https://pro.arcgis.com/en/pro-app/latest/help/editing/introduction-to-cogo.htm)) from legal descriptions provided by the Utah State Tax Commission and the Utah State Board of Education. UGRC maintains this dataset by aggregating new data received by school district offices. All updates, corrections, or clarifications to the school district boundaries represented in this dataset must first be filed with the [Lieutenant Governor's](https://ltgovernor.utah.gov/) office. Once approved, UGRC adjusts the polygon boundaries accordingly.
+UGRC used coordinate geometry ([COGO](https://pro.arcgis.com/en/pro-app/latest/help/editing/introduction-to-cogo.htm)) from legal descriptions provided by the Utah State Tax Commission and the Utah State Board of Education to create this dataset. We maintain it by aggregating new data received from school district offices. All updates, corrections, or clarifications to the school district boundaries represented in this dataset must first be filed with the [Lieutenant Governor's](https://ltgovernor.utah.gov/) office. Once approved, UGRC adjusts the polygon boundaries accordingly.
 
 ### How reliable and accurate is the dataset?
 
