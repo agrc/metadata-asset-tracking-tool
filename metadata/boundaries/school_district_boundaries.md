@@ -18,7 +18,7 @@ This dataset is comprised of polygons representing the approximate geographic ex
 
 ### What is the dataset?
 
-This dataset is comprised of polygons representing the approximate geographic extent of all school districts in Utah. School districts are independently operated government units managed by an elected school board. The majority of school districts in Utah are county-wide, but there are a few that are smaller than the county they reside in (e.g. Alpine, Granite, and Jordan School Districts).
+This dataset is comprised of polygons representing the approximate geographic extent of all school districts in Utah. School districts are independently-operated government units managed by a publicly-elected school board. The majority of school districts in Utah are county-wide, but a few are smaller than the county they reside in (e.g. Alpine, Granite, and Jordan School Districts).
 
 ### What is the purpose of the dataset?
 
