@@ -12,7 +12,7 @@ Polygon dataset representing more than 40 school districts in Utah.
 
 ## Summary
 
-This dataset is comprised of polygons representing the approximate geographic extent of all school districts in Utah. We maintain this layer using data sent in by School District Offices and certified through the Lieutenant Governor's Office.
+This dataset is comprised of polygons representing the approximate geographic extent of all school districts in Utah. We maintain this layer using data provided by the school district offices and certified through the Lieutenant Governor's Office.
 
 ## Description
 
