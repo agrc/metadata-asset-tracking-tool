@@ -8,7 +8,7 @@ fb17c1bb-954a-4a3b-997a-7024cae04fbc
 
 ## Brief Summary
 
-Polygon dataset representing more than 40 school districts in Utah.
+Polygon dataset representing geographic boundaries of all school districts in Utah.
 
 ## Summary
 
