@@ -43,7 +43,7 @@ Utah's 2020 census geographic boundaries became available in February 2021 and t
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete dataset for incorporated municipalities and CDPs in Utah. All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
+This dataset includes all CDPs and incorporated cities and towns as of the 2020 Census. It is the most current and complete source for CDP data, but is not updated as the boundaries for incorporated cities change. For current incorporated city and towns in Utah, please see our [Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) dataset. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
 
 ## Credits
 
