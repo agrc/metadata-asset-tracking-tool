@@ -22,7 +22,7 @@ This dataset contains polygon boundaries for cities, towns, metro townships, and
 
 ### What is the purpose of the dataset?
 
-The US Census Bureau uses both legally incorporated (cities, towns, etc) and unincorporated places (CDPs) for the once-a-decade count of population and housing. While this dataset does not contain demographic information, it can be joined to other layers to visualize population data.
+The US Census Bureau uses both legally incorporated places (cities, towns, etc) and unincorporated places (CDPs) for the once-a-decade count of population and housing. While this dataset does not contain demographic information, it can be joined to other layers to visualize population data.
 
 Geography has always been a fundamental aspect of the census. You can read more about how geography is used in the census on the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
 
