@@ -8,21 +8,25 @@ c2e9a7ce-af61-43b0-9c12-3ca534bc199b
 
 ## Brief Summary
 
-The most widely-used geographic unit used for many different statistical purposes.
+The most widely-used geographic unit used in the Census, usually representing about 4,000 people.
 
 ## Summary
 
-Census Tracts are the most common geographic unit used for demographic analyses. They generally have between 1,200 and 8,000 people, with an optimum size of 4,000.
+Census Tracts are relatively small geographic areas that contain between 1200 and 8000 people. Census Tracts boundaries are updated every ten years through the Participant Statistical Areas Program (PSAP), the US Census Bureau, and local government authorities.
 
 ## Description
 
 ### What is the dataset?
 
+The US Census Bureau defines tracts as "small, relatively permanent statistical subdivisions of a county." Census Tracts are the most common geographic unit used for demographic analyses and generally have between 1,200 and 8,000 people, with an average population of 4,000. These units are designed to be relatively permanent for statistical purposes.
+
 ### What is the purpose of the dataset?
 
-2020 Census Tracts are small, relatively permanent statistical subdivisions of a county or equivalent entity that are updated by local participants prior to each decennial census as part of the Census Bureau's Participant Statistical Areas Program.
+Census Tracts are used in a variety of statistical analyses. Due to their semi-permanent nature, tracts are a useful means of comparing demographic changes over time.
 
 ### What does the dataset represent?
+
+The geographic extent of Census Tracts are represented as polygons with attributes such as the population as of the 2020 Census and unique identifiers for the tract.
 
 ### How was the dataset created?
 
