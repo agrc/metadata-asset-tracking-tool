@@ -12,7 +12,7 @@ The most widely-used geographic unit used in the Census, usually representing ab
 
 ## Summary
 
-Census Tracts are relatively small geographic areas that contain between 1200 and 8000 people. Census Tracts boundaries are updated every ten years through the Participant Statistical Areas Program (PSAP), the US Census Bureau, and local government authorities.
+Census Tracts are relatively small geographic areas that contain between 1200 and 8000 people. Census Tracts boundaries are updated every ten years through the Participant Statistical Areas Program ([PSAP](https://www.census.gov/programs-surveys/decennial-census/about/psap.html)), the US Census Bureau, and local government authorities.
 
 ## Description
 
@@ -26,7 +26,7 @@ Census Tracts are used in a variety of statistical analyses. Due to their semi-p
 
 ### What does the dataset represent?
 
-The geographic extent of Census Tracts are represented as polygons with attributes such as the population as of the 2020 Census and unique identifiers for the tract.
+The geographic extent of Census Tracts are represented as polygons with attributes such as the population as of the 2020 Census and unique identifiers for the tract. You can learn more about the codes used by the US Census Bureau on [their website](https://www.census.gov/programs-surveys/geography/guidance/geo-identifiers.html) and through [official documentation](https://transition.fcc.gov/form477/Geo/more_about_census_tracts.pdf) from the Federal Communications Commission.
 
 ### How was the dataset created?
 
