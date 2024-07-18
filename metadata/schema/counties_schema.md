@@ -32,11 +32,11 @@ Whether the county is a part of the North, Central, or South [State Plane Coordi
 
 ### POP_LASTCENSUS
 
-The county population as of the 2020 census.
+The county population as of the most recent census.
 
 ### POP_CURRENTESTIMATE
 
-The current population estimate for the county.
+Population estimate for the county as of July 1, 2022.
 
 ### GLOBAL_ID
 
@@ -44,7 +44,7 @@ The current population estimate for the county.
 
 ### FIPS_STR
 
-<!--- No definition for this field. -->
+([FIPS](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips)) code as a string value.
 
 ### Shape_Area
 

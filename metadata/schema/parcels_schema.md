@@ -39,11 +39,11 @@ Phone number for the county recorders office for a given parcel.
 
 ### ParcelsCur
 
-<!--- No definition for this field. -->
+Date the parcel was last updated.
 
 ### ParcelsRec
 
-<!--- No definition for this field. -->
+Date the parcel was received by UGRC.
 
 ### ParcelsPub
 
