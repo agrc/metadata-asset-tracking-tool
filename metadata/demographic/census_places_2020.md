@@ -26,17 +26,20 @@ The US Census Bureau uses both legally incorporated (cities, towns, etc) and uni
 
 Geography has always been a fundamental aspect of the census. You can read more about how geography is used in the census on the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
 
-<!--- Are the data also involved in the redistricting process? -->
-
 ### What does the dataset represent?
 
-Incorporated cities and CDPs are represented as polygons and can be distinguished by the CLASSFP20 field. Each polygon represents the geographic extent of a given place and includes the place name and type.
+The geographic extents of Incorporated cities and CDPs are represented as polygons and can be distinguished by the CLASSFP20 field using the following coded values:
 
-<!--- I'm planning on including more information about the CLASSFP20 field once I hear back from Greg, but are there other fields that would be helpful to include here? -->
+- U1 = a CDP with a federally recognized name
+- U2 = a CDP without an officially recognized name
+- C1 = an active, incorporated place
+- M2 = a military or defense installation entirely within a place
+
+You can find more information about these codes on the US Census Bureau's [website](https://www.census.gov/library/reference/code-lists/class-codes.html).
 
 ### How was the dataset created?
 
-Utah's 2020 census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau released a user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. UGRC, in collaboration with the Analytics Group at [WFRC](https://wfrc.org/) used that August 12 release to create ready-to-use GIS data in several formats. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
+Utah's 2020 census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau released a user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. UGRC, in collaboration with the Analytics Group at [WFRC](https://wfrc.org/), used that August 12 release to create ready-to-use GIS data in several formats. These new datasets include more user-friendly field names for shapefile users and field aliasing for geodatabase users. WFRC and UGRC have also created tabular datasets for demographic data that can be joined to this dataset for enhanced functionality. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
 
 ### How reliable and accurate is the dataset?
 
