@@ -18,6 +18,8 @@ Census Block Groups are aggregations of multiple Blocks. Like Blocks, only a ver
 
 ### What is the dataset?
 
+2020 Census Block Groups are units used by the United States Census Bureau which are between the Census Tract and the Census Block. It is the smallest geographical unit for which the bureau publishes sample data.
+
 ### What is the purpose of the dataset?
 
 ### What does the dataset represent?
@@ -42,12 +44,21 @@ For more information on usage limitations for this dataset, please see our [disc
 
 ## Tags
 
+- US Census Bureau
+- Population
+- Redistricting
+- Legacy Rehost
+
 ## Secondary Category
 
 ## Data Page Link
 
+[https://gis.utah.gov/products/sgid/demographic/census-2020-block-groups/]
+
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
