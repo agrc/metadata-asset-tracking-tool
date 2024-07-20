@@ -12,11 +12,11 @@ a8441afd-6e50-4b20-999d-5d22120f98d7
 
 This layer contains Utah's official boundary for the 2020 Census and only contains boundary information to enable you to join your own demographic data.
 
-2020 Census State of Utah bounday, as defined by the US Census Bureau.
-
 ## Description
 
 ### What is the dataset?
+
+This dataset was derived from the US Census Bureau.
 
 ### What is the purpose of the dataset?
 
