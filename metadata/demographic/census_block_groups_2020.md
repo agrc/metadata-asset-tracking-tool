@@ -18,7 +18,7 @@ Census Block Groups are aggregations of multiple [Census blocks](https://gis.uta
 
 ### What is the dataset?
 
-2020 Census Block Groups are units used by the United States Census Bureau which are geographically larger than a Census block but smaller than a [Census tract](https://gis.utah.gov/products/sgid/demographic/census-2020-tracts/). They consist of aggregations of Census blocks and are subdivisions of Census tracts. Block groups generally have a total population of 600 to 3,000 people.
+Census Block Groups are units used by the United States Census Bureau which are geographically larger than a Census block but smaller than a [Census tract](https://gis.utah.gov/products/sgid/demographic/census-2020-tracts/). They consist of aggregations of Census blocks and are subdivisions of Census tracts. Block groups generally have a total population of 600 to 3,000 people.
 
 ### What is the purpose of the dataset?
 
