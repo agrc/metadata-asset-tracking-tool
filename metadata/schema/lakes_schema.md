@@ -16,7 +16,7 @@ The date the feature was added to the dataset.
 
 ### Resolution
 
-<!--- No definition for this field. -->
+Resolution of the feature, where the value 2 indicates high resolution.
 
 ### GNIS_ID
 
