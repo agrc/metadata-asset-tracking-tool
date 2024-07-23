@@ -8,19 +8,25 @@ Census 2020 Counties
 
 ## Brief Summary
 
-Geographies for Utah's Census County Subdivisions.
+Polygon dataset of county boundaries in Utah as derived from the US Census Bureau.
 
 ## Summary
 
-Utah's Census County Subdivision consists of Census county divisions that follow the 29 county boundaries (inclusive of Utah's tribal nations). This layer only contains boundary information to enable you to join your own demographic data.
+Polygon dataset of county boundaries in Utah as derived from the US Census Bureau. County boundaries are as of January 1, 2020 and do not contain demographic data. For current county boundaries as certified through the Lieutenant Governor's Office, see our [Utah County Boundaries](https://gis.utah.gov/products/sgid/boundaries/county/) dataset.
 
 ## Description
 
 ### What is the dataset?
 
+This dataset represents each county in Utah as a polygon that contains basic attributes such as the county name and a unique county number.
+
 ### What is the purpose of the dataset?
 
+<!--- Need more info! -->
+
 ### What does the dataset represent?
+
+This dataset does not represent exact legal boundaries, rather, it contains a set of boundaries used for general purposes that conforms to logical and administrative rules (e.g. no two counties areas may cover the same geographic extent).
 
 ### How was the dataset created?
 
@@ -32,7 +38,11 @@ Utah's 2020 census geographic boundaries became available in February 2021 and t
 
 ### Data Source
 
+US Census Bureau
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
