@@ -4,20 +4,113 @@ LIR Parcels Field Definitions
 
 ## ID
 
-### Field Name
+### COUNTY_NAME
 
-Some text for the field definition.
+The name of the county where the parcel is located.
 
-Values, when applicable:
+### COUNTY_ID
 
-- Will be in list form
+Unique county ID number.
 
-### Another Field Name
+### ASSESSOR_SRC
 
-Some more text for this field definition. [Links](https://www.youtube.com/watch?v=dQw4w9WgXcQ) with more helpful information can also be included.
+<!--- No definition for this field. -->
 
-### Yet Another Field Name
+### BOUNDARY_SRC
 
-<!--- Fields with no current definitions will have a comment on them, so that they can be filled in later. -->
+<!--- No definition for this field. -->
 
-In addition to the polygon geometry, the attributes COUNTY_NAME, COUNTY_ID, ASSESSOR_SRC, BOUNDARY_SRC, DISCLAIMER, CURRENT_ASOF, PARCEL_ID, SERIAL_NUM, PARCEL_ADD, PARCEL_CITY, TAXEXEMPT_TYPE, TAX_DISTRICT, TOTAL_MKT_VALUE, LAND_MKT_VALUE, PARCEL_ACRES, PROP_CLASS, PRIMARY_RES, HOUSE_CNT, SUBDIV_NAME, BLDG_SQFT, BLDG_SQFT_INFO, FLOORS_CNT, FLOORS_INFO, BUILT_YR, EFFBUILT_YR, CONST_MATERIAL are maintained in the Land Information Record Parcels dataset when available. Since each county has its own database and process for maintaining tax year assessment information, users should expect some variability in each County's LIR dataset.
+### DISCLAIMER
+
+General disclaimer for use of data from the Utah State Government.
+
+### CURRENT_ASOF
+
+Currency date for the feature.
+
+### PARCEL_ID
+
+Unique parcel ID number.
+
+### SERIAL_NUM
+
+Serial number for the parcel.
+
+### PARCEL_ADD
+
+Street address for the parcel.
+
+### PARCEL_CITY
+
+City the parcel is located in.
+
+### TAXEXEMPT_TYPE
+
+Tax-exempt status of the parcel.
+
+Values:
+
+- EX = <!--- Tax exempt? -->
+- OK = <!--- Ok, meaning it's ok to tax this one? As in not tax-exempt? -->
+
+### TAX_DISTRICT
+
+[Tax district](https://gis.utah.gov/products/sgid/economy/taxing-areas/) the parcel is located in.
+
+### TOTAL_MKT_VALUE
+
+Total estimated market value of the parcel.
+
+<!--- How is this determined? I would like to say "total estimated market value of the parcel as determined by _____" -->
+
+### LAND_MKT_VALUE
+
+<!--- No definition for this field. -->
+
+### PARCEL_ACRES
+
+The area of the parcel in acres.
+
+### PROP_CLASS
+
+<!--- No definition for this field. -->
+
+### PRIMARY_RES
+
+<!--- No definition for this field. -->
+
+### HOUSE_CNT
+
+<!--- No definition for this field. -->
+
+### SUBDIV_NAME
+
+<!--- No definition for this field. -->
+
+### BLDG_SQFT
+
+Square footage of the primary structure located on the parcel, if any exist.
+
+### BLDG_SQFT_INFO
+
+<!--- No definition for this field. -->
+
+### FLOORS_CNT
+
+Number of floors of the primary structure located on the parcel, if any exist.
+
+### FLOORS_INFO
+
+<!--- No definition for this field. -->
+
+### BUILT_YR
+
+<!--- No definition for this field. -->
+
+### EFFBUILT_YR
+
+<!--- No definition for this field. -->
+
+### CONST_MATERIAL
+
+<!--- No definition for this field. -->
