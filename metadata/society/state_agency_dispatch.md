@@ -2,8 +2,6 @@
 
 Utah State Agency Dispatch
 
-<!--- thought: should the title be "Utah State Agency Dispatch Zones"? Wondering if people might think this is a points layer with the dispatch centers, rather than a polygon layer of the dispatch jurisdictions. -->
-
 ## ID
 
 1690a8de-0135-435e-b6bf-43b972fed19f
@@ -11,8 +9,6 @@ Utah State Agency Dispatch
 ## Brief Summary
 
 Polygon dataset displaying areas of responsibility for the State Department of Public Communications Dispatch Centers.
-
-<!--- I've noticed the metadata always describes these zones as "areas of responsibility" rather than "jurisdictions" and I was curious if that was just the verbiage used, or if there is a specific reason for that. -->
 
 ## Summary
 
@@ -34,19 +30,18 @@ Areas of responsibility for each Department of Public Communications Center in t
 
 ### How was the dataset created?
 
-This dataset was created based on information provided by the Communications Centers.
-
-<!--- Did we create this dataset? It seemed like we did, but I wasn't too sure. -->
+UGRC created this dataset based on information provided by the Communications Centers.
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete version of dispatch zones for state agencies in Utah. Though not a substitute for a legal land survey, this dataset is suitable for cartographic and general analytic purposes.
+This dataset is the most current and complete version of dispatch zones for state agencies in Utah.
 
 ## Credits
 
 ### Data Source
 
-UGRC
+- UGRC
+- Department of Public Safety
 
 ### Host
 
@@ -73,7 +68,5 @@ UGRC
 ### Update Schedule
 
 UGRC updates this dataset as needed.
-
-<!--- Is there more to this update schedule than "as needed"? Do we receive updates from a specific government entity? -->
 
 ### Previous Updates
