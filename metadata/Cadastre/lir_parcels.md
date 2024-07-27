@@ -1,8 +1,12 @@
 # Title
 
-LIR Parcels
+Utah LIR Parcels
 
 ## ID
+
+cbe4da2a-3edb-4a4a-b082-60f9371c8006
+
+<!--- This is the ID for Parcels, which at the moment is the same for both Basic Parcels and LIR Parcels. May need to be changed later when we have a new ID for LIR Parcels. -->
 
 ## Brief Summary
 
@@ -24,11 +28,11 @@ These data represent UGRC's ongoing efforts to compile statewide parcels followi
 
 ### What does the dataset represent?
 
-In addition to the polygon geometry, LIR Parcels contain a wide variety of advanced attributes such as the total market value of the parcel, square footage of the main structure, and county assessor contact information. Since each county has its own database and process for maintaining tax year assessment information, users should expect some variability in each county's LIR dataset.
+Each polygon in this dataset represents the geographic extent of a given parcel.
 
 ### How was the dataset created?
 
-The Land Information Records (LIR) work group organized by the Governor's Office of Management and Budget has facilitated a voluntary sharing of tax roll parcel data from County Assessors to support public safety, economic development, transportation, planning and the provisions of public services. In May of 2016, the Land Information Records work group released its [Land Use Information Records Recommendations](https://drive.google.com/file/d/1E3ks5ndjMKiZqS5b7N6a3_1paJK0jHi_/edit).
+UGRC compiled this dataset from digital parcel data submissions provided by county authorities. These efforts were supplemented by the Land Information Records (LIR) Work Group, organized by the Governor's Office of Management and Budget. The LIR Work Group facilitated the voluntary sharing of tax roll parcel data from County Assessors to support public safety, economic development and transportation.
 
 LIR parcels are updated annually with county year end tax roll information when provided.
 
