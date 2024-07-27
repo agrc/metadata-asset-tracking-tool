@@ -30,6 +30,8 @@ In addition to the polygon geometry, LIR Parcels contain a wide variety of advan
 
 The Land Information Records (LIR) work group organized by the Governor's Office of Management and Budget has facilitated a voluntary sharing of tax roll parcel data from County Assessors to support public safety, economic development, transportation, planning and the provisions of public services. In May of 2016, the Land Information Records work group released its [Land Use Information Records Recommendations](https://drive.google.com/file/d/1E3ks5ndjMKiZqS5b7N6a3_1paJK0jHi_/edit).
 
+LIR parcels are updated annually with county year end tax roll information when provided.
+
 ### How reliable and accurate is the dataset?
 
 This dataset is not a substitute for obtaining the most current, legal land records information from county authorities. Parcel boundary data found on our website does not represent exact legal boundaries of parcels in Utah and should be used for general analysis and visualization purposes only.
