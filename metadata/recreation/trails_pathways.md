@@ -8,11 +8,9 @@ a341f781-d092-4079-b0fb-7d4da5eee5ea
 
 ## Brief Summary
 
-Polyline dataset of established non-motorized trails in Utah.
+Polyline dataset of established motorized and non-motorized trails in Utah.
 
 ## Summary
-
-The Utah Trails and Pathways map layer represents off-street features and important road connections that augment Utah's recreational trail and transportation network. This map layer features many of Utah's trails and pathways but is not yet complete.
 
 This trails map layer represents off-road recreational trail features and important road connections that augment Utah’s recreational trail network. This map layer features many of Utah’s recreational trails but is not yet complete. Currently, the trails information primary depicts trails used by hiking and mountain biker users.
 
@@ -40,11 +38,19 @@ It began with map data purchased from a private entity (Orbital View, Inc), for 
 
 Although it is a work in progress, this dataset represents a substantial starting point to integrate additional trail systems from other local, state, and federal agencies. The success of this effort will rely heavily on local government and land stewards to review and continue to improve upon this data. Additional segments can be submitted to UGRC for inclusion in this dataset.
 
+This map layer features many of Utah's trails and pathways but is not yet complete.
+
 ## Credits
 
 ### Data Source
 
+- UGRC
+- Local Government Authorities
+- OrbitalView
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -53,6 +59,12 @@ For more information on usage limitations for this dataset, please see our [disc
 ## License
 
 ## Tags
+
+- Hiking
+- Mountain Biking
+- OrbitalView
+- Motorized trails
+- Non-motorized trails
 
 ## Secondary Category
 
