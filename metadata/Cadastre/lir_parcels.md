@@ -78,4 +78,4 @@ Boundaries
 
 ### Previous Updates
 
-LIR parcels are updated annually with county year end tax roll information when provided.
+This dataset is updated annually.
