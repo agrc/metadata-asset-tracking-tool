@@ -14,7 +14,7 @@ Land Information Records (LIR) Parcel boundaries for all 29 counties in Utah tha
 
 ## Summary
 
-This dataset contains information such as the county FIPS code, parcel ID, parcel address, generalized land ownership type, currency dates, total market value, tax district, phone number for the county recorder, and the county parcel website if available. Landowners of privately owned parcels are not specified.
+This dataset contains information such as parcel ID, serial number, parcel address, tax exempt type, tax district, land market value, total market value, parcel acres, property class, building square footage, number of floors, and year built.
 
 ## Description
 
