@@ -6,7 +6,7 @@ LIR Parcels Field Definitions
 
 ### COUNTY_NAME
 
-The name of the county where the parcel is located.
+County name including spaces.
 
 ### COUNTY_ID
 
@@ -14,11 +14,11 @@ Unique county ID number.
 
 ### ASSESSOR_SRC
 
-<!--- No definition for this field. -->
+Website URL, will be for the County Assessor in most cases.
 
 ### BOUNDARY_SRC
 
-<!--- No definition for this field. -->
+Website URL, will be for the County Recorder in most cases.
 
 ### DISCLAIMER
 
@@ -30,7 +30,7 @@ Currency date for the feature.
 
 ### PARCEL_ID
 
-Unique parcel ID number.
+County-designated unique ID number for a given parcel.
 
 ### SERIAL_NUM
 
@@ -38,7 +38,7 @@ Serial number for the parcel.
 
 ### PARCEL_ADD
 
-Street address for the parcel.
+Street address for the parcel. Usually the address at recordation.
 
 ### PARCEL_CITY
 
@@ -46,26 +46,19 @@ City the parcel is located in.
 
 ### TAXEXEMPT_TYPE
 
-Tax-exempt status of the parcel.
-
-Values:
-
-- EX = <!--- Tax exempt? -->
-- OK = <!--- Ok, meaning it's ok to tax this one? As in not tax-exempt? -->
+Primary category of granted tax exemption.
 
 ### TAX_DISTRICT
 
-[Tax district](https://gis.utah.gov/products/sgid/economy/taxing-areas/) the parcel is located in.
+The coding the county uses to identify a unique combination of property tax levying entities.
 
 ### TOTAL_MKT_VALUE
 
-Total estimated market value of the parcel.
-
-<!--- How is this determined? I would like to say "total estimated market value of the parcel as determined by _____" -->
+Total market value of a given parcel's land, structures, and other improvements as determined by the Assessor for the most current tax year.
 
 ### LAND_MKT_VALUE
 
-<!--- No definition for this field. -->
+The market value of the parcel's land as determined by the Assessor for the most current tax year.
 
 ### PARCEL_ACRES
 
@@ -73,44 +66,61 @@ The area of the parcel in acres.
 
 ### PROP_CLASS
 
-<!--- No definition for this field. -->
+Property classification of the parcel.
+
+Values:
+
+- Residential
+- Commercial
+- Industrial
+- Mixed
+- Agricultural
+- Vacant
+- Open Space
+- Other
 
 ### PRIMARY_RES
 
-<!--- No definition for this field. -->
+Whether or not the property is a primary residence(s).
+
+Values:
+
+- Y = Yes
+- N = No
+- U = Unknown
 
 ### HOUSE_CNT
 
-<!--- No definition for this field. -->
+Number of housing units, can be single number or a range like '5-10'.
 
 ### SUBDIV_NAME
 
-<!--- No definition for this field. -->
+Subdivision name, if applicable.
 
 ### BLDG_SQFT
 
-Square footage of the primary structure located on the parcel, if any exist.
+Square footage of primary buildings.
 
 ### BLDG_SQFT_INFO
 
-<!--- No definition for this field. -->
+Note for how building square footage is counted by the County.
 
 ### FLOORS_CNT
 
-Number of floors of the primary structure located on the parcel, if any exist.
+Number of floors as reported in county records.
 
 ### FLOORS_INFO
 
-<!--- No definition for this field. -->
+Note for how floors are counted by the County.
 
 ### BUILT_YR
 
-<!--- No definition for this field. -->
+Estimated year of initial construction of primary buildings.
 
 ### EFFBUILT_YR
 
-<!--- No definition for this field. -->
+The 'effective' year built of primary buildings that factors in updates after construction.
 
 ### CONST_MATERIAL
 
-<!--- No definition for this field. -->
+Construction Material. Values for this field are expected to vary greatly by county.
