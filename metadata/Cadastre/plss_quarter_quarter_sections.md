@@ -8,19 +8,19 @@ Utah PLSS Quarter Quarter Sections GCDB
 
 ## Brief Summary
 
-Polygon dataset of the smallest unit of the Public Land Survey System (PLSS), where each unit represents 40 acres of land.
+Polygon dataset of quarter quarter sections from the Public Land Survey System (PLSS), where each unit represents 40 acres of land.
 
 ## Summary
 
-This dataset represents the smallest unit of the Public Land Survey System (PLSS). Each polygon represents approximately 40 acres of land and is labelled by its township and range. UGRC created the second division class (quarter quarter sections) from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
+This dataset represents one of the smallest units of the Public Land Survey System (PLSS). Each polygon represents approximately 40 acres of land and is labelled by its township and range. UGRC created the second division class (quarter quarter sections) from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
 
 ## Description
 
 ### What is the dataset?
 
-Originally established in 1785 and currently administered by the Bureau of Land Management (BLM), the PLSS is a nationwide framework for surveying, dividing, and quantifying land. PLSS sections are divided into a grid with [640 acres in each square](https://gis.utah.gov/products/sgid/cadastre/plss-sections/), which is further divided into [quarter sections](https://gis.utah.gov/products/sgid/cadastre/plss-quarter-sections/) (160 acres per square) and quarter quarter sections (40 acres per square). This dataset represents this final division as polygons.
+Originally established in 1785 and currently administered by the Bureau of Land Management (BLM), the PLSS is a nationwide framework for surveying, dividing, and quantifying land. PLSS sections are divided into a grid with [640 acres in each square](https://gis.utah.gov/products/sgid/cadastre/plss-sections/), which is further divided into [quarter sections](https://gis.utah.gov/products/sgid/cadastre/plss-quarter-sections/) (160 acres per square) and quarter quarter sections (40 acres per square). This dataset represents these quarter quarter sections as polygons. Divisions smaller than the quarter quarter sections may be included as mining claims or irregularly shaped lots.
 
-The polygons in this feature class represent the smallest division that has been defined by the BLM. This data is derived from the [Utah PLSS Fabric](https://gis.utah.gov/products/sgid/cadastre/parcel-fabric/). Other PLSS datasets can be found in the [Cadastre Data Index](https://gis.utah.gov/products/sgid/cadastre/).
+This data is derived from the [Utah PLSS Fabric](https://gis.utah.gov/products/sgid/cadastre/parcel-fabric/). Other PLSS datasets can be found in the [Cadastre Data Index](https://gis.utah.gov/products/sgid/cadastre/).
 
 ### What is the purpose of the dataset?
 
