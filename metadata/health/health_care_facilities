@@ -1,6 +1,6 @@
 # Title
 
-Licensed Health Care Facilities
+Utah Licensed Health Care Facilities
 
 ## ID
 
@@ -8,7 +8,7 @@ a58d176f-5c95-4a45-b8e8-c544aa3b845a
 
 ## Brief Summary
 
-Points dataset representing healthcare facilities such as clinics, hospitals, and dialysis centers
+Points dataset representing healthcare facilities such as clinics, hospitals, and dialysis centers.
 
 ## Summary
 
@@ -28,7 +28,7 @@ Each point represents the address point of a given healthcare facility and inclu
 
 ### How was the dataset created?
 
-UGRC developed this dataset using the annual [Health Facilities Report](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8pLW5yVrV9EY811pE3leFw9u65FtXkMaADaYYdBi0zpjAhrIhaGDQpdQA-jPn8D07DxStjKcWXUcF/pubhtml?gid=1835834361&single=true) from the the DHHS.
+UGRC developed this dataset using the annual [Health Facilities Report](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8pLW5yVrV9EY811pE3leFw9u65FtXkMaADaYYdBi0zpjAhrIhaGDQpdQA-jPn8D07DxStjKcWXUcF/pubhtml?gid=1835834361&single=true) from the the DHHS. We update this dataset annually with newly registered healthcare facilities.
 
 ### How reliable and accurate is the dataset?
 
