@@ -12,7 +12,7 @@ Polygon dataset displaying areas of responsibility for the State Department of P
 
 ## Summary
 
-This dataset displays the areas of responsibility for the State Department of Public Communications Centers for dispatching state agencies, such as Utah Highway Patrol and the Utah Division of Wildlife Resources.
+This dataset displays the areas of responsibility for the State Department of Public Communications Centers for dispatching state agencies. State Agency Dispatch does not include dispatch centers used by municipalities or local governments, those boundaries can be found in the [Public Safety Answering Point Boundaries](https://gis.utah.gov/products/sgid/society/public-safety-answering-point-boundaries/) dataset available on the SGID.
 
 ## Description
 
@@ -34,7 +34,7 @@ UGRC created this dataset based on information provided by the Communications Ce
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete version of dispatch zones for state agencies in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with any other questions or concerns about this dataset.
+This dataset is the most current and complete version of dispatch zones for state agencies in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
