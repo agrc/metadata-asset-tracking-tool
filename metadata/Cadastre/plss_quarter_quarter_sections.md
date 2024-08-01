@@ -8,11 +8,11 @@ Utah PLSS Quarter Quarter Sections GCDB
 
 ## Brief Summary
 
-Polygon dataset of quarter quarter sections from the Public Land Survey System (PLSS), where each unit represents 40 acres of land.
+Polygon dataset of the smallest aliquot part of a section from the Public Land Survey System (PLSS), where each unit represents 40 acres of land.
 
 ## Summary
 
-This dataset represents one of the smallest units of the Public Land Survey System (PLSS). Each polygon represents approximately 40 acres of land and is labelled by its township and range. UGRC created the second division class (quarter quarter sections) from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
+This dataset represents the smallest aliquot part of a section of the Public Land Survey System (PLSS). Each polygon represents approximately 40 acres of land and is labelled by its township and range. UGRC created the quarter quarter sections from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
 
 ## Description
 
