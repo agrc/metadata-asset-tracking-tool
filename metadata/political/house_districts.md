@@ -12,13 +12,13 @@ Polygon dataset of House of Representatives districts for the years 2022-2032.
 
 ## Summary  
 
-This dataset contains Utah House of Representatives district boundaries for the years 2022-2032. Statewide house district boundaries are drawn by the [Utah State Legislature](https://le.utah.gov/) after each decennial census and adopted into State law.
+This dataset contains Utah House of Representatives district boundaries for the years 2022-2032. Statewide House district boundaries are drawn by the [Utah State Legislature](https://le.utah.gov/) after each decennial Census and adopted into State law.
 
 ## Description
 
 ### What is the dataset?
 
-The [Utah House of Representatives](https://house.utleg.gov/about-the-house/) is comprised of 75 men and women elected to two-year terms. This dataset shows the geographic boundaries of house districts that will be used from 2022 to 2032.
+The [Utah House of Representatives](https://house.utleg.gov/about-the-house/) is comprised of 75 men and women elected to two-year terms. This dataset shows the geographic boundaries of House districts that will be used from 2022 to 2032.
 
 ### What is the purpose of the dataset?
 
@@ -64,8 +64,8 @@ UGRC
 
 ## Update
 
-This dataset is updated every ten years with the Census.
-
 ### Update Schedule
+
+Static.
 
 ### Previous Updates
