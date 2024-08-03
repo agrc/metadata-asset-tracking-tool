@@ -8,35 +8,33 @@ Utah House Districts
 
 ## Brief Summary
 
-State House of Representatives Districts for 2022 to 2032
+Polygon dataset of House of Representatives districts for the years 2022-2032.
 
-## Summary
+## Summary  
 
-Utah House of Representatives Districts defined after every decennial Census.
+This dataset contains Utah House of Representatives district boundaries for the years 2022-2032. Statewide house district boundaries are drawn by the [Utah State Legislature](https://le.utah.gov/) after each decennial census and adopted into State law.
 
 ## Description
 
 ### What is the dataset?
 
-The Utah House of Representatives is comprised of 75 men and women elected to two-year terms. Utah House Districts 2022 to 2032 shows the house districts that elected officials represent. Statewide house district boundaries are drawn by the Utah Legislature after each decennial census and adopted into state law.
+The [Utah House of Representatives](https://house.utleg.gov/about-the-house/) is comprised of 75 men and women elected to two-year terms. This dataset shows the geographic boundaries of house districts that will be used from 2022 to 2032.
 
 ### What is the purpose of the dataset?
 
-This dataset includes the political districts used for the Utah State Legislature. Utah House Districts 2022 to 2032 will be used for election purposes beginning January 1, 2022. Elected officials began representing these districts in January 2023. These boundaries supersede the State House Districts that were used in 2012-2021.
+The data will be used for election purposes beginning January 1, 2022. Elected officials began representing these districts in January 2023. These boundaries supersede the State House Districts that were used in 2012-2021. This dataset also helps citizens [find their representatives](https://le.utah.gov/GIS/findDistrict.jsp) and is suitable for general analytic purposes.
 
 ### What does the dataset represent?
 
-The DIST field contains the House district number.
-
-The COLOR4 field can be used in coloring districts using only 4 colors, usually with no adjacent districts displayed with the same color. This does not always work for the House Districts due to the number and size of the districts.
+Each polygon in this dataset represents the approximate geographic boundary that a given House member represents. The DIST field contains the House district number. UGRC also included the COLOR4 field so that you can recolor the polygons so that no two adjacent districts display with the same color.
 
 ### How was the dataset created?
 
-Statewide Political District Boundaries are drawn by the Utah Legislature and adopted into state law as part of the decennial redistricting process that began in 2021. These districts represent the Utah House Districts, as per the Census Block Assignment file, enrolled with HB2005.
+The Utah State Legislature draws statewide political district boundaries per [HB2005](https://le.utah.gov/~2021S2/bills/hbillint/HB2005.pdf). These districts are adopted into state law as part of the decennial redistricting process that began in 2021.
 
 ### How reliable and accurate is the dataset?
 
-This dataset reflects the official boundaries used by the Utah Legislature. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset reflects the official boundaries used by the Utah Legislature for the years 2022-2032. It is the most current source for these boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
