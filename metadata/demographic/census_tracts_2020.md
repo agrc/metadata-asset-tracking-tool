@@ -8,11 +8,11 @@ c2e9a7ce-af61-43b0-9c12-3ca534bc199b
 
 ## Brief Summary
 
-The most widely-used geographic unit used in the Census, usually representing about 4,000 people.
+The most widely-used geographic unit in the Census, usually representing about 4,000 people.
 
 ## Summary
 
-Census Tracts are relatively small geographic areas that contain between 1200 and 8000 people. Census Tracts boundaries are updated every ten years through the Participant Statistical Areas Program ([PSAP](https://www.census.gov/programs-surveys/decennial-census/about/psap.html)), the US Census Bureau, and local government authorities.
+Census Tracts are small geographic areas that contain between 1200 and 8000 people. Census Tracts boundaries are updated every ten years through the Participant Statistical Areas Program ([PSAP](https://www.census.gov/programs-surveys/decennial-census/about/psap.html)), the US Census Bureau, and local government authorities.
 
 ## Description
 
