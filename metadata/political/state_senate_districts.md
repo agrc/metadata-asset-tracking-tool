@@ -12,39 +12,39 @@ Utah Senate Districts defined after every decennial census.
 
 ## Summary
 
-The Utah State Senate is comprised of 29 men and women elected to four-year terms. Utah Senate Districts 2022 to 2032 shows the senate districts that elected officials represent.
-
-The DIST field contains the Senate district number.
-
-The COLOR4 field can be used in coloring districts using only 4 colors, usually with no adjacent districts displayed with the same color.
-
-Statewide senate district boundaries are drawn by the Utah Legislature after each decennial census and adopted into state law.
-
-This feature class represents the Utah State Senate, which is comprised of 29 men and women elected to four-year terms. This data shows the senate districts that elected officials represent.
-
-Last update: February 3, 2022 (minor geometry cleanup: snapping, remove topology slivers, etc.)
-
-This dataset includes the political districts used for the Utah State Legislature. Utah’s State Senate Districts 2022 to 2032 will be used for election purposes beginning January 1, 2022. Elected officials began representing these districts in January 2023. These boundaries supersede the State Senate Districts that were used in 2012-2021.
-
-Statewide Political District Boundaries are drawn by the Utah Legislature and adopted into state law as part of the decennial redistricting process that began in 2021. These districts represent the Utah Senate Districts, as per the Census Block Assignment file, enrolled with SB2006.
+This dataset contains Utah State Senate district boundaries for the years 2022-2032. Statewide Senate district boundaries are drawn by the [Utah State Legislature](https://le.utah.gov/) after each decennial census and adopted into State law.
 
 ## Description
 
 ### What is the dataset?
 
+The [Utah State Senate](https://senate.utah.gov/) is comprised of 29 men and women elected to four-year terms. This dataset shows the geographic boundaries of Senate districts that will be used from 2022 to 2032.
+
 ### What is the purpose of the dataset?
+
+The data will be used for election purposes beginning January 1, 2022. Elected officials began representing these districts in January 2023. These boundaries supersede the State Senate districts that were used in 2012-2021. This dataset also helps citizens [find their senators](https://le.utah.gov/GIS/findDistrict.jsp) and is suitable for general analytic purposes.
 
 ### What does the dataset represent?
 
+Each polygon in this dataset represents the approximate geographic boundary that a given senator represents. The DIST field contains the House district number. UGRC also included the COLOR4 field so that you can recolor the polygons so that no two adjacent districts display with the same color.
+
 ### How was the dataset created?
 
+The Utah State Legislature draws statewide political district boundaries per [HB2005](https://le.utah.gov/~2021S2/bills/hbillint/HB2005.pdf). These districts are adopted into state law as part of the decennial redistricting process that began in 2021.
+
 ### How reliable and accurate is the dataset?
+
+This dataset reflects the official boundaries used by the Utah Legislature for the years 2022-2032. It is the most current source for these boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+Utah State Legislature
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -54,12 +54,20 @@ For more information on usage limitations for this dataset, please see our [disc
 
 ## Tags
 
+- Utah State Legislature
+- Redistricting
+- Census
+
 ## Secondary Category
 
 ## Data Page Link
 
+[https://gis.utah.gov/products/sgid/political/state-senate-districts/]
+
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
