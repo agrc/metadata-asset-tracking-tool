@@ -8,11 +8,11 @@ a58d176f-5c95-4a45-b8e8-c544aa3b845a
 
 ## Brief Summary
 
-Points dataset representing healthcare facilities such as clinics, hospitals, and surgical centers.
+Point dataset representing healthcare facilities such as clinics, hospitals, and surgical centers.
 
 ## Summary
 
-This dataset contains point locations of health care facilities throughout Utah. Each facility has been licensed by the Division of Licensing and Background Checks (DLBC) under the authority of the [Utah Department of Health and Human Services](https://dhhs.utah.gov/) (DHHS). We developed this layer using [tabular data](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8pLW5yVrV9EY811pE3leFw9u65FtXkMaADaYYdBi0zpjAhrIhaGDQpdQA-jPn8D07DxStjKcWXUcF/pubhtml?gid=1835834361&single=true) from the DHHS.
+This dataset contains point locations of health care facilities throughout Utah. Each facility has been licensed by the Division of Licensing and Background Checks (DLBC) under the authority of the [Utah Department of Health and Human Services](https://dhhs.utah.gov/) (DHHS). UGRC developed this layer using [tabular data](https://docs.google.com/spreadsheets/d/e/2PACX-1vT8pLW5yVrV9EY811pE3leFw9u65FtXkMaADaYYdBi0zpjAhrIhaGDQpdQA-jPn8D07DxStjKcWXUcF/pubhtml?gid=1835834361&single=true) from the DHHS.
 
 ## Description
 
@@ -33,7 +33,7 @@ In addition to these types, this dataset also includes birthing centers, ambulat
 
 ### What is the purpose of the dataset?
 
-This dataset may be used to find addresses of healthcare facilities and serves as a mapping tool for many information pages and find-a-doctor lookups. Further healthcare-related data can be found in the [Health Data Index](https://gis.utah.gov/products/sgid/health/).
+This dataset may be used to find the locations of healthcare facilities and serves as a mapping tool for many information pages and find-a-doctor lookups. Further healthcare-related data can be found in the [Health Data Index](https://gis.utah.gov/products/sgid/health/).
 
 ### What does the dataset represent?
 
