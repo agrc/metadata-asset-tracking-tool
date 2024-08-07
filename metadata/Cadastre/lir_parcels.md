@@ -28,7 +28,7 @@ Each polygon in this dataset represents the geographic extent of a given parcel.
 
 ### How was the dataset created?
 
-UGRC compiled this dataset from digital parcel data submissions provided by county authorities. These efforts were supplemented by the Land Information Records (LIR) Work Group, organized by the Governor's Office of Management and Budget. The LIR Work Group facilitated the voluntary sharing of tax roll parcel data from County Assessors to support public safety, economic development and transportation.
+UGRC compiled this dataset from digital parcel data submissions provided by county authorities. These efforts were supplemented by the Land Information Records (LIR) Work Group, organized by the Governor's Office of Management and Budget. The LIR Work Group facilitated the voluntary sharing of tax roll parcel data from County Assessors to support public safety, economic development and transportation. Their [official recommendations](https://drive.google.com/file/d/1E3ks5ndjMKiZqS5b7N6a3_1paJK0jHi_/edit) suggest best practices for standardizing, sharing, and utilizing parcel data.
 
 LIR parcels are updated annually with county year end tax roll information when provided.
 
