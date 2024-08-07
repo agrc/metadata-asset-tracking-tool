@@ -4,10 +4,6 @@ Utah LIR Parcels
 
 ## ID
 
-cbe4da2a-3edb-4a4a-b082-60f9371c8006
-
-<!--- This is the ID for Parcels, which at the moment is the same for both Basic Parcels and LIR Parcels. May need to be changed later when we have a new ID for LIR Parcels. -->
-
 ## Brief Summary
 
 Land Information Records (LIR) Parcel boundaries for all 29 counties in Utah that include a wide variety of attributes beyond the basic information found in Utah Basic Parcels.
@@ -20,7 +16,7 @@ This dataset contains information such as parcel ID, serial number, parcel addre
 
 ### What is the dataset?
 
-A parcel is a defined area of land that is owned by a public or private entity. LIR Parcels contains advanced attributes such as the total market value and tax district of a given parcel. For parcels data containing basic attributes only, please see our Utah Basic Parcels dataset. Each county provides its individual parcel data to UGRC; thus, users should expect some variation in schema and completeness between counties.
+A parcel is a defined area of land that is owned by a public or private entity. This dataset contains advanced attributes such as the total market value and tax district of a given parcel. Each county provides its individual parcel data to UGRC; thus, users should expect some variation in schema and completeness between counties.
 
 ### What is the purpose of the dataset?
 
@@ -40,7 +36,7 @@ LIR parcels are updated annually with county year end tax roll information when 
 
 This dataset is not a substitute for obtaining the most current, legal land records information from county authorities. Parcel boundary data found on our website does not represent exact legal boundaries of parcels in Utah and should be used for general analysis and visualization purposes only.
 
-Additionally, while street addresses are provided with the parcel boundaries, the authoritative source for Utah addresses is the [Utah Address Points](https://gis.utah.gov/products/sgid/location/address-points/) dataset.
+Additionally, while street addresses may be provided with the parcel boundaries, the authoritative source for Utah addresses is the [Utah Address Points](https://gis.utah.gov/products/sgid/location/address-points/) dataset.
 
 ## Credits
 
