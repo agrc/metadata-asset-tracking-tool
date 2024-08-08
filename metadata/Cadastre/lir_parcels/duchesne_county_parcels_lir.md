@@ -1,10 +1,10 @@
 # Title
 
-Daggett County Parcels LIR
+Duchesne County Parcels LIR
 
 ## ID
 
-f5aec36c-a43a-4ac2-b63f-7ba5cc198bb2
+02e9d267-a111-4413-8aad-f207e38abf58
 
 ## Brief Summary
 
