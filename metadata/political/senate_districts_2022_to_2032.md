@@ -26,7 +26,7 @@ The data will be used for election purposes beginning January 1, 2022. Elected o
 
 ### What does the dataset represent?
 
-Each polygon in this dataset represents the approximate geographic boundary that a given senator represents. The DIST field contains the House district number. UGRC also included the COLOR4 field so that you can recolor the polygons so that no two adjacent districts display with the same color.
+Each polygon in this dataset represents the approximate geographic boundary that a given senator represents. The DIST field contains the House district number. UGRC also included the COLOR4 field so that you can symbolize the polygons so that no two adjacent districts display with the same color.
 
 ### How was the dataset created?
 
