@@ -1,10 +1,10 @@
 # Title
 
-Daggett County Parcels LIR Field Definitions
+Davis County Parcels LIR Field Definitions
 
 ## ID
 
-f5aec36c-a43a-4ac2-b63f-7ba5cc198bb2
+be470137-4982-43b5-b9d0-51c3a3e43a7b
 
 ### COUNTY_NAME
 
