@@ -54,6 +54,8 @@ Values:
 - TD = Divided Tax District
 - UI = Undivided_Interest
 
+<!--- These values replace what is in the master document. --->
+
 ### TAX_DISTRICT
 
 ### TOTAL_MKT_VALUE
@@ -74,6 +76,8 @@ Values:
 - MH = Multi Housing
 
 More information about the PROP_CLASS and PROP_TYPE for Salt Lake County can be found on the [county website](https://slco.org/assessor/new/queryproptyp.cfm).
+
+<!--- These values replace what is in the master document. --->
 
 ### PRIMARY_RES
 
