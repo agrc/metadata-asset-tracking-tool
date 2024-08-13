@@ -6,28 +6,50 @@ Utah Watersheds Areas Field Definitions
 
 619433b6-cdf7-4267-8a2a-3a4436a3eeac
 
-### HUC_8
+### huc_8
 
 Contains the 8 digit hydrologic unit code for the 4th level sub-basins.
 
-### HUC_10
+### huc_10
 
 Contains the 10 digit hydrologic unit code for the 5th level watersheds.
 
-### HUC_12
+### huc_12
 
 Contains the 12 digit hydrologic unit code for the 6th level sub-watersheds.
 
-### ACRES
+### acres
 
-### STATES
+The area of the watershed polygon in acres.
 
-### NCONTRB_A
+### states
 
-### HU_10_DS
+State or states that the watershed area covers. This dataset includes watersheds that may be found in Utah, Arizonia, Colorado, Wyoming, New Mexico, Nevada, and Idaho.
 
-### HU_10_NAME
+### ncontrb_a
 
-### HU_10_TYPE
+<!-- No definition for this field --->
 
-### HU_12_DS
+### hu_10_ds
+
+### hu_10_name
+
+Name of the watershed.
+
+### hu_10_mod
+
+### hu_10_type
+
+### hu_12_ds
+
+### hu_12_name
+
+Contains the sub-watershed name.
+
+### hu_12_mod
+
+### hu _12_type
+
+### hu_8_name
+
+Contains the sub-basin name.
