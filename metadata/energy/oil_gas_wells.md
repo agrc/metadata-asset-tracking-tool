@@ -24,17 +24,23 @@ Oil and gas wells in Utah are managed by the Utah Department of Natural Resource
 
 This dataset provides the opportunity for the Division to collect more descriptive down-hole information for each wellbore permitted and drilled.
 
+<!--- This is from the original metadata. Do we still see this dataset as an opportunity to collect more descriptive information, or does this dataset have a different purpose now? --->
+
 ### What does the dataset represent?
 
-These data include the API code, well and company name, account number, filed number, field name, elevation, locations coordinates, lease numbers, well type and status, total cumulative oil, gas and water, and more.
+Points in this dataset include the API code, well and company name, account number, filed number, field name, elevation, locations coordinates, lease numbers, well type and status, total cumulative oil, gas and water, and many other attributes.
 
 ### How was the dataset created?
 
-This data was developed by contractors sponsored in part by the U.S. Department of Energy and the Ground Water Protection Council
+This data was developed by contractors sponsored in part by the U.S. Department of Energy and the Ground Water Protection Council.
+
+<!--- What else might the user need to know about how this dataset was created? Do we maintain the dataset now, or is maintained by someone else? --->
 
 ### How reliable and accurate is the dataset?
 
 Initially, much of the down-hole information will not be available because there was no place to save it in the previous databases. Eventually, as new wells are drilled and old legacy data is entered, more descriptive data will become available for the wells in Utah.
+
+<!--- This is also information from the original metadata. Is this still the case? Is this dataset the most complete and current dataset we have on oil and gas wells? --->
 
 ## Credits
 
