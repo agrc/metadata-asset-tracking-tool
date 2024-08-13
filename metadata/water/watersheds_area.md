@@ -20,11 +20,11 @@ Digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level 
 
 ### What is the purpose of the dataset?
 
-This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information.
+This dataset is a tool for water resource management and planning activities. It is suitable for general analytic purposes and cartography.
 
 ### What does the dataset represent?
 
-This allows the data to be dissolved by [HUC level](https://nas.er.usgs.gov/hucs.aspx) to obtain HUC10 and HUC8 boundaries as the boundaries are coincident. The data contains the attributes from all 3 HUC levels.
+Each polygon in this dataset represents the approximate geographic extent of a particular watershed. This allows the data to be dissolved by [HUC level](https://nas.er.usgs.gov/hucs.aspx) to obtain HUC10 and HUC8 boundaries as the boundaries are coincident. The data contains the attributes from all 3 HUC levels.
 
 ### How was the dataset created?
 
