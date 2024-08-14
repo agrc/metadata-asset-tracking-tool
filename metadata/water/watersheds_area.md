@@ -28,9 +28,11 @@ Each polygon in this dataset represents the approximate geographic extent of a p
 
 ### How was the dataset created?
 
-Utah Watershed Area was built using data from the USGS Watershed Boundary Dataset (WBD). Data was downloaded from the download-by-state area in GDB format. HUC8, HUC10 and HUC12 datasets were merged into this dataset, maintaining the line work for HUC12.
+UGRC developed this layer using data from the USGS [Watershed Boundary Dataset](https://www.usgs.gov/national-hydrography/watershed-boundary-dataset) (WBD). We downloaded data in GDB format and merged HUC8, HUC10, and HUC12, maintaining the line work for HUC12. This final product contains watershed areas in and around Utah.
 
 ### How reliable and accurate is the dataset?
+
+<!--- Gathering info on this --->
 
 ## Credits
 
