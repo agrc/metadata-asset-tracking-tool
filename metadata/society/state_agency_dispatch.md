@@ -8,11 +8,11 @@ Utah State Agency Dispatch
 
 ## Brief Summary
 
-Polygon dataset displaying areas of responsibility for the State Department of Public Communications Dispatch Centers.
+Polygon dataset displaying areas of responsibility for the Department of Public Safety Communications Centers.
 
 ## Summary
 
-This dataset displays the areas of responsibility for the State Department of Public Communications Centers for dispatching state agencies. State Agency Dispatch does not include dispatch centers used by municipalities or local governments, those boundaries can be found in the [Public Safety Answering Point Boundaries](https://gis.utah.gov/products/sgid/society/public-safety-answering-point-boundaries/) dataset available on the SGID.
+This dataset displays the areas of responsibility for the Department of Public Safety Communications Centers for dispatching state agencies. State Agency Dispatch does not include dispatch centers used by municipalities or local governments, those boundaries can be found in the [Public Safety Answering Point Boundaries](https://gis.utah.gov/products/sgid/society/public-safety-answering-point-boundaries/) dataset available on the SGID.
 
 ## Description
 
@@ -26,11 +26,11 @@ This dataset is primarily used in emergency services and public safety. Dispatch
 
 ### What does the dataset represent?
 
-Areas of responsibility for each Department of Public Communications Center in this dataset are represented as polygons and are labelled with the corresponding dispatch center.
+Areas of responsibility for each Communications Center in this dataset are represented as polygons and are labelled with the corresponding dispatch center.
 
 ### How was the dataset created?
 
-UGRC created this dataset based on information provided by the Communications Centers. We maintain this layer in collaboration with the Communications Centers and update the data as county or municipality boundaries change.
+UGRC created this dataset based on information provided by the Communications Centers. We maintain this layer in collaboration with the Department of Public Safety and update the data as county or municipality boundaries change.
 
 ### How reliable and accurate is the dataset?
 
