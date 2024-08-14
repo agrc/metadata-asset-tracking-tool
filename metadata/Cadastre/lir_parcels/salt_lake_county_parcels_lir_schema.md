@@ -6,26 +6,6 @@ Salt Lake County Parcels LIR Field Definitions
 
 bd9d0aea-00ac-4adb-8301-7025ebd08f0f
 
-### COUNTY_NAME
-
-### COUNTY_ID
-
-### ASSESSOR_SRC
-
-### BOUNDARY_SRC
-
-### DISCLAIMER
-
-### CURRENT_ASOF
-
-### PARCEL_ID
-
-### SERIAL_NUM
-
-### PARCEL_ADD
-
-### PARCEL_CITY
-
 ### TAXEXEMPT_TYPE
 
 Values:
@@ -56,14 +36,6 @@ Values:
 
 <!--- These values replace what is in the master document. --->
 
-### TAX_DISTRICT
-
-### TOTAL_MKT_VALUE
-
-### LAND_MKT_VALUE
-
-### PARCEL_ACRES
-
 ### PROP_CLASS
 
 Values:
@@ -78,23 +50,3 @@ Values:
 More information about the PROP_CLASS and PROP_TYPE for Salt Lake County can be found on the [county website](https://slco.org/assessor/new/queryproptyp.cfm).
 
 <!--- These values replace what is in the master document. --->
-
-### PRIMARY_RES
-
-### HOUSE_CNT
-
-### SUBDIV_NAME
-
-### BLDG_SQFT
-
-### BLDG_SQFT_INFO
-
-### FLOORS_CNT
-
-### FLOORS_INFO
-
-### BUILT_YR
-
-### EFFBUILT_YR
-
-### CONST_MATERIAL
