@@ -12,6 +12,8 @@ Official polygon dataset of geographic extent of the state of Utah.
 
 ## Summary
 
+This dataset includes a polygon feature representing the current Utah State boundary as certified through the Lieutenant Governor's Office.
+
 ## Description
 
 ### What is the dataset?
@@ -20,7 +22,7 @@ This dataset depicts the Utah State Boundary as digitized from the United States
 
 ### What is the purpose of the dataset?
 
-This dataset provides an administrative baseline for the current geographic extent of the state of Utah and is suitable for cartography and general analytic purposes.
+This dataset provides an administrative representation for the current geographic extent of the state of Utah. It is suitable for cartography and general analytic purposes.
 
 ### What does the dataset represent?
 
@@ -28,23 +30,31 @@ This dataset represents the boundary of the State of Utah at a scale of 1:24000.
 
 ### How was the dataset created?
 
-The polygon feature for the Utah State Boundary was created using coordinate geometry [(COGO)](https://pro.arcgis.com/en/pro-app/latest/help/editing/introduction-to-cogo.htm) from legal descriptions. All features have been adjusted to the current Geographic Coordinate Database (GCDB) points.
-
-Minor adjustments were made in 2014 to align with the Newest PLSS-GCDB layers from BLM (CadNSDIv2). The most significant adjustment was made along the Wyoming and Summit County lines. All updates, corrections, or clarifications to the boundary represented in this dataset must first be filed with the Lieutenant Governor's office. Once approved, UGRC receives the updated data and adjusts the polygon boundary accordingly.
+UGRC developed this dataset using the 7.5 quad maps available through USGS. Minor adjustments were made in 2014 to align with the Newest PLSS-GCDB layers from BLM (CadNSDIv2). The most significant adjustment was made along the Wyoming and Summit County lines. All updates, corrections, or clarifications to the boundary represented in this dataset must first be filed with the Lieutenant Governor's office. Once approved, UGRC receives the updated data and adjusts the polygon boundary accordingly.
 
 ### How reliable and accurate is the dataset?
+
+This dataset is the latest and most complete geospatial resource for the Utah State boundary. Please reach out to [our team](https://gis.utah.gov/contact/) with any questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+USGS
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- USGS
+- PLSS
+- GCDB
 
 ## Secondary Category
 
@@ -55,5 +65,7 @@ Minor adjustments were made in 2014 to align with the Newest PLSS-GCDB layers fr
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
