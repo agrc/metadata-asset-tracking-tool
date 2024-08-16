@@ -12,11 +12,13 @@ Utah watershed areas represented by Hydrologic Unit Codes (HUC) 8, 10, and 12.
 
 ## Summary
 
+This dataset represents watershed areas as polygons. It is derived from the USGS Watershed Boundary Dataset and includes polygons with the Hydrologic Unit Codes 8, 10, and 12 (sub-basins, watersheds, and sub-watersheds respectively).
+
 ## Description
 
 ### What is the dataset?
 
-Digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for the State of Utah.
+The United States Geologic Survey defines a watershed as a "the area of the landscape that drains to a portion of the stream network". Watershed areas in this dataset are represented as polygons and include several sub-categories such as sub-basins (HUC 8), watersheds (HUC 10) and sub-watersheds (HUC 12).
 
 ### What is the purpose of the dataset?
 
@@ -24,7 +26,7 @@ This dataset is a tool for water resource management and planning activities. It
 
 ### What does the dataset represent?
 
-Each polygon in this dataset represents the approximate geographic extent of a particular watershed. This allows the data to be dissolved by [HUC level](https://nas.er.usgs.gov/hucs.aspx) to obtain HUC10 and HUC8 boundaries as the boundaries are coincident. The data contains the attributes from all 3 HUC levels.
+Each polygon in this dataset represents the approximate geographic extent of a particular watershed area. The data can be dissolved by [HUC level](https://nas.er.usgs.gov/hucs.aspx) to obtain HUC10 and HUC8 boundaries as the boundaries are coincident. The data contains the attributes from all 3 HUC levels.
 
 ### How was the dataset created?
 
@@ -32,7 +34,7 @@ UGRC developed this layer using data from the USGS [Watershed Boundary Dataset](
 
 ### How reliable and accurate is the dataset?
 
-<!--- Gathering info on this --->
+This dataset represents the most current version of watershed areas in Utah from USGS. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -65,6 +67,6 @@ UGRC
 
 ### Update Schedule
 
-<!-- Unknown -->
+Static
 
 ### Previous Updates
