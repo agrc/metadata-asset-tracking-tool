@@ -28,7 +28,7 @@ Operator ID number.
 
 ### ground_elev
 
-Elevation of the well and ground level.
+Elevation of the well at ground level.
 
 ### kelly_elev
 
