@@ -12,13 +12,13 @@ Surface location of oil and gas wells from the Department of Natural Resources, 
 
 ## Summary
 
-This dataset contains point locations of oil and gas wells from the Oil, Gas, and Mining Division (DOGM) at the Utah Department of Natural Resources. Points contain attributes such as the API code, well and company name, and well type and status.
+This dataset contains point locations of oil and gas wells from the Utah Oil, Gas, and Mining Division (UDOGM) at the Utah Department of Natural Resources. Points contain attributes such as the API code, well and company name, and well type and status.
 
 ## Description
 
 ### What is the dataset?
 
-Oil and gas wells in Utah are managed by the Utah Department of Natural Resources [Oil, Gas and Mining Division](https://ogm.utah.gov/) (DOGM). This dataset contains all oil and gas wells in Utah, including those being actively drilled, still in the permit process, and those that have been abandoned.
+Oil and gas wells in Utah are managed by the Utah Department of Natural Resources [Division of Oil, Gas and Mining](https://ogm.utah.gov/) (OGM). This dataset contains all oil and gas wells in Utah, including those being actively drilled, still in the permit process, and those that have been abandoned.
 
 ### What is the purpose of the dataset?
 
@@ -26,11 +26,11 @@ This dataset serves as a reference for the surface locations of oil and gas well
 
 ### What does the dataset represent?
 
-Points in this dataset include the API code, well and company name, account number, filed number, field name, elevation, locations coordinates, lease numbers, well type and status, total cumulative oil, gas and water, and many other attributes.
+Points in this dataset include the API code, well and operator, field name, elevation, locations coordinates, lease numbers, well type and status, total cumulative oil, gas and water, and many other attributes.
 
 ### How was the dataset created?
 
-This dataset was developed by contractors sponsored in part by the U.S. Department of Energy and the Ground Water Protection Council. It is actively maintained by the DOGM. Updated oil and gas well information is added to this dataset automatically on a nightly basis.
+This dataset was developed by contractors sponsored in part by the U.S. Department of Energy and the Ground Water Protection Council. It is actively maintained by the OGM. Updated oil and gas well information is added to this dataset automatically on a nightly basis.
 
 ### How reliable and accurate is the dataset?
 
@@ -40,11 +40,11 @@ This dataset is the most current and complete representation of oil and gas well
 
 ### Data Source
 
-DOGM
+OGM
 
 ### Host
 
-DOGM
+OGM
 
 ## Restrictions
 
