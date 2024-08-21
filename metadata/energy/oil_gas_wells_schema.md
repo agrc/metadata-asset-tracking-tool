@@ -32,11 +32,11 @@ Elevation of the well at ground level.
 
 ### kelly_elev
 
-<!--- No definition for this field. --->
+Elevation of the Kelly Bushing (KB).
 
 ### drkfloor_elev
 
-<!--- No definition for this field. --->
+Elevation of the Derrick Floor, an elevated deck on which the rig crew work.
 
 ### coordssurf_n
 
@@ -120,11 +120,18 @@ County the well is located in.
 
 ### confidential
 
-<!--- No definition for this field. --->
+If the well is in confidential status (yes or no).
+
+Whether or not the well is in confidential status.
+
+Values:
+
+- Yes
+- No
 
 ### confreldate
 
-<!--- No definition for this field. --->
+Confidential status release date for the well.
 
 ### leasenumber
 
@@ -202,15 +209,15 @@ Values:
 
 ### totcum_oil
 
-<!--- No definition for this field. --->
+Total cumulative oil.
 
 ### totcum_gas
 
-<!--- No definition for this field. --->
+Total cumulative gas.
 
 ### totcum_water
 
-<!--- No definition for this field. --->
+Total cumulative water.
 
 ### indiantribe
 
@@ -231,7 +238,7 @@ Values:
 
 ### unitname
 
-<!--- No definition for this field. --->
+Federal unit name.
 
 ### gisstatustype
 
@@ -239,7 +246,7 @@ Values:
 
 ### origcompldate
 
-<!--- No definition for this field. --->
+Date the well was originally completed.
 
 ### jurisdiction
 
