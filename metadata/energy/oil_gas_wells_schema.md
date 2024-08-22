@@ -209,15 +209,15 @@ Values:
 
 ### totcum_oil
 
-Total cumulative oil.
+Total cumulative oil in barrels (BBLS).
 
 ### totcum_gas
 
-Total cumulative gas.
+Total cumulative gas in thousand cubic feet (MCF).
 
 ### totcum_water
 
-Total cumulative water.
+Total cumulative water in barrels (BBLS).
 
 ### indiantribe
 
