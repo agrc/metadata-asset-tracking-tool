@@ -1,6 +1,6 @@
 # Title
 
-Utah County Parcels LIR
+Wasatch County Parcels LIR
 
 ## ID
 
