@@ -12,7 +12,7 @@ Surface location of oil and gas wells from the Department of Natural Resources, 
 
 ## Summary
 
-This dataset contains point locations of oil and gas wells from the Utah Oil, Gas, and Mining Division (UDOGM) at the Utah Department of Natural Resources. Points contain attributes such as the API code, well and company name, and well type and status.
+This dataset contains point locations of oil and gas wells from the Utah Oil, Gas, and Mining Division (OGM) at the Utah Department of Natural Resources. Points contain attributes such as the API code, well and company name, and well type and status.
 
 ## Description
 
@@ -34,7 +34,7 @@ This dataset was developed by contractors sponsored in part by the U.S. Departme
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete representation of oil and gas wells in Utah. Questions or concerns about this dataset can be directed to [our team](https://gis.utah.gov/contact/) or [DOGM](https://ogm.utah.gov/og-contact-us/).
+This dataset is the most current and complete representation of oil and gas wells in Utah. Questions or concerns about this dataset can be directed to [our team](https://gis.utah.gov/contact/) or [OGM](https://ogm.utah.gov/og-contact-us/).
 
 ## Credits
 
