@@ -12,7 +12,7 @@ Points dataset of the corners of the Public Land Survey System sections.
 
 ## Summary
 
-Point dataset that depicts the Public Land Survey System (PLSS) for the State of Utah and is based on the Geographic Coordinate Data Base (GCDB). This dataset was created to provide continuous cadastre data for the state of Utah and is the CadNSDI Version 2.0 2015 of the Utah GCDB.
+Point dataset that depicts the Public Land Survey System (PLSS) for the State of Utah and is based on the Geographic Coordinate Data Base (GCDB). This dataset was created as part of the effort to provide continuous cadastre data for the state of Utah.
 
 ## Description
 
@@ -22,11 +22,13 @@ Originally established in 1785 and currently administered by the Bureau of Land 
 
 ### What is the purpose of the dataset?
 
-The PLSS serves as the backbone for all descriptions of private property and public land boundaries across Utah. Given their foundational role in legal property descriptions, it is imperative that these corner locations remain correct, precise, and readily available. By maintaining the accuracy of these corners and making their locations easily accessible, the potential for boundary discrepancies and disputes is significantly reduced, fostering greater clarity and confidence in land ownership and boundary delineation.
+The PLSS corner points serve as the backbone for all descriptions of private property and public land boundaries in Utah. Maintaining the accuracy of these corners and making their locations easily accessible reduces the potential for boundary discrepancies and disputes.
 
-To facilitate this crucial task, UGRC has developed and maintained the [PLSS web application](https://plss.utah.gov/) since 2013, serving as a vital resource for surveyors across the state. Initially designed to provide access to PLSS monument record sheets, the app has since evolved to enable surveyors to upload their own monument record sheets. Continual improvements are made to meet the evolving needs of surveyors, ensuring that the app remains a comprehensive and user-friendly tool for accessing critical survey data. You can read more about the application in our [application portfolio highlights](https://gis.utah.gov/solutions/for-government/application-portfolio-highlights/#plss-monument-records).
+To facilitate this crucial task, UGRC developed the [PLSS web application](https://plss.utah.gov/) in 2013. Initially designed to provide access to PLSS monument record sheets, the app has since evolved to enable surveyors to upload their own monument record sheets. UGRC makes continual improvements to ensure the app remains a comprehensive and user-friendly tool for accessing critical survey data. You can read more about the application in our [application portfolio highlights](https://gis.utah.gov/solutions/for-government/application-portfolio-highlights/#plss-monument-records).
 
 ### What does the dataset represent?
+
+Each point in this dataset represents the corner location of a PLSS section. More information about how corner data was surveyed and collected can be found on the [PLSS web application](https://plss.utah.gov/).
 
 ### How was the dataset created?
 
