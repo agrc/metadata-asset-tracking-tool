@@ -8,4 +8,4 @@ Utah County Parcels Field Definitions
 
 ### OWNERNAME
 
-<!--- No definition for this field --->
+Name of the owner of the parcel.

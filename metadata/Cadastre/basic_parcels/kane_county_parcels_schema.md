@@ -8,8 +8,4 @@ Kane County Parcels Field Definitions
 
 ### ZONING
 
-<!--- No definition for this field --->
-
-### ACCOUNT_NUM
-
-<!--- No definition for this field. --->
+Zoning district for a given parcel.
