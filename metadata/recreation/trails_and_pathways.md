@@ -12,7 +12,7 @@ Polyline dataset of established motorized and non-motorized trails in Utah.
 
 ## Summary
 
-Utah Trails and Pathways contains off-road recreational trail features that are primarily used by hikers, pedestrians, and mountain bikers. UGRC developed this dataset using data from a variety of sources including Orbital View, the National Park Service, and the US Forest Service.
+Utah Trails and Pathways contains off-road recreational trail features that are primarily used by hikers, pedestrians, and mountain bikers. UGRC developed this dataset using data from a variety of sources including Orbital View, the National Park Service, US Forest Service, as well as input from state agencies and metropolitan planning organizations.
 
 ## Description
 
