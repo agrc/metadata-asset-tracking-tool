@@ -18,7 +18,7 @@ This dataset contains Utah State Senate district boundaries for the years 2022-2
 
 ### What is the dataset?
 
-The [Utah State Senate](https://senate.utah.gov/) is comprised of 29 men and women elected to four-year terms. This dataset shows the geographic boundaries of Senate districts that will be used from 2022 to 2032. General voter precinct boundaries are not included in this dataset, but can be found in the [Utah Ballot Areas](https://gis.utah.gov/products/sgid/political/voter-precincts/) dataset available on the SGID.
+The [Utah State Senate](https://senate.utah.gov/) is comprised of 29 Senators elected to four-year terms. This dataset shows the geographic boundaries of Senate districts that will be used from 2022 to 2032. General voter precinct boundaries are not included in this dataset, but can be found in the [Utah Ballot Areas](https://gis.utah.gov/products/sgid/political/voter-precincts/) dataset available on the SGID.
 
 ### What is the purpose of the dataset?
 
