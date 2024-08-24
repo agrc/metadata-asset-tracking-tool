@@ -12,7 +12,7 @@ Polyline dataset of established motorized and non-motorized trails in Utah.
 
 ## Summary
 
-Utah Trails and Pathways contains off-road recreational trail features that are primarily used by hikers, pedestrians, and mountain bikers. UGRC developed this dataset using data from a variety of sources including Orbital View, the National Park Service, US Forest Service, as well as input from state agencies and metropolitan planning organizations.
+Utah Trails and Pathways contains off-road recreational trail features that are primarily used by hikers, pedestrians, and mountain bikers. UGRC developed this dataset using data from a variety of sources including federal agencies, state agencies, and metropolitan planning organizations.
 
 ## Description
 
@@ -34,9 +34,7 @@ UGRC created this dataset using map data purchased from Orbital View by the GOED
 
 ### How reliable and accurate is the dataset?
 
-Although it is a work in progress, this dataset represents a substantial starting point to integrate additional trail systems from other local, state, and federal agencies. The success of this effort will rely heavily on local government and land stewards to review and continue to improve upon this data.
-
-<!--- This is the original language of the metadata. Is this dataset still considered a "starting point"? Are we relying on local government and land stewards to maintain this dataset, or are we the primary driving force in updating and improving it? -->
+New trails and pathways are added to this dataset on a regular basis, however, this dataset is still a work-in-process and does not represent all trails and pathways in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -46,9 +44,9 @@ Although it is a work in progress, this dataset represents a substantial startin
 - Local Government Authorities
 - US Forest Service
 - National Park Service
-- Orbital View
 - State agencies
 - Metropolitan Planning Organizations
+
 ### Host
 
 UGRC
