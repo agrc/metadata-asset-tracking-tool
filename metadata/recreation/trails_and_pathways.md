@@ -18,7 +18,7 @@ Utah Trails and Pathways contains off-road recreational trail features that are 
 
 ### What is the dataset?
 
-This dataset depicts over 20,000 trail and pathway features used mostly by hikers/pedestrians and bikers. Some Off-Highway Vehicle (OHV) trails may be included. It does not include on-street bike infrastructure, sidewalks, or pedestrian bridges.
+This dataset depicts over 20,000 trail and pathway features used mostly by hikers/pedestrians and bikers. Some Off-Highway Vehicle (OHV) trails may be included. It does not include on-street bike infrastructure, sidewalks, or pedestrian bridges. On-street infrastructure can be found on the [Utah Roads](https://gis.utah.gov/products/sgid/transportation/road-centerlines/) dataset available on the SGID.
 
 ### What is the purpose of the dataset?
 
@@ -30,7 +30,7 @@ Each trail or pathway is represented as a polyline segment that includes attribu
 
 ### How was the dataset created?
 
-UGRC created this dataset using map data purchased from Orbital View by the GOED Office of Outdoor Recreation. Since this original purchase, trails have been added from a variety of sources including the National Park Service, local county authorities, the US Forest Service, and the [Mountainland Association of Governments](https://mountainland.org/). This dataset is maintained by UGRC in collaboration with the [Wasatch Front Regional Council](https://wfrc.org/). Additional trails can be [submitted](https://gis.utah.gov/contact/) to UGRC for inclusion in this map layer.
+UGRC created this dataset using map data purchased from Orbital View by the GOED Office of Outdoor Recreation. Since this original purchase, trails have been added from a variety of sources including the National Park Service, local county authorities, the US Forest Service, the [Mountainland Association of Governments](https://mountainland.org/), the Utah Department of Transportation (UDOT) and the [Wasatch Front Regional Council](https://wfrc.org/) (WFRC). This dataset is maintained by UGRC in collaboration with the [Wasatch Front Regional Council](https://wfrc.org/). Additional trails can be [submitted](https://gis.utah.gov/contact/) to UGRC for inclusion in this map layer.
 
 ### How reliable and accurate is the dataset?
 
