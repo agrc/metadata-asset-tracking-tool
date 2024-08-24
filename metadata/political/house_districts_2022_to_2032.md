@@ -18,7 +18,7 @@ This dataset contains Utah House of Representatives district boundaries for the 
 
 ### What is the dataset?
 
-The [Utah House of Representatives](https://house.utleg.gov/about-the-house/) is comprised of 75 men and women elected to two-year terms. This dataset shows the geographic boundaries of House districts that will be used from 2022 to 2032.
+The [Utah House of Representatives](https://house.utleg.gov/about-the-house/) is comprised of 75 Representatives elected to two-year terms. This dataset shows the geographic boundaries of House districts that will be used from 2022 to 2032.
 
 ### What is the purpose of the dataset?
 
