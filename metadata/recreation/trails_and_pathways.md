@@ -60,7 +60,6 @@ UGRC
 
 - Hiking
 - Mountain Biking
-- OrbitalView
 - Motorized trails
 - Non-motorized trails
 
