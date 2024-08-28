@@ -8,11 +8,11 @@ e909493a-2ab0-465e-83c8-aebbfae4c6e8
 
 ## Brief Summary
 
-Soil types in Utah.
+Soil characteristics of Utah derived from the Soil Survey Geographic Database (SSURGO).
 
 ## Summary
 
-Soil characteristics of Utah derived from the Soil Survey Geographic Database (SSURGO).
+Soil characteristics of Utah derived from the Soil Survey Geographic Database (SSURGO). This dataset represents soil map units as polygons and includes attributes such as soil type and a generalized description of soil texture.
 
 ## Description
 
