@@ -18,11 +18,11 @@ Utah Trails and Pathways contains off-road recreational trail features that are 
 
 ### What is the dataset?
 
-This dataset depicts over 20,000 trail and pathway features used mostly by hikers/pedestrians and bikers. Some Off-Highway Vehicle (OHV) trails may be included. It does not include on-street bike infrastructure, sidewalks, or pedestrian bridges. On-street infrastructure can be found on the [Utah Roads](https://gis.utah.gov/products/sgid/transportation/road-centerlines/) dataset available on the SGID.
+This dataset depicts over 20,000 trail and pathway features used mostly by hikers, pedestrians, and bikers. Some Off-Highway Vehicle (OHV) trails may be included. It does not include on-street bike infrastructure, sidewalks, or pedestrian bridges. On-street infrastructure can be found on the [Utah Roads](https://gis.utah.gov/products/sgid/transportation/road-centerlines/) dataset available on the SGID.
 
 ### What is the purpose of the dataset?
 
-This dataset serves as a resource for recreational and city planning, hiking and mountain biking search engines, citizens, and local government authorities. It is suitable for cartographic and general analytic purposes.
+This dataset serves as a resource for recreational and city planning, hiking and mountain biking search engines, and local government authorities. It is suitable for cartographic and general analytic purposes.
 
 ### What does the dataset represent?
 
