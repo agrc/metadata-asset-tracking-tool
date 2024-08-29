@@ -30,9 +30,7 @@ Each polygon in this dataset represents a geographic area characterized by a spe
 
 ### How was the dataset created?
 
-The SSURGO database is a collection of feature classes, tables, and relationship classes that represent over a century's worth of soil data collected by the [National Cooperative Soil Survey](https://www.nrcs.usda.gov/about/partner-with-us/national-cooperative-soil-survey). UGRC had modified this source data to create a collection of the more widely used SSURGO soil attributes and SSURGO geometry to provide users an overview of Utah soils data.
-
-<!--- How exactly did we modify the data? Did we add/remove any fields? Did we change the header names, etc? The original metadata only mentions that this version is a subset of the original SSURGO data, but doesn't clarify what we changed about it. --->
+The SSURGO database is a collection of feature classes, tables, and relationship classes that represent over a century's worth of soil data collected by the [National Cooperative Soil Survey](https://www.nrcs.usda.gov/about/partner-with-us/national-cooperative-soil-survey). UGRC used a [Soil Data Access Query](https://sdmdataaccess.nrcs.usda.gov/Query.aspx) to create a simplified version of SSURGO that does not rely on relationship classes. This dataset includes the more widely used SSURGO soil attributes and SSURGO geometry to provide users an overview of Utah soils data.
 
 ### How reliable and accurate is the dataset?
 
