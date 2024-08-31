@@ -26,9 +26,13 @@ This data set was developed for the Utah Department of Public Safety Bureau of I
 
 ### How was the dataset created?
 
+UGRC developed this dataset using records from the Utah Chiefs of Police Association and their associated 911 dispatch centers.
+
 Identification of local police departments was obtained from the Utah Chiefs of Police Association and from associated 911 dispatch centers. Boundaries for the police departments are the current municipal boundaries in the SGID. Periodic boundary boundary changes will be made as municipal boundaries change and responsibilities of city police departments will be updated as they become known. Sheriffs Office boundaries are current county boundaries in the SGID minus local police department boundaries.
 
 ### How reliable and accurate is the dataset?
+
+This dataset represents the most current and complete version of municipal law enforcement jurisdiction boundaries in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -45,6 +49,9 @@ UGRC
 ## License
 
 ## Tags
+
+- Police
+- Emergency response
 
 ## Secondary Category
 
