@@ -30,7 +30,7 @@ This dataset represents law enforcement jurisdictions as polygons. Each polygon 
 
 ### How was the dataset created?
 
-UGRC developed this dataset using records from the Utah Chiefs of Police Association and their associated 911 dispatch centers. We used the [Utah Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) layer in the SGID for the municipal police department jurisdictions. Sheriff's Office jurisdiction boundaries were created by erasing these municipal boundaries from the larger [county boundaries](https://gis.utah.gov/products/sgid/boundaries/county/).
+UGRC developed this dataset using records from the Utah Chiefs of Police Association and their associated 911 dispatch centers. We developed the boundaries themselves programmatically using a python script and pre-existing layers in the SGID. We used the [Utah Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) layer for the municipal police department jurisdictions and the [Utah County Boundaries](https://gis.utah.gov/products/sgid/boundaries/county/) layer for the Sheriff's Office jurisdictions.
 
 UGRC maintains this layer in collaboration with local government authorities. Periodic boundary boundary changes will be made as municipal boundaries change and responsibilities of city police departments will be updated as they become known.
 
