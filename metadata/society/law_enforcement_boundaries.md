@@ -8,27 +8,31 @@ Law Enforcement Boundaries
 
 ## Brief Summary
 
-State law enforcement jurisdiction boundaries.
+Polygon dataset of municipal and county-level law enforcement agency jurisdictions.
 
 ## Summary
 
-It shows which law enforcement agency has responsibility in a specific area.
+This dataset contains current areas of responsibility for municipal, county-level, military, and tribal law enforcement entities in Utah. It does not contain state agency jurisdictions.
 
 ## Description
 
 ### What is the dataset?
 
+This dataset contains polygons representing the approximate jurisdictions of law enforcement agencies in Utah such as county sheriffs, city police departments, and tribal police. Jurisdictions for state agencies such as the Division of Wildlife Services or Department of Corrections can be found on the [State Agency Dispatch](https://gis.utah.gov/products/sgid/society/state-agency-dispatch/) layer available on the SGID.
+
 ### What is the purpose of the dataset?
 
-This data set was developed for the Utah Department of Public Safety Bureau of Investigations for use in planning operations throughout the State.
+This dataset was originally developed for the [Utah Department of Public Safety Bureau of Investigations](https://sbi.utah.gov/) for use in planning operations throughout the State. It has been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
+This dataset represents law enforcement jurisdictions as polygons. Each polygon includes attributes such as the name of the law enforcement agency and when the boundary was last updated.
+
 ### How was the dataset created?
 
-UGRC developed this dataset using records from the Utah Chiefs of Police Association and their associated 911 dispatch centers.
+UGRC developed this dataset using records from the Utah Chiefs of Police Association and their associated 911 dispatch centers. We used the [Utah Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) layer in the SGID for the municipal police department jurisdictions. Sheriff's Office jurisdiction boundaries were created by erasing these municipal boundaries from the larger [county boundaries](https://gis.utah.gov/products/sgid/boundaries/county/).
 
-Identification of local police departments was obtained from the Utah Chiefs of Police Association and from associated 911 dispatch centers. Boundaries for the police departments are the current municipal boundaries in the SGID. Periodic boundary boundary changes will be made as municipal boundaries change and responsibilities of city police departments will be updated as they become known. Sheriffs Office boundaries are current county boundaries in the SGID minus local police department boundaries.
+UGRC maintains this layer in collaboration with local government authorities. Periodic boundary boundary changes will be made as municipal boundaries change and responsibilities of city police departments will be updated as they become known.
 
 ### How reliable and accurate is the dataset?
 
