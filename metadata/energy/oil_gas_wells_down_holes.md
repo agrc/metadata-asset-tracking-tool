@@ -10,6 +10,8 @@ Oil and Gas Wells Down Holes
 
 Points dataset of horizontally drilled oil and gas wells from the Oil, Gas, and Mining Division of the Utah Department of Natural Resources.
 
+<!--- The original metadata mentions that this dataset contains bottom hole data for horizontally drilled wells only, but I noticed that under the field "constructtype" some were listed as vertical. Does this refer to something else, or are there vertically drilled wells as well as horizontal ones in this dataset? --->
+
 ## Summary
 
 This dataset contains point locations for horizontally drilled oil and gas bottom holes. Bottom holes, the deepest part of a given well, serve as a useful data point in natural resources analyses and public planning.
@@ -22,9 +24,13 @@ Oil and gas wells in Utah are managed by the Utah Department of Natural Resource
 
 ### What is the purpose of the dataset?
 
-This dataset serves as a reference for the bottom hole locations of horizontally drilled oil and gas wells in Utah.
+This dataset serves as a reference for the bottom hole locations of horizontally drilled oil and gas wells in Utah. It has been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
+
+Points in this dataset contain attributes such as the API number, geographic coordinates, and construction status of the well.
+
+<!--- Do we have a document with field definitions somewhere? If not, that's alright, I was justhinking it might be helpful to include information on what the codes in "constructtype" and constructstatus" mean. --->
 
 ### How was the dataset created?
 
