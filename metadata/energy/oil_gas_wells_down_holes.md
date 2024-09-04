@@ -2,6 +2,8 @@
 
 Oil and Gas Wells Down Holes
 
+<!--- Sometimes the metadata referred to the points as "bottom holes" and other times "down holes". Is there one that is more correct than the other? --->
+
 ## ID
 
 6e9eca28-ff61-4d63-9179-9c0340d27c33
