@@ -32,9 +32,7 @@ Each point in this dataset represents the location of a PSAP communications cent
 
 ### How was the dataset created?
 
-The original dataset was created in December 2004 by geocoding the PSAP addresses provided by the [E911](https://www.fcc.gov/general/9-1-1-and-e9-1-1-services) Executive Committee. Today, this dataset is maintained by UGRC in collaboration with local county and municipal authorities.
-
-<!--- Are there other important details that should be included here? --->
+The original dataset was created in December 2004 by geocoding the PSAP addresses provided by the [E911](https://www.fcc.gov/general/9-1-1-and-e9-1-1-services) Executive Committee. Today, this dataset is maintained by UGRC in collaboration with local county and municipal authorities. Primary PSAP locations are concurrent with locations found on the [911 Master PSAP Registry](https://www.fcc.gov/general/9-1-1-master-psap-registry) maintained by the Federal Communications Commission.
 
 ### How reliable and accurate is the dataset?
 
