@@ -8,39 +8,49 @@ ce969f6a-2a36-4485-8594-ff17d7bd82e6
 
 ## Brief Summary
 
-Point representation of places of interest in Utah that have been derived from OpenStreetMap (OSM)
+Points dataset of places of interest in Utah that have been derived from OpenStreetMap (OSM).
 
 ## Summary
+
+This dataset includes points of interest such as businesses, restaurants, places of worship, airports, parks, schools, and many others that can be found in Utah. The data was derived from OpenStreetMap and is maintained by UGRC.
 
 ## Description
 
 ### What is the dataset?
 
-These data may include businesses, restaurants, places of worship, airports, parks, schools, event centers, apartment complexes, hotels, car dealerships…almost anything that you can find in OSM. There were over 23,000 features in the original dataset (March 2022) and users can directly contribute to it through openstreetmap.org.
+OpenStreetMap ([OSM](https://www.openstreetmap.org/#map=6/45.49/-109.36)) is a free, open data mapping application where users can contribute directly to the data. This dataset contains more than 20,000 points of interest in Utah as derived from OSM.
 
 ### What is the purpose of the dataset?
 
+This layer serves as a general reference for points of interest in Utah and is suitable for cartographic and analytic purposes.
+
+<!--- Does this dataset serve a more specific purpose than this? --->
+
 ### What does the dataset represent?
+
+Each point in this dataset represents the approximate location of a place of interest. Points representing buildings are placed on or near the main structure. Points contain the name of the place, category, county, ZIP code, and street address, where applicable.
 
 ### How was the dataset created?
 
-This point data was generated and filtered from OpenStreetMap (OSM) and is intended to represent places of interest in the state of Utah.
+UGRC originally developed this layer in March 2022 using data from OpenStreetMap (OSM). Currently, this dataset is maintained using a systematic process to download, filter, and organize the data for Utah-based users. A python script first downloads the OSM data from an archive provided by [Geofabrik](https://www.geofabrik.de/). Then, the data is filtered down to specific categories set by UGRC and polygon features are converted to points using an internal centroid.
 
-The Open Source Places layer is created by a Python script that downloads statewide OSM data from a nightly archive provided by Geofabrik. The archive data contains nearly 20 shapefiles, some that are relevant to this dataset and some that aren't.
+UGRC employs spatial filtering methods to ensure the resulting data contains no duplicate points of interest and includes useful fields for the user. We use the [Census Blocks 2020](https://gis.utah.gov/products/sgid/demographic/census-2020-blocks/) layer to ensure that no one Census Block contains two points of interest of the same name. Finally, we add additional fields such as the county, city, ZIP code, and street address using [Near analyses](https://pro.arcgis.com/en/pro-app/latest/tool-reference/analysis/near.htm) and corresponding layers available in the SGID.
 
-The Open Source Places layer is built by filtering the polygon and point data in those shapefiles down to a single point feature class with specific categories and attributes that UGRC determines would be of widest interest. The polygon features (buildings, areas, complexes, etc.) are converted to points using an internal centroid. Spatial filtering is done as the data from multiple shapefiles is combined into a single layer to minimize the occurrence of duplicate features. For example, a restaurant can be represented in OSM as both a point of interest and as a building polygon, the spatial filtering helps reduce the chances that both of these features are present in the final dataset.
-
-Additional de-duplication is performed by using the 'block_id' field as a spatial index to ensure that no two features of the same name exist within a census block. Then, additional fields are created and assigned from UGRC's SGID data (county, city, zip, nearby address, etc.) via point-in-polygon and near analyses. A numeric check is done on the 'name' field to remove features where the name is less than 3 characters long or more than 50% numeric characters. This eliminates several features derived from the buildings layer where the 'name' is simply an apartment complex building number (ex: 3A) or house number (ex: 1612).
-
-Finally, additional attributes (osm_addr, open_hours, phone, website cuisine, etc.) are pulled from the Overpass API and joined to the filtered data using the 'osm_id' field as the join key.
+<!--- This is a pared-down version of the original description of how this dataset was created. Let me know if there is anything missing or if there are extraneous details that don't need to be included. --->
 
 ### How reliable and accurate is the dataset?
+
+This dataset is derived from open source data and reflects user contributions to OSM. Some discrepencies and inaccuracies may exist. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+OSM
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -48,9 +58,15 @@ Finally, additional attributes (osm_addr, open_hours, phone, website cuisine, et
 
 ## Tags
 
+- OpenStreetMap
+- OSM
+- Open Source
+
 ## Secondary Category
 
-## Data Page Link
+## Data Page
+
+[https://gis.utah.gov/products/sgid/society/open-source-places/]
 
 ## Update
 
