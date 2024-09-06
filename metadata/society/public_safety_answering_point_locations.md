@@ -12,9 +12,7 @@ The primary facilities where emergency calls are taken for Next-Generation 911 s
 
 ## Summary
 
-Public Safety Answering Point (PSAP) locations in Utah represent the primary facilities where emergency calls are taken for Next-Generation 911 systems. The Salt Lake County Sheriff Office PSAP is secondary.
-
-<!--- This is from the original metadata. What does "secondary" mean here? Is the Salt Lake County Sheriff's office a subset of this dataset, or do they have their own call center entirely? --->
+This dataset represents the primary facilities where emergency 911 calls are taken.
 
 ## Description
 
