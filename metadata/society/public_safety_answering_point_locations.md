@@ -20,11 +20,11 @@ Public Safety Answering Point (PSAP) locations in Utah represent the primary fac
 
 ### What is the dataset?
 
-This dataset includes point locations placed on or near the main structure of a PSAP facility. These locations are used to determine which communications center will receive a given 911 call as part of the [Next Generation 911](https://www.911.gov/issues/ng911/) system. Next Generation 911 represents a national effort to upgrade and streamline emergency calling and dispatch systems with geospatial data at the core. You can learn more about how PSAP centers are used in NG911 systems through the [911 website](https://www.911.gov/issues/ng911/video-benefits-of-next-generation-911/) and on [our blog](https://gis.utah.gov/blog/2017-12-28-utah-ng911-gis-database/).
+This dataset includes point locations placed on or near the main structure of a PSAP facility. These locations are used to determine which communications center will receive a given 911 call.
 
 ### What is the purpose of the dataset?
 
-This dataset is a central component of public safety planning and emergency response management in Utah. NG911 systems utilize PSAP data to direct 911 calls to the nearest communication center as based on the caller's IP address. This dataset is just one of many used in emergency response; further resources and 911 data can be found on [our website](https://gis.utah.gov/solutions/for-emergency-response/).
+This dataset is a central component of public safety planning and emergency response management in Utah. Communications centers utilize PSAP data to direct 911 calls to the nearest communication center as based on the caller's IP address. This dataset is just one of many used in emergency response; further resources and 911 data can be found on [our website](https://gis.utah.gov/solutions/for-emergency-response/).
 
 ### What does the dataset represent?
 
