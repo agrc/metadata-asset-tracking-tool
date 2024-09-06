@@ -60,3 +60,7 @@ Date the parcel was received by UGRC.
 ### CoParcel_U
 
 <!--- No definition for this field. -->
+
+### ACCOUNT_NUM
+
+<!--- No definition for this field. -->
