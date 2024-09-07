@@ -28,7 +28,7 @@ USGS developed the GNIS in an effort to create a central, national database of s
 
 Each point in this dataset represents the approximate location of a given feature and includes its GNIS name, average elevation, and coordinates. Features are further categorized by feature type (Valley, Summit, Stream, Civil, etc.) and by the USGS 7.5 minute quadrangle they are located in (quad_name).
 
-<!--- Do we know how they decide where to put the points? Many of the points are elongated features such as ridges or streams; how do they choose where to put a singular point for that feature? --->
+<!--- Do we know how they decide where to put the points? Many of the points are elongated features such as rivers or streams; how do they choose where to put a singular point for that feature? --->
 
 ### How was the dataset created?
 
@@ -70,6 +70,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- Will fill this in once I know more. --->
+<!--- Do we have an update schedule for this layer? --->
 
 ### Previous Updates
