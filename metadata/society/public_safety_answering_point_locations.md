@@ -8,7 +8,7 @@ f23b35a9-140d-457d-9b71-640ae365ec0d
 
 ## Brief Summary
 
-The primary facilities where emergency calls are taken for Next-Generation 911 systems.
+The primary facilities where emergency calls are taken for emergency 911 systems.
 
 ## Summary
 
