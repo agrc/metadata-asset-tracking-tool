@@ -22,7 +22,7 @@ OpenStreetMap ([OSM](https://www.openstreetmap.org/#map=6/45.49/-109.36)) is a f
 
 ### What is the purpose of the dataset?
 
-This layer serves as a general reference for points of interest in Utah and is suitable for cartographic and analytic purposes.
+This layer serves as a general reference for points of interest in Utah and is suitable for cartographic and analytic purposes. You can learn more about open source data, how it is used, and how you can participate in the process on [our blog](https://gis.utah.gov/blog/2022-03-21-introducing-open-source-places/).
 
 <!--- Does this dataset serve a more specific purpose than this? --->
 
@@ -54,7 +54,11 @@ UGRC
 
 ## Restrictions
 
+UGRC encourages users to learn more about the Open Database License (ODbL 1.0) this dataset is under and be aware of the regulations prior to using this dataset. You can learn more about ODbL 1.0 on the Open Data Commons [official site](https://opendatacommons.org/licenses/odbl/summary/).
+
 ## License
+
+ODbL 1.0
 
 ## Tags
 
