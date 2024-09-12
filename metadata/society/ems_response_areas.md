@@ -8,9 +8,13 @@ f66983de-8c18-487e-949b-18bb21c3ad6d
 
 ## Brief Summary
 
+Polygon dataset of areas of responsibility for emergency medical services providers.
+
 ## Summary
 
-Emergency Medical Services (EMS) Response Areas in Utah represent the primary agency that will respond to medical emergencies at a given location. The response areas represent a variety of service levels (paramedic, advanced EMT, with or without transport capability, etc.), but generally include 911 scene response.
+This dataset contains polygons
+
+Emergency Medical Services (EMS) Response Areas in Utah represent the primary agency that will respond to medical emergencies at a given location. The response areas represent a variety of service levels (paramedic, advanced EMT, with or without transport capability, etc.).
 
 ## Description
 
