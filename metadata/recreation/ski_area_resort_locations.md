@@ -18,7 +18,7 @@ Point locations for each of Utah's alpine ski areas and resorts. This dataset in
 
 ### What is the dataset?
 
-This dataset contains point locations for alpine ski areas and resorts in Utah as of 2017. The resorts included in this dataset are Alta, Beaver Mountain, Brian Head, Brighton, Cherry Peak, Deer Valley, Eagle Point, Nordic Valley, Park City, Powder Mountain, Snowbasin, Snowbird, Solitude, and  Sundance.
+This dataset contains point locations for alpine ski areas and resorts in Utah as of 2017. The resorts included in this dataset are Alta, Beaver Mountain, Brian Head, Brighton, Cherry Peak, Deer Valley, Eagle Point, Nordic Valley, Park City, Powder Mountain, Snowbasin, Snowbird, Solitude, and Sundance.
 
 ### What is the purpose of the dataset?
 
