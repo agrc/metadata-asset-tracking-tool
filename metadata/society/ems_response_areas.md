@@ -12,25 +12,29 @@ Polygon dataset of areas of responsibility for emergency medical services provid
 
 ## Summary
 
-This dataset contains polygons
-
-Emergency Medical Services (EMS) Response Areas in Utah represent the primary agency that will respond to medical emergencies at a given location. The response areas represent a variety of service levels (paramedic, advanced EMT, with or without transport capability, etc.).
-
 ## Description
 
 ### What is the dataset?
 
+This dataset contains polygons representing areas of responsibility for emergency medical services providers. These providers may include fire departments, volunteer ambulance services, city and county first responders, and public safety organizations.
+
 ### What is the purpose of the dataset?
 
-The dataset was created to provide response recommendations for the Next-Generation 911 system
+The dataset was created to provide response recommendations for the Next-Generation 911 system implemented in Utah in 2017. Next Generation 911 represents a national effort to upgrade and streamline emergency calling and dispatch systems with geospatial data at the core. You can learn more about how PSAP centers are used in NG911 systems through the [911 website](https://www.911.gov/issues/ng911/video-benefits-of-next-generation-911/) and on [our blog](https://gis.utah.gov/blog/2017-12-28-utah-ng911-gis-database/).
+
+<!--- Does this dataset have anything to do with NG911? The original metadata mentioned that that was why this dataset was created, but thought I'd double check. I've had a few datasets that I thought were related to NG911 but turned out not to be XD --->
 
 ### What does the dataset represent?
 
+Each polygon in this dataset indicates the general geographic area where a particular emergency services entity will respond to a 911 call.
+
 ### How was the dataset created?
 
-and was compiled from a variety of data sources. The data was compiled using written descriptions from the licensing database of the Bureau of Emergency Medical Services and Preparedness ([BEMSP](https://ems.utah.gov/)), which is part of the Utah Department of Health and Human Services ([DHHS](https://dhhs.utah.gov/)). In some instances, the BEMSP data was incomplete or the written descriptions were inaccurate, contradictory, ambiguous, or failed to close. To make the data more complete, computer-aided dispatch (CAD) data from within the state was used to resolve conflicts, fill in gaps, and improve completeness.
+UGRC compiled this dataset using written descriptions from the licensing database of the Bureau of Emergency Medical Services and Preparedness ([BEMSP](https://ems.utah.gov/)), a component of the Utah Department of Health and Human Services ([DHHS](https://dhhs.utah.gov/)). Where descriptions were incomplete or contradictory, we used Computer-Aided Dispatch (CAD) data from within the state of Utah to resolve conflicts, fill in gaps, and improve overall accuracy of this dataset.
 
 ### How reliable and accurate is the dataset?
+
+This dataset represents current boundaries utilized by emergency medical services providers. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -49,6 +53,7 @@ UGRC
 ## Tags
 
 - Department of Health and Human Services
+- Bureau of Emergency Medical Services and Preparedness
 - Emergency medical services
 - NG911
 
