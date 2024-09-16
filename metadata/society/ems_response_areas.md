@@ -8,15 +8,19 @@ f66983de-8c18-487e-949b-18bb21c3ad6d
 
 ## Brief Summary
 
-Polygon dataset of areas of responsibility for emergency medical services providers.
+Polygon dataset of areas of responsibility for emergency medical services (EMS) providers.
 
 ## Summary
+
+This dataset represents areas of responsibility for emergency medical services (EMS) providers as polygons. This layer is maintained by UGRC in partnership with local government authorities.
+
+<!--- Do we maintain this dataset with other authorities or groups, or should I just keep it to 'local government authorities'? Are we the ones maintaining this dataset at all? --->
 
 ## Description
 
 ### What is the dataset?
 
-This dataset contains polygons representing areas of responsibility for emergency medical services providers. These providers may include fire departments, volunteer ambulance services, city and county first responders, and public safety organizations.
+This dataset contains polygons representing areas of responsibility for emergency medical services providers. These providers may include fire departments, volunteer ambulance services, city and county first responders, and other public safety organizations.
 
 ### What is the purpose of the dataset?
 
@@ -26,11 +30,11 @@ The dataset was created to provide response recommendations for the Next-Generat
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the general geographic area where a particular emergency services entity will respond to a 911 call.
+Each polygon in this dataset indicates the general geographic area where a particular emergency medical services provider will respond to a 911 call.
 
 ### How was the dataset created?
 
-UGRC compiled this dataset using written descriptions from the licensing database of the Bureau of Emergency Medical Services and Preparedness ([BEMSP](https://ems.utah.gov/)), a component of the Utah Department of Health and Human Services ([DHHS](https://dhhs.utah.gov/)). Where descriptions were incomplete or contradictory, we used Computer-Aided Dispatch (CAD) data from within the state of Utah to resolve conflicts, fill in gaps, and improve overall accuracy of this dataset.
+UGRC compiled this dataset using written descriptions from the licensing database of the Bureau of Emergency Medical Services and Preparedness ([BEMSP](https://ems.utah.gov/)), a bureau of the Utah Department of Health and Human Services ([DHHS](https://dhhs.utah.gov/)). Where descriptions were incomplete or contradictory, we used Computer-Aided Dispatch (CAD) data from within the state of Utah to resolve conflicts, fill in gaps, and improve overall accuracy of this dataset. Today, this dataset is maintained by UGRC in collaboration with local government authorities.
 
 ### How reliable and accurate is the dataset?
 
