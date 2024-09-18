@@ -48,7 +48,7 @@ OGM
 
 ## Restrictions
 
-This dataset has been made available to the public under a CC 4.0 license. For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/). Users are responsible for obtaining their own legal counsel with regard to use of the data in private or public applications.
+This dataset has been made available to the public under a CC 4.0 license. For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/). Users are encouraged to obtain their own legal counsel with regard to use of the data in private or public applications.
 
 ## License
 
