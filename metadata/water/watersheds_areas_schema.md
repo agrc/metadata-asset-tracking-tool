@@ -32,15 +32,23 @@ State or states that the watershed area covers. This dataset includes watersheds
 
 ### hu_10_ds
 
+<!-- No definition for this field --->
+
 ### hu_10_name
 
 Name of the watershed.
 
 ### hu_10_mod
 
+<!-- No definition for this field --->
+
 ### hu_10_type
 
+<!-- No definition for this field --->
+
 ### hu_12_ds
+
+<!-- No definition for this field --->
 
 ### hu_12_name
 
@@ -48,7 +56,11 @@ Contains the sub-watershed name.
 
 ### hu_12_mod
 
+<!-- No definition for this field --->
+
 ### hu _12_type
+
+<!-- No definition for this field --->
 
 ### hu_8_name
 
