@@ -1,8 +1,6 @@
 # Title
 
-Oil and Gas Wells Down Holes
-
-<!--- Sometimes the metadata referred to the points as "bottom holes" and other times "down holes". Is there one that is more correct than the other? --->
+Oil and Gas Wells Bottom Holes
 
 ## ID
 
@@ -10,13 +8,11 @@ Oil and Gas Wells Down Holes
 
 ## Brief Summary
 
-Points dataset of horizontally drilled oil and gas wells from the Oil, Gas, and Mining Division of the Utah Department of Natural Resources.
-
-<!--- The original metadata mentions that this dataset contains bottom hole data for horizontally drilled wells only, but I noticed that under the field "constructtype" some were listed as vertical. Does this refer to something else, or are there vertically drilled wells as well as horizontal ones in this dataset? --->
+Points dataset of bottom hole locations for oil and gas wells in Utah.
 
 ## Summary
 
-This dataset contains point locations for horizontally drilled oil and gas bottom holes. Bottom holes, the deepest part of a given well, serve as a useful data point in natural resources analyses and public planning.
+This dataset contains point locations for oil and gas bottom holes  as derived from the Oil, Gas, and Mining Division of the Utah Department of Natural Resources. Bottom holes, the deepest part of a given well, serve as a useful data point in natural resources analyses and public planning.
 
 ## Description
 
@@ -30,9 +26,7 @@ This dataset serves as a reference for the bottom hole locations of horizontally
 
 ### What does the dataset represent?
 
-Points in this dataset contain attributes such as the API number, geographic coordinates, and construction status of the well.
-
-<!--- Do we have a document with field definitions somewhere? If not, that's alright, I was justhinking it might be helpful to include information on what the codes in "constructtype" and constructstatus" mean. --->
+Points in this dataset contain attributes such as the API number, geographic coordinates, and construction status of the well. Each well is also categorized as horizontal, vertical, or directional (as shown in the constructtype field).
 
 ### How was the dataset created?
 
@@ -53,6 +47,8 @@ OGM
 OGM
 
 ## Restrictions
+
+This dataset has been made available to the public under a CC 4.0 license. For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/). Users are responsible for obtaining their own legal counsel with regard to use of the data in private or public applications.
 
 ## License
 
