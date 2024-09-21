@@ -12,17 +12,17 @@ Points dataset of bottom hole locations for oil and gas wells in Utah.
 
 ## Summary
 
-This dataset contains point locations for oil and gas bottom holes  as derived from the Oil, Gas, and Mining Division of the Utah Department of Natural Resources. Bottom holes, the deepest part of a given well, serve as a useful data point in natural resources analyses and public planning.
+This dataset contains point locations for oil and gas bottom holes as derived from the Oil, Gas, and Mining Division of the Utah Department of Natural Resources. Bottom holes, the deepest part of a given well, serve as a useful data point in natural resources analyses and public planning.
 
 ## Description
 
 ### What is the dataset?
 
-Oil and gas wells in Utah are managed by the Utah Department of Natural Resources [Division of Oil, Gas and Mining](https://ogm.utah.gov/) (OGM). This dataset contains point locations for horizontally drilled oil and gas bottom holes. Other oil and gas well points can be found on the [Utah Oil and Gas Wells](https://gis.utah.gov/products/sgid/energy/oil-gas-wells/) layer available on the SGID.
+Oil and gas wells in Utah are managed by the Utah Department of Natural Resources [Division of Oil, Gas and Mining](https://ogm.utah.gov/) (OGM). This dataset contains point locations for a variety of oil and gas bottom holes including vertically and horizontally drilled holes. Other oil and gas well points can be found on the [Utah Oil and Gas Wells](https://gis.utah.gov/products/sgid/energy/oil-gas-wells/) layer available on the SGID.
 
 ### What is the purpose of the dataset?
 
-This dataset serves as a reference for the bottom hole locations of horizontally drilled oil and gas wells in Utah. It has been made available to the public for general analytic and cartographic purposes.
+This dataset serves as a reference for the bottom hole locations of oil and gas wells in Utah. It has been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
