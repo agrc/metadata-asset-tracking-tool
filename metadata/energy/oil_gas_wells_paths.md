@@ -18,7 +18,7 @@ This dataset contains polyline features representing paths of oil and gas wells 
 
 ### What is the dataset?
 
-Oil and gas wells in Utah are managed by the Utah Department of Natural Resources [Division of Oil, Gas and Mining](https://ogm.utah.gov/) (OGM). This dataset contains polyline drill paths for oil and gas wells. Other oil and gas well data can be found on the SGID [Energy Data Index](https://gis.utah.gov/products/sgid/energy/).
+Oil and gas wells in Utah are managed by the Utah Department of Natural Resources [Division of Oil, Gas and Mining](https://ogm.utah.gov/) (OGM). This dataset contains polyline drill paths for a variety of oil and gas wells, including both horizontally and vertically drilled wells. Other oil and gas well data can be found on the SGID [Energy Data Index](https://gis.utah.gov/products/sgid/energy/).
 
 ### What is the purpose of the dataset?
 
