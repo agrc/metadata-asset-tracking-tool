@@ -30,7 +30,7 @@ Each point in this dataset has been placed on or near the main parking lot of th
 
 ### How was the dataset created?
 
-UGRC created this dataset by digitizing points on top of high resolution aerial photography. The data are maintained by UGRC and are updated as needed.
+UGRC created this dataset by digitizing points on top of high resolution aerial photography. Points were placed on or near the main parking structure for the ski resort area. The data are maintained by UGRC and are updated as needed.
 
 ### How reliable and accurate is the dataset?
 
