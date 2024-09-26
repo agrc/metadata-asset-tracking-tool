@@ -12,15 +12,13 @@ Points dataset of locations of preschool, K-12, and other schools in Utah.
 
 ## Summary
 
-This dataset contains point locations for preschool and K-12 schools in the state of Utah as of the 2019-2020 school year. Colleges, universities, and adult vocational training facilities are not included in the dataset.
-
-<!--- Are there other datasets for other school years? I didn't find any in the Index. If that's the case, then should I direct people to USBE for those interested in data from other school years, or are there more school datasets hiding somewhere? --->
+This dataset contains point locations for preschool and K-12 schools in the state of Utah as of the 2023-2024 school year. Colleges, universities, and adult vocational training facilities are not included in the dataset.
 
 ## Description
 
 ### What is the dataset?
 
-The dataset includes public and private K-12 school locations in Utah. Public schools also include enrollment and demographic information as reported by the Utah State Board of Education (USBE). While some preschools are included, this dataset does not contain all preschools in Utah. More information regarding schools in Utah can be found on the [USBE website](https://schools.utah.gov/).
+The dataset includes public and private K-12 school locations in Utah. Public schools also include enrollment and demographic information as reported by the Utah State Board of Education (USBE) for the 2019-2020 school year. While some preschools are included, this dataset does not contain all preschools in Utah. More information regarding schools in Utah can be found on the [USBE website](https://schools.utah.gov/).
 
 ### What is the purpose of the dataset?
 
@@ -28,7 +26,7 @@ Educational data are used in public planning, state funds allocation, and in man
 
 ### What does the dataset represent?
 
-Each point in this dataset was placed on or near the main structure of the school facility. Schools that have been marked as 'closed' were not been included in this dataset.
+Each point in this dataset was placed on or near the main structure of the school facility. Schools that have been marked as 'closed' were not been included in this dataset. Point locations of schools in this dataset are current as of the 2023-2024 school year, however, demographic data joined to public schools are as of the 2019-2020 school year.
 
 ### How was the dataset created?
 
@@ -40,7 +38,7 @@ UGRC maintains this dataset in collaboration with USBE. This dataset will be upd
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most complete geospatial resource for preschools and K-12 institutions in Utah, however, some discrepancies may exist in the data. This dataset does not all include all preschools in the state. Demographic data are available for public schools only. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset is the most complete geospatial resource for preschools and K-12 institutions in Utah, however, some discrepancies may exist in the data. This dataset does not all include all preschools in the state. Demographic data are available for public schools only and are not updated year to year with the annual USBE report. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
