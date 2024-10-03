@@ -10,9 +10,7 @@ b9316915-09d1-435c-9b76-2a3df5e667e3
 
 ## Summary
 
-Local neighborhood parks and open spaces. These data do not include state or national parks.
-
-The data was developed for the State Geogrphic Information Database (SGID). State and Federal parks can be located in the SGID in the dataset CADASTRE.LandOwnership.
+Local neighborhood open spaces such as community parks, soccer fields and equestrian areas. This dataset does not include state or national parks.
 
 ## Description
 
@@ -22,13 +20,19 @@ The data was developed for the State Geogrphic Information Database (SGID). Stat
 
 ### What does the dataset represent?
 
+Each polygon represents the approximate geographic extent of a given park and contains attributes such as the name of the park, type (neighborhood park, soccer field, equestrian, etc.), and area in acres.
+
 ### How was the dataset created?
 
 ### How reliable and accurate is the dataset?
 
+This dataset is the most current and complete resource for local and community parks in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns regarding this dataset.
+
 ## Credits
 
 ### Data Source
+
+UGRC
 
 ### Host
 
@@ -40,9 +44,15 @@ UGRC
 
 ## Tags
 
+- Neighborhood parks
+- Community spaces
+- Public recreation
+
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/recreation/local-parks/]
 
 ## Update
 
