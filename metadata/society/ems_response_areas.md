@@ -14,8 +14,6 @@ Polygon dataset of areas of responsibility for emergency medical services (EMS) 
 
 This dataset represents areas of responsibility for emergency medical services (EMS) providers as polygons. This layer is maintained by UGRC in partnership with local government authorities.
 
-<!--- Do we maintain this dataset with other authorities or groups, or should I just keep it to 'local government authorities'? Are we the ones maintaining this dataset at all? --->
-
 ## Description
 
 ### What is the dataset?
@@ -25,8 +23,6 @@ This dataset contains polygons representing areas of responsibility for emergenc
 ### What is the purpose of the dataset?
 
 The dataset was created to provide response recommendations for the Next-Generation 911 system implemented in Utah in 2017. Next Generation 911 represents a national effort to upgrade and streamline emergency calling and dispatch systems with geospatial data at the core. You can learn more about how PSAP centers are used in NG911 systems through the [911 website](https://www.911.gov/issues/ng911/video-benefits-of-next-generation-911/) and on [our blog](https://gis.utah.gov/blog/2017-12-28-utah-ng911-gis-database/).
-
-<!--- Does this dataset have anything to do with NG911? The original metadata mentioned that that was why this dataset was created, but thought I'd double check. I've had a few datasets that I thought were related to NG911 but turned out not to be XD --->
 
 ### What does the dataset represent?
 
