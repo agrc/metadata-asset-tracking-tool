@@ -16,7 +16,11 @@ Local neighborhood open spaces such as community parks, soccer fields and equest
 
 ### What is the dataset?
 
+This dataset contains outdoor community spaces such as parks and soccer fields represented as polygons. Privately owned parks, sports fields, and stadiums are not included in this dataset.
+
 ### What is the purpose of the dataset?
+
+This dataset has been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
