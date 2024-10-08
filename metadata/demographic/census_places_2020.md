@@ -18,7 +18,7 @@ Census Places consist of both legally incorporated cities and Census Designated 
 
 ### What is the dataset?
 
-This dataset contains polygon boundaries for cities, towns, metro townships, and Census Designated Places (CDPs) in Utah. The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." Both these unincorporated communities and legally incorporated municipalities are represented in this dataset.
+This dataset contains polygon boundaries for cities, towns, and Census Designated Places (CDPs) in Utah. The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." Both these unincorporated communities and legally incorporated municipalities are represented in this dataset.
 
 ### What is the purpose of the dataset?
 
