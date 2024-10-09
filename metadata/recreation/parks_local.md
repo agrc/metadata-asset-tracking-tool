@@ -8,15 +8,17 @@ b9316915-09d1-435c-9b76-2a3df5e667e3
 
 ## Brief Summary
 
+Polygon dataset of local community parks.
+
 ## Summary
 
-Local neighborhood open spaces such as community parks, soccer fields and equestrian areas. This dataset does not include state or national parks.
+This dataset contains local neighborhood open spaces such as community parks, soccer fields and equestrian areas. This dataset does not include state or national parks, privately owned parks, or stadiums.
 
 ## Description
 
 ### What is the dataset?
 
-This dataset contains outdoor community spaces such as parks and soccer fields represented as polygons. Privately owned parks, sports fields, and stadiums are not included in this dataset.
+This dataset contains outdoor community spaces such as parks and soccer fields represented as polygons.
 
 ### What is the purpose of the dataset?
 
@@ -27,6 +29,8 @@ This dataset has been made available to the public for general analytic and cart
 Each polygon represents the approximate geographic extent of a given park and contains attributes such as the name of the park, type (neighborhood park, soccer field, equestrian, etc.), and area in acres.
 
 ### How was the dataset created?
+
+UGRC created this dataset in collaboration with county government partners. County officials sent us a list of parks and public spaces to be included, and we digitized these places as polygons on top of [NAIP imagery](https://naip-usdaonline.hub.arcgis.com/). This dataset is updated as counties submit new parks to be included or existing parks to be removed.
 
 ### How reliable and accurate is the dataset?
 
