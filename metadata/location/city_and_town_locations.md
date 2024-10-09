@@ -4,7 +4,11 @@ Utah City and Town Locations
 
 ## ID
 
+9828bdf0-387c-4653-b965-acddfc92b97f
+
 ## Brief Summary
+
+Points dataset of cities and towns in Utah.
 
 ## Summary
 
@@ -20,9 +24,13 @@ Points representing municipalities, county seats, populated areas, and major jun
 
 ### What does the dataset represent?
 
+Each point in this dataset includes the name of the city or town, the county it is located in, and the type of location (city, town, county seat, etc).
+
 ### How was the dataset created?
 
 ### How reliable and accurate is the dataset?
+
+Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -30,9 +38,9 @@ Points representing municipalities, county seats, populated areas, and major jun
 
 ### Host
 
-## Restrictions
+UGRC
 
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
+## Restrictions
 
 ## License
 
@@ -45,5 +53,7 @@ For more information on usage limitations for this dataset, please see our [disc
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
