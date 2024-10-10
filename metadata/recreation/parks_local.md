@@ -30,7 +30,7 @@ Each polygon represents the approximate geographic extent of a given park and co
 
 ### How was the dataset created?
 
-UGRC created this dataset in collaboration with county government partners. County officials sent us a list of parks and public spaces to be included, and we digitized these places as polygons on top of [NAIP imagery](https://naip-usdaonline.hub.arcgis.com/). This dataset is updated as counties submit new parks to be included or existing parks to be removed.
+UGRC created this dataset in collaboration with county government partners. County officials sent us a list of parks and public spaces to be included, then we digitized these places as polygons on top of [NAIP imagery](https://naip-usdaonline.hub.arcgis.com/) and utilized higher resolution resources as they became available. This dataset is updated as counties submit new parks to be included or existing parks to be removed.
 
 ### How reliable and accurate is the dataset?
 
