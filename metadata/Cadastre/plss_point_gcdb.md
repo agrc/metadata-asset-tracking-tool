@@ -28,7 +28,7 @@ To facilitate this crucial task, UGRC developed the [PLSS web application](https
 
 ### What does the dataset represent?
 
-Each point in this dataset represents the corner location of a PLSS section. More information about how corner data was surveyed and collected can be found on the [PLSS web application](https://plss.utah.gov/).
+Each point in this dataset represents a significant corner location of the PLSS. More information about how corner data was surveyed and collected can be found on the [PLSS web application](https://plss.utah.gov/).
 
 ### How was the dataset created?
 
