@@ -12,15 +12,19 @@ Points dataset of cities and towns in Utah.
 
 ## Summary
 
-Cities, towns, locations, and populated places of Utah
+This dataset contains point locations of cities and town in Utah and includes the city name, county, and basic population information.
 
 ## Description
 
 ### What is the dataset?
 
-This dataset contains points representing municipalities, county seats, populated areas, and major junctions for cartographic purposes. This dataset does not contain polygon boundaries, which can be found in the [Utah Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) layer.
+This dataset contains points representing municipalities, county seats, populated areas, and major junctions in Utah. This dataset does not contain polygon boundaries, which can be found in the [Utah Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) layer.
 
 ### What is the purpose of the dataset?
+
+This dataset has been made available to the public for general analytic and cartographic purposes.
+
+<!--- Does this dataset serve a more specific purpose than this? What do we use the data for? --->
 
 ### What does the dataset represent?
 
@@ -38,6 +42,9 @@ This dataset contains point locations of city and towns only and does not descri
 
 ### Data Source
 
+- UGRC
+- UDOT
+
 ### Host
 
 UGRC
@@ -47,6 +54,8 @@ UGRC
 ## License
 
 ## Tags
+
+- Municipalities
 
 ## Secondary Category
 
