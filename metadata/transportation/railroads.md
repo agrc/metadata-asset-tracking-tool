@@ -12,7 +12,7 @@ Polyline dataset of active and abandoned railway lines in Utah.
 
 ## Summary
 
-Rail tracks, including active and some abandoned lines, across the state.
+This dataset contains polylines representing railway lines in Utah. Features in this dataset include freight railroads, commuter lines, and other forms of rail transportation.
 
 ## Description
 
@@ -22,15 +22,19 @@ This dataset contains polyline features representing active and abandoned railwa
 
 ### What is the purpose of the dataset?
 
+This dataset has been made available to the public for general analytic and cartographic purposes.
+
 ### What does the dataset represent?
 
-The dataset includes cartographic attribution for large scale representations and differentiates between light, heavy, transit, and electrified tracks.
+Each feature in this dataset includes attributes such as railway status, track type (light, heavy, or electrified), and current operator.
 
 ### How was the dataset created?
 
-Railroads in the state of Utah derived from high resolution imagery (including 1 foot resolution color imagery, NAIP, and 1 meter USGS DOQs).
+UGRC created this dataset using high resolution imagery from a variety of sources including the National Agriculture Imagery Program ([NAIP](https://naip-usdaonline.hub.arcgis.com/)) and [USGS orthoimagery](https://www.usgs.gov/faqs/what-digital-orthophoto-quadrangle-doq-or-orthoimage).
 
 ### How reliable and accurate is the dataset?
+
+This dataset is the most current and complete representation of railway lines in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -48,9 +52,16 @@ UGRC
 
 ## Tags
 
+- Railways
+- Commuter rail
+- Public transportation
+- UTA
+
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/transportation/railroads/]
 
 ## Update
 
