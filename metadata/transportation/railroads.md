@@ -8,21 +8,27 @@ Utah Railroads
 
 ## Brief Summary
 
+Polyline dataset of active and abandoned railway lines in Utah.
+
 ## Summary
 
 Rail tracks, including active and some abandoned lines, across the state.
-
-Railroads in the state of Utah derived from high resolution imagery (including 1 foot resolution color imagery, NAIP, and 1 meter USGS DOQs). The dataset includes cartographic attribution for large scale representations and differentiates between light, heavy, transit, and electrified tracks.
 
 ## Description
 
 ### What is the dataset?
 
+This dataset contains polyline features representing active and abandoned railway lines in Utah.
+
 ### What is the purpose of the dataset?
 
 ### What does the dataset represent?
 
+The dataset includes cartographic attribution for large scale representations and differentiates between light, heavy, transit, and electrified tracks.
+
 ### How was the dataset created?
+
+Railroads in the state of Utah derived from high resolution imagery (including 1 foot resolution color imagery, NAIP, and 1 meter USGS DOQs).
 
 ### How reliable and accurate is the dataset?
 
