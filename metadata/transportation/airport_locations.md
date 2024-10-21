@@ -28,7 +28,7 @@ This dataset has been made available to the public for general analytic and cart
 
 ### What does the dataset represent?
 
-Each point on this dataset represents the location of an airport or heliport in Utah. Points were placed on or near the main structure of the airport. The lan_fa_ty field indicates the type of landing facility. Other attributes in this dataset include [enplanement](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger) numbers, usage statistics, and a unique facility ID number (locid).
+Each point on this dataset represents the location of an airport or heliport in Utah. Points were placed on or near the main structure of the airport, runway, or helipad. The lan_fa_ty field indicates the type of landing facility. Other attributes in this dataset include [enplanement](https://www.faa.gov/airports/planning_capacity/passenger_allcargo_stats/passenger) numbers, usage statistics, and a unique facility ID number (locid).
 
 ### How was the dataset created?
 
