@@ -12,7 +12,7 @@ Polyline dataset of active and abandoned railway lines in Utah.
 
 ## Summary
 
-This dataset contains polylines representing railway lines in Utah. Features in this dataset include freight railroads, commuter lines, and other forms of rail transportation.
+This dataset contains polylines representing railway lines in Utah. Features in this dataset includes commercial railroads, commuter lines, and other forms of rail transportation. Information such as current railroad availability, pricing, and schedule, are not included with this layer.
 
 ## Description
 
