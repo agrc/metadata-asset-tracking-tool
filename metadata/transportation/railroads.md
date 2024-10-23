@@ -30,7 +30,7 @@ Each feature in this dataset includes attributes such as railway status, track t
 
 ### How was the dataset created?
 
-UGRC created this dataset using high resolution imagery from a variety of sources including the National Agriculture Imagery Program ([NAIP](https://naip-usdaonline.hub.arcgis.com/)) and [USGS orthoimagery](https://www.usgs.gov/faqs/what-digital-orthophoto-quadrangle-doq-or-orthoimage).
+UGRC created this dataset using high resolution imagery from a variety of sources including the National Agriculture Imagery Program ([NAIP](https://gis.utah.gov/products/sgid/aerial-photography/naip/)) and [USGS orthoimagery](https://www.usgs.gov/faqs/what-digital-orthophoto-quadrangle-doq-or-orthoimage).
 
 ### How reliable and accurate is the dataset?
 
