@@ -32,19 +32,9 @@ Each polygon in this dataset represents the approximate area where natural gas s
 
 UGRC created this dataset using existing natural gas service lines data. We placed a buffer around the service lines to create the approximate zone that those lines could provide natural gas to. This dataset is updated as new natural gas service lines become available.
 
-<!--- The original metadata said this dataset was current as of 2013. Have we maintained it since then? Is it still updated at all? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset is intended for general reference only and is not a comprehensive representation of all natural gas service areas in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
-
-<!--- The original metadata phrased it this way:
-
-"This dataset is a work in progress. AGRC will work with Division of Public Utilities staff to expand the content to include all natural gas supplying utilities within Utah."
-
-Is this still true? Are we still working on this dataset, and is the Division of Public Utilities involved?
-
---->
 
 ## Credits
 
