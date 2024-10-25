@@ -8,15 +8,17 @@ a17c9184-d6dd-4f81-b633-d9c4f0373df2
 
 ## Brief Summary
 
-Utah Inland Port Authority Boundary as described in House Bill 2001. The Utah Inland Port Authority's jurisdictional boundary as provided by UIPA.
+Utah Inland Port Authority Boundary as described in House Bill 2001.
 
 ## Summary
+
+This dataset contains polygon features for all inland ports in Utah.
 
 ## Description
 
 ### What is the dataset?
 
-This dataset contains digital polygon representations of all inland ports in Utah.
+This dataset contains digital polygon representations of all inland ports found in Utah. This dataset contains geographic boundaries only. All other inland port information can be found on the [Utah Inland Port Authority website](https://inlandportauthority.utah.gov/).
 
 ### What is the purpose of the dataset?
 
@@ -24,7 +26,7 @@ This dataset has been made available to the public for general analytic and cart
 
 ### What does the dataset represent?
 
-The polygon features in this dataset indicate the geographic boundaries of existing inland ports in Utah.
+The polygon features in this dataset indicate the geographic boundaries of existing inland ports in Utah and the area in acres.
 
 ### How was the dataset created?
 
