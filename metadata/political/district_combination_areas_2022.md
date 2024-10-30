@@ -22,7 +22,7 @@ Utah District Combination Areas 2022 is the geographic union of the House, Senat
 
 ### What is the purpose of the dataset?
 
-<!--- Gathering more information on this. --->
+This dataset has been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
