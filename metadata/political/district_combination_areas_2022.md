@@ -18,11 +18,11 @@ This dataset contains polygons representing the combination of Utah's state legi
 
 ### What is the dataset?
 
-Utah District Combination Areas 2022 is the geographic union of the House, Senate, U.S. Congressional, and School Board districts. Each polygon created by this union contains a unique combination of the input layers.
+Utah District Combination Areas 2022 is the geographic union of the [House](https://gis.utah.gov/products/sgid/political/state-house-districts/), [Senate](https://gis.utah.gov/products/sgid/political/state-senate-districts/), [U.S. Congressional](https://gis.utah.gov/products/sgid/political/us-congressional-districts/), and [School Board districts](https://gis.utah.gov/products/sgid/political/state-school-board-districts/). Each polygon created by this union contains a unique combination of the input layers.
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general analytic and cartographic purposes.
+This dataset has been made available to the public to make geospatial queries easier and to display multiple political boundaries at once. It is suitable for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
