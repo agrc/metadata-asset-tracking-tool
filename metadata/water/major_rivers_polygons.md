@@ -8,11 +8,11 @@ Utah Major Rivers Polygons
 
 ## Brief Summary
 
-Polygon dataset of rivers wider than 10 feet in Utah.
+Polygon dataset of Utah rivers wider than 10 feet.
 
 ## Summary
 
-This dataset contains rivers wider than ten feet in Utah.
+This dataset contains polygons representing major rivers in Utah. UGRC derived this dataset from the National Hydrography Dataset from the United States Geological Survey. This dataset contains large watercourses only; other water body data such as [lakes](https://gis.utah.gov/products/sgid/water/nhd-lakes/) and [streams](https://gis.utah.gov/products/sgid/water/nhd-streams/) can be found in the [Water Data Index](https://gis.utah.gov/products/sgid/water/) available on the SGID.
 
 ## Description
 
@@ -22,7 +22,7 @@ The NHD provides a nationally consistent framework for addressing and analyzing 
 
 ### What is the purpose of the dataset?
 
-The NHD provides a nationally consistent framework for addressing and analyzing water-related information. River data are also a helpful resource for [cartography](https://19january2021snapshot.epa.gov/sites/static/files/2014-09/documents/utah.pdf), public recreation, and data analysis. NHD-based datasets can be combined with other data layers such as soils, land use, and population to help understand and display their respective effects upon one another. Further water-related data can be found on the SGID [Water Data Index](https://gis.utah.gov/products/sgid/water/).
+The NHD provides a nationally consistent framework for addressing and analyzing water-related information. River data are also a helpful resource for [cartography](https://19january2021snapshot.epa.gov/sites/static/files/2014-09/documents/utah.pdf), public recreation, and data analysis. NHD-based datasets can be combined with other data layers such as soils, land use, and population to help understand and display their respective effects upon one another.
 
 ### What does the dataset represent?
 
