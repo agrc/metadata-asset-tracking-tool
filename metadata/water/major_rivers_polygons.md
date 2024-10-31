@@ -12,35 +12,52 @@ Polygon dataset of rivers wider than 10 feet in Utah.
 
 ## Summary
 
+This dataset contains rivers wider than ten feet in Utah.
+
 ## Description
-
-Major rivers wider than 10 feet in Utah with names and unique identifies that could be related to the NHD.
-
-To represent the major rivers wider than 10 feet in Utah with names and unique identifies that could be related to the NHD. The NHD is a national framework for assigning reach addresses to water-related entities, such as industrial discharges, drinking water supplies, fish habitat areas, wild and scenic rivers. Reach addresses establish the locations of these entities relative to one another within the NHD surface water drainage network, much like addresses on streets. Once linked to the NHD by their reach addresses, the upstream/downstream relationships of these water-related entities--and any associated information about them--can be analyzed using software tools ranging from spreadsheets to geographic information systems (GIS). GIS can also be used to combine NHD-based network analysis with other data layers, such as soils, land use and population, to help understand and display their respective effects upon one another. Furthermore, because the NHD provides a nationally consistent framework for addressing and analysis, water-related information linked to reach addresses by one organization (national, state, local) can be shared with other organizations and easily integrated into many different types of applications to the benefit of all.
-
-These data were extracted from the NHD in order to better represent the major rivers wider than 10 feet in Utah The National Hydrography Dataset (NHD) is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. NHD data was originally developed at 1:100,000-scale and exists at that scale for the whole country. This high-resolution NHD, generally developed at 1:24,000/1:12,000 scale, adds detail to the original 1:100,000-scale NHD. (Data for Alaska, Puerto Rico and the Virgin Islands was developed at high-resolution, not 1:100,000 scale.) Local resolution NHD is being developed where partners and data exist. The NHD contains reach codes for networked features, flow direction, names, and centerline representations for areal water bodies. Reaches are also defined on waterbodies and the approximate shorelines of the Great Lakes, the Atlantic and Pacific Oceans and the Gulf of Mexico. The NHD also incorporates the National Spatial Data Infrastructure framework criteria established by the Federal Geographic Data Committee.
 
 ### What is the dataset?
 
+The NHD provides a nationally consistent framework for addressing and analyzing water-related information. UGRC has modified the source data to provide a more focused subset for Utah-based users. This dataset includes major rivers in Utah as well as some lakes and ponds.
+
 ### What is the purpose of the dataset?
+
+The NHD provides a nationally consistent framework for addressing and analyzing water-related information. River data are also a helpful resource for [cartography](https://19january2021snapshot.epa.gov/sites/static/files/2014-09/documents/utah.pdf), public recreation, and data analysis. NHD-based datasets can be combined with other data layers such as soils, land use, and population to help understand and display their respective effects upon one another. Further water-related data can be found on the SGID [Water Data Index](https://gis.utah.gov/products/sgid/water/).
 
 ### What does the dataset represent?
 
+Each polygon feature in this dataset represents the length and area of a major river in Utah.
+
 ### How was the dataset created?
 
+The United States Geological Survey ([USGS](usgs.gov)) maintains the current high-resolution NHD at a 1:24,000 scale. The NHD was originally created in the late 1990s by USGS in collaboration with the Environmental Protection Agency ([EPA](https://www.epa.gov/)) at a 1:100,000 scale. Both the high-resolution and moderate scale datasets are available nationwide.
+
+More information on the history of this database can be found in [official publications](https://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Documentation/History/Making_the_Digital_Water_Flow.pdf) from USGS and on the [NHD website](https://www.usgs.gov/national-hydrography/national-hydrography-dataset#:~:text=In%20the%20late%201990s%2C%20the,and%20those%20of%20other%20medium).
+
 ### How reliable and accurate is the dataset?
+
+The NHD is the primary source for hydrographic data in the United States. It represents a nationally consistent, interoperable dataset that facilitates accurate data sharing. Questions or concerns about this dataset can be directed to [USGS](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution). Utah-specific inquiries can be directed to [our team](https://gis.utah.gov/contact/) at UGRC.
 
 ## Credits
 
 ### Data Source
 
+- USGS
+- UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Hydrography
+- Hydrology
+- USGS
 
 ## Secondary Category
 
