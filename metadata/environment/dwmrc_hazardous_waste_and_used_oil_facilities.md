@@ -4,6 +4,8 @@ Utah DWMRC Hazardous Waste and Used Oil Facilities
 
 ## ID
 
+8e9e6310622043bca68ffc2298959126
+
 ## Brief Summary
 
 ## Summary
@@ -35,7 +37,11 @@ DEQ
 
 ### Data Source
 
+DWMRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -43,12 +49,20 @@ DEQ
 
 ## Tags
 
+- Waste management
+- Recycling
+- Waste disposal
+
 ## Secondary Category
 
 ## Data Page Link
 
+[https://gis.utah.gov/products/sgid/environment/hazardous-waste-facilities/]
+
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
