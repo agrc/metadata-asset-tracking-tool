@@ -8,7 +8,7 @@ Utah DWMRC Hazardous Waste and Used Oil Facilities
 
 ## Brief Summary
 
-Points dataset of sites that generate, treat, store, or dispose of hazardous waste or used oil in Utah.
+Points dataset of facilities that generate, treat, store, or dispose of hazardous waste or used oil in Utah.
 
 ## Summary
 
@@ -16,11 +16,11 @@ Points dataset of sites that generate, treat, store, or dispose of hazardous was
 
 ### What is the dataset?
 
-This dataset contains point locations of facilities in Utah that generate, treat, store, or dispose of hazardous waste. It also contains sites that transport, market, or recycle used oil.
+Proper hazardous waste and used oil management and disposal are key to protecting human health and the environment. This dataset contains point locations of facilities in Utah that generate, treat, store, or dispose of hazardous waste. It also contains sites that transport, market, or recycle used oil.
 
 ### What is the purpose of the dataset?
 
-The Hazardous Waste and Used Oil programs regulate the activities of facilities that handle hazardous waste and used oil. Regulation of these facilities is the framework in which the facilities can operate while protecting human health and the environment.
+This dataset is used in many waste disposal information lookups, recycling maps, and other resources. These data points have been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
@@ -28,14 +28,11 @@ Each point location in this dataset represents a hazardous waste or used oil fac
 
 ### How was the dataset created?
 
+The Divison of Waste Management and Radiation Control (DWMRC) derived this dataset from information submitted by individual waste management facilities.
+
 ### How reliable and accurate is the dataset?
 
-Comments, questions, compliments, or concerns can be directed to:
-
-Thomas Ball
-[TBall@utah.gov]
-801-536-0251
-DEQ
+This dataset is the most current and complete version of hazardous waste and used oil facility locations in Utah. Questions or concerns about this dataset can be directed to [UGRC](https://gis.utah.gov/contact/) or representatives at [DWMRC](https://deq.utah.gov/waste-management-and-radiation-control/contacts-utah-division-of-waste-management-and-radiation-control).
 
 ## Credits
 
