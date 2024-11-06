@@ -12,6 +12,8 @@ Points dataset of facilities that generate, treat, store, or dispose of hazardou
 
 ## Summary
 
+This dataset contains point locations of facilities in Utah that generate, treat, store, or dispose of hazardous waste. UGRC maintains this dataset in partnership with the Utah Division of Waste Management and Radiation Control (DWMRC).
+
 ## Description
 
 ### What is the dataset?
@@ -28,7 +30,9 @@ Each point location in this dataset represents a hazardous waste or used oil fac
 
 ### How was the dataset created?
 
-The Divison of Waste Management and Radiation Control (DWMRC) derived this dataset from information submitted by individual waste management facilities.
+The Divison of Waste Management and Radiation Control (DWMRC) derived this dataset from information submitted by individual waste management facilities. This dataset nightly through an automated script with new facilities and information updates.
+
+<!--- This is what I gathered from the original metadata, but are there other details here that would be helpful to include? --->
 
 ### How reliable and accurate is the dataset?
 
@@ -64,6 +68,6 @@ UGRC
 
 ### Update Schedule
 
-This dataset is updated as needed.
+This dataset is updated on a nightly basis.
 
 ### Previous Updates
