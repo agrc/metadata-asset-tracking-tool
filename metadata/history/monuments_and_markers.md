@@ -30,20 +30,17 @@ Each point in this dataset represents the location of a monument or marker. Poin
 
 ### How was the dataset created?
 
-<!--- How was the dataset created? The data source mentioned is "UDSH". Does this refer to the Utah Historical Society? (Formerly Utah Division of State History) --->
+The Utah State Legislature directed the Utah Historical Society (UHS) to create this database in 1996 as part of Utah's statehood centennial commemoration. UHS aggregated data submitted by employees assigned to gather monument and marker data in various counties across Utah. UHS maintains this dataset in collaboration with historians, local government authorities, and UGRC.
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete compilation of monuments and memorial markers in Utah. However, this dataset is not comprehensive and some discrepancies may exist. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this layer.
-
-<!--- Is this the case for this layer? Or can we say that this dataset is comprehensive? --->
+This dataset is the most current and complete compilation of monuments and memorial markers available in Utah. However, this dataset is not comprehensive and some discrepancies may exist. Please reach out [UHS](https://history.utah.gov/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
-- UGRC
-- UDSH
+- UHS
 
 ### Host
 
