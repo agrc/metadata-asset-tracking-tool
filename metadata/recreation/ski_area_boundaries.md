@@ -8,7 +8,11 @@ Utah Ski Area Boundaries
 
 ## Brief Summary
 
+Polygon dataset of approximate ski resort areas in Utah.
+
 ## Summary
+
+This dataset contains polygon boundaries for all ski resorts in Utah. This dataset contains geographic boundaries only and does not include pricing, availability, or other information about the ski resorts.
 
 ## Description
 
@@ -16,17 +20,19 @@ Polygon boundaries for Utah’s alpine ski areas and resorts for planning and ot
 
 ### What is the dataset?
 
-The resorts included in this dataset are Alta, Beaver Mountain, Brian Head, Brighton, Cherry Peak, Deer Valley, Eagle Point, Nordic Valley, Park City, Powder Mountain, Snowbasin, Snowbird, Solitude, and Sundance. The boundaries are simplified for general cartographic or location purposes and do not depict exact areas of operation, avalanche control, or ownership.
+This dataset includes the following ski area resorts: Alta, Beaver Mountain, Brian Head, Brighton, Cherry Peak, Deer Valley, Eagle Point, Nordic Valley, Park City, Powder Mountain, Snowbasin, Snowbird, Solitude, and Sundance. The boundaries are simplified for general cartographic or location purposes and do not depict exact areas of operation, avalanche control, or ownership.
 
 ### What is the purpose of the dataset?
 
+This dataset has been made available for general analytic and cartographic purposes.
+
 ### What does the dataset represent?
 
-Each feature carries the name of the ski area and a ‘four color’ attribute for symbolization.
+Polygons in this dataset represent approximate geographical boundaries for ski resorts in Utah. Each feature includes the name of the ski area and a ‘four color’ field for symbolization.
 
 ### How was the dataset created?
 
-UGRC created this dataset by digitizing points on top of high resolution aerial photography and terrain models. These boundaries are current as of 2016-2017 season.
+UGRC created this dataset by digitizing points on top of high resolution aerial photography and terrain models. These boundaries are current as of 2016-2017 season. We maintain this dataset and update it as needed.
 
 ### How reliable and accurate is the dataset?
 
@@ -36,13 +42,21 @@ These data are approximate boundaries for general reference or cartographic purp
 
 ### Data Source
 
+UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Winter sports
+- Tourism
+- Winter recreation
 
 ## Secondary Category
 
