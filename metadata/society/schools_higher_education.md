@@ -12,6 +12,8 @@ Point locations of public and private colleges and universities, technical colle
 
 ## Summary
 
+This dataset includes institutions of higher learning such as universities, technical colleges, and private institutions. This dataset does not include preschools, K-12, or high schools. Those point locations can be found on our [Schools PreK to 12](https://gis.utah.gov/products/sgid/society/pre-k-through-12/) dataset.
+
 ## Description
 
 ### What is the dataset?
@@ -24,7 +26,7 @@ This dataset has been made available for general cartographic and analytic purpo
 
 ### What does the dataset represent?
 
-Each point location has been placed on or near the main administrative building of the educational institution. Features in this dataset include the institution name, type, address, phone number, and website.
+Each point represents the [address point](https://gis.utah.gov/products/sgid/location/address-points/) of the institution as derived by the UGRC Geocoding API. Features in this dataset include the institution name, type, address, phone number, and website.
 
 ### How was the dataset created?
 
