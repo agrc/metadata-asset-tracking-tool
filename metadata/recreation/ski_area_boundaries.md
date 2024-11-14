@@ -16,8 +16,6 @@ This dataset contains polygon boundaries for all ski resorts in Utah. This datas
 
 ## Description
 
-Polygon boundaries for Utah’s alpine ski areas and resorts for planning and other general purposes. Created by staff of Utah AGRC.
-
 ### What is the dataset?
 
 This dataset includes the following ski area resorts: Alta, Beaver Mountain, Brian Head, Brighton, Cherry Peak, Deer Valley, Eagle Point, Nordic Valley, Park City, Powder Mountain, Snowbasin, Snowbird, Solitude, and Sundance. The boundaries are simplified for general cartographic or location purposes and do not depict exact areas of operation, avalanche control, or ownership.
