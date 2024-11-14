@@ -26,7 +26,7 @@ This dataset has been made available for general cartographic and analytic purpo
 
 ### What does the dataset represent?
 
-Each point represents the [address point](https://gis.utah.gov/products/sgid/location/address-points/) of the institution as derived by the UGRC Geocoding API. Features in this dataset include the institution name, type, address, phone number, and website.
+Each point represents the [address point](https://gis.utah.gov/products/sgid/location/address-points/) of the institution as derived by the UGRC API's geocoding endpoint. Features in this dataset include the institution name, type, address, phone number, and website.
 
 ### How was the dataset created?
 
