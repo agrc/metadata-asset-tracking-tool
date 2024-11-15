@@ -30,7 +30,7 @@ Polygons in this dataset represent approximate geographical boundaries for ski r
 
 ### How was the dataset created?
 
-UGRC created this dataset by digitizing points on top of high resolution aerial photography and terrain models. These boundaries are current as of 2016-2017 season. We maintain this dataset and update it as needed.
+UGRC created this dataset by digitizing points on top of high resolution aerial photography and terrain models. We maintain this dataset and update it as needed.
 
 ### How reliable and accurate is the dataset?
 
