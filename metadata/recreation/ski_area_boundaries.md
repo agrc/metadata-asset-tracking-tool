@@ -26,7 +26,7 @@ This dataset has been made available for general analytic and cartographic purpo
 
 ### What does the dataset represent?
 
-Polygons in this dataset represent approximate geographical boundaries for ski resorts in Utah. Each feature includes the name of the ski area and a ‘four color’ field for symbolization.
+Polygons in this dataset represent approximate geographical boundaries for ski resorts in Utah. Each feature includes the name of the ski area and a `four color` field for symbolization.
 
 ### How was the dataset created?
 
