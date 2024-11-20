@@ -12,7 +12,7 @@ Points dataset of cities and towns in Utah.
 
 ## Summary
 
-This dataset contains point locations of cities and town in Utah and includes the city name, county, and basic population information.
+This dataset contains point data for cities, towns, and non-populated locations in Utah and includes the name, county, and basic population information.
 
 ## Description
 
@@ -22,13 +22,11 @@ This dataset contains points representing municipalities, county seats, populate
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general analytic and cartographic purposes.
-
-<!--- Does this dataset serve a more specific purpose than this? What do we use the data for? --->
+This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
-Each point in this dataset includes the name of the city or town, the county it is located in, and the type of location (city, town, county seat, etc). The approximate population numbers included with each city and town are from the 2010 Census.
+Each point in this dataset includes the name of the city or town, the county it is located in, and the type of location (city, town, county seat, etc). The approximate population numbers included with each city and town are from the 2020 Census.
 
 ### How was the dataset created?
 
@@ -36,7 +34,7 @@ UGRC created this dataset by digitizing points from [Utah Department of Transpor
 
 ### How reliable and accurate is the dataset?
 
-This dataset contains point locations of city and towns only and does not describe the full geographic extent of municipalities in Utah. While cities and towns are correct, population numbers may not be current. Users should refer to the official [Census layers](https://gis.utah.gov/products/sgid/demographic/) for current population estimates. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset contains point locations of city and towns only and does not describe the full geographic extent of municipalities in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
