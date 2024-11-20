@@ -22,25 +22,25 @@ This dataset displays transmission lines in Utah as digital polylines. Features 
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general analytic and cartographic purposes.
+This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
 Each polyline in this dataset represents the path of an electrical transmission line in Utah. Features in this dataset are labelled by their line type as indicated by the "layer" field.
 
 KV = Voltage of the transmission line in kilovolts.
-SUB-PP =
+SUB-PP = substation power plant?
 SUB-CO =
 
 <!--- Do we know what these abbreviations stand for in the attribute table? --->
 
 ### How was the dataset created?
 
-<!--- I would presume electrical companies or facilities sent us their data? But do we know for sure how this dataset was created? --->
+UGRC derived this dataset from a schematic CAD drawing and
 
 ### How reliable and accurate is the dataset?
 
-This is the most current and complete geospatial representation of electrical transmission lines available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This static dataset represents approximate locations only. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -69,6 +69,6 @@ UGRC
 
 ### Update Schedule
 
-This dataset is updated as needed.
+Static
 
 ### Previous Updates
