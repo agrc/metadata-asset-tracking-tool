@@ -28,17 +28,13 @@ USGS developed the GNIS in an effort to create a central, national database of s
 
 Each point in this dataset represents the approximate location of a given feature and includes its GNIS name, average elevation, and coordinates. Features are further categorized by feature type (Valley, Summit, Stream, Civil, etc.) and by the USGS 7.5 minute quadrangle they are located in (quad_name).
 
-<!--- Do we know how they decide where to put the points? Many of the points are elongated features such as rivers or streams; how do they choose where to put a singular point for that feature? --->
-
 ### How was the dataset created?
 
-The Geographic Names Information System (GNIS) was developed by the U.S. Geological Survey in cooperation with the U.S. Board on Geographic Names (BGN), local governments and other interested organizations.
-
-<!--- Do we maintain this dataset? Is it maintained at all? --->
+The Geographic Names Information System (GNIS) was developed by the U.S. Geological Survey in cooperation with the U.S. Board on Geographic Names (BGN), local governments and other interested organizations. This is a static dataset that is not currently updated by UGRC.
 
 ### How reliable and accurate is the dataset?
 
-This dataset represents the most current and complete version of GNIS named features in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset is static and represents approximate locations only. For the most current data please visit the [USGS data download page](https://www.usgs.gov/programs/national-geospatial-program/national-map). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -70,6 +66,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- Do we have an update schedule for this layer? --->
+Static
 
 ### Previous Updates
