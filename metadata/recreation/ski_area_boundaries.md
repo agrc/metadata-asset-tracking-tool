@@ -22,7 +22,7 @@ This dataset includes the following ski area resorts: Alta, Beaver Mountain, Bri
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available for general analytic and cartographic purposes.
+This dataset has been made available for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
@@ -34,7 +34,7 @@ UGRC created this dataset by digitizing points on top of high resolution aerial 
 
 ### How reliable and accurate is the dataset?
 
-These data are approximate boundaries for general reference or cartographic purposes and do not accurately reflect areas of operation, avalanche control, or land ownership/leases. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns regarding this dataset.
+These data are approximate boundaries for general reference purposes and do not accurately reflect areas of operation, avalanche control, or land ownership/leases. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns regarding this dataset.
 
 ## Credits
 
