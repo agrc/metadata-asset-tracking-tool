@@ -22,7 +22,7 @@ Surface and area ski lifts in this dataset include lifts, trams, gondolas, and p
 
 ### What is the purpose of the dataset?
 
-This dataset is intended for cartography and general analytic purposes.
+This dataset is intended for general reference purposes.
 
 ### What does the dataset represent?
 
@@ -34,9 +34,7 @@ UGRC created this dataset by digitizing points on top of high resolution aerial 
 
 ### How reliable and accurate is the dataset?
 
-This dataset includes all ski lifts currently operating in Utah as of 2017. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns regarding this dataset.
-
-<!--- The metadata said it was current as of 2017, but has it since been updated? Do we update it every year? --->
+This dataset is current as of the 2022 ski season and is updated as new information becomes available. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns regarding this dataset.
 
 ## Credits
 
