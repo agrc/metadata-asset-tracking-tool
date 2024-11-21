@@ -8,23 +8,35 @@ Utah Public Libraries
 
 ## Brief Summary
 
-Utah public libraries provides locations and information for public libraries and their branches throughout Utah. The data includes base locations for bookmobile libraries.
-
-Public libraries, branches, and bookmobile locations of Utah. Additional information about libraries and the services provided by the Utah State Library Division can be found at library.utah.gov
+Points dataset of public and tribal libraries, library branches, and bookmobiles in Utah.
 
 ## Summary
+
+Points dataset of public and tribal libraries, library branches, and bookmobiles in Utah. This dataset does not include private or university libraries.
 
 ## Description
 
 ### What is the dataset?
 
+This dataset includes point locations for public libraries, base locations for bookmobiles, tribal libraries, and library branches. Additional information about libraries and the services they provide can be found on the [Utah State Library Division](https://library.utah.gov/) website.
+
 ### What is the purpose of the dataset?
+
+This dataset has been made available to the public for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
+Each point feature in this dataset includes the library name, type, address, city, and county. Features also include contact information for the library, such as a phone number, PO Box, or website where applicable. We also included library hours of operation where the information has been provided.
+
 ### How was the dataset created?
 
+UGRC derived this dataset using tabular data from the Utah State Library Division. We maintain this dataset and update it as new information becomes available.
+
+<!--- This is my guesstimate on how this dataset was created. Do we have further information on how this dataset was created or how it is maintained? --->
+
 ### How reliable and accurate is the dataset?
+
+This dataset is the most current and complete representation of public libraries in Utah. University libraries, private collections, and other non-public libraries are not included in this dataset. Please reach out to [our team](https://gis.utah.gov/products/sgid/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -41,6 +53,10 @@ UGRC
 ## License
 
 ## Tags
+
+- Bookmobiles
+- Mobile libraries
+- Utah State Library Division
 
 ## Secondary Category
 
