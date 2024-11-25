@@ -26,7 +26,7 @@ This dataset displays geographic areas of Utah where users can find Lidar covera
 
 ### What does the dataset represent?
 
-This dataset displays areas of Lidar coverage as polygons. Each polygon represents a project area and includes the project name, date of completion, resolution, vertical accuracy, area in square miles, project status, and other attributes. These polygons do not include the Lidar point clouds themselves. Please visit [The National Map](https://apps.nationalmap.gov/downloader/) data downloader to access point clouds and other [Lidar data products](https://gis.utah.gov/documentation/sgid/exploring-lidar/).
+This dataset displays areas of Lidar coverage as polygons. Each polygon represents a project area and includes the project name, date of completion, resolution, vertical accuracy, area in square miles, project status, and other attributes. These polygons do not include the Lidar point clouds themselves. Please visit [The National Map](https://apps.nationalmap.gov/downloader/) data downloader to access point clouds. Other lidar data products are also available on [our website](https://gis.utah.gov/documentation/sgid/exploring-lidar/).
 
 ### How was the dataset created?
 
