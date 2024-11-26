@@ -34,7 +34,7 @@ UGRC created this dataset using information from the [Utah Division of Public Ut
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete version of electrical service areas available in Utah, however not all electricity providers are represented in this dataset. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset is the most current and complete version of electrical service areas available in Utah; however, not all electricity providers are represented in this dataset. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
