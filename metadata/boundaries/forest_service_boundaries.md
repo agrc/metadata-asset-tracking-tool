@@ -26,7 +26,7 @@ This dataset contains polygons representing National Forest boundaries in Utah. 
 
 ### What is the purpose of the dataset?
 
-UGRC created this dataset for use in the President's Roadless Area Initiative for the lower 48 states. This dataset was originally used to spatially edgematch National Forest boundaries and Inventoried Roadless Area (IRA) boundaries found in Utah. Now, this layer serves a general reference and cartographic resource.
+UGRC created this dataset for use in former president Bill Clinton's [Roadless Area Initiative](https://www.fs.usda.gov/roadmain/roadless) for the lower 48 states. This dataset was originally used to spatially edgematch National Forest boundaries and [Inventoried Roadless Area](https://crsreports.congress.gov/product/pdf/R/R46504) boundaries found in Utah. Now, this layer serves a general reference and cartographic resource.
 
 <!--- Did we create this dataset? The original metadata wasn't very clear. --->
 
@@ -36,7 +36,7 @@ Each polygon in this dataset represents the approximate geographic boundaries of
 
 ### How was the dataset created?
 
-This dataset was derived from the GSTC SOC data system and an Oracle database, it was comprised of Cartographic Feature Files (CFFs) that used the Spatial Data Engine from Esri. Originally created in 1999, this dataset has since been updated with new data submitted for the President's Roadless Area Initiative.
+This dataset was derived from the GSTC SOC data system and an Oracle database, it was comprised of Cartographic Feature Files (CFFs) that used the [Spatial Data Engine](https://support.esri.com/en-us/technical-paper/spatial-database-engine-sde-270) from Esri. Originally created in 1999, this dataset has since been updated with new data submitted for the Roadless Area Initiative.
 
 ### How reliable and accurate is the dataset?
 
