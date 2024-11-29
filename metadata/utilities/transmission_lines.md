@@ -26,13 +26,7 @@ This dataset has been made available to the public for general reference and car
 
 ### What does the dataset represent?
 
-Each polyline in this dataset represents the path of an electrical transmission line in Utah. Features in this dataset are labelled by their line type as indicated by the "layer" field.
-
-KV = Voltage of the transmission line in kilovolts.
-SUB-PP = substation power plant?
-SUB-CO =
-
-<!--- Do we know what these abbreviations stand for in the attribute table? --->
+Each polyline in this dataset represents the approximate path of an electrical transmission line in Utah. Features in this dataset include the type of line and voltage in kilovolts.
 
 ### How was the dataset created?
 
