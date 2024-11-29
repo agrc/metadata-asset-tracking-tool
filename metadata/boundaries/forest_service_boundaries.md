@@ -8,37 +8,60 @@ d2e669a6-36e9-4039-be39-4edb08b07388
 
 ## Brief Summary
 
+Polygon dataset of National Forest boundaries for cartography and general reference purposes.
+
 ## Summary
+
+Polygon dataset of National Forest boundaries as derived from the GSTC SOC database. UGRC maintains these boundaries in collaboration with local government partners.
+
+<!--- We are listed as the source for this dataset, is that the case? Do we maintain it? The metadata wasn't entirely clear whether we maintain these boundaries or how USFS themselves is involved. --->
 
 ## Description
 
 National forest boundaries submitted for the President's Roadless Area Initiative.
 
-This dataset was created to use as a reference in spatially edgematching all of the National Forest Inventoried Roadless Area (IRA) data for the President's Roadless Area Initiative for the lower 48 states. Alaska boundaries are maintained in separate datasets.
-
-This dataset contains National Forest boundaries for the State of Utah. This dataset includes administrative unit boundaries, derived primarily from the GSTC SOC data system, comprised of Cartographic Feature Files (CFFs), using ESRI Spatial Data Engine (SDE) and an Oracle database. The data that was available in SOC was extracted on November 10, 1999. Some of the data that had been entered into SOC was outdated, and some national forest boundaries had never been entered for a variety of reasons. GSTC has edited this data in places where it was questionable or missing, to match the National Forest Inventoried Roadless Area data submitted for the President's Roadless Area Initiative.
-
 ### What is the dataset?
+
+This dataset contains polygons representing National Forest boundaries in Utah. This dataset contains administrative boundaries only and does not include locations of ranger stations, campsites, trails, or other entities.
 
 ### What is the purpose of the dataset?
 
+UGRC created this dataset for use in the President's Roadless Area Initiative for the lower 48 states. This dataset was originally used to spatially edgematch National Forest boundaries and Inventoried Roadless Area (IRA) boundaries found in Utah. Now, this layer serves a general reference and cartographic resource.
+
+<!--- Did we create this dataset? The original metadata wasn't very clear. --->
+
 ### What does the dataset represent?
+
+Each polygon in this dataset represents the approximate geographic boundaries of a National Forest. Features contain the name of the forested area and which National Forest it is a part of.
 
 ### How was the dataset created?
 
+This dataset was derived from the GSTC SOC data system and an Oracle database, it was comprised of Cartographic Feature Files (CFFs) that used the Spatial Data Engine from Esri. Originally created in 1999, this dataset has since been updated with new data submitted for the President's Roadless Area Initiative.
+
 ### How reliable and accurate is the dataset?
+
+This dataset is the most current and complete representation of National Forest boundaries in Utah. Please reach out to [our team](https://gis.utah.gov/about/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- National Forest
+- USFS
+- United States Forest Service
+- GSTC
 
 ## Secondary Category
 
@@ -47,5 +70,9 @@ This dataset contains National Forest boundaries for the State of Utah. This dat
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
+
+<!--- Is this the case? Is this dataset static? --->
 
 ### Previous Updates
