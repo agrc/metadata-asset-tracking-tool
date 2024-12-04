@@ -30,7 +30,7 @@ This dataset displays areas of Lidar coverage as polygons. Each polygon represen
 
 ### How was the dataset created?
 
-<!--- I'm assuming we created this dataset. Was there a particular methodology involved? --->
+UGRC compiled this dataset from project boundaries submitted to us by various data collection vendors. These boundaries include the original project area we sent to them with a buffer to ensure complete coverage of the area. UGRC maintains updates this dataset as new projects become available.
 
 ### How reliable and accurate is the dataset?
 
