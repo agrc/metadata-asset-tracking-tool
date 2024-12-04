@@ -30,7 +30,7 @@ Each polyline in this dataset represents the approximate path of an electrical t
 
 ### How was the dataset created?
 
-UGRC derived this dataset from a schematic CAD drawing and
+UGRC derived this dataset from a schematic CAD drawing and formatted it for use in GIS programs.
 
 ### How reliable and accurate is the dataset?
 
