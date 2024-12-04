@@ -32,8 +32,6 @@ Each point feature in this dataset includes the library name, type, address, cit
 
 UGRC derived this dataset using tabular data from the Utah State Library Division. We maintain this dataset and update it as new information becomes available.
 
-<!--- This is my guesstimate on how this dataset was created. Do we have further information on how this dataset was created or how it is maintained? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset is the most current and complete representation of public libraries in Utah. University libraries, private collections, and other non-public libraries are not included in this dataset. Please reach out to [our team](https://gis.utah.gov/products/sgid/) with questions or concerns about this dataset.
