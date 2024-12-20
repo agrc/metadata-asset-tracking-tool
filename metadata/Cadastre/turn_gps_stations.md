@@ -30,7 +30,7 @@ Each point in this dataset represents the approximate location of a GPS base sta
 
 ### How was the dataset created?
 
-<!--- I'm assuming we created this one? Did we just add new points to the dataset as stations were established, or was there a pre-existing of stations we added, or? --->
+UGRC created this dataset using coordinates of Turn GPS base stations. We update this dataset as new stations become active.
 
 ### How reliable and accurate is the dataset?
 
