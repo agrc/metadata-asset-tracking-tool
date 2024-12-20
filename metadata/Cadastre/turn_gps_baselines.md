@@ -26,19 +26,11 @@ This data was created to display and measure the distance between base stations 
 
 ### What does the dataset represent?
 
-Each feature in this dataset contains the distance between two given base stations in miles and kilometers, as well as the status of that part of the network.
-
-O =
-PR =
-R =
-
-<!--- What do these status codes refer to? --->
+Each feature in this dataset contains the distance between two given base stations in miles and kilometers, as well as the status of that part of the network. The status codes included in this dataset are for internal use only.
 
 ### How was the dataset created?
 
 UGRC created this dataset by calculating the geodesic distance between each TURN GPS base station and creating polylines to match those distances. This dataset is maintained by UGRC and is updated as needed.
-
-<!--- Are there more technical details that need to be mentioned here? --->
 
 ### How reliable and accurate is the dataset?
 
