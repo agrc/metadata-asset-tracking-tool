@@ -12,6 +12,8 @@ Ports of entry in Utah as derived from the Utah Department of Transportation.
 
 ## Summary
 
+This dataset represents ports of entry in Utah as points. This dataset contains approximate locations of ports of entry only and does not include hours of operation or other regulations. Further transportation data, such as [roads](https://gis.utah.gov/products/sgid/transportation/road-centerlines/) or [airports](https://gis.utah.gov/products/sgid/transportation/airports/), can be found in the [Transportation Data](https://gis.utah.gov/products/sgid/transportation/) index available on the SGID.
+
 ## Description
 
 ### What is the dataset?
