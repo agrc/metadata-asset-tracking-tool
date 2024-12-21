@@ -12,6 +12,8 @@ Polygon dataset of tax entities in Utah for 2024.
 
 ## Summary
 
+Polygon dataset of tax entities in Utah as of 2024. This dataset includes general administrative boundaries for tax entities only and does not include information about current tax laws, rates, or deadlines.
+
 ## Description
 
 ### What is the dataset?
