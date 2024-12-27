@@ -32,8 +32,6 @@ Each polygon in this dataset represents areas of responsibility for BLM field of
 
 UGRC created this dataset using data from the BLM. This dataset is maintained by UGRC and we update it as needed.
 
-<!--- There was no information on this in the metadata, are there more details than this that should be included? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset is the most current and complete version of BLM district boundaries in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
@@ -66,6 +64,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- The refresh cycle in the Index just says unknown. Is this dataset still maintained or is it static? --->
+We update this dataset as needed.
 
 ### Previous Updates
