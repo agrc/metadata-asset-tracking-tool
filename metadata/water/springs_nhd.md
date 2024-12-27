@@ -1,6 +1,6 @@
 # Title
 
-Utah Major Lakes
+Utah Springs NHD
 
 ## ID
 
@@ -26,7 +26,7 @@ UGRC created this dataset to provide a focused subset of springs for Utah-based 
 
 ### What does the dataset represent?
 
-Each polygon feature in this dataset represents the approximate location of a spring or seep. Features in this dataset include the fcode, ftype, the area in square kilometers, and other NHD attributes. Further information on interpreting the codes in this dataset can be found on the [USGS website](https://www.usgs.gov/ngp-standards-and-specifications/national-hydrography-dataset-nhd-data-dictionary-feature-domains).
+Each point feature in this dataset represents the approximate location of a spring or seep. Features in this dataset include the fcode, ftype, the area in square kilometers, and other NHD attributes. Further information on interpreting the codes in this dataset can be found on the [USGS website](https://www.usgs.gov/ngp-standards-and-specifications/national-hydrography-dataset-nhd-data-dictionary-feature-domains).
 
 ### How was the dataset created?
 
