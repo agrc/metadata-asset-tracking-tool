@@ -8,17 +8,19 @@ e2481e04-0a91-4cb3-810d-a71c4bfb5fdd
 
 ## Brief Summary
 
-Statewide distribution of dominant vegetation species in Utah.
+Statewide distribution of dominant vegetation species in Utah as of 2001.
 
 ## Summary
 
-Dominant vegetation type for any given area in Utah.
+Polygon dataset of dominant vegetation species in Utah. This dataset contains approximate boundaries only and does not contain further details such as species density, abundance, or conservation status.
 
 ## Description
 
 ### What is the dataset?
 
-This dataset includes polygons representing the dominant vegetation type for a given area.
+Dominant vegetation types are determined by the most abundant plant species that occupies a given area. This dataset contains polygons representing the geographical coverage of various dominant native species in Utah.
+
+<!--- There are a number of ways of determining dominant species, abundance is just one metric that can be used. Do we know how dominant species were determined for this dataset? --->
 
 ### What is the purpose of the dataset?
 
