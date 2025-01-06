@@ -8,7 +8,7 @@ Tax Entities 2024
 
 ## Brief Summary
 
-Polygon dataset of tax entities in Utah for 2024.
+Polygon dataset of public entities responsible for collecting taxes to fund local services and infrastructure.
 
 ## Summary
 
