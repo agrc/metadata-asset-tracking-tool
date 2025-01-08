@@ -20,8 +20,6 @@ Polygon dataset of dominant vegetation species in Utah. This dataset contains ap
 
 Dominant vegetation types are determined by the most abundant plant species that occupies a given area. This dataset contains polygons representing the geographical coverage of various dominant native species in Utah.
 
-<!--- There are a number of ways of determining dominant species, abundance is just one metric that can be used. Do we know how dominant species were determined for this dataset? --->
-
 ### What is the purpose of the dataset?
 
 This dataset has been made available for general analytic and cartographic purposes.
@@ -30,13 +28,9 @@ This dataset has been made available for general analytic and cartographic purpo
 
 Each polygon in this dataset represents the dominant vegetation of an area. Vegetation can be distinguished by the [dominant vegetation code](https://opendata.gis.utah.gov/datasets/utah::utah-dominant-vegetation-codes/about).
 
-<!--- There are also a number of fields other than the code, such as ss1, ss2, etc and a "lab" field. Do we know the purpose of these fields or how they should be interpreted? --->
-
 ### How was the dataset created?
 
-UGRC created this dataset in 2001 using orthophoto quadrangles, aerial photography, and field mapping techniques derived from the [Utah Division of Wildlife Resources](https://wildlife.utah.gov/).
-
-<!--- The original metadata was unclear as to whether we created this dataset using data derived from the DWR, or whether the DWR created this dataset and we just host the layer. --->
+The Utah Division of Wildlife Resources created this dataset in 2001 using orthophoto quadrangles, aerial photography, and field mapping techniques. This static dataset is currently hosted by UGRC.
 
 ### How reliable and accurate is the dataset?
 
@@ -50,7 +44,7 @@ DWR
 
 ### Host
 
-DWR
+UGRC
 
 ## Restrictions
 
