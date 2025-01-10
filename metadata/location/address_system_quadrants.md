@@ -22,7 +22,7 @@ Address systems define which numbers are assigned to physical addresses for home
 
 ### What is the purpose of the dataset?
 
-Address system quadrants are primarily used to geocode addresses and serves as one of the many layers involved with [UGRC's geocoding API](https://gis.utah.gov/blog/2013-04-02-using-the-mapserv-utah-gov-api-to-geocode-address/). You can learn more about the history of addressing systems and how they are used today on [our blog](https://gis.utah.gov/blog/2013-04-02-using-the-mapserv-utah-gov-api-to-geocode-address/).
+UGRC maintains a statewide dataset of address system quadrants primarily to improve address geocoding with the [UGRC API](https://api.mapserv.utah.gov/docs/). When geocoding an address, the input place name or ZIP code is replaced with the address system to provide the highest match rates. You can learn more about the history of addressing systems and how they are used today on our blog in the post [The Western Grid, Explained](https://gis.utah.gov/blog/2019-03-11-the-western-grid/).
 
 ### What does the dataset represent?
 
