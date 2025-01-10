@@ -55,7 +55,7 @@ UGRC
 ## Tags
 
 - geocoding
-- UGRC Web API
+- UGRC API
 
 ## Secondary Category
 
