@@ -12,7 +12,7 @@ Polygon dataset containing the extent of each addressing grid, and its four quad
 
 ## Summary
 
-This dataset contains polygon boundaries for address system quadrants in Utah. [Address points](https://gis.utah.gov/products/sgid/location/address-points/), [ZIP code areas](https://gis.utah.gov/products/sgid/boundaries/zip-codes/), and other data involved with defining addresses in Utah can be found in the [Location Data Index](https://gis.utah.gov/products/sgid/location/) available on the SGID.
+This dataset contains polygon boundaries for the extent of each addressing grid, and its four quadrants (NE, NW, SE, SW), which define how address numbers are assigned in Utah. This data represents the boundaries of address systems that local government addressing authorities use to assign address numbers. An addressing system consists of an origin coordinate, a north-south axis, an east-west axis, and a boundary within which address numbers are assigned using this particular grid. The originate coordinate (0,0) is typically located at the intersection of Main and Center streets. This convention governs the assignment of addresses and is typically expressed as 100 address ranges per block or 800 address ranges per mile. Many municipalities can be contained within a single Address System. For example, the Salt Lake address system includes all municipalities in Salt Lake County.
 
 ## Description
 
