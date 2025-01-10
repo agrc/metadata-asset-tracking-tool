@@ -26,7 +26,7 @@ UGRC maintains a statewide dataset of address system quadrants primarily to impr
 
 ### What does the dataset represent?
 
-Each polygon in this dataset represents the geographical area of a given address system quadrant. Features in this dataset include the grid name, quadrant cardinal direction, and county.
+Each polygon in this dataset represents the geographical area of a given address system and its quadrants. Features in this dataset include the system name, quadrant direction, and county name.
 
 ### How was the dataset created?
 
