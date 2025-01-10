@@ -30,7 +30,8 @@ Each polygon in this dataset represents the geographical area of a given address
 
 ### How was the dataset created?
 
-UGRC created this dataset using data submitted by local government partners.
+UGRC created this dataset using data submitted by local government partners. Updates are made to account for annexations and the creation of new address systems.
+
 
 <!--- Are there further details here that ought to be included? Is there a particular source we developed these data from? --->
 
