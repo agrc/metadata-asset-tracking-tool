@@ -8,7 +8,7 @@ ae2b0c31-a204-462d-a799-971f43df6eca
 
 ## Brief Summary
 
-Polygon dataset of address system quadrants used for geocoding physical addresses in Utah.
+Polygon dataset containing the extent of each addressing grid, and its four quadrants (NE, NW, SE, SW), which define how address numbers are assigned in Utah.
 
 ## Summary
 
