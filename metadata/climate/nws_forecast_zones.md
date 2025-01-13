@@ -12,7 +12,7 @@ Polygon dataset of zones used to estimate weather conditions for various regions
 
 ## Summary
 
-This dataset includes polygon boundaries for the National Weather Service (NWS) Forecast Zones found within Utah. This dataset includes forecast zones only and does include other climate information such as surface temperature or precipitation.
+This dataset includes polygon boundaries for the National Weather Service (NWS) Forecast Zones found within Utah. This dataset includes forecast zones only and does not include other climate information such as surface temperature or precipitation.
 
 ## Description
 
