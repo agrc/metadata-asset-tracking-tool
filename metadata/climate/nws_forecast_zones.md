@@ -32,9 +32,7 @@ Each polygon feature in this dataset represents the approximate geographic bound
 
 ### How was the dataset created?
 
-UGRC created this dataset from a [nationwide](https://www.weather.gov/gis/PublicZones) dataset provided by the National Weather Service. We projected the data into UTM Zone 12N ([EPSG: 26912](https://epsg.io/26912)) and clipped the forecast zones to the Utah state boundary. These zones are updated as new information becomes available from the NWS.
-
-<!--- The original metadata specified the EPSG code for the coordinate system, which is something I haven't seen repeated in our other datasets. Is that an essential detail to include for this dataset in particular? --->
+UGRC created this dataset from a [nationwide](https://www.weather.gov/gis/PublicZones) dataset provided by the National Weather Service. We projected the data into UTM Zone 12N and clipped the forecast zones to the Utah state boundary. These zones are updated as new information becomes available from the NWS.
 
 ### How reliable and accurate is the dataset?
 
