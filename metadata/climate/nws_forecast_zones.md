@@ -22,9 +22,7 @@ These data represent the [National Weather Service](https://www.weather.gov/) (N
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general analytic and cartographic purposes.
-
-<!--- Do we know if any Utah-specific companies or entities use these zones for their weather reporting? Do these data have any other specific purposes? --->
+NWS uses these zones to issue weather forecasts for areas in Utah. You can find examples of these forecasts from the NWS Salt Lake City Office on their [Zone Forecast Product](https://www.weather.gov/wrh/TextProduct?product=zfpslc) page.
 
 ### What does the dataset represent?
 
