@@ -8,7 +8,7 @@ Utah NWS Forecast Zones
 
 ## Brief Summary
 
-Polygon dataset of zones used to estimate weather conditions for various regions throughout Utah.
+Polygon dataset of zones used by the National Weather Service to issue weather forecasts for regions in Utah.
 
 ## Summary
 
