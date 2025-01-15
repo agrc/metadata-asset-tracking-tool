@@ -22,9 +22,7 @@ This dataset contains point locations of the top 100 tallest peaks in Utah as me
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general cartographic and reference purposes.
-
-<!--- Is there a more specific reason this dataset was created? --->
+UGRC developed this dataset to support the creation of the [Utah Terrain Base Map](https://gis.utah.gov/products/sgid/base-maps/terrain/), one of many base maps available through the [UGRC Discover service](https://gis.utah.gov/products/discover/). This dataset has been made available to the public for general cartographic and reference purposes.
 
 ### What does the dataset represent?
 
@@ -32,9 +30,7 @@ Each point in this dataset represents the approximate location of one of Utah's 
 
 ### How was the dataset created?
 
-Points were placed on or near the highest point on each peak. UGRC created this dataset using data submitted by local government partners.
-
-<!--- Do we know the true history of this dataset? Seems like we might have digitized it from aerial imagery, but I'm not sure. --->
+UGRC created this dataset using peak names and elevation data from the USGS [Geographic Names Information System](https://www.usgs.gov/tools/geographic-names-information-system-gnis). Points were placed on or near the highest point on each peak.
 
 ### How reliable and accurate is the dataset?
 
