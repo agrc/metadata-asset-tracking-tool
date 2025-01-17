@@ -8,33 +8,45 @@ Utah Wilderness BLM 98 Reinventory
 
 ## Brief Summary
 
+Polygon dataset of areas that have wilderness characteristics according to the BLM as of 1998.
+
 ## Summary
+
+Polygon dataset of areas that have wilderness characteristics as inventoried by the BLM in 1998. This dataset contains approximate boundary information as of 1998 only and does not contain current legal designations or status of wilderness areas. Official [Wilderness Study Areas](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) and [Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) can be found in the [Boundaries Data Index](https://gis.utah.gov/products/sgid/boundaries/) on the SGID.
 
 ## Description
 
-The Wilderness BLM98 Reinventory dataset represents the 1998 Bureau of Land Management (BLM) Wilderness Characteristics Inventory. It represents the BLM's inventory of areas that have Wilderness Characteristics.
-
-The data set is at 1:24,000. The native spatial reference for this dataset is UTM Zone 12N, NAD83 (0.01 meter coordinate precision). There are no constraints or warranties with regard to the use of this dataset. Users are encouraged to attribute content to: State of Utah, SGID. The dataset is maintained by the United States Forest Service.
-
-Comments, questions, compliments, or concerns can be directed to:
-
-1998 Bureau of Land Management (BLM) wilderness characteristics re-inventory.
-
 ### What is the dataset?
+
+This dataset contains polygons representing areas that were shown to have wilderness characteristics by the Bureau of Land Management (BLM) during a statewide inventory completed in 1998. Wilderness characteristics were described in the Wilderness Act of 1964 and help dictate which lands become candidates for inclusion in the [National Wilderness Preservation System](https://www.wilderness.org/articles/article/national-wilderness-preservation-system). You can learn more about the inventory methods and results in the official [Utah Wilderness Inventory Report](https://www.blm.gov/sites/blm.gov/files/Utah%20Wilderness%20Inventory%201999.pdf).
 
 ### What is the purpose of the dataset?
 
+This dataset has been made available to the public for general analytic and cartographic purposes.
+
+<!--- Is there a more specific purpose than this? --->
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the geographic extent of an area deemed to have wilderness characteristics. Features in this dataset include the name, status, and BLM administrative unit the area is located in.
 
 ### How was the dataset created?
 
+<!--- Did we create this dataset from information from the BLM, or did the BLM create it and we just have it on the SGID? I was assuming the latter, but wanted to ask. --->
+
 ### How reliable and accurate is the dataset?
+
+This dataset represents areas that have been deemed to have wilderness characteristics as part of the 1998 BLM inventory. It does not include areas currently designated as wilderness or wilderness study areas. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+BLM
+
 ### Host
+
+<!--- The index says BLM. Is that still accurate? --->
 
 ## Restrictions
 
@@ -42,9 +54,15 @@ Comments, questions, compliments, or concerns can be directed to:
 
 ## Tags
 
+- Bureau of Land Management
+- National Conservation Lands
+- National Wilderness Preservation System
+
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/boundaries/blm-1998-wilderness-reinventory/]
 
 ## Update
 
