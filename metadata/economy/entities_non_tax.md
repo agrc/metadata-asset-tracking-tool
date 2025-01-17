@@ -8,41 +8,58 @@ Utah Entities Non Tax
 
 ## Brief Summary
 
+Polygon dataset of Utah State entities that do not collect taxes but may collect fees.
+
 ## Summary
+
+This dataset contains administrative boundaries for non-taxing government entities in Utah. This dataset contains boundary information only and does not contain current tax rates or other legal information. Further tax-related boundary data can be found in the [Economy Data Index](https://gis.utah.gov/products/sgid/economy/) available from the SGID.
 
 ## Description
 
-Utah State Entities that are not collecting tax but may be collecting fees. These data were created for planimetric display, nontax entity analysis, and economic analysis.
-
-Non-Tax Fee entities are government entities who do not levy taxes. They include single-purpose entities, such as local and special service districts which are funded through collection of fees for services, mineral lease monies or other non-tax funding alternatives. They also include redevelopment agencies that collect incremental tax funds from governmental taxing entities.
-
-This dataset was first created through a cooperative effort of the Office of the Utah State Auditor, the Utah State Tax Commission, and AGRC. All entities in the state through September of 2016 were initially represented. Updates for further annexations and deannexation will be completed with the cooperative efforts of the Office of the Utah State Auditor, State Tax Commission, Property Tax Division, and AGRC. Data developed with information provided by the entities, including coordinate geometry (COGO) from legal descriptions were used, historical records, generalized description based on known locations, drawings on maps. When necessary the data were adjusted to conform to known physical features. Due to adjustments to resolve conflicting or ambiguous data, the result was more a physical cadastre than a legal one. In other words, this dataset does not represent exact legal boundaries as per surveyed description, but, rather a set of boundaries used for the administrative purposes that conforms to logical & administrative rules, (e.g. no redevelopment areas may cover the same geographic extent).
-
-Data current though 12/31/2016
-
 ### What is the dataset?
+
+This dataset contains polygon boundaries for government entities that do not levy taxes but may collect fees. These include local and special service districts which are funded through fees, mineral lease monies or other non-tax funding alternatives. This dataset also includes redevelopment agencies that collect incremental tax funds from government taxing entities.
 
 ### What is the purpose of the dataset?
 
+This dataset has been made available to the public for general reference, as a cartographic resource, and for economic analysis.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the jursidiction of a non-tax entity. Features in this dataset include a brief description of the entity (ent_desc), the county entity is located in (ent_co) and the year it was added to this dataset (ent_yr).
+
+<!--- These are some guesstimates on what the fields indicate. All of the features have 2014 as the ent_yr, do we know what that number refers to and if it should be the same for all the features? --->
 
 ### How was the dataset created?
 
+UGRC created this dataset in collaboration with the Office of the [Utah State Auditor](https://auditor.utah.gov/) and the [Utah State Tax Commission](https://tax.utah.gov/). This effort combined coordinate geometry from legal descriptions and historical records to develop this dataset.
+
 ### How reliable and accurate is the dataset?
+
+This dataset does not represent exact legal boundaries, rather, it contains a set of polygon boundaries used for general geospatial purposes that conform to logical and administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent). Please reach out to [our team](https://gis.utah.gov/about/) with questions or concerns about this dataset.
+
+<!--- The original metadata said this was current as of 2016. Has it since been updated? --->
 
 ## Credits
 
 ### Data Source
 
+- UGRC
+- Utah State Tax Commission
+
 ### Host
 
-## Restrictions
+UGRC
 
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
+## Restrictions
 
 ## License
 
 ## Tags
+
+- Tax analysis
+- Utah State Tax Commission
+- Office of the Utah State Auditor
 
 ## Secondary Category
 
@@ -51,5 +68,7 @@ For more information on usage limitations for this dataset, please see our [disc
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
