@@ -12,7 +12,7 @@ Points dataset of the top one hundred tallest peaks in Utah as measured from sea
 
 ## Summary
 
-This dataset contains point locations for Utah's top one hundred tallest mountain peaks. This dataset contains approximate points only and does not include further information such as recreational trails or visitation regulations. Further elevation datasets can be found in the [Elevation Data Index](https://gis.utah.gov/products/sgid/elevation/) available from the SGID.
+This dataset contains point locations for Utah's top 100 tallest mountain peaks. This dataset contains approximate points only and does not include further information such as recreational trails or visitation regulations. Further elevation datasets can be found in the [Elevation Data Index](https://gis.utah.gov/products/sgid/elevation/) available from the SGID.
 
 ## Description
 
@@ -26,7 +26,7 @@ This dataset has been made available to the public for general cartographic and 
 
 ### What does the dataset represent?
 
-Each point in this dataset represents the approximate location of one of Utah's tallest peaks. Features in this dataset include the name of the mountain, elevation, and county. UGRC has also included a rank field that shows the top 100 peaks in order. Peaks in with a zero in the 'rank' field are the highest peaks in their respective counties but are not counted among the highest 100 peaks for the entire state of Utah.
+Each point in this dataset represents the approximate location of one of Utah's tallest peaks. Features in this dataset include the name of the mountain, elevation, and county. UGRC has also included a rank field that shows the top 100 peaks in order. Features with a zero in the 'rank' field are the highest peaks in their respective counties but are not counted among the highest 100 peaks for the entire state of Utah.
 
 ### How was the dataset created?
 
