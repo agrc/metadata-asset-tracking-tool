@@ -28,13 +28,9 @@ This dataset has been made available to the public for general reference and car
 
 Each polygon in this dataset represents the approximate boundaries of a given chapter of the Navajo Nation. Features include attributes such as the chapter name and [FIPS](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips#FIPS1) code.
 
-<!--- The attribute table also has a field labelled "aitsce". Do we know what this refers to? I found some information indicating it might refer to a census metric, but I wasn't sure about it since the values in that field are both integers and text. --->
-
 ### How was the dataset created?
 
-UGRC created this dataset using data submitted by local government partners. We maintain this dataset and update it as needed.
-
-<!--- This was a guesstimate. Do we know how this dataset came to be? --->
+UGRC developed this dataset using boundary information from the [Utah Land Ownership](https://gis.utah.gov/products/sgid/cadastre/land-ownership/) layer from the SGID. We collaborated with the [Navajo Nation Division of Transportation](https://navajodot.org/) and other addressing authorities to produce information on individual chapters.
 
 ### How reliable and accurate is the dataset?
 
