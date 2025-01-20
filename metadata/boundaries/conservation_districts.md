@@ -12,7 +12,7 @@ Polygon dataset of conservation districts in Utah used to oversee soil erosion a
 
 ## Summary
 
-This dataset shows the Conservation District (formerly Soil Conservation District) boundaries in the state of Utah. Conservation districts are also grouped into larger [conservation zones](https://gis.utah.gov/products/sgid/boundaries/conservation-zones/) available on the SGID.
+This dataset shows the Conservation District (formerly Soil Conservation District) boundaries in the state of Utah. Conservation districts are also grouped into larger [conservation zones](https://gis.utah.gov/products/sgid/boundaries/conservation-zones/) available from the SGID.
 
 ## Description
 
