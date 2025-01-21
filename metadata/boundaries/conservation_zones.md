@@ -8,39 +8,57 @@ Utah Conservation Zones
 
 ## Brief Summary
 
-Conservation District (formerly Soil Conservation District) zone boundaries in the state of Utah.
-
-This dataset shows the Conservation District (formerly Soil Conservation District) zone boundaries created by the Utah Department of Agriculture and Food (UDAF) in Utah. This dataset was created to update district and zone boundaries to conform to the boundary descriptions as approved by the Utah Soil Conservation Commission.
-
-The native spatial reference for this dataset is UTM Zone 12N, NAD83 (0.01 meter coordinate precision). There are no constraints or warranties with regard to the use of this dataset. Users are encouraged to attribute content to: State of Utah. This dataset is maintained by the Utah Department of Agriculture and Food (UDAF) in cooperation with UGRC.
+Polygon dataset of conservation zones in Utah used to oversee soil erosion and habitat management programs.
 
 ## Summary
+
+This dataset shows the Conservation District (formerly Soil Conservation District) boundaries in the state of Utah. Conservation districts are also divided into smaller [conservation districts](https://gis.utah.gov/products/sgid/boundaries/conservation-districts/) available from the SGID.
 
 ## Description
 
 ### What is the dataset?
 
+Conservation zones and districts were originally established in 1937 as a means of addressing soil erosion at the local level. Today, the state of Utah maintains 39 conservation districts grouped into that seven zones that oversee resource management objectives such as improving water quality, managing wildlife habitat, conserving water, and eradicating invasive weeds. You can learn more about conservation zones on the [Utah Department of Agriculture and Food](https://ag.utah.gov/farmers/conservation-division/conservation-districts/) (UDAF) website.
+
+<!--- There are seven numbered zones, with an additional polygon labelled zone zero. Are there eight zones in total, then, or just the seven?--->
+
 ### What is the purpose of the dataset?
+
+This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
+Each polygon in this dataset represents the geographic extent of a conservation zone boundary.
+
 ### How was the dataset created?
 
+The Utah Department of Food and Agriculture (UDAF) created this dataset using boundary descriptions approved by the Utah Soil Conservation Commission. This dataset is maintained by the Utah Department of Agriculture and Food (UDAF) in cooperation with UGRC.
+
 ### How reliable and accurate is the dataset?
+
+This dataset is the most current and complete version of conservation zone boundaries available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+UDAF
+
 ### Host
 
-## Restrictions
+UGRC
 
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
+## Restrictions
 
 ## License
 
 ## Tags
+
+- Soil conservation districts
+- Water quality
+- Habitat quality
+- Utah Department of Agriculture and Food
+- UDAF
 
 ## Secondary Category
 
