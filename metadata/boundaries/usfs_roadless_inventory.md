@@ -8,39 +8,55 @@ ae3e16a4-13a8-4af6-a977-b1989ad9880a
 
 ## Brief Summary
 
+Polygon dataset of areas in Utah designated as roadless by the 2000 USFS Roadless Inventory.
+
 ## Summary
+
+This dataset contains polygon boundaries for inventoried roadless areas managed by the United States Forest Service. Other federally managed areas such as [wilderness areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) can be found in the [Boundary Data Index](https://gis.utah.gov/products/sgid/boundaries/) available from the SGID.
 
 ## Description
 
-The USFS Roadless Inventory (IRA) dataset contains all the National Forest Inventoried Roadless Areas.
-
-The IRA data was originally submitted to Geometronics Service and Technical Center (GSTC) by all the national forests through their Regional Office for the Forest Service's Roadless Area Conservation Initiative. The data was consolidated at the GSTC and used the Draft Environment Impact Statement. Between the draft and final states of the Environmental Impact Statement, the data was updated by the forests to reflect any corrections to Inventories Roadless Areas that were based on their existing forest plan. The data was also supplemented to include Special Designated Area information and to include Inventories Roadless Areas with Special Designated Areas. The data was resubmitted to the GSTC on July 21, 2000 for consolidation and the completed coverage was used in the Roadless Area Conservation Final Environmental Impact Statement. IRAs are based on completed forest plans, forest plans in revision where the agency has established an inventory (this information should be available in Appendix C of most forest plans) or other assessments that are completed and adopted by the agency. RARE II information was used in cases where a forest does not have a more current roadless inventory that was established using RARE II information.
-
-The native spatial reference for this dataset is UTM Zone 12N, NAD83 (0.01 meter coordinate precision). There are no constraints or warranties with regard to the use of this dataset. Users are encouraged to attribute content to: State of Utah, SGID. The dataset is maintained by the United States Forest Service.
-
-Comments, questions, compliments, or concerns can be directed to:
-
 ### What is the dataset?
+
+Roadless areas are regions within National Forests that are protected under [Roadless Area Conservation Rules](https://www.fs.usda.gov/main/roadless/2001rule). These areas are managed by the United States Forest Service (USFS) and include vast recreational opportunities with limited timber harvesting. These areas are not necessarily devoid of all roads, they simply contain fewer roads than surrounding areas. You can learn more about roadless areas on the [USFS website](https://www.fs.usda.gov/roadmain/roadless).
 
 ### What is the purpose of the dataset?
 
+This dataset was originally developed to be used as supporting documentation for the [USFS Roadless Area Conservation Initiative](https://www.fs.usda.gov/Internet/FSE_DOCUMENTS/stelprdb5057895.pdf). This dataset is also suitable for general analytic and cartographic purposes.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the approximate geographic extend of a roadless area. Features include attributes such as the area name, USFS category, National Forest the area belongs to, USFS region, and area in acres.
 
 ### How was the dataset created?
 
+This dataset was created through a collaborative effort between the National Forests and USFS Regional Offices. This final dataset includes supplemental information on Special Designated Areas in addition to Inventoried Roadless Areas. This dataset is currently maintained by the USFS.
+
 ### How reliable and accurate is the dataset?
+
+This dataset includes Inventoried Roadless Areas derived from National Forest plans as of 2000. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or comments about this layer.
+
+<!--- This is what the original metadata said, is this still the case? Does this layer get updated regularly? --->
 
 ## Credits
 
 ### Data Source
 
+USFS
+
 ### Host
+
+USGS
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- United States Forest Service
+- National Forests
+- Recreation
 
 ## Secondary Category
 
@@ -51,5 +67,7 @@ Comments, questions, compliments, or concerns can be directed to:
 ## Update
 
 ### Update Schedule
+
+<!--- Unknown --->
 
 ### Previous Updates
