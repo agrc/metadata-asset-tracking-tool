@@ -20,8 +20,6 @@ This dataset shows the Conservation District (formerly Soil Conservation Distric
 
 Conservation zones and districts were originally established in 1937 as a means of addressing soil erosion at the local level. Today, the state of Utah maintains 39 conservation districts grouped into that seven zones that oversee resource management objectives such as improving water quality, managing wildlife habitat, conserving water, and eradicating invasive weeds. You can learn more about conservation zones on the [Utah Department of Agriculture and Food](https://ag.utah.gov/farmers/conservation-division/conservation-districts/) (UDAF) website.
 
-<!--- There are seven numbered zones, with an additional polygon labelled zone zero. Are there eight zones in total, then, or just the seven?--->
-
 ### What is the purpose of the dataset?
 
 This dataset has been made available to the public for general reference and cartographic purposes.
