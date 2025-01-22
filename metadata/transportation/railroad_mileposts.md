@@ -4,11 +4,13 @@ Utah Railroad Mileposts
 
 ## ID
 
+894928d3d26b44a9b71ebdd99bb05650
+
 <!--- This layer was not in the Index. Should it be? --->
 
 ## Brief Summary
 
-Points dataset of railroad mileposts used for emergency services dispatch.
+Points dataset of railroad mileposts used for emergency services dispatch and other analysis.
 
 ## Summary
 
