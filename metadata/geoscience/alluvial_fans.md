@@ -32,11 +32,9 @@ Each polygon in this dataset indicates the approximate geographic extent of an a
 
 Alluvial fans in this dataset were digitized from a variety of sources, including existing geologic mapping from the years 1964 to 2013, [USGS Quadrangles](https://www.usgs.gov/node/25175), aerial photography from the years 1937 to 2017, UGS flood and landslide hazard mapping, the [FEMA National Flood Hazard Layer](https://www.fema.gov/flood-maps/national-flood-hazard-layer), and field investigations with photos. This dataset is maintained in collaboration with many state and federal partners.
 
-<!--- What exactly is our involvement with these data? Do we just host the layer, or do we maintain it as well? --->
-
 ### How reliable and accurate is the dataset?
 
-The polygons in this dataset represent approximate extents of alluvial fans only. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+The polygons in this dataset represent approximate extents of alluvial fans only and does not include all alluvial fans or flooding hazards in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
