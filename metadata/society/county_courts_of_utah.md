@@ -8,15 +8,13 @@ County Courts of Utah
 
 ## Brief Summary
 
-County court jurisdictions boundaries
+Polygon boundaries of county court jurisdiction areas for cartography and general analysis.
 
 ## Summary
 
-This dataset was developed for the Utah Department of Public Safety [Bureau of Investigations](https://sbi.utah.gov/) for use in planning operations throughout the State. It indicates which city court has responsibility in a particular municipality.
+This dataset was developed for the Utah Department of Public Safety [Bureau of Investigations](https://sbi.utah.gov/) for use in planning operations throughout the State. It indicates which county court has responsibility in a particular area.
 
 ## Description
-
-This data was developed for the Utah Department of Public Safety Bureau of Investigations for use in planning operations throughout the State. It indicates which county court has responsibility in a specific area. Boundaries are county boundaries in SGID.
 
 ### What is the dataset?
 
