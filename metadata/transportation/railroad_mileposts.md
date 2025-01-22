@@ -12,34 +12,40 @@ Points dataset of railroad mileposts used for emergency services dispatch.
 
 ## Summary
 
-For railroad lines, please see the [Utah Railroads](https://gis.utah.gov/products/sgid/transportation/railroads/) dataset available in the [Transportation Data Index](https://gis.utah.gov/products/sgid/transportation/) from the SGID.
+This dataset contains point locations for railroad mileposts found along Utah's main railroads. For railroad polylines, please see the [Utah Railroads](https://gis.utah.gov/products/sgid/transportation/railroads/) dataset available in the [Transportation Data Index](https://gis.utah.gov/products/sgid/transportation/) from the SGID.
 
 ## Description
 
 ### What is the dataset?
 
-This dataset is a linear reference system containing points that indicate the closest quarter milepost number and railroad division name. These points make up a network of mainline railroads in Utah that are used to improve
+This dataset is a linear reference system containing points that indicate the closest quarter milepost number to each point. These points make up a network of mainline railroads in Utah that are used for emergency services dispatch and general analysis.
+
+<!--- Are these mileposts physical markers in the real world or just calculated points, or both? --->
 
 ### What is the purpose of the dataset?
 
-This dataset was created to improve emergency dispatch services in Utah. 
+This dataset was created to improve emergency dispatch services in Utah.
 
-<!--- Do we use it for anything else? Does anyone else use it for something else? --->
+<!--- From the original metadata. Do we use it for anything else? Is this dataset used by other agencies? --->
 
 ### What does the dataset represent?
 
+Each point in this dataset indicates the mile post location, mile post number (rr_milepos), coordinates, and railroad division that owns the milepost.
+
 ### How was the dataset created?
 
-The statewide roads dataset is maintained by AGRC and created from distances along SGID10.TRANSPORTATION.Railroads in combination with railroad mileposts provided by the Federal Railway Administration.
+UGRC created this dataset by calculating distances along the Utah Railroads polylines and placing points at regular intervals along those lines. We supplemented these data with railroad mileposts provided by the [Federal Railroad Administration](https://railroads.dot.gov/) to produce this final dataset.
 
 ### How reliable and accurate is the dataset?
+
+This dataset reflects the most current and complete version of railroad mileposts available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
 - UGRC
-- Federal Railway Administration
+- Federal Railroad Administration
 
 ### Host
 
@@ -52,7 +58,7 @@ UGRC
 ## Tags
 
 - Railways
-- Federal Railway Administration
+- Federal Railroad Administration
 
 ## Secondary Category
 
