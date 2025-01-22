@@ -22,9 +22,7 @@ City courts such as the [Salt Lake City Justice Court](https://www.slc.gov/court
 
 ### What is the purpose of the dataset?
 
-This dataset is a helpful resource for city planning and legal analysis.
-
-<!--- How else has this dataset been used? Had some difficulty finding more information on this. -->
+This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
@@ -32,13 +30,11 @@ Each polygon in this dataset indicates the approximate geographic extent of a pa
 
 ### How was the dataset created?
 
-Information identifying cities that have a court was provided by the Utah Courts Administrative Office. Polygon boundaries in this layer are derived from the [Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) dataset found in the SGID.
-
-UGRC collaborate with local authorities to update this dataset as changes are made to municipal boundaries or court jurisdiction areas.
+Information identifying cities that have a court was provided by the Utah Courts Administrative Office. Polygon boundaries in this layer are derived from the [Municipal Boundaries](https://gis.utah.gov/products/sgid/boundaries/municipal/) dataset found in the SGID. UGRC collaborates with local authorities to update this dataset as changes are made to municipal boundaries or court jurisdiction areas.
 
 ### How reliable and accurate is the dataset?
 
-This dataset represents the most complete and current version of city court jurisdictions. Please reach out to [our team](https://gis.utah.gov/contact/) with any questions or concerns about this dataset.
+This dataset represents the most complete and current version of city court jurisdictions. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
