@@ -32,8 +32,6 @@ Each polygon in this dataset represents the approximate jurisdiction of a specia
 
 UGRC created this dataset in collaboration with the Office of the [Utah State Auditor](https://auditor.utah.gov/) and the [Utah State Tax Commission](https://tax.utah.gov/). This effort combined coordinate geometry from legal descriptions and historical records to develop this dataset.
 
-<!---I copied this from the non tax entities dataset, I was thinking the creation process for both was fairly similar. Is that the case? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset does not represent exact legal boundaries, rather, it contains a set of polygon boundaries used for general geospatial purposes that conform to logical and administrative rules (e.g. no two cities or redevelopment areas may cover the same geographic extent). Please reach out to [our team](https://gis.utah.gov/about/) with questions or concerns about this dataset.
