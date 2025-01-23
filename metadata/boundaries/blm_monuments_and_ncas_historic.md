@@ -32,13 +32,9 @@ Descriptions of each type of polygon found in this feature class can be found on
 
 Features included in this dataset have been designated under either Public Law or Presidential Proclamation through the Antiquities Act of 1906. UGRC created this feature class using legislatively mandated boundary descriptions and coordinate geometry.
 
-<!--- This is another one of my best guesstimates. Do we have further details on how the dataset was created? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset represents historic boundaries for BLM National Conservation Areas and National Monuments in Utah as of 2017. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
-
-<!--- While doing research for this layer, I noticed that the Biden administration adjusted the boundaries for Bears Ears and Grand Staircase Escalante again in 2021, does the current dataset (the one that isn't historic) reflect those most recent changes? --->
 
 ## Credits
 
