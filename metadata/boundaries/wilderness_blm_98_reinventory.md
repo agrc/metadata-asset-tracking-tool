@@ -24,15 +24,13 @@ This dataset contains polygons representing areas that were shown to have wilder
 
 This dataset has been made available to the public for general analytic and cartographic purposes.
 
-<!--- Is there a more specific purpose than this? --->
-
 ### What does the dataset represent?
 
 Each polygon in this dataset indicates the geographic extent of an area deemed to have wilderness characteristics. Features in this dataset include the name, status, and BLM administrative unit the area is located in.
 
 ### How was the dataset created?
 
-<!--- Did we create this dataset from information from the BLM, or did the BLM create it and we just have it on the SGID? I was assuming the latter, but wanted to ask. --->
+The BLM originally created this dataset and submitted it to UGRC so it could be shared with the public. This static dataset is maintained by the BLM.
 
 ### How reliable and accurate is the dataset?
 
@@ -46,7 +44,7 @@ BLM
 
 ### Host
 
-<!--- The index says BLM. Is that still accurate? --->
+UGRC
 
 ## Restrictions
 
