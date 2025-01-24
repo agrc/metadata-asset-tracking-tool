@@ -18,19 +18,19 @@ This dataset was developed for the Utah Department of Public Safety [Bureau of I
 
 ### What is the dataset?
 
-City courts such as the [Salt Lake City Justice Court](https://www.slc.gov/courts/) or the [Provo City Court](https://www.provo.org/departments/justice-court#9188_14945_382_341) generally handle cases such class B and C misdemeanors, traffic offenses, and other small claims matters. This dataset displays which city court has jurisdiction over a particular area, but does not specify the location of courthouses or other judicial buildings.
+County courts, similar to [city courts](https://opendata.gis.utah.gov/datasets/utah::city-courts-of-utah/about), generally handle cases such class B and C misdemeanors, traffic offenses, and other small claims matters. This dataset displays which county court has jurisdiction over a particular area, but does not specify the location of courthouses or other judicial buildings.
 
 ### What is the purpose of the dataset?
 
-This dataset is a helpful resource for city planning and legal analysis.
-
-<!--- How else has this dataset been used? Had some difficulty finding more information on this. -->
+This dataset is used largely the Utah Department of Public Safety for planning and analysis. It has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the approximate geographic extent of a particular city court's jurisdiction. This dataset does not offer further details such as the current judge or what responsibilities the court has in that area.
+Each polygon in this dataset indicates the approximate geographic extent of a particular county court's jurisdiction. This dataset does not offer further details such as the current judge or what responsibilities the court has in that area.
 
 ### How was the dataset created?
+
+This dataset was developed using boundary data from the [Utah County Boundaries](https://gis.utah.gov/products/sgid/boundaries/county/) dataset available on the SGID.
 
 ### How reliable and accurate is the dataset?
 
@@ -40,13 +40,19 @@ This dataset represents the most complete and current version of county court ju
 
 ### Data Source
 
+UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Court system
 
 ## Secondary Category
 
@@ -55,5 +61,7 @@ This dataset represents the most complete and current version of county court ju
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
