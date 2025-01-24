@@ -8,37 +8,54 @@ Utah HUC Boundaries
 
 ## Brief Summary
 
+Polygon dataset of watershed subbasin boundaries in Utah as derived from the USGS Watershed Boundary Dataset.
+
 ## Summary
+
+This dataset contains polygons representing hydrologic subbasins in Utah as defined by the nationwide Watershed Boundary Dataset from USGS. Features in this dataset contain the name and HUC code of subbasins found in and around Utah. Further [watershed data](https://gis.utah.gov/products/sgid/water/watersheds/), including subwatersheds, can be found in the [Water Data Index](https://gis.utah.gov/products/sgid/water/) available from the SGID.
 
 ## Description
 
-The Watershed and Subwatershed hydrologic unit boundaries provide a uniquely identified and uniform method of subdividing large drainage areas. The smaller sized 6th level sub-watersheds (up to 250,000 acres) are useful for numerous application programs supported by a variety of local, State, and Federal Agencies. This data set is intended to be used as a tool for water-resource management and planning activities, particularly for site-specific and localized studies requiring a level of detail provided by large-scale map information. The dataset will be appended to a larger seamless nationally consistant geospatial database as other states complete their portion of the watershed boundary dataset.
-
-This data set is a subset of the complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for the State of Utah. The State Watershed Boundary (WBD) was dissolved to the 8 digit, 4th level sub-basin. The State WBD consists of geo-referenced digital data and associated attributes created in accordance with the "FGDC Proposal, Version 1.0 - Federal Standards For Delineation of Hydrologic Unit Boundaries 3/01/02"(http://www.ftw.nrcs.usda.gov/huc_data.html). Polygons are attributed with hydrologic unit codes for 4th level sub-basins, 5th level watersheds, 6th level subwatersheds, name, size, downstream hydrologic unit, type of watershed, non-contributing areas and flow modification. Arcs are attributed with the highest hydrologic unit code for each watershed, linesource and a metadata reference file. Data downloaded from USDA on 8/14/2017.
-
-Subset of the complete digital hydrologic unit boundary layer to the Subwatershed (12-digit) 6th level for the State of Utah.
-
 ### What is the dataset?
+
+Watershed areas in the United States are delineated using a national system developed by the [United States Geological Survey](https://www.usgs.gov/) (USGS). This system divides the nation into regions, subregions, basins, subbasins, watersheds, and subwatersheds. This dataset is a subset of the nationwide [Watershed Boundary Dataset](https://www.usgs.gov/national-hydrography/watershed-boundary-dataset) that displays polygons representing subbasin boundaries found in and around Utah.
 
 ### What is the purpose of the dataset?
 
+Subbasin data are used for water resource management and planning by a variety of local, state, and federal agencies. This layer is suitable for general analytic and cartographic purposes.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset represents the approximate geographic area of a subbasin as delineated by the Watershed Boundary Dataset. Features include the name and the Hyrologic Unit Code (HUC) of each subbasin. You can learn more about hydrologic units and interpreting HUC codes through the [USGS website](https://water.usgs.gov/themes/hydrologic-units/) and [other documentation](https://www.usgs.gov/ngp-standards-and-specifications/watershed-boundary-dataset-wbd-data-dictionary).
 
 ### How was the dataset created?
 
+UGRC created this layer using data from the United States Department of Agriculture and the Watershed Boundary Dataset from USGS. The polygons in this dataset have been dissolved to the subbasin level with corresponding eight-digit HUC codes. We maintain this layer and update it as new information becomes available.
+
 ### How reliable and accurate is the dataset?
+
+The Watershed Boundary Dataset is the primary source for watershed data in the United States. It represents a nationally consistent, interoperable dataset that facilitates accurate data sharing. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+USGS
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Watershed
+- Subbasin
+- Watershed Boundary Dataset
+- USGS
 
 ## Secondary Category
 
@@ -47,5 +64,7 @@ Subset of the complete digital hydrologic unit boundary layer to the Subwatershe
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
