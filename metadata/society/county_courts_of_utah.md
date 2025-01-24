@@ -18,15 +18,15 @@ This dataset was developed for the Utah Department of Public Safety [Bureau of I
 
 ### What is the dataset?
 
-County courts, similar to [city courts](https://opendata.gis.utah.gov/datasets/utah::city-courts-of-utah/about), generally handle cases such class B and C misdemeanors, traffic offenses, and other small claims matters. This dataset displays which county court has jurisdiction over a particular area, but does not specify the location of courthouses or other judicial buildings.
+County courts, similar to [city courts](https://opendata.gis.utah.gov/datasets/utah::city-courts-of-utah/about), generally handle cases such class B and C misdemeanors, traffic offenses, and other small claims matters. This dataset displays which county court has jurisdiction over an area, but does not specify the location of courthouses or other judicial buildings.
 
 ### What is the purpose of the dataset?
 
-This dataset is used largely the Utah Department of Public Safety for planning and analysis. It has been made available to the public for general reference and cartographic purposes.
+This dataset is used largely by the Utah Department of Public Safety for planning and analysis. It has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the approximate geographic extent of a particular county court's jurisdiction. This dataset does not offer further details such as the current judge or what responsibilities the court has in that area.
+Each polygon in this dataset indicates the approximate geographic extent of a county court's jurisdiction. This dataset does not offer further details such as the current judge or what responsibilities the court has in that area.
 
 ### How was the dataset created?
 
