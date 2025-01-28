@@ -40,7 +40,8 @@ Values:
 - Drip: Water is applied through lines that slowly release water onto the surface or subsurface of the crop.
 - Dry Crop: No irrigation method is applied to this agricultural land, the crop is irrigated via natural processes.
 - Flood: Water is diverted from ditches or pipes upland from the crop in sufficient quantities to flood the irrigated plot.
-- None: Associated with non-agricultural landSprinkler: Water is applied above the crop via sprinklers that generally move across the field.
+- None: Associated with non-agricultural land
+- Sprinkler: Water is applied above the crop via sprinklers that generally move across the field.
 - Sub-irrigated: This land does not have irrigation water applied, but due to a high water table receives more water, and is generally closely associated with a riparian area.
 
 ### Acres
