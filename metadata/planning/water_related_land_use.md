@@ -8,21 +8,21 @@ Water Related Land Use
 
 ## Brief Summary
 
+Polygon dataset of agricultural and other similarly designated land use areas in and around Utah.
+
 ## Summary
+
+This dataset contains polygons representing agricultural areas and other water-related land use zones. These polygons include data derived from [Cropland Data Layer](https://nassgeodata.gmu.edu/CropScape/) (CDL) rasters from the [United States Department of Agriculture](https://www.usda.gov/) (USDA) National Agricultural Statistics Service (NASS).
 
 ## Description
 
-Yearly layer of agricultural and other water-related land use and crop types in and around Utah. 2023
-
-Cropland Data Layer (CDL) rasters from the United States Department of Agriculture (USDA) National Agricultural Statistics Service (NASS) are downloaded for the appropriate year. https://nassgeodata.gmu.edu/CropScape/
-
 ### What is the dataset?
 
-This dataset contains polygons representing agricultural areas and other water-related zones found in and around Utah.
+The USDA defines [six major types of land use](https://www.ers.usda.gov/data-products/major-land-uses) in the United States; pasture/range, forest, cropland, special use, miscellaneous, and urban. This dataset contains areas defined as cropland and other similarly designated agricultural areas found in and around Utah.
 
 ### What is the purpose of the dataset?
 
-These data are intended for planning purposes.
+These data are used in agricultural and municipal planning, cartography, and general analytic purposes.
 
 ### What does the dataset represent?
 
@@ -30,19 +30,22 @@ Each polygon in this dataset indicates the crop type and designated land use for
 
 ### How was the dataset created?
 
-Feature Classes are loaded onto tablet PCs and Field crews are sent to label the crop or land cover type and irrigation method for a subset of select fields or polygons. Each tablet PC is attached to a GPS unit for real-time tracking to continuously update the field crew’s location during the field labeling process.
-
-Digitizing is done as Geodatabase feature classes using ArcPro 3.1.0 with Sentinel imagery as a background with other layers added for reference. Updates to existing field boundaries of individual agricultural fields, urban areas and more are precisely digitized. Changes in irrigation type and land use are noted during this process.
-
-Zonal Statistics geoprocessing tools are used to attribute the polygons with updated crop types from the CDL. The data is then run through several stages of comparison to historical inventories and quality checking in order to determine and produce the final attributes.
+UGRC developed this dataset from a variety of sources, including data collected by field crews, satellite imagery, and other reference layers. The field crews quantified land use, irrigation methods, and other attributes. The polygon geometry was digitized from [Sentinel satellite imagery](https://www.sentinel-hub.com/). We used [Zonal Statistics](https://atlas.co/glossary/zonal-statistics/) and CDL data to define crop types within the polygons. Finally, the data were compared with historical inventories to verify accuracy and ensure completeness.
 
 ### How reliable and accurate is the dataset?
+
+This dataset was developed using nationally available data that are refreshed on an annual basis. Some discrepancies in the data may exist. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+- USDA
+- UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -50,9 +53,17 @@ Zonal Statistics geoprocessing tools are used to attribute the polygons with upd
 
 ## Tags
 
+- USDA
+- Cropscape
+- Crop Data Layer
+- National Agricultural Statistics Service
+- NASS
+
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/planning/water-related-land-use/]
 
 ## Update
 
