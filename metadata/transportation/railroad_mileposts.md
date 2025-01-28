@@ -20,15 +20,11 @@ This dataset contains point locations for railroad mileposts found along Utah's 
 
 ### What is the dataset?
 
-This dataset is a linear reference system containing points that indicate the closest quarter milepost number to each point. These points make up a network of mainline railroads in Utah that are used for emergency services dispatch and general analysis.
-
-<!--- Are these mileposts physical markers in the real world or just calculated points, or both? --->
+This dataset is a linear reference system containing points that indicate both the locations of real-world physical markers and digital points calculated at even intervals. These points make up a network of mainline railroads in Utah that are used for emergency services dispatch and general analysis.
 
 ### What is the purpose of the dataset?
 
-This dataset was created to improve emergency dispatch services in Utah.
-
-<!--- From the original metadata. Do we use it for anything else? Is this dataset used by other agencies? --->
+This dataset was created to improve emergency dispatch services in Utah. These data are used to provide an alternate means of describing a particular location along a railroad, which helps first responders know precisely where an incident has occurred.
 
 ### What does the dataset represent?
 
