@@ -36,7 +36,7 @@ Each polygon in this dataset indicates the approximate geographic extent of a bu
 
 ### How reliable and accurate is the dataset?
 
-These data were originally developed using computer vision algorithms that have been compared with hand-digitized polygons from OpenStreetMap. Due to the generated nature of these polygons, some discrepancies in the data may exist. You can learn more about how these data were generated through [official documentation](https://github.com/microsoft/USBuildingFootprints). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+These data were originally developed using computer vision algorithms that have been compared with hand-digitized polygons from [OpenStreetMap](https://www.openstreetmap.org/#map=6/45.49/-109.36) and found to be of similar quality, according to Microsoft. Due to the generated nature of these polygons, some discrepancies in the data may exist. You can learn more about how these data were generated through [official documentation](https://github.com/microsoft/USBuildingFootprints). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
