@@ -22,9 +22,7 @@ A building footprint is a two-dimensional outline of a three-dimensional, real-w
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general reference and analytic purposes.
-
-<!--- Do we, or any other state agency, use this dataset for anything more specific? --->
+This dataset is used to delineate buildings in several of the statewide base maps available through UGRC's [Discover imagery service](https://gis.utah.gov/products/discover/). These data are also suitable for general cartographic and analytic purposes.
 
 ### What does the dataset represent?
 
