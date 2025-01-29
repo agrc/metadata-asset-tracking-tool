@@ -28,7 +28,7 @@ This dataset indicates the approximate geographic coverage of Lake Bonneville du
 
 ### How was the dataset created?
 
-UGRC derived this dataset using polyline data from a [2016 study](https://www.sciencedirect.com/science/article/abs/pii/S0277379116307399?via%3Dihub) published in the journal [Quaternary Science Reviews](https://www.sciencedirect.com/journal/quaternary-science-reviews).
+UGRC republished this dataset using polyline data from a [2016 study](https://www.sciencedirect.com/science/article/abs/pii/S0277379116307399?via%3Dihub) in the journal [Quaternary Science Reviews](https://www.sciencedirect.com/journal/quaternary-science-reviews).
 
 ### How reliable and accurate is the dataset?
 
