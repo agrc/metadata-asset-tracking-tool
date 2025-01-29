@@ -30,7 +30,7 @@ Each polygon in this dataset indicates the crop type and designated land use for
 
 ### How was the dataset created?
 
-UGRC developed this dataset from a variety of sources, including data collected by field crews, satellite imagery, and other reference layers. The field crews quantified land use, irrigation methods, and other attributes. The polygon geometry was digitized from [Sentinel satellite imagery](https://www.sentinel-hub.com/). We used [Zonal Statistics](https://atlas.co/glossary/zonal-statistics/) and CDL data to define crop types within the polygons. Finally, the data were compared with historical inventories to verify accuracy and ensure completeness.
+The [Division of Water Resources](https://water.utah.gov/) developed this dataset from a variety of sources, including data collected by field crews, satellite imagery, and other reference layers. The field crews quantified land use, irrigation methods, and other attributes. The polygon geometry was digitized from [Sentinel satellite imagery](https://www.sentinel-hub.com/). They used [Zonal Statistics](https://atlas.co/glossary/zonal-statistics/) and CDL data to define crop types within the polygons. Finally, the data were compared with historical inventories to verify accuracy and ensure completeness.
 
 ### How reliable and accurate is the dataset?
 
@@ -40,8 +40,7 @@ This dataset was developed using nationally available data that are refreshed on
 
 ### Data Source
 
-- USDA
-- UGRC
+- Utah Division of Water Resources
 
 ### Host
 
@@ -58,6 +57,7 @@ UGRC
 - Crop Data Layer
 - National Agricultural Statistics Service
 - NASS
+- Utah Division of Water Resources
 
 ## Secondary Category
 
