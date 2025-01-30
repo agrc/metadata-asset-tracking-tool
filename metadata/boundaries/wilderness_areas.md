@@ -8,39 +8,44 @@ cefccaeb-7a75-4fb7-9c31-6e8317ab6d06
 
 ## Brief Summary
 
+Polygon dataset of BLM and USFS wilderness areas for general reference and cartographic purposes.
+
 ## Summary
+
+This dataset contains polygon boundaries of wilderness areas in Utah. This dataset contains boundary information only and does not include current status of WSAs or other management details. Further data on wilderness areas can be found in the [Boundary Data Index](https://gis.utah.gov/products/sgid/boundaries/) available on the SGID.
 
 ## Description
 
-This data represents the combined BLM and USFS wilderness areas of Utah. Wilderness areas from the BLM National Lands Conservation System (NLCS) were merged with U.S. Forest Service wilderness areas in the National Wilderness Preservation System, preserving the polygon geometry and the name attributes only.
-
-The complete BLM and USFS data can be found at:
-
-BLM National Conservation Lands Wilderness Areas
-, opens in a new tab
-U.S. Forest Service National Wilderness Preservation System
-, opens in a new tab
-Comments, questions, compliments, or concerns can be directed to:
-
-https://www.blm.gov/services/geospatial/GISData/utah
-
-https://data-usfs.hub.arcgis.com/datasets/national-wilderness-areas-feature-layer
-
 ### What is the dataset?
+
+This dataset contains polygon boundaries of areas designated as wilderness by the Bureau of Land Management (BLM) and United States Forest Service (USFS) under the National Lands Conservation System and National Wilderness Preservation System respectively. These areas have been merged in this dataset and can be distinguished by the "admin" field.
 
 ### What is the purpose of the dataset?
 
+Wilderness area data are used for natural resource management, [NEPA](https://www.epa.gov/nepa) documentation, and recreational planning.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the approximate geographic extent of a wilderness area in Utah. Features in this dataset include the name, administrator, and area in acres.
 
 ### How was the dataset created?
 
+UGRC derived this dataset from nationwide datasets available through the BLM and USFS. For complete inventories of wilderness areas, please see the [BLM Geospatial Business Platform](https://www.blm.gov/services/geospatial/GISData/utah) or the [USFS Geospatial Data Discovery](https://data-usfs.hub.arcgis.com/datasets/national-wilderness-areas-feature-layer) page.
+
 ### How reliable and accurate is the dataset?
+
+This dataset represents the most current and complete version of wilderness areas in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+- BLM
+- USFS
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -48,12 +53,23 @@ https://data-usfs.hub.arcgis.com/datasets/national-wilderness-areas-feature-laye
 
 ## Tags
 
+- Bureau of Land Management
+- United States Forest Service
+- BLM
+- USFS
+- National Conservation Lands
+- National Wilderness Preservation System
+
 ## Secondary Category
 
 ## Data Page Link
 
+[https://gis.utah.gov/products/sgid/boundaries/wilderness/]
+
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
