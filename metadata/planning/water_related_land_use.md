@@ -34,7 +34,7 @@ The [Division of Water Resources](https://water.utah.gov/) developed this datase
 
 ### How reliable and accurate is the dataset?
 
-This dataset was developed using nationally available data that are refreshed on an annual basis. Some discrepancies in the data may exist. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset was developed using nationally available data that are refreshed on an annual basis. For the most current available data and to view previous versions, see the Division of Water Resources [Water-Related Land Use program](https://dwre-utahdnr.opendata.arcgis.com/pages/wrlu) website. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
