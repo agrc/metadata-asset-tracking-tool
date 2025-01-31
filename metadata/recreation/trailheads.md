@@ -4,55 +4,69 @@ Utah Trailheads
 
 ## ID
 
+9285c426-4adf-4a67-a49c-3b41d7326319
+
 ## Brief Summary
+
+Points dataset of trailheads that provide access to private and public trails in Utah.
 
 ## Summary
 
+This dataset depicts point locations of more than 500 trailheads in Utah. This dataset includes a wide variety of public and private trails, including hiking, mountain biking, and OHV trails.
+
 ## Description
-
-An in-progress collection of trail starting and access points.
-
-Trailheads are point locations that provide access (and often vehicle parking) for recreational trail users. This map layer features many of Utah's trailheads but is not yet complete. The initial data were purchased from Orbital View, Inc by the Governor's Office of Economic Opportunity's Outdoor Recreation Office in July 2014. We hope to expand it with data from the US Forest Service, National Parks, State Parks, and Open Street Map.
-
-The dataset's primary goal is to assign a location and a name to each trailhead. However, the data are stored within a more complex 
-data model
-, opens in a new tab that supports future collection and publishing of more robust trail and trailhead information.
-
-[https://docs.google.com/spreadsheets/d/1OPGKmRrLYUBr9qO9EtbX6AwcRla82xMvc-BDr26ia9k/edit?gid=0#gid=0]
-
-Represent the location, name and characteristics of recreational trailheads in Utah. While many of Utah’s trailheads are included in this dataset, it is not yet substantially complete.
-
-Trailheads are point locations that provide access, and often vehicle parking, for recreational trail users. This map layer features many of Utah’s trailheads but is not yet complete. In the future, it is expected to include trailhead data assembled from a variety of sources including: US Forest Service, US National Parks Service, State Parks, and map data for which full rights were purchased by the GOED Outdoor Recreation Office in July 2014, from a private entity (Orbital View, Inc). Currently (April 2017), this layer includes only the original data purchased from Orbital View. Additional trailheads can be submitted to Utah AGRC for inclusion in this map layer. The primary goal for the trailheads map layer is to assign a location and a name to each trailhead. However, the trailhead data is stored within a more complex data model that will allow for collection and publishing of more robuts trail and trailhead information in the future: (https://docs.google.com/spreadsheets/d/1OPGKmRrLYUBr9qO9EtbX6AwcRla82xMvc-BDr26ia9k/edit#gid=0)
 
 ### What is the dataset?
 
+Utah Trailheads contains locations that serve as access points for off-road recreational trails that are primarily used by hikers, pedestrians, and mountain bikers. This dataset contains trailhead points only; for trail polylines, please see the [Utah Trails and Pathways](https://gis.utah.gov/products/sgid/recreation/trails-pathways/) dataset available from the SGID.
+
 ### What is the purpose of the dataset?
+
+This dataset serves as a resource for recreational and city planning, hiking and mountain biking search engines, and local government authorities. It is suitable for cartographic and general analytic purposes.
 
 ### What does the dataset represent?
 
+Each point in this dataset represents the approximate location of a trailhead, which may include structures such as parking lots, visitor centers, or historical monuments. Features in this dataset include the trail name, type, and data source for the point. You can learn more about the model used to develop this layer through [UGRC documentation](https://docs.google.com/spreadsheets/d/1OPGKmRrLYUBr9qO9EtbX6AwcRla82xMvc-BDr26ia9k/edit?gid=0#gid=0).
+
 ### How was the dataset created?
 
+UGRC created this dataset using map data purchased from Orbital View by the GOED Office of Outdoor Recreation in 2017. Additional trails can be [submitted](https://gis.utah.gov/contact/) to UGRC for inclusion in this map layer.
+
 ### How reliable and accurate is the dataset?
+
+This dataset is still a work-in-process and does not represent all trailheads available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+Orbital View
+
 ### Host
 
-## Restrictions
+UGRC
 
+## Restrictions
 
 ## License
 
 ## Tags
 
+- Hiking
+- Mountain Biking
+- Motorized trails
+- Non-motorized trails
+
 ## Secondary Category
 
 ## Data Page Link
 
+[https://gis.utah.gov/products/sgid/recreation/trailheads/]
+
 ## Update
 
 ### Update Schedule
+
+<!--- From the index, it looks like this layer hasn't been updated in a long while. Is there an update schedule for this layer? --->
 
 ### Previous Updates
