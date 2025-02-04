@@ -18,19 +18,19 @@ This dataset contains boundary data for all fifty states in the United State of 
 
 ### What is the dataset?
 
-This dataset contains polygon boundaries for all fifty states in the United States of America as well as the District of Columbia. This dataset does not contain US territories or other similarly designated areas. It also displays cartographic boundaries only and does not contain other information such as population or demographic data.
+This dataset contains polygon boundaries for all fifty states in the United States of America as well as the District of Columbia. This dataset does not contain US territories or other similarly designated areas. It displays cartographic boundaries only and does not contain other information such as population or demographic data.
 
 ### What is the purpose of the dataset?
 
-This dataset has been made available to the public for general analytic and cartographic purposes.
+This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the current geographic extent of a state and include the state name, [FIPS code](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt), and abbreviation. These polygons are approximate only and do not represent legal boundaries between states.
+Each polygon in this dataset indicates the current geographic extent of a state and include the state name, [FIPS code](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt), and abbreviation. These polygons do not represent legal boundaries between states.
 
 ### How was the dataset created?
 
-<!--- Did we pull this dataset from a federal source somewhere? Or create it ourselves? --->
+This dataset was derived from federally available data sources.
 
 ### How reliable and accurate is the dataset?
 
