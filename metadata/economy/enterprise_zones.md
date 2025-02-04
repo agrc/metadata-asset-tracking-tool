@@ -30,9 +30,7 @@ Each polygon in this dataset represents the geographic extent of an enterprise z
 
 ### How was the dataset created?
 
-UGRC created this dataset using legal descriptions verified through the Utah Governor's Office of Economic Opportunity. All updates and adjustments to these boundaries must first by certified by the state.
-
-<!--- My guesstimate. Do we know how this dataset was created and how it is maintained? --->
+UGRC created this dataset using boundaries provided and verified by the Utah Governor's Office of Economic Opportunity. All updates and adjustments to these boundaries must first by certified by the state.
 
 ### How reliable and accurate is the dataset?
 
