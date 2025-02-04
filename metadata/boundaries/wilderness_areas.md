@@ -26,11 +26,11 @@ Wilderness area data are used for natural resource management, [NEPA](https://ww
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the approximate geographic extent of a wilderness area in Utah. Features in this dataset include the name, administrator, and area in acres.
+Each polygon in this dataset indicates the geographic extent of a wilderness area in Utah. Features in this dataset include the name, administrator, and area in acres.
 
 ### How was the dataset created?
 
-UGRC derived this dataset from nationwide datasets available through the BLM and USFS. For complete inventories of wilderness areas, please see the [BLM Geospatial Business Platform](https://www.blm.gov/services/geospatial/GISData/utah) or the [USFS Geospatial Data Discovery](https://data-usfs.hub.arcgis.com/datasets/national-wilderness-areas-feature-layer) page.
+UGRC derived these boundaries from the School and Institutional Trust Lands Administration's [Utah Land Ownership](https://gis.utah.gov/products/sgid/cadastre/land-ownership/) dataset. For nationwide inventories of wilderness areas, please see the [BLM Geospatial Business Platform](https://www.blm.gov/services/geospatial/GISData/utah) or the [USFS Geospatial Data Discovery](https://data-usfs.hub.arcgis.com/datasets/national-wilderness-areas-feature-layer) page.
 
 ### How reliable and accurate is the dataset?
 
