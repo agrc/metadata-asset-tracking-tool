@@ -30,9 +30,7 @@ Each trail in this dataset is represented by multiple polyline segments which ca
 
 ### How was the dataset created?
 
-UGRC created this dataset using historical maps and records provided by the Utah Historical Society.
-
-<!--- A guesstimate. Do we know how this dataset was created? --->
+This dataset was created using historical maps and records provided by the Utah Historical Society.
 
 ### How reliable and accurate is the dataset?
 
