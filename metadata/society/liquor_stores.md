@@ -8,7 +8,7 @@ Utah Liquor Stores
 
 ## Brief Summary
 
-Points dataset of state liquor stores and packing facilities managed by the Utah Department of Alcoholic Beverage Services.
+Point dataset of state liquor stores and packing facilities managed by the Utah Department of Alcoholic Beverage Services.
 
 ## Summary
 
@@ -26,7 +26,7 @@ This dataset has been made available to the public for general reference or cart
 
 ### What does the dataset represent?
 
-Each point in this dataset represents the approximate location of a liquor store or package agency. Features in this dataset include the name, store number, address, phone number, and coordinates of each facility.
+Each point in this dataset has been placed on the structure of a liquor store or package agency. Features in this dataset include the name, store number, address, phone number, and coordinates of each facility.
 
 ### How was the dataset created?
 
