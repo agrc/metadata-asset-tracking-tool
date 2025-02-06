@@ -26,7 +26,7 @@ This dataset provides an administrative representation for the current geographi
 
 ### What does the dataset represent?
 
-This dataset represents the boundary of the State of Utah at a scale of 1:24000.
+This dataset contains two polygons, one representing the boundary of the State of Utah at a scale of 1:24000, and the other is a mask polygon that can be used for display and analysis.
 
 ### How was the dataset created?
 

@@ -28,8 +28,6 @@ This dataset serves as a resource for mapping the geographic extent and total en
 
 School district boundaries are represented as polygons and include the school district name and total enrollment according to the Utah State Board of Education 2015-2016 [Fingertip Facts](https://schools.utah.gov/fingertipfacts) page.
 
-<!--- The latest Fingertip Facts sheet is from 2019-2020. Are we planning on updating the total enrollment as the fingertip facts come out? -->
-
 ### How was the dataset created?
 
 UGRC used coordinate geometry ([COGO](https://pro.arcgis.com/en/pro-app/latest/help/editing/introduction-to-cogo.htm)) from legal descriptions provided by the Utah State Tax Commission and the Utah State Board of Education to create this dataset. We maintain it by aggregating new data received from school district offices. All updates, corrections, or clarifications to the school district boundaries represented in this dataset must first be filed with the [Lieutenant Governor's](https://ltgovernor.utah.gov/) office. Once approved, UGRC adjusts the polygon boundaries accordingly.
