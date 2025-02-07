@@ -8,47 +8,55 @@ Utah Health Small Statistical Areas 2020
 
 ## Brief Summary
 
-Polygons based on zip codes used by the Utah Department of Health and Human Services for statistical analysis and reporting.
+Polygon dataset used by the Utah Department of Health and Human Services for statistical analysis and reporting.
 
 ## Summary
 
-Previous versions of the Small Health Statistical Areas datasets are available in our [ArcGIS Online Shelf](https://utah.maps.arcgis.com/home/group.html?id=8765687b7b0545668fff02d1b750f7a9#overview).
+This dataset contains polygons representing small statistical areas as defined by the [Utah Department of Health and Human Services](https://dhhs.utah.gov/) (DHHS) for the year 2020. Previous versions of the Small Health Statistical Areas datasets are available on our [ArcGIS Online Shelf](https://utah.maps.arcgis.com/home/group.html?id=8765687b7b0545668fff02d1b750f7a9#overview) page.
 
 ## Description
 
 ### What is the dataset?
 
-First developed by the Department of Health in 1997, Small Health Statistics Areas allow for more meaningful analysis by reducing areas to the smallest unit where there is enough data to be reliable and the area is similar in characteristics.
+Small statistical areas are zones defined by DHHS that have an approximate population of 8,000 to 86,000 people. These zones were first developed in 1997 and are used to aggregate data for public health research. You can view a variety of studies by small area on the [DHSS data catalog](https://opendata.utah.gov/browse?q=small+area&sortBy=relevance&pageSize=20).
 
 ### What is the purpose of the dataset?
 
-The Utah Department of Health and Human Services uses this dataset as a framework for more meaningful, focused statistical analysis. This dataset has been made available to the wider public for general research and cartographic purposes.
+DHHS uses this dataset as a framework for more meaningful, focused statistical analysis. This dataset has been made available to the wider public for general research and cartographic purposes.
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates a geographic area that has an approximate population of 8,000 to 86,000 people as of the 2020 Census.
+Each feature in this dataset represents the geographic extent of a small statistical area.
 
 <!--- This dataset has a field called 'SmallAreaNumber' which I initially thought was an ID number for each small area, but some of the numbers in the field are decimals, which makes me think that maybe it represents something else. Do we know what this number indicates? --->
 
 ### How was the dataset created?
 
-The "Utah Small Health Statistics Areas" feature layer was developed by the Office of Public Health Assessment, Utah Department of Health using the Utah Local Health District and Small Area Designation Algorithm (see [https://ibis.health.utah.gov/pdf/resource/Algorithm.pdf]). Small Areas are defined based on ZIP Codes, population size, local health district and county boundaries, similarity of ZIP Code area income levels, community political boundaries, and input from local community representatives.
-
-The "Utah Small Health Statistics Areas" was developed by the Utah Department of Health by combining neighboring ZIP code areas to create 99 small areas ranging in population of approximately 8,000 to 86,000 persons. In some instances a small area may not have a contiguous boundary, in these cases the small area is represented with multiple polygons. The feature layer was developed in 1997 by the Office of Public Health Assessment and revised in 2020.
+The Office of Public Health Assessment at DHHS developed this layer using the [Utah Local Health District and Small Area Designation Algorithm](https://ibis.utah.gov/ibisph-view/pdf/resource/Algorithm.pdf). They defined small areas based on ZIP Codes, population, local health district and county boundaries, income levels, community political boundaries, and input from local community representatives. The resulting 99 small areas may not always have a contiguous boundary, in which case the area is represented with multiple polygons. These data are maintained by DHHS in collaboration with UGRC.
 
 ### How reliable and accurate is the dataset?
+
+This is the most current and complete version of DHHS small statistical areas available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+DHHS
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Department of Health and Human Services
+- DHHS
+- Office of Public Health Assessment
 
 ## Secondary Category
 
@@ -59,5 +67,7 @@ The "Utah Small Health Statistics Areas" was developed by the Utah Department of
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
