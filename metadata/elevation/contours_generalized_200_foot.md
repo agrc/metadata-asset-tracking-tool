@@ -24,13 +24,15 @@ Contour polygons are created when the area between two elevation contour lines i
 
 Contour polygons are to be used as a cartographic elevation layer which reflect the approximate elevation of an area.
 
+<!--- Are there other specific uses for this dataset? --->
+
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates an area with similar elevation values. Features in this dataset include the average elevation for the polygon and the range.
+Each polygon in this layer indicates an area with similar elevation values. Features in this layer include the average elevation for the polygon and the minimum and maximum range of values within the polygon.
 
 ### How was the dataset created?
 
-UGRC created this dataset by first generalizing a 30 meter digital elevation model with a focal filter. We then reclassified the output raster in order to group elevations into 200 foot intervals. Finally, we converted these intervals into polygons.
+UGRC created this dataset by first generalizing a 30 meter digital elevation model with a focal filter. We then reclassified the output raster in order to group elevations into 200 foot intervals. Finally, we converted these intervals into polygons to produce this final layer.
 
 ### How reliable and accurate is the dataset?
 
