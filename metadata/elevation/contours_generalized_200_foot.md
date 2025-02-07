@@ -8,29 +8,33 @@ Utah Contours Generalized 200 Foot
 
 ## Brief Summary
 
-Generalized contour polygons to show relative elevation and terrain at medium and small scales.
+Generalized contour polygons to display relative elevation and terrain at medium and small scales.
 
 ## Summary
 
-This dataset contains polygons representing elevation contour lines placed at 200 foot intervals.
+This dataset contains polygons representing elevation contour lines placed at 200 foot intervals. These data represent approximate elevation values only. For other elevation products such as [Digital Elevation Models](https://gis.utah.gov/products/sgid/elevation/usgs-3d-elevation-program/) (DEM), please see the [Elevation Data Index](https://gis.utah.gov/products/sgid/elevation/) available on our website.
 
 ## Description
 
 ### What is the dataset?
 
+Contour polygons are created when the area between two elevation contour lines is filled in and digitized. This filled-in area represents a zone of elevation that can be used for cartographic and basic analytic purposes.
+
 ### What is the purpose of the dataset?
 
-Generalized contour polygons to show relative elevation and terrain at medium and small scales. Contour polygons are to be used as a general elevation layer which may or may not reflect the actual elevation of a location.
+Contour polygons are to be used as a cartographic elevation layer which reflect the approximate elevation of an area.
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates an area with roughly the same elevation. Features in this dataset include the average elevation for the polygon and the range.
+Each polygon in this dataset indicates an area with similar elevation values. Features in this dataset include the average elevation for the polygon and the range.
 
 ### How was the dataset created?
 
-Contours were created by first generalizing a 30 meter digital elevation model with a focal filter. The output raster was then reclassified to group elevations into 200 foot intervals and finally converted into polygons. Contour polygons represent an approximate elevation.
+UGRC created this dataset by first generalizing a 30 meter digital elevation model with a focal filter. We then reclassified the output raster in order to group elevations into 200 foot intervals. Finally, we converted these intervals into polygons.
 
 ### How reliable and accurate is the dataset?
+
+UGRC has made this dataset available to the public as a cartographic resource. This dataset does not reflect exact elevation values within the state of Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -47,6 +51,8 @@ UGRC
 ## License
 
 ## Tags
+
+- Cartography
 
 ## Secondary Category
 
