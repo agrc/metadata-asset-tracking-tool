@@ -30,7 +30,7 @@ Each polygon in this dataset represents the approximate geographic area of a sub
 
 ### How was the dataset created?
 
-This layer was created using data from the United States Department of Agriculture and the Watershed Boundary Dataset from USGS. The polygons in this dataset have been dissolved to the subbasin level with corresponding eight-digit HUC codes. UGRC maintains this layer and update it as new information becomes available.
+This layer was created using data from the United States Department of Agriculture and the Watershed Boundary Dataset from USGS. The polygons in this dataset have been dissolved to the subbasin level with corresponding eight-digit HUC codes.
 
 ### How reliable and accurate is the dataset?
 
