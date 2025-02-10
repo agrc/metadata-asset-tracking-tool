@@ -26,13 +26,11 @@ DHHS uses this dataset as a framework for more meaningful, focused statistical a
 
 ### What does the dataset represent?
 
-Each feature in this dataset represents the geographic extent of a small statistical area.
-
-<!--- This dataset has a field called 'SmallAreaNumber' which I initially thought was an ID number for each small area, but some of the numbers in the field are decimals, which makes me think that maybe it represents something else. Do we know what this number indicates? --->
+Each feature in this dataset represents the geographic extent of a small statistical area and includes the ID (smallareanumber) and name (smallareaname).
 
 ### How was the dataset created?
 
-The Office of Public Health Assessment at DHHS developed this layer using the [Utah Local Health District and Small Area Designation Algorithm](https://ibis.utah.gov/ibisph-view/pdf/resource/Algorithm.pdf). They defined small areas based on ZIP Codes, population, local health district and county boundaries, income levels, community political boundaries, and input from local community representatives. The resulting 99 small areas may not always have a contiguous boundary, in which case the area is represented with multiple polygons. These data are maintained by DHHS in collaboration with UGRC.
+The Office of Public Health Assessment at DHHS developed this layer using the [Utah Local Health District and Small Area Designation Algorithm](https://ibis.utah.gov/ibisph-view/pdf/resource/Algorithm.pdf). They defined small areas based on ZIP Codes and county boundaries. The resulting 99 small areas may not always have a contiguous boundary, in which case the area is represented with multiple polygons. These data are maintained by DHHS in collaboration with UGRC.
 
 ### How reliable and accurate is the dataset?
 
