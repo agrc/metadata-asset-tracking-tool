@@ -18,7 +18,7 @@ This dataset depicts historic trails used by early exploration and settlement pa
 
 ### What is the dataset?
 
-This dataset depicts polyline segments representing historic trails used by exploration and settlement parties from 1776 to 1880. Several of these trails are registered as National Historic Trails through the National Park Service, such as the California and Pony Express trails. These data reflect historian consensus as of 1998.
+This dataset depicts polyline segments representing historic trails used by exploration and settlement parties from 1776 to 1880. Several of these trails are registered as National Historic Trails through the National Park Service, such as the California and Pony Express trails. These data reflect historian consensus as of 1998. Other national trails can be viewed on the [National Trails System Web Map](https://www.arcgis.com/apps/webappviewer/index.html?id=d89951079a374f28ab4a3b9fc41025dd&center=-13049019.241%2C5674733.3836%2C102100&level=16).
 
 ### What is the purpose of the dataset?
 
@@ -30,11 +30,11 @@ Each trail in this dataset is represented by multiple polyline segments which ca
 
 ### How was the dataset created?
 
-This dataset was created using historical maps and records provided by the Utah Historical Society.
+This layer was created using data from UGRC and the National Park Service. The origin for each feature in this dataset is listed under the 'source' field.
 
 ### How reliable and accurate is the dataset?
 
-This dataset contains historic trails only and does not depict all trails and pathways in Utah. Further trails data are included in the [Recreation Data Index](https://gis.utah.gov/products/sgid/recreation/) available from the SGID. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset contains historic trails only and does not depict all trails and pathways in Utah. Other trails data are included in the [Recreation Data Index](https://gis.utah.gov/products/sgid/recreation/) available from the SGID. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
