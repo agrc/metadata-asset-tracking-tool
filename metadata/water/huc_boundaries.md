@@ -30,11 +30,11 @@ Each polygon in this dataset represents the approximate geographic area of a sub
 
 ### How was the dataset created?
 
-UGRC created this layer using data from the United States Department of Agriculture and the Watershed Boundary Dataset from USGS. The polygons in this dataset have been dissolved to the subbasin level with corresponding eight-digit HUC codes. We maintain this layer and update it as new information becomes available.
+This layer was created using data from the United States Department of Agriculture and the Watershed Boundary Dataset from USGS. The polygons in this dataset have been dissolved to the subbasin level with corresponding eight-digit HUC codes. UGRC maintains this layer and update it as new information becomes available.
 
 ### How reliable and accurate is the dataset?
 
-The Watershed Boundary Dataset is the primary source for watershed data in the United States. It represents a nationally consistent, interoperable dataset that facilitates accurate data sharing. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+The Watershed Boundary Dataset is the primary source for watershed data in the United States. This dataset is only a subset of the national dataset. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
