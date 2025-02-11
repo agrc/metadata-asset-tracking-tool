@@ -8,35 +8,60 @@ a3e384d1-eaaa-4887-a9f7-f49ab60ea6f4
 
 ## Brief Summary
 
+Points dataset of USGS gauges used to measure watercourse output.
+
 ## Summary
+
+This dataset is derived from the [National Hydrography Dataset](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) and has been modified by UGRC to provide additional functionality for Utah-based users.
+
+<!--- Other than clipping to the state boundary, did we modify this dataset in some way like we have for other NHD datasets? --->
 
 ## Description
 
-The NHD is a national framework for assigning reach addresses to water-related entities, such as industrial discharges, drinking water supplies, fish habitat areas, wild and scenic rivers. Reach addresses establish the locations of these entities relative to one another within the NHD surface water drainage network, much like addresses on streets. Once linked to the NHD by their reach addresses, the upstream/downstream relationships of these water-related entities--and any associated information about them--can be analyzed using software tools ranging from spreadsheets to geographic information systems (GIS). GIS can also be used to combine NHD-based network analysis with other data layers, such as soils, land use and population, to help understand and display their respective effects upon one another. Furthermore, because the NHD provides a nationally consistent framework for addressing and analysis, water-related information linked to reach addresses by one organization (national, state, local) can be shared with other organizations and easily integrated into many different types of applications to the benefit of all.
-
-This dataset of stream gauges has be derived from the National Hydrologic Dataset (NHD) NHDPointaEventFC. The derivation and modification process has been performed by AGRC to provide a general purpose feature class of water bodies for cartographic purposes. The National Hydrography Dataset (NHD) is a feature-based database that interconnects and uniquely identifies the stream segments or reaches that make up the nation's surface water drainage system. NHD data was originally developed at 1:100,000-scale and exists at that scale for the whole country. This high-resolution NHD, generally developed at 1:24,000/1:12,000 scale, adds detail to the original 1:100,000-scale NHD. (Data for Alaska, Puerto Rico and the Virgin Islands was developed at high-resolution, not 1:100,000 scale.) Local resolution NHD is being developed where partners and data exist. The NHD contains reach codes for networked features, flow direction, names, and centerline representations for areal water bodies. Reaches are also defined on waterbodies and the approximate shorelines of the Great Lakes, the Atlantic and Pacific Oceans and the Gulf of Mexico. The NHD also incorporates the National Spatial Data Infrastructure framework criteria established by the Federal Geographic Data Committee.
-
 ### What is the dataset?
+
+The United States Geological Survey (USGS) [defines a stream gauge](https://www.usgs.gov/centers/utah-water-science-center/science/what-streamgage) as a device that "contains instruments that measure and record the amount of water flowing in a river or stream, or its discharge." This dataset contains points representing the locations of permanent stream gauges in Utah.
 
 ### What is the purpose of the dataset?
 
+The NHD provides a nationally consistent framework for addressing and analyzing water-related information. Stream gauge data are used in local and regional planning, hydrologic studies, and environmental assessments. NHD-based datasets can be combined with other data layers such as soils, land use, and population to help understand and display their respective effects upon one another. Further water-related data can be found on the SGID [Water Data Index](https://gis.utah.gov/products/sgid/water/).
+
 ### What does the dataset represent?
+
+Each point in this dataset represents the approximate location of a stream gauge. Features in this dataset contain the [reach code](https://enviro.epa.gov/enviro/ef_metadata_html.tri_page?p_column_name=reach_code#:~:text=Description%3A%20A%20reach%20code%20is,National%20Hydrography%20Dataset%20(NHD).) for networked features, gauge name, and other attributes.
+
+<!--- There are a few fields in this dataset that indicate some kind of forecast. Do these get updated often enough for them to be relevant? --->
 
 ### How was the dataset created?
 
+The United States Geological Survey ([USGS](usgs.gov)) maintains the current high-resolution NHD at a 1:24,000 scale. The NHD was originally created in the late 1990s by USGS in collaboration with the Environmental Protection Agency ([EPA](https://www.epa.gov/)) at a 1:100,000 scale. Both the high-resolution and moderate scale datasets are available nationwide.
+
+More information on the history of this database can be found in [official publications](https://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Documentation/History/Making_the_Digital_Water_Flow.pdf) from USGS and on the [NHD website](https://www.usgs.gov/national-hydrography/national-hydrography-dataset#:~:text=In%20the%20late%201990s%2C%20the,and%20those%20of%20other%20medium).
+
 ### How reliable and accurate is the dataset?
+
+The NHD is the primary source for hydrographic data in the United States. It represents a nationally consistent, interoperable dataset that facilitates accurate data sharing. Questions or concerns about this dataset can be directed to [USGS](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution). Utah-specific inquiries can be directed to [our team](https://gis.utah.gov/contact/) at UGRC.
 
 ## Credits
 
 ### Data Source
 
+- USGS
+- UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Hydrography
+- Hydrology
+- USGS
 
 ## Secondary Category
 
@@ -45,5 +70,7 @@ This dataset of stream gauges has be derived from the National Hydrologic Datase
 ## Update
 
 ### Update Schedule
+
+This layer is updated as needed.
 
 ### Previous Updates

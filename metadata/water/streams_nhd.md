@@ -40,10 +40,6 @@ The NHD is the primary source for hydrographic data in the United States. It rep
 
 ## Credits
 
-- USGS
-- EPA
-- UGRC
-
 ### Data Source
 
 - USGS
