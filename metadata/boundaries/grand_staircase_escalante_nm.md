@@ -6,8 +6,6 @@ Utah Grand Staircase Escalante National Monument
 
 70ac11c6-8f4a-41a6-85a8-0f3e9170a1bc
 
-<!--- The index has two GSENM layers, a special management and a recreation management one. Do we know which one this dataset is? --->
-
 ## Brief Summary
 
 Polygon dataset of the current boundary for the Grand Staircase-Escalante National Monument for cartography and general analysis.
@@ -32,7 +30,7 @@ The polygon boundary in this dataset indicates the geographic extent of the GSEN
 
 ### How was the dataset created?
 
-UGRC created this dataset using boundary data from the BLM.
+This dataset was created using data provided by the BLM.
 
 ### How reliable and accurate is the dataset?
 
