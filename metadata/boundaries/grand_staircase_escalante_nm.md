@@ -4,7 +4,7 @@ Utah Grand Staircase Escalante National Monument
 
 ## ID
 
-70ac11c6-8f4a-41a6-85a8-0f3e9170a1bc
+37a66e7b84a643358f0a681901ab4aca
 
 ## Brief Summary
 
