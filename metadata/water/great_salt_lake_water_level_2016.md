@@ -12,11 +12,9 @@ Polygon dataset of the Great Salt Lake water level in 2016, as derived from Lida
 
 ## Summary
 
-This dataset contains polygons representing the approximate water line of the Great Salt Lake in 2016. The data were derived from a 2016 Lidar project.
+This dataset represents the Great Salt Lake water level and shoreline from the 2016 Lidar collection project. You can learn more about the lake and surrounding area on the official [Great Salt Lake website](https://greatsaltlake.utah.gov/).
 
 ## Description
-
-This dataset represents the Great Salt Lake water level and shoreline from the 2016 Lidar collection project. You can learn more about the lake and surrounding area on the official [Great Salt Lake website](https://greatsaltlake.utah.gov/).
 
 ### What is the dataset?
 
