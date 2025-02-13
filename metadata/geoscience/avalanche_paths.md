@@ -8,7 +8,7 @@ Utah Avalanche Paths
 
 ## Brief Summary
 
-Polygon dataset of avalanche slide paths found in the Tri-Canyon Area of the Wasatch Front.
+Polygon dataset of potential avalanche slide paths found in the Tri-Canyon Area of the Wasatch Front.
 
 ## Summary
 
@@ -67,6 +67,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- Unknown in the index, but this one strikes me as a static dataset. --->
+Static
 
 ### Previous Updates
