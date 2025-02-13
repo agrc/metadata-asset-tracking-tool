@@ -12,9 +12,7 @@ Points dataset of USGS gauges used to measure watercourse output.
 
 ## Summary
 
-This dataset is derived from the [National Hydrography Dataset](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) and has been modified by UGRC to provide additional functionality for Utah-based users.
-
-<!--- Other than clipping to the state boundary, did we modify this dataset in some way like we have for other NHD datasets? --->
+This dataset is derived from the [National Hydrography Dataset](https://www.usgs.gov/national-hydrography/national-hydrography-dataset) (NHD) and has been modified by UGRC to show stream gauges found in Utah only.
 
 ## Description
 
@@ -29,8 +27,6 @@ The NHD provides a nationally consistent framework for addressing and analyzing 
 ### What does the dataset represent?
 
 Each point in this dataset represents the approximate location of a stream gauge. Features in this dataset contain the [reach code](https://enviro.epa.gov/enviro/ef_metadata_html.tri_page?p_column_name=reach_code#:~:text=Description%3A%20A%20reach%20code%20is,National%20Hydrography%20Dataset%20(NHD).) for networked features, gauge name, and other attributes.
-
-<!--- There are a few fields in this dataset that indicate some kind of forecast. Do these get updated often enough for them to be relevant? --->
 
 ### How was the dataset created?
 
