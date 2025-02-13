@@ -67,6 +67,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- From the index, it looks like this layer hasn't been updated in a long while. Is there an update schedule for this layer? --->
+This layer is updated as new information becomes available.
 
 ### Previous Updates
