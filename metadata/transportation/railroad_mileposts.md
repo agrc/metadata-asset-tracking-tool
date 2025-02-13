@@ -6,8 +6,6 @@ Utah Railroad Mileposts
 
 894928d3d26b44a9b71ebdd99bb05650
 
-<!--- This layer was not in the Index. Should it be? --->
-
 ## Brief Summary
 
 Points dataset of railroad mileposts used for emergency services dispatch and other analysis.
@@ -32,7 +30,7 @@ Each point in this dataset indicates the mile post location, mile post number (r
 
 ### How was the dataset created?
 
-UGRC created this dataset by calculating distances along the Utah Railroads polylines and placing points at regular intervals along those lines. We supplemented these data with railroad mileposts provided by the [Federal Railroad Administration](https://railroads.dot.gov/) to produce this final dataset.
+UGRC created this dataset by calculating distances along the Utah Railroads polylines and placing points at regular intervals along those lines. We supplemented these data with railroad mileposts provided by the [Federal Railroad Administration](https://railroads.dot.gov/) to produce this final dataset. For datasets with nationwide coverage, please see the Federal Railroad Administration's [Maps page](https://railroads.dot.gov/rail-network-development/maps-and-data/maps-geographic-information-system/maps-geographic).
 
 ### How reliable and accurate is the dataset?
 
@@ -69,7 +67,5 @@ UGRC
 ### Update Schedule
 
 This dataset is updated as needed.
-
-<!--- Is this actually a static dataset? --->
 
 ### Previous Updates
