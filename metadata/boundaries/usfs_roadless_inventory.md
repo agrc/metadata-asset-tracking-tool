@@ -8,7 +8,7 @@ ae3e16a4-13a8-4af6-a977-b1989ad9880a
 
 ## Brief Summary
 
-Polygon dataset of areas in Utah designated as roadless by the 2000 USFS Roadless Inventory.
+Polygon dataset of areas in Utah designated as roadless by the 2001 USFS Roadless Inventory.
 
 ## Summary
 
