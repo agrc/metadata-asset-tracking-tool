@@ -30,7 +30,7 @@ Each point in this dataset was placed on or near the main structure of the firef
 
 ### How was the dataset created?
 
-UGRC developed this dataset using information submitted by local government partners. We digitized point locations using aerial imagery.
+UGRC developed this dataset by geocoding a listing of fire stations from the Utah State Fire Marshal's Office.  It was further refined with information from local fire department websites, compared against open source datasets, and updated based on news releases.
 
 <!---A guesstimate. Do we have information on how this dataset was created? --->
 
