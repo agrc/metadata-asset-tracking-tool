@@ -12,7 +12,7 @@ Polygon dataset of areas in Utah designated as roadless by the 2001 USFS Roadles
 
 ## Summary
 
-This dataset contains polygon boundaries for inventoried roadless areas managed by the United States Forest Service. Other federally managed areas such as [wilderness areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) can be found in the [Boundary Data Index](https://gis.utah.gov/products/sgid/boundaries/) available from the SGID.
+This dataset contains polygon boundaries for inventoried roadless areas (IRAs) managed by the United States Forest Service, including designated areas outside of IRAs. Other federally managed areas such as [wilderness areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) can be found in the [Boundary Data Index](https://gis.utah.gov/products/sgid/boundaries/) available from the SGID.
 
 ## Description
 
