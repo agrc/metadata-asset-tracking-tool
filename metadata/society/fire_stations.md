@@ -12,7 +12,7 @@ Points dataset of fire stations in Utah, including firefighting academies, train
 
 ## Summary
 
-This dataset displays public and private firefighting stations, academies, and other fire-related facilities as point locations. Features in this dataset includes contact information for these entities. You can learn more about firefighting in Utah through the [State Fire Marshal's](https://firemarshal.utah.gov/) office and on the Utah Division of [Forestry, Fire, and State Lands](https://ffsl.utah.gov/) webpage.
+This dataset displays public and private firefighting stations, academies, and other fire-related facilities as point locations. Features in this dataset include contact information for these entities. You can learn more about firefighting in Utah through the [State Fire Marshal's](https://firemarshal.utah.gov/) office and on the Utah Division of [Forestry, Fire, and State Lands](https://ffsl.utah.gov/) webpage.
 
 ### What is the dataset?
 
