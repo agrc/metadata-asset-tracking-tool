@@ -30,7 +30,7 @@ Each polygon in this dataset indicates the approximate geographic extend of a ro
 
 ### How was the dataset created?
 
-This dataset was created through a collaborative effort between the National Forests and USFS Regional Offices. This final dataset includes supplemental information on Special Designated Areas in addition to Inventoried Roadless Areas. This dataset is currently maintained by the USFS.
+This dataset was created through a collaborative effort between the National Forests and USFS Regional Offices. This final dataset includes supplemental information on Special Designated Areas in addition to Inventoried Roadless Areas. This dataset is currently maintained by the USFS, but UGRC's version of it is clipped to only include areas inside the state of Utah.
 
 ### How reliable and accurate is the dataset?
 
