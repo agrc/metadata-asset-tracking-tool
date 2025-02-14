@@ -36,10 +36,10 @@ This dataset was created through a collaborative effort between the National For
 
 This dataset includes Inventoried Roadless Areas derived from National Forest plans as of 2001. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or comments about this layer.
 
-<!--- This is what the original metadata said, is this still the case? Does this layer get updated regularly? --->
-
 ## Credits
+
 USFS
+
 ### Data Source
 
 USFS
