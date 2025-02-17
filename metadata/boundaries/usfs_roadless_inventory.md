@@ -68,6 +68,6 @@ USGS
 
 ### Update Schedule
 
-<!--- Unknown --->
+This dataset is updated as needed.
 
 ### Previous Updates
