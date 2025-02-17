@@ -1,6 +1,6 @@
 # Title
 
-Utah Wilderness Propsal BLM
+Utah Wilderness Proposal BLM
 
 ## ID
 
@@ -8,35 +8,58 @@ Utah Wilderness Propsal BLM
 
 ## Brief Summary
 
+Polygon dataset of areas considered for wilderness designation as part of a 1995 proposal.
+
 ## Summary
+
+This dataset contains polygons for areas proposed for wilderness designation in 1995. For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers.
 
 ## Description
 
-To show the areas recommended for wilderness designation by the Bureau of Land Management to the U. S. Secretary of the Interior with the 1995 State Trust Lands excluded. The BLM developed these areas by making boundary changes and selecting areas from their earlier data set of BLM Wilderness Study Areas The resulting BLM Proposed Action was documented in the Utah BLM Statewide Wilderness Final Environmental Impact Statement (1990). The automated data were received from the BLM and updated by the AGRC with the State of Utah Trust Lands delineated, as they existed in 1995
-
-This data set represents a selection of the Bureau of Land Management (BLM) Wilderness Study Areas (WSAs) considered for wilderness designation in Utah with the State Trust Lands excluded as they existed in 1995.
-
 ### What is the dataset?
+
+Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation during a 1995 inventory of Utah's public lands. You can learn more about wilderness areas through [resources from the Bureau of Land Management](Each polygon in this dataset indicates the geographic extent of a wilderness area in Utah. Features in this dataset include the name, administrator, and area in acres.) (BLM).
 
 ### What is the purpose of the dataset?
 
+Wilderness area data are used for natural resource management, [NEPA](https://www.epa.gov/nepa) documentation, and recreational planning.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the geographic extent of a proposed wilderness area in Utah. Features in this dataset include the BLM unit, name, and area in acres.
+
+<!--- There's also a field "is_this_state" that is marked either Y or left blank. Do we know what this indicates? --->
 
 ### How was the dataset created?
 
+The BLM developed these areas by selecting areas from their earlier dataset of [BLM Wilderness Study Areas](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/). The resulting BLM Proposed Action was documented in the [Utah BLM Statewide Wilderness Final Environmental Impact Statement](https://archive.org/details/utahblmstatewide3bunit) (1990). The automated data were received from the BLM and updated by UGRC with the State of Utah Trust Lands delineated, as they existed in 1995.
+
+<!--- The original metadata somewhat contradicted itself. In some places it said that the Trust Lands had been excluded from this dataset, in other places it said it did include the Trust Lands. Do we know which is correct? --->
+
 ### How reliable and accurate is the dataset?
+
+This dataset contains proposed wilderness areas previously considered by the Bureau of Land Management. This layer is intended for historic reference and does not reflect current wilderness or wilderness study area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+BLM
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Bureau of Land management
+- National Wilderness Preservation System
+- Wilderness Study Areas
+- WSA
 
 ## Secondary Category
 
@@ -45,5 +68,7 @@ This data set represents a selection of the Bureau of Land Management (BLM) Wild
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
