@@ -8,11 +8,11 @@ Utah Wilderness Proposal HR 1745
 
 ## Brief Summary
 
-Polygon dataset of areas considered for wilderness designation proposed by Emery County in 1995.
+Polygon dataset of areas considered for wilderness designation under the Utah Public Lands Management Act of 1995.
 
 ## Summary
 
-This dataset contains polygons for areas proposed for wilderness designation by Emery County in 1995. For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers.
+This dataset contains polygons for areas proposed for wilderness designation by The US Congressional Delegation in 1995. For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers.
 
 ## Description
 
@@ -28,17 +28,15 @@ Wilderness area data are used for natural resource management, [NEPA](https://ww
 
 Each polygon in this dataset indicates the geographic extent of a proposed wilderness area in Utah. Features in this dataset include the BLM unit, name, and area in acres.
 
-<!--- There's also a field "is_this_state" that is marked either Y or left blank. Do we know what this indicates? --->
-
 ### How was the dataset created?
 
 The BLM developed these areas by selecting areas from their earlier dataset of [BLM Wilderness Study Areas](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/). The resulting BLM Proposed Action was documented in the [Utah BLM Statewide Wilderness Final Environmental Impact Statement](https://archive.org/details/utahblmstatewide3bunit) (1990). The automated data were received from the BLM and updated by UGRC with the State of Utah Trust Lands delineated, as they existed in 1995.
 
-<!--- Did the BLM create all the Wilderness Proposal datasets, or did we create some of them? --->
+<!--- Did the BLM create all the Wilderness Proposal datasets, or did we create some of them? Do we know where Emery County fit in to this process? --->
 
 ### How reliable and accurate is the dataset?
 
-This dataset contains proposed wilderness areas previously considered by the Bureau of Land Management. This layer is intended for historic reference and does not reflect current wilderness or wilderness study area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset contains proposed wilderness areas only. This layer is intended for historic reference and does not reflect current wilderness or wilderness study area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
