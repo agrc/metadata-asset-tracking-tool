@@ -24,8 +24,6 @@ This dataset represents the approximate boundaries of Sales Tax Areas for the St
 
 This dataset has been made available to the public for general reference and cartographic purposes. Further tax-related boundary data can be found in the [Economy Data Index](https://gis.utah.gov/products/sgid/economy/) available from the SGID.
 
-<!--- I noticed there are several tax look-up websites that might use our data. Do we know for sure if this dataset feeds any particular apps or websites? --->
-
 ### What does the dataset represent?
 
 Polygons in this dataset represent the jurisdiction of a given tax zone. Features in this dataset include the tax district number, [FIPS code](https://www.nist.gov/standardsgov/compliance-faqs-federal-information-processing-standards-fips), name, whether the area is a special tax district (special), current sales tax rate (currate), date the rate was updated (ratedate), and county. This dataset also contains an attribute that can be used to dissolve the Sales Tax polygons into the polygons representing tax areas for the proposed [Streamlined Sales Tax](https://www.streamlinedsalestax.org/) implementation.
