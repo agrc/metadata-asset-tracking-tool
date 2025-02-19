@@ -30,13 +30,11 @@ Each polygon in this dataset indicates the geographic extent of a SRMA. Features
 
 ### How was the dataset created?
 
-This dataset was created using data provided by the BLM.
-
-<!--- Do we have further details on the creation of this dataset? --->
+This dataset was provided by the BLM.
 
 ### How reliable and accurate is the dataset?
 
-Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset reflects the most current and complete boundaries for the Grand Staircase Escalante-National Monument special recreation are boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
