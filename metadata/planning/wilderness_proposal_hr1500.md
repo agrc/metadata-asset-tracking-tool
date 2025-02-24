@@ -34,7 +34,7 @@ This dataset was created by Rep. Owen's staff in collaboration with the Universi
 
 ### How reliable and accurate is the dataset?
 
-This layer is intended for historic reference and does not reflect current wilderness or wilderness study area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This layer depicts lands in HR 1500 and does not reflect current wilderness or wilderness study area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
