@@ -28,7 +28,7 @@ This dataset has been made available to the public for general reference and ana
 
 ### What does the dataset represent?
 
-Each feature in this dataset includes the address, city, ZIP code, and post office type.
+Each feature in this dataset represents a post office location and includes the address, city, ZIP code, and post office type.
 
 ### How was the dataset created?
 
