@@ -32,7 +32,7 @@ Each feature in this dataset represents a post office location and includes the 
 
 ### How was the dataset created?
 
-UGRC created this dataset by geocoding points from a [United States Postal Service](https://www.usps.com/) list of post offices. Further updates were made through research on recent post office openings, closures, and changes.
+UGRC created this dataset by geocoding points from a [United States Postal Service](https://www.usps.com/) list of post offices. We further updated this dataset using research on recent post office openings, closures, and changes.
 
 ### How reliable and accurate is the dataset?
 
