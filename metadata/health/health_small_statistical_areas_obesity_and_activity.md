@@ -30,13 +30,9 @@ Each feature in this dataset represents the geographic extent of a small statist
 
 The Office of Public Health Assessment at DHHS developed this layer using the [Utah Local Health District and Small Area Designation Algorithm](https://ibis.utah.gov/ibisph-view/pdf/resource/Algorithm.pdf). They defined small areas based on ZIP Codes and county boundaries. The statistics in this dataset were collected and aggregated by DHHS.
 
-<!--- Not sure how accurate this is, just my best guess --->
-
 ### How reliable and accurate is the dataset?
 
 The metrics for physical activity and obesity rates in this dataset may not reflect current statistics in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
-
-<!--- Do we know what year these stats are from? --->
 
 ## Credits
 
@@ -68,7 +64,5 @@ UGRC
 ### Update Schedule
 
 This dataset is updated as needed.
-
-<!--- This is what the index said. Is this dataset updated as new stats become available? --->
 
 ### Previous Updates
