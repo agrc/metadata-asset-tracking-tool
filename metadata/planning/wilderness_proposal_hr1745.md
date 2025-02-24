@@ -12,13 +12,13 @@ Polygon dataset of areas considered for wilderness designation under the Utah Pu
 
 ## Summary
 
-This dataset contains polygons for areas proposed for wilderness designation by The US Congressional Delegation in 1995. For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers.
+This dataset contains polygons for areas proposed for wilderness designation by The US Congressional Delegation in 1995. For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers. You can learn more about wilderness areas through [resources from the Bureau of Land Management](https://www.blm.gov/programs/national-conservation-lands/wilderness) (BLM).
 
 ## Description
 
 ### What is the dataset?
 
-Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation as part of the [Utah Public Lands Management Act of 1995](https://www.congress.gov/bill/104th-congress/house-bill/1745/actions). You can learn more about wilderness areas through [resources from the Bureau of Land Management](https://www.blm.gov/programs/national-conservation-lands/wilderness) (BLM).
+Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation as part of HR 1745, also known as the [Utah Public Lands Management Act of 1995](https://www.congress.gov/bill/104th-congress/house-bill/1745/actions). The bill was introduced in 1995 and sponsored by Representative Jim Hansen.
 
 ### What is the purpose of the dataset?
 
@@ -31,8 +31,6 @@ Each polygon in this dataset indicates the geographic extent of a proposed wilde
 ### How was the dataset created?
 
 The BLM developed these areas by selecting areas from their earlier dataset of [BLM Wilderness Study Areas](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/). The resulting BLM Proposed Action was documented in the [Utah BLM Statewide Wilderness Final Environmental Impact Statement](https://archive.org/details/utahblmstatewide3bunit) (1990). The automated data were received from the BLM and updated by UGRC with the State of Utah Trust Lands delineated, as they existed in 1995.
-
-<!--- Did the BLM create all the Wilderness Proposal datasets, or did we create some of them? Do we know where Emery County fit in to this process? --->
 
 ### How reliable and accurate is the dataset?
 
@@ -58,6 +56,7 @@ UGRC
 - National Wilderness Preservation System
 - Wilderness Study Areas
 - WSA
+- Public Lands Management Act of 1995
 
 ## Secondary Category
 
