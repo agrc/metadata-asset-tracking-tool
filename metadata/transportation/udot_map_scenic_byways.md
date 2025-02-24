@@ -30,13 +30,11 @@ Each polyline in this dataset has been placed down the center of the road. Featu
 
 ### How was the dataset created?
 
-This dataset was created using data from the Utah Department of Transportation. This layer was created for display at scale 1:126720.
-
-<!--- Our dataset looks pretty similar to the one UDOT has on their website, just slightly different schema. Is there anything in particular differentiating our dataset from theirs? --->
+This dataset was created using data from the Utah Department of Transportation.
 
 ### How reliable and accurate is the dataset?
 
-This dataset represents the most current and complete geospatial resource for scenic byways in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset represents generalized, approximate routes only and does not reflect current road centerlines. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
