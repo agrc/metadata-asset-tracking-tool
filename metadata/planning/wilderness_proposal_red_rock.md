@@ -26,7 +26,7 @@ Wilderness area data are used for natural resource management, [NEPA](https://ww
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the geographic extent of a proposed wilderness area in Utah. Features in this dataset include the Utah Wildlife Coalition ID, area name,
+Each polygon in this dataset indicates the geographic extent of a proposed wilderness area in Utah. Features in this dataset include the area name, region, last date revised, cluster, and acreage.
 
 ### How was the dataset created?
 
