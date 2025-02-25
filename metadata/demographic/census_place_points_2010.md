@@ -30,7 +30,7 @@ Each point in this dataset was placed inside the boundary of a city, town, or CD
 
 ### How was the dataset created?
 
-UGRC created this dataset using point information from the US Census Bureau. We pulled demographic data from the Federal Communication Commission's [National Broadband Map developer API](https://broadbandmap.fcc.gov/data-download).
+UGRC created this dataset by creating a point representation of the US Census Bureau's place polygons. We pulled demographic data from the Federal Communication Commission's [National Broadband Map developer API](https://broadbandmap.fcc.gov/data-download).
 
 ### How reliable and accurate is the dataset?
 
