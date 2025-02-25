@@ -18,7 +18,7 @@ This dataset contains a polygon representing unpopulated areas in Utah, derived 
 
 ### What is the dataset?
 
-Census blocks are small geographic zones through which population data can be collected and organized. These blocks are often bounded by features such as roads, rivers, or property lines. This dataset includes Census blocks in unpopulated areas of Utah as of the 2010 Census that have been dissolved into a single polygon.
+This dataset is a representation of Utah areas that have little to no population, buildings, or addresses, dissolved into a single polygon.
 
 ### What is the purpose of the dataset?
 
