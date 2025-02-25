@@ -26,7 +26,7 @@ The US Census Bureau uses both legally incorporated places (cities, towns, etc) 
 
 ### What does the dataset represent?
 
-Each point in this dataset was placed in the geographic center of a city, town, or CDP boundary. Features in this dataset contain a wide variety of demographic data, including income, age, race, and ethnicity metrics. This dataset also includes the rurality and economic need indicators modeled on the [USDA Community Connect](https://www.rd.usda.gov/programs-services/telecommunications-programs/community-connect-grants) grant criteria..
+Each point in this dataset was placed inside the boundary of a city, town, or CDP. Features in this dataset contain a wide variety of demographic data, including income, age, race, and ethnicity metrics. This dataset also includes the rurality and economic need indicators modeled on the [USDA Community Connect](https://www.rd.usda.gov/programs-services/telecommunications-programs/community-connect-grants) grant criteria..
 
 ### How was the dataset created?
 
