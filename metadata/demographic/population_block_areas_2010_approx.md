@@ -8,7 +8,7 @@ Utah Population Block Areas 2010 Approx
 
 ## Brief Summary
 
-Polygon dataset of Census blocks in populated areas as determined by aerial imagery.
+Polygon dataset of Census blocks trimmed to cover only populated areas in Utah.
 
 ## Summary
 
