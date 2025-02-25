@@ -34,7 +34,7 @@ UGRC created this dataset using the original 2010 Census Blocks from the US Cens
 
 ### How reliable and accurate is the dataset?
 
-Unpopulated areas shown in this dataset are approximate only. This layer is for historical reference and does not reflect current population numbers or Census block boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+Unpopulated areas shown in this dataset are approximate only. This layer is for historical reference and does not reflect current population numbers or Census data. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
