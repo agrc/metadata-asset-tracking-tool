@@ -30,7 +30,7 @@ Each polygon in this dataset represents the geographic extent of a census block 
 
 ### How was the dataset created?
 
-UGRC created this dataset using the original 2010 Census Blocks from the US Census Bureau. We clipped these blocks to only cover residential and developed areas as shown in aerial imagery. This dataset was updated in 2015 using new aerial photography and address point locations.
+UGRC created this dataset using the original 2010 Census Blocks from the US Census Bureau. We clipped these blocks to only cover residential and developed areas as shown in aerial imagery and/or containing address points. This dataset was updated in 2015 using new aerial photography and the latest address point locations at that time.
 
 ### How reliable and accurate is the dataset?
 
