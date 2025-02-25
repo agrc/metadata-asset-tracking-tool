@@ -18,7 +18,7 @@ This dataset contains polygons for areas proposed for wilderness designation in 
 
 ### What is the dataset?
 
-Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation during a 1995 inventory of Utah's public lands. You can learn more about wilderness areas through [resources from the Bureau of Land Management](Each polygon in this dataset indicates the geographic extent of a wilderness area in Utah. Features in this dataset include the name, administrator, and area in acres.) (BLM).
+Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation during a 1995 inventory of Utah's public lands. You can learn more about wilderness areas through [resources from the Bureau of Land Management](https://www.blm.gov/programs/national-conservation-lands/wilderness) (BLM).
 
 ### What is the purpose of the dataset?
 
@@ -26,15 +26,11 @@ Wilderness area data are used for natural resource management, [NEPA](https://ww
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the geographic extent of a proposed wilderness area in Utah. Features in this dataset include the BLM unit, name, and area in acres.
-
-<!--- There's also a field "is_this_state" that is marked either Y or left blank. Do we know what this indicates? --->
+Each polygon in this dataset indicates the geographic extent of a proposed wilderness area in Utah. Features in this dataset include the BLM unit, name, acreage, and whether or not the area is a [Utah Trust Land](https://trustlands.utah.gov/) (is_this_state).
 
 ### How was the dataset created?
 
-The BLM developed these areas by selecting areas from their earlier dataset of [BLM Wilderness Study Areas](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/). The resulting BLM Proposed Action was documented in the [Utah BLM Statewide Wilderness Final Environmental Impact Statement](https://archive.org/details/utahblmstatewide3bunit) (1990). The automated data were received from the BLM and updated by UGRC with the State of Utah Trust Lands delineated, as they existed in 1995.
-
-<!--- The original metadata somewhat contradicted itself. In some places it said that the Trust Lands had been excluded from this dataset, in other places it said it did include the Trust Lands. Do we know which is correct? --->
+The BLM developed these areas by selecting areas from their earlier dataset of [BLM Wilderness Study Areas](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/). The resulting BLM Proposed Action was documented in the [Utah BLM Statewide Wilderness Final Environmental Impact Statement](https://archive.org/details/utahblmstatewide3bunit) (1990). UGRC used this data from the BLM and updated the layer with the State of Utah Trust Lands as they existed in 1995.
 
 ### How reliable and accurate is the dataset?
 
