@@ -22,7 +22,7 @@ Census blocks are small geographic zones through which population data can be co
 
 ### What is the purpose of the dataset?
 
-Geography is a fundamental aspect of the Census, providing the framework for the once-a-decade count of population and housing. You can read more about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
+This dataset was created to represent the portion of Utah with little to no permanent population.  Geography is a fundamental aspect of the Census, providing the framework for the once-a-decade count of population and housing. You can read more about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
 
 ### What does the dataset represent?
 
