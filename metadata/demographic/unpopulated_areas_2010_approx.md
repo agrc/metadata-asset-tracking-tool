@@ -30,7 +30,7 @@ This dataset displays areas that contain little or no residential districts or d
 
 ### How was the dataset created?
 
-UGRC created this dataset using the original 2010 Census Blocks from the US Census Bureau. We used aerial imagery to determine unpopulated areas of Utah. This dataset was updated in 2015 using new aerial photography and address point locations.
+UGRC created this dataset using parts of the original 2010 Census data from the US Census Bureau. Populated census blocks and a buffer around known addresses were used erase populated areas within the state, thus leaving behind the unpopulated areas in this dataset.
 
 ### How reliable and accurate is the dataset?
 
