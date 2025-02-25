@@ -12,7 +12,7 @@ Points dataset of census places with age, race, income, and other demographic da
 
 ## Summary
 
-This dataset contains point locations for cities, downs, and Census Designated Places in Utah as of the 2010 Census. This dataset also includes demographic data that was current as of 2011. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
+This dataset contains point locations for cities, towns, and Census Designated Places in Utah as of the 2010 Census. This dataset also includes demographic data that was current as of 2011. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
 
 ## Description
 
