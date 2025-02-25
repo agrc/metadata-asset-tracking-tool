@@ -12,7 +12,7 @@ Polygon dataset of unpopulated areas in Utah dissolved as a single feature.
 
 ## Summary
 
-This dataset contains a polygon representing unpopulated areas in Utah as of the 2010 Census. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
+This dataset contains a polygon representing unpopulated areas in Utah, derived from 2010 Census and addressing data. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
 
 ## Description
 
