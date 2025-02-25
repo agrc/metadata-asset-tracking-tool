@@ -12,7 +12,7 @@ Polygon dataset of unpopulated areas in Utah dissolved as a single feature.
 
 ## Summary
 
-This dataset contains a polygon representing unpopulated areas in Utah, derived from 2010 Census and addressing data. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
+This dataset contains a polygon representing unpopulated areas in Utah, derived from 2010 Census and [UGRC addressing data](https://gis.utah.gov/products/sgid/location/address-points/). For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
 
 ## Description
 
@@ -22,15 +22,15 @@ This dataset is a representation of Utah areas that have little to no population
 
 ### What is the purpose of the dataset?
 
-This dataset was created to represent the portion of Utah with little to no permanent population.  Geography is a fundamental aspect of the Census, providing the framework for the once-a-decade count of population and housing. You can read more about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 Census Geography [Blog](https://gardner.utah.edu/blog/blog-whats-new-in-utahs-census-2020-geography/) and [fact sheet](https://d36oiwf74r1rap.cloudfront.net/wp-content/uploads/Geog-FS-Mar2021.pdf).
+This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
-This dataset displays areas that contain little or no residential districts or developed areas as a single polygon feature. This dataset does not contain demographic data.
+The polygon feature in this dataset indicates areas that contain little or no residential districts or developed areas. This dataset does not contain demographic data or other attributes.
 
 ### How was the dataset created?
 
-UGRC created this dataset using parts of the original 2010 Census data from the US Census Bureau. Populated census blocks and a buffer around known addresses were used erase populated areas within the state, thus leaving behind the unpopulated areas in this dataset.
+UGRC created this dataset using parts of the original 2010 Census data from the US Census Bureau. We used populated Census blocks and a buffer around known addresses to erase populated areas within the state, thus leaving behind the unpopulated areas in this dataset.
 
 ### How reliable and accurate is the dataset?
 
