@@ -12,7 +12,7 @@ Polygon dataset of Census blocks in populated areas as determined by aerial imag
 
 ## Summary
 
-This dataset contains polygon boundaries for 2010 Census blocks covering populated areas in Utah, as determined by 2015 aerial imagery. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
+This dataset contains polygon boundaries for 2010 Census blocks covering populated areas in Utah, as determined by 2015 aerial imagery and address point coverage. For 2020 Census data products, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
 
 ## Description
 
