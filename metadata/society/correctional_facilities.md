@@ -8,38 +8,45 @@ ed85333e-1346-48c3-9db4-9d98061d2c4c
 
 ## Brief Summary
 
+Points dataset of state and federal prisons, local jails, and other detainment facilities.
+
 ## Summary
+
+This dataset contains point locations for many types of correctional facilities in Utah. Features in this layer contain basic contact information only and do not include incarceration statistics or other metrics.
 
 ## Description
 
 ### What is the dataset?
 
-Correctional facilities consists of any facility or location where individuals are regularly and lawfully detained against their will. This includes Federal and State prisons, local jails, and juvenile detention facilities, as well as law enforcement temporary holding facilities.A Jail or Prison consists of any facility or location where individuals are regularly and lawfully detained against their will. This includes Federal and State prisons, local jails, and juvenile detention facilities, as well as law enforcement temporary holding facilities. Work camps, including camps operated seasonally, are included if they otherwise meet the definition.
-
-Locations that are administrative offices only are excluded from the dataset. This definition of Jails is consistent with that used by the Department of Justice (DOJ) in their "National Jail Census", with the exception of "temporary holding facilities", which the DOJ excludes. Locations which function primarily as law enforcement offices are included in this dataset if they have holding cells. AGRC has made a concerted effort to include all correctional institutions.
+Correctional facilities include any facility or location where individuals are regularly and lawfully detained. This includes federal and state prisons, local jails, and juvenile detention centers, and law enforcement holding facilities. This dataset does not include administrative offices, courts, or other law enforcement facilities, unless those structures include holding cells.
 
 ### What is the purpose of the dataset?
 
+<!--- The original metadata listed several use cases by Homeland Security, but are there any specific Utah agencies that use these data? Or is just for general reference? --->
+
 ### What does the dataset represent?
 
-Federal prison
-A facility operated by the Federal Bureau of Prisons for the incarceration of individuals.
-State prison
-A facility operated by a state, commonwealth, or territory of the US for the incarceration of individuals for a term usually longer than 1 year.
-Juvenile detention facility
-A facility for the incarceration of those who have not yet reached the age of majority (usually 18 years).
-Local jail
-A locally administered facility that holds inmates beyond arraignment (usually 72 hours) and is staffed by municipal or county employees.
+Each point in this dataset represents the location of a correctional facility in Utah. Points are usually placed on or near the main structure of the facility. Features in this dataset include the name, phone number, address, county, FIPS code, general directions, and coordinates of each facility.
 
 ### How was the dataset created?
 
+UGRC created this layer using data from the [Utah Department of Corrections](https://corrections.utah.gov/).
+
+<!--- Do we have further information on how this dataset came to be or how it is presently maintained? --->
+
 ### How reliable and accurate is the dataset?
+
+This dataset is the most current and complete collection of Utah correctional facility locations available. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+<!--- Utah Dept. of Corrections? --->
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -47,12 +54,21 @@ A locally administered facility that holds inmates beyond arraignment (usually 7
 
 ## Tags
 
+- State prison
+- Juvenile detention
+- Jail
+- Holding facilities
+
 ## Secondary Category
 
 ## Data Page Link
 
+[https://gis.utah.gov/products/sgid/society/correctional-facilities/]
+
 ## Update
 
 ### Update Schedule
+
+This dataset is updated as needed.
 
 ### Previous Updates
