@@ -12,13 +12,13 @@ Potential areas for wind energy development as determined by the UREZ Task Force
 
 ## Summary
 
-This dataset contains polygons that display areas for potential wind energy development. You can learn more about the UREZ Task Force on the [Utah Geological Survey website](https://geology.utah.gov/map-pub/survey-notes/energy-news/energy-news-utahs-renewable-energy-zone-assessment/).
+This dataset contains polygons that display areas for potential wind energy development. In addition to boundary data, this dataset include potential energy output from wind and estimated wind speeds in those regions.
 
 ## Description
 
 ### What is the dataset?
 
-The Utah Renewable Energy Zone (UREZ) Task Force was commissioned in 2008 by Governor Jon Huntsman to assess Utah's renewable energy resources such as geothermal, wind, and solar. This dataset contains polygons representing areas that the UREZ Task Force determined to be viable for future wind energy development.
+The Utah Renewable Energy Zone (UREZ) Task Force was commissioned in 2008 by Governor Jon Huntsman to assess Utah's renewable energy resources such as geothermal, wind, and solar. This dataset contains polygons representing areas that the UREZ Task Force determined to be viable for future wind energy development. You can learn more about the UREZ Task Force on the [Utah Geological Survey website](https://geology.utah.gov/map-pub/survey-notes/energy-news/energy-news-utahs-renewable-energy-zone-assessment/).
 
 ### What is the purpose of the dataset?
 
