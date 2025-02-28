@@ -62,8 +62,6 @@ UGRC
 
 ## Data Page Link
 
-[https://gis.utah.gov/products/sgid/energy/geothermal/]
-
 ## Update
 
 ### Update Schedule
