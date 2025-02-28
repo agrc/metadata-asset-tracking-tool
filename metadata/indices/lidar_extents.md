@@ -12,7 +12,7 @@ Polygon dataset of Lidar coverage areas in Utah.
 
 ## Summary
 
-This dataset contains polygons of areas where Lidar data has been collected in Utah. This dataset  does not include point clouds, Lidar-derived DEMs, or other data products.
+This dataset contains polygons of areas where Lidar data has been collected in Utah. This dataset does not include point clouds, Lidar-derived DEMs, or other data products.
 
 ## Description
 
