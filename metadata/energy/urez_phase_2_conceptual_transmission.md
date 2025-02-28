@@ -30,7 +30,7 @@ Each polyline in this dataset indicates the approximate path for an existing, pl
 
 ### How was the dataset created?
 
-This dataset was created by the UREZ Task Force as part of their Phase 1 assessment of Utah energy resources.
+This dataset was created by the UREZ Task Force as part of their [Phase 2 assessment](https://opendata.gis.utah.gov/datasets/utah::utah-urez-phase-2-zone-boundaries/about) of Utah energy resources.
 
 <!--- Was UGRC involved in the creation of this dataset? --->
 
