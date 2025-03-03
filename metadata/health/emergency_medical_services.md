@@ -30,17 +30,15 @@ Each point in this dataset indicates the approximate location of an emergency me
 
 ### How was the dataset created?
 
-<!--- I'm assuming we geocoded address submitted by someone? The Dept. of Public Safety maybe? --->
+UGRC created this layer using data submitted by local and regional government partners.
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete version of emergency medical services providers in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset contains approximate locations only and may not be representative of all emergency medical services providers in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
-
-<!--- Do we know the source for these data? --->
 
 ### Host
 
@@ -55,6 +53,8 @@ UGRC
 - Ambulance
 - Fire department
 - EMS
+- Public health
+- EMT
 
 ## Secondary Category
 
