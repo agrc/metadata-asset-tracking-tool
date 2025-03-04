@@ -24,17 +24,13 @@ A health care district is composed of one or several counties that are grouped t
 
 This dataset is used by a variety of local and state agencies for statistical analysis and regional public health planning.
 
-<!--- This is my assumption. Do we know if these data have a more specific purpose than this? --->
-
 ### What does the dataset represent?
 
 Each polygon in this dataset indicates the geographic extent of a health care district. Features in this dataset include the district name, ID number, and a number field for cartography (color4).
 
 ### How was the dataset created?
 
-UGRC created this layer using data submitted by local government partners.
-
-<!--- A guesstimate. Do we have information on how this dataset came to be? --->
+UGRC created this layer using data submitted by local government partners and by aggregating county boundaries where appropriate.
 
 ### How reliable and accurate is the dataset?
 
