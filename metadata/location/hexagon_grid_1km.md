@@ -8,11 +8,11 @@ Utah Hexagon Grid 1km
 
 ## Brief Summary
 
+Polygon grid of standardized polygons for data display and analysis.
+
 ## Summary
 
 ## Description
-
-Quarter square mile hexagons useful for generalizing data.
 
 ### What is the dataset?
 
