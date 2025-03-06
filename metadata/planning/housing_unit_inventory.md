@@ -57,7 +57,7 @@ UGRC created this dataset in collaboration with the [Wasatch Front Regional Coun
 
 ### How reliable and accurate is the dataset?
 
-This dataset is not a substitute for the locally maintained datasets from county assessors, but instead presents additional standardized information about the type and number of housing units, associated grounds and common areas, and related short-term and long-term trends. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset is not a substitute for the locally maintained datasets from county assessors, but instead presents additional standardized information about the type and number of housing units, associated grounds and common areas, and related short-term and long-term trends. Parts of the analysis are systematic and rely on the completeness of the parcel and assessor data available from the counties. Other parts, like associating common areas with dwelling units, require more manual processes and are subject to interpretation. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 <!--- I feel like there are more caveats I should add here, but I'm not too sure what those caveats should be. --->
 
