@@ -49,7 +49,7 @@ This dataset has been made available for use in state and regional planning and 
 
 Each polygon in this dataset represents a parcel (or group of parcels) containing one or more individual dwelling units ranging from single family homes to apartments and condos. The inventory applies apartment unit counts to single-parcel, multi-unit buildings that do not have individually-owned and platted units (apartment buildings, quadplexes, mixed use buildings, etc). These unit counts come from a variety of sources, including the [Utah Address Points](https://gis.utah.gov/products/sgid/location/address-points/) dataset and additional data provided by individual counties.
 
-For cases where individual condos, townhomes, and single family homes have associated common areas, the inventory aggregates and combines the geometries and attributes of the individual units and common areas into a single composite parcel feature called an "owned unit grouping". This sums, averages, and counts the appropriate attributes of the contributing parcels to better characterize the density of these residential land uses (dwelling units per acre or DUA).
+For cases where individually-owned condos, townhomes, and single family homes have communally-owned common areas (often owned by an home owners association), the inventory aggregates and combines the geometries and attributes of the individual units and common areas into a single composite parcel feature called an "owned unit grouping." This sums, averages, and counts the appropriate attributes of the contributing parcels to better characterize the density of these residential land uses (represented by the metric Dwelling Units per Acre, or DUA).
 
 ### How was the dataset created?
 
