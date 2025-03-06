@@ -8,7 +8,7 @@ Utah Housing Unit Inventory Field Definitions
 
 ### TYPE
 
-General housing type, such as single or multi-family.
+General housing type: single or multi-family.
 
 ### SUBTYPE
 
