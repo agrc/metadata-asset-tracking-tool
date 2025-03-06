@@ -12,7 +12,7 @@ General housing type: single or multi-family.
 
 ### SUBTYPE
 
-More detailed housing type classification.
+More detailed housing type classification like single family, townhome, condo, etc.
 
 ### IS_OUG
 
