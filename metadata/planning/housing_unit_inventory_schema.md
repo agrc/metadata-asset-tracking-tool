@@ -16,7 +16,7 @@ More detailed housing type classification like single family, townhome, condo, e
 
 ### IS_OUG
 
-1 or Yes for features that are owned unit groupings (as opposed to a single-parcel home or apartment)
+1 or Yes for features that are owned unit groupings (usually condos or HOAs grouped with their commonly-owned areas as opposed to a single-parcel home or apartment)
 
 ### UNIT_COUNT
 
