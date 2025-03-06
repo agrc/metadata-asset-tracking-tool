@@ -20,7 +20,7 @@ More detailed housing type classification like single family, townhome, condo, e
 
 ### UNIT_COUNT
 
-The number of dwelling units, based on address point data.
+The number of dwelling units in a property or owned unit grouping
 
 ### DUA
 
