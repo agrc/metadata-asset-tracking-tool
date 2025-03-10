@@ -12,7 +12,7 @@ Polygon extents of auto-correlated Digital Elevation Models collected in 2006.
 
 ## Summary
 
-This dataset contains polygons depicting the extent of auto-correlated bare-earth Digital Elevation Models (DEMs) available in Utah. This dataset contains polygon extents only; DEMs can be downloaded either from the USGS [National Map data download service](https://apps.nationalmap.gov/downloader/#/) or on the [UGRC website](https://gis.utah.gov/products/sgid/elevation/auto-correlated-dem/).
+This dataset contains polygons depicting the extent of auto-correlated bare-earth Digital Elevation Models (DEMs) available in Utah. This dataset contains polygon extents only; DEMs can be downloaded on the [UGRC website](https://gis.utah.gov/products/sgid/elevation/auto-correlated-dem/).
 
 ## Description
 
