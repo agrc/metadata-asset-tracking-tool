@@ -8,39 +8,57 @@ Utah Zoom Locations
 
 ## Brief Summary
 
+Polygon dataset of private, public, and tribal areas commonly used in cartography.
+
 ## Summary
+
+This dataset includes a variety of places commonly used in mapping applications, including private, public, and tribal entities.
 
 ## Description
 
-The dataset was created by AGRC staff using the best available data in Utah's State Geographic Information Database (SGID), January 31, 2011 to support the 'magic zoom' map search functionality contained in the middle (map) panel of the Utah Broadband Interactive map (http://mapserv.utah.gov/broadband)
-
-This dataset contains the boundaries for utah counties, cities, regional government, zipcodes, tribal lands, national forests, national parks, national monuments, state parks, legislative and congressional districts and buffered polygons for placenames, junctions, and other features shown on the UDOT Highway Map.
-
-This data contains polygons of commonly used places in mapping. It was created by UGRC from multiple sources including the GNIS point, municipalities, counties, political districts, ZIP codes, etc. The dataset is named ZoomLocations since the names and geometries can be used to zoom to common areas on a map with widgets like 
-Sherlock
-, opens in a new tab.
-
 ### What is the dataset?
+
+Zoom Locations refers to places in Utah that have been used to support zoom tools for many different maps and mapping applications. These locations include a wide variety of places, including counties, ZIP codes, tribal lands, national forests, congressional districts, and many more.
 
 ### What is the purpose of the dataset?
 
+UGRC created this dataset to support maps for the Utah Broadband Project, UDOT highway map, and other projects. This dataset has been made available to the public for general reference and cartographic purposes.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the geographic extent of a place boundary. Features include the type of location and the name, where applicable.
 
 ### How was the dataset created?
 
+UGRC created this layer from a wide variety of private and public data sources.
+
+<!--- Are there further details that ought to be mentioned here? --->
+
 ### How reliable and accurate is the dataset?
+
+This dataset represents approximate boundaries for a wide variety of location types and is not a substitute for legal boundaries maintained elsewhere in the SGID. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+UGRC
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- ZIP codes
+- County boundaries
+- Cartography
+- Web apps
+- Mapping resources
 
 ## Secondary Category
 
@@ -53,5 +71,7 @@ Sherlock
 ### Update Schedule
 
 This dataset is updated as needed.
+
+<!--- Is this the case? --->
 
 ### Previous Updates
