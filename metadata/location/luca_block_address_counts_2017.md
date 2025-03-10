@@ -20,11 +20,19 @@ The TIGER/Line shapefiles and related database files (.dbf) are an extract of se
 
 ### What is the dataset?
 
+The Local Update of Census Addresses (LUCA) program was created by the US Census Bureau to provide a means for city, county, and state governments to suggest edits to the residential address database used by the Bureau. This program helps to ensure accurate data collection and reporting for the Census.
+
 ### What is the purpose of the dataset?
+
+This dataset has been made available for general reference and analytic purposes.
 
 ### What does the dataset represent?
 
+
+
 ### How was the dataset created?
+
+
 
 ### How reliable and accurate is the dataset?
 
