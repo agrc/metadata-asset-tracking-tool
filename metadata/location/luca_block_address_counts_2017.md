@@ -8,19 +8,17 @@ fdaa7bc4-1588-417a-a9b0-42c1231b26c7
 
 ## Brief Summary
 
+Polygon dataset of Census blocks in Utah for comparing residential address counts between the MAF and SGID Address Points.
+
 ## Summary
+
+This dataset contains features comparing the US Census Bureau residential address count compared to the LUCA program count as of 2017. These data was created in preparation for the 2020 Census.
 
 ## Description
 
-Census Master Address File (MAF) address count compared to state compiled address point (SGID10.LOCATION.AddressPoints) count by census block.
-
-Census Master Address File (MAF) address count compared to state compiled address point (SGID10.LOCATION.AddressPoints) count by census block.
-
-The TIGER/Line shapefiles and related database files (.dbf) are an extract of selected geographic and cartographic information from the U.S. Census Bureau's Master Address File / Topologically Integrated Geographic Encoding and Referencing (MAF/TIGER) Database (MTDB). The MTDB represents a seamless national file with no overlaps or gaps between parts, however, each TIGER/Line shapefile is designed to stand alone as an independent data set, or they can be combined to cover the entire nation. Census Blocks are statistical areas bounded on all sides by visible features, such as streets, roads, streams, and railroad tracks, and/or by nonvisible boundaries such as city, town, township, and county limits, and short line-of-sight extensions of streets and roads. Census blocks are relatively small in area; for example, a block in a city bounded by streets. However, census blocks in remote areas are often large and irregular and may even be many square miles in area. A common misunderstanding is that data users think census blocks are used geographically to build all other census geographic areas, rather all other census geographic areas are updated and then used as the primary constraints, along with roads and water features, to delineate the tabulation blocks. As a result, all 2010 Census blocks nest within every other 2010 Census geographic area, so that Census Bureau statistical data can be tabulated at the block level and aggregated up to the appropriate geographic areas. Census blocks cover all territory in the United States, Puerto Rico, and the Island Areas (American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the U.S. Virgin Islands). Blocks are the smallest geographic areas for which the Census Bureau publishes data from the decennial census. A block may consist of one or more faces.
-
 ### What is the dataset?
 
-The Local Update of Census Addresses (LUCA) program was created by the US Census Bureau to provide a means for city, county, and state governments to suggest edits to the residential address database used by the Bureau. This program helps to ensure accurate data collection and reporting for the Census.
+The [Local Update of Census Addresses](https://www.census.gov/programs-surveys/decennial-census/about/luca.html) (LUCA) program was created by the US Census Bureau to provide a means for city, county, and state governments to suggest edits to the residential address database used by the Bureau. This program helps to ensure accurate data collection and reporting for the Census. This dataset contains polygons representing Census blocks with fields indicating the Census Master Address File (MAF) count compared to the state compiled [address point](https://gis.utah.gov/products/sgid/location/address-points/) count.
 
 ### What is the purpose of the dataset?
 
@@ -28,25 +26,36 @@ This dataset has been made available for general reference and analytic purposes
 
 ### What does the dataset represent?
 
-
+Each polygon in this dataset represents a Census block as of the 2010 Census. Features contain the residential address count (resadd_ct), the Utah-compiled address count (utadd_ct) and the difference between these two counts (ut_cb_diff). These fields can be used to determine how many addresses were counted per Census block in the original MAF database as compared to what was counted as part of the LUCA program.
 
 ### How was the dataset created?
 
-
+<!--- I have my guesstimates, but do we know who created this dataset and how it was done? --->
 
 ### How reliable and accurate is the dataset?
+
+This dataset represents Census block data as of 2010 and may not reflect current Census block boundaries, address counts, or LUCA participation. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+US Census Bureau
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- 2010 Census
+- 2020 Census
+- Census preparation
+- US Census Bureau
 
 ## Secondary Category
 
@@ -55,5 +64,7 @@ This dataset has been made available for general reference and analytic purposes
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
