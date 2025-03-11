@@ -30,7 +30,7 @@ Each polygon in this dataset indicates the geographic extent of an available aut
 
 ### How was the dataset created?
 
-<!--- Where did this dataset come from? --->
+UGRC created this layer using data submitted by a variety of local and regional partners.
 
 ### How reliable and accurate is the dataset?
 
