@@ -8,7 +8,7 @@ Utah Contour Line Extents
 
 ## Brief Summary
 
-Polygon dataset of Lidar and aerial photography project areas that were used to delineate contour lines.
+Polygon dataset of areas where contour lines are available for download in Utah.
 
 ## Summary
 
