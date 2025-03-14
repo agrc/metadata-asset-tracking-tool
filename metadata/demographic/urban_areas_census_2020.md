@@ -18,7 +18,7 @@ This dataset contains polygons representing urban areas as defined by the [US Ce
 
 ### What is the dataset?
 
-The US Census Bureau defines urban areas as "densely developed territory, and encompass residential, commercial, and other nonresidential urban land uses. Each urban area must encompass at least 2000 housing units or at least 5000 people."
+The US Census Bureau [defines urban areas](https://ask.census.gov/prweb/PRServletCustom/app/ECORRAsk/YACFBFye-rFIz_FoGtyvDRUGg1Uzu5Mn*/!STANDARD?pzuiactionrrr=CXtpbn0rTEpMcGRYOG1vS0tqTFAwaENUZWpvM1NNWEMzZ3p5aFpnWUxzVmw0TjJnbzhGN1llanJKR0NmVHVDNmxQY201*) as "densely developed territory, and encompass residential, commercial, and other nonresidential urban land uses. Each urban area must encompass at least 2000 housing units or at least 5000 people."
 
 ### What is the purpose of the dataset?
 
