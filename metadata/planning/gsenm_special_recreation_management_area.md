@@ -34,7 +34,7 @@ This dataset was provided by the BLM.
 
 ### How reliable and accurate is the dataset?
 
-This dataset reflects the most current and complete boundaries for the Grand Staircase Escalante-National Monument special recreation are boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset reflects the most current and complete boundaries for the Grand Staircase Escalante-National Monument special recreation area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
