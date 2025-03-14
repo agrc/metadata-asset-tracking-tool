@@ -8,49 +8,45 @@ Utah Urban Areas Census 2020
 
 ## Brief Summary
 
+Polygon dataset of areas designated as residential, commercial, or other urban land uses.
+
 ## Summary
+
+This dataset contains polygons representing urban areas as defined by the [US Census Bureau](https://www.census.gov/) during the 2020 Census. This dataset contains boundary information only and does not include demographic data.
 
 ## Description
 
-Urban areas identified from the 2020 Census
-
-The urban areas created by the US Census Bureau "represent densely developed territory, and encompass residential, commercial, and other nonresidential urban land uses. Each urban area must encompass at least 2,000 housing units or at least 5,000 people." They were created by the Bureau following the 2020 census based on the population and housing unit density of individual blocks.
-
-The 2020 Census increased the urban population and housing unit count requirements for the first time since 1910, resulting in differences between the 2010 and 2020 boundaries beyond those resulting from population change. In addition, they also stopped distinguishing between "urbanized areas" and "urban clusters" and renamed areas as needed to reflect the updated boundaries.
-
-Please see the US Census Bureau website for more information.
-
-Utah's 2020 census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau will release a more user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. In the meantime, UGRC, with collaboration from the Analytics Group at 
-WFRC
-, opens in a new tab, has worked with the August 12 release and has created ready-to-use GIS data in several formats that hopefully make the 2020 redistricting data easier to use. Read more about these offerings in the blog post, 2020 Census Redistricting Data in Easy to Use GIS Formats
-
-The 2020 data available on this page was downloaded from the 
-2020 Census Redistricting Data (P.L. 94-171)
-, opens in a new tab page. All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the 
-census redistricting data
-, opens in a new tab page.
-
-Geography is a fundamental aspect of the census, providing the framework for the once-a-decade count of population and housing. Read about some of the key geography changes in the Kem C. Gardner Policy Institute's 2020 census geography 
-blog
-, opens in a new tab and 
-fact sheet
-, opens in a new tab.
-
 ### What is the dataset?
+
+The US Census Bureau defines urban areas as "densely developed territory, and encompass residential, commercial, and other nonresidential urban land uses. Each urban area must encompass at least 2000 housing units or at least 5000 people."
 
 ### What is the purpose of the dataset?
 
+This dataset has been made available to the public for general cartographic and analytic purposes.
+
 ### What does the dataset represent?
+
+Each polygon in this dataset indicates the geographic extent of an urban area as defined by the US Census Bureau. Features in this dataset contain the area name, population, and number of housing units as of the 2020 Census.
 
 ### How was the dataset created?
 
+UGRC created this dataset from a subset of nationally available Census data. The US Census Bureau defined urban areas using the population and housing unit density from Census blocks. In the past, the Census has delineated between "urbanized areas" and "urban clusters", but as of the 2020 Census, these definitions have been combined to encompass the urban areas found in this dataset.
+
+UGRC, in collaboration with the [Wasatch Front Regional Council](https://wfrc.org/), have also created tabular datasets for demographic data that can be joined to this dataset for enhanced functionality. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
+
 ### How reliable and accurate is the dataset?
+
+All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+US Census Bureau
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
@@ -58,9 +54,14 @@ fact sheet
 
 ## Tags
 
+- US Census Bureau
+- Urbanization
+
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/demographic/census-2020-urban-areas/]
 
 ## Update
 
