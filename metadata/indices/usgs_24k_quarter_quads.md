@@ -1,6 +1,6 @@
 # Title
 
-USGS 24K Quarter Quads
+Utah USGS 24K Quarter Quads
 
 ## ID
 
@@ -12,13 +12,13 @@ Polygon dataset of USGS 7.5 minute quadrangle quarters for topography and genera
 
 ## Summary
 
-This dataset contains polygons representing quarter quadrangles used by the United States Geologic Survey (USGS) since 1947.
+This dataset contains polygons representing quarter quadrangles used by the United States Geologic Survey (USGS) since 1947. This dataset contains quadrangle boundaries only and does not include topography data.
 
 ## Description
 
 ### What is the dataset?
 
-Quadrangles are rectangular units of measurement in which the sides measure 7.5 minutes of latitude and 7.5 minutes of longitude. These quadrangles are divided into four equal parts to create the quarter quads found in this dataset. Quarter quadrangles are used in the creation of topographic maps and can be used to aggregate data into the standard 1:24,000 scale used by USGS.
+Quadrangles are rectangular units of measurement in which the sides measure 7.5 minutes of latitude and 7.5 minutes of longitude. These quadrangles are divided into four equal parts to create the quarter quads found in this dataset. Quarter quadrangles are used in the creation of topographic maps and to represent data at the standard 1:24,000 scale.
 
 ### What is the purpose of the dataset?
 
@@ -55,6 +55,8 @@ UGRC
 - Quadrangle
 - Topography
 - Topo maps
+- USGS
+- United States Geologic Survey
 
 ## Secondary Category
 
