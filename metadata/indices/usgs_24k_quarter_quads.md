@@ -12,7 +12,7 @@ Polygon dataset of USGS 7.5 minute quadrangle quarters for topography and genera
 
 ## Summary
 
-This dataset contains polygons representing quarter quadrangles used by the United States Geologic Survey (USGS) since 1947. This dataset contains quadrangle boundaries only and does not include topography data.
+This dataset contains polygons representing quarter quadrangles used by the United States Geological Survey (USGS) since 1947. This dataset contains quadrangle boundaries only and does not include topography data.
 
 ## Description
 
@@ -56,7 +56,7 @@ UGRC
 - Topography
 - Topo maps
 - USGS
-- United States Geologic Survey
+- United States Geological Survey
 
 ## Secondary Category
 
