@@ -30,11 +30,11 @@ Each polygon in this dataset represents the area within a meander line, where so
 
 ### How was the dataset created?
 
-<!--- Was this pulled from the PLSS data, or from another source? --->
+This layer was created using data available from the Public Land Survey System administered by the Bureau of Land Management.
 
 ### How reliable and accurate is the dataset?
 
-This dataset is the most current and complete version of the Great Salt Lake meander line available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+The boundaries in this dataset represent an approximate shoreline only and may not reflect the current extent of the Great Salt Lake. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
