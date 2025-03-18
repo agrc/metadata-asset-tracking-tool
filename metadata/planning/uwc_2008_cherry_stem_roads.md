@@ -18,7 +18,7 @@ This dataset contains polyline features representing cherry stem roads in Wilder
 
 ### What is the dataset?
 
-Cherry stem roads are sections of roads that cross through wilderness study areas or wilderness areas but fall outside the official boundary of those areas and are thus not included in Bureau of Land Management (BLM) management plans for wilderness areas. These roads may be paved or unpaved and may or not may not provide public access to and around wilderness areas.
+Cherry stem roads are sections of roads that cross through wilderness study areas or wilderness areas but fall outside the official boundary of those areas and are thus not included in Bureau of Land Management (BLM) management plans for wilderness areas. These roads may be paved or unpaved and may or not may not provide public access to and around wilderness areas. These roads are not considered part of the wilderness areas themselves.
 
 ### What is the purpose of the dataset?
 
@@ -30,7 +30,7 @@ Each line in this dataset represents the approximate centerline of a cherry stem
 
 ### How was the dataset created?
 
-<!--- Any ideas on how this dataset came to be? Going off the title, I'm assuming the Utah Wilderness Coalition was involved in some fashion. --->
+This layer was created using data submitted by local and regional partners.
 
 ### How reliable and accurate is the dataset?
 
