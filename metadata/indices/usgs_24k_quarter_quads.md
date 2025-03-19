@@ -18,7 +18,7 @@ This dataset contains polygons representing quarter quadrangles used by the Unit
 
 ### What is the dataset?
 
-Quadrangles are rectangular units of measurement in which the sides measure 7.5 minutes of latitude and 7.5 minutes of longitude. These quadrangles are divided into four equal parts to create the quarter quads found in this dataset. Quarter quadrangles are used in the creation of topographic maps and to represent data at the 1:24,000 scale.
+Quadrangles are rectangular units of measurement in which the sides measure 7.5 minutes of latitude and 7.5 minutes of longitude. These quadrangles are divided into four equal parts to create the quarter quads found in this dataset. Quarter quadrangles are used in the creation of topographic maps and to represent data at the 1:24,000 scale. These boundaries are also coincident with the [National Agriculture Imagery Program](https://naip-usdaonline.hub.arcgis.com/) (NAIP) tiles.
 
 ### What is the purpose of the dataset?
 

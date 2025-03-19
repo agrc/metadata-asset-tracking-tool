@@ -26,9 +26,7 @@ This dataset has been made available to the public for general reference and ana
 
 ### What does the dataset represent?
 
-Each polygon in this dataset represents the geographic extent of a quadrangle. Features in this dataset include the USGS tile name, tile code, file path, and file extension.
-
-<!--- Do we know what the ohio_code refers to? --->
+Each polygon in this dataset represents the geographic extent of a quadrangle. Features in this dataset include the USGS tile name, UGRC q number, and ohio code.
 
 ### How was the dataset created?
 
