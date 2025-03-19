@@ -16,8 +16,6 @@ This dataset contains polygons representing project areas and completion dates f
 
 ## Description
 
-Boundaries and dates of the imagery blocks in the Google imagery service.
-
 ### What is the dataset?
 
 Aerial and satellite imagery is a powerful tool that can be used in data modeling, analysis, and cartography. This dataset shows areas in Utah where imagery has been collected, processed, and made available to the public through the Google imagery service.
