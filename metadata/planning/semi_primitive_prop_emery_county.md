@@ -20,8 +20,6 @@ This dataset contains polygons representing proposed semi-primitive areas submit
 
 A primitive area is a region designated for protection of natural, cultural, or archaeological resources. This dataset contains polygons representing areas proposed by Emery County for Semi-Primitive Area designation as part of HR 1745, also known as the [Utah Public Lands Management Act of 1995](https://www.congress.gov/bill/104th-congress/house-bill/1745/actions). UGRC has modified the source data to include State Trust lands as they existed in 1995.
 
-<!---It was difficult to find resources about the definitions between primitive and semi-primitive. Do we have further information on this? --->
-
 ### What is the purpose of the dataset?
 
 This dataset has been made available to the public for general reference and cartographic purposes.
