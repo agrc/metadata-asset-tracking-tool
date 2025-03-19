@@ -8,11 +8,11 @@ Utah USGS 24k Quads
 
 ## Brief Summary
 
-Polygon dataset of USGS 7.5 minute quadrangle for topography and general analysis.
+Polygon dataset of USGS 7.5 minute quadrangles for topography and general analysis.
 
 ## Summary
 
-This dataset contains polygons representing 7.5 minute quadrangles used by the United States Geological Survey (USGS) since 1947. This dataset contains quadrangle boundaries only and does not include topography data and to represent data at the 1:24,000 scale.
+This dataset contains polygons representing 7.5 minute quadrangles used by the United States Geological Survey (USGS) since 1947. This dataset contains quadrangle boundaries only and does not include topography data.
 
 ## Description
 
