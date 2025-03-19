@@ -10,45 +10,51 @@ Utah H3 Hexes Level 5
 
 ## Summary
 
+The [H3 indexing system](https://h3geo.org/docs) provides a standardized and high-performance grid for aggregating data at various levels. This layer contains the spatial representation of the hex IDs that cover the state of Utah for resolution level 5.
+
 ## Description
-
-The H3 grid covering the state of Utah at resolution level 5.
-
-The H3 indexing system provides a standardized and high-performance grid for aggregating data at various levels. This layer contains the spatial representation of the IDs that cover the state of Utah. While it can be used for normal GIS point-in-polygon operations, you will get much better performance using the H3 API to assign a hex ID to your points, aggregating/analyzing your points based on ID, and then joining your aggregated data to this layer on the hex IDs.
-
-Our H3 blog post provides an overview of the system, an explanation of how we created these geometries, and an example analysis. Once the geometries were created in EPSG 4326 (WGS 84 lon/lat), they were projected to EPSG 26912 (UTM 12N) using the NAD_1983_To_WGS_1984_5 transformation.
-
-The H3 reference polygons covering the State of Utah at resolutions 5 through 9. These were created with the H3 API produced by Uber, Inc and cover the entirety of the state. You can use these for both a standard hexagon grid for the state and a spatial dataset for points aggregated via the H3 API.
-
-See our H3 blog post for an example usage scenario.
-
-The H3 Spatial Index (created by Uber) helps users aggregate point data using an easily reusable common grid. This allows you to maintain a consistent geometry across all your analyses, which makes them easier to compare. H3 uses highly-optimized math routines to assign lat/long coordinates an ID corresponding to a polygon (almost always hexes) at a given resolution rather than performing a much slower point-in-polygon geometrical operation. Once you've generated IDs for your points, you can use these polygons to aggregate them and display summary statistics on a map.
-
-We used the H3 library to create the index polygons that cover the entire State of Utah at resolutions 5 through 9. You can find more information about how we created them, along with an example of how to use them, in our H3 blog post.
-
-Like the rest of our SGID data, the spatial reference for these polygons is UTM Zone 12N, NAD83. However, remember that your points must be in WGS 84 lat/long in order to use the H3 API to assign them a hex ID. The polygons are copyright 2022 Uber Technologies, Inc and licensed under version 2.0 of the Apache License
 
 ### What is the dataset?
 
+The H3 Spatial Index (created by Uber) helps users aggregate point data using a reusable common grid with consistent geometry. H3 uses highly optimized math routines to assign lat/long coordinates an ID corresponding to a polygon (almost always hexes) at a given [resolution level](https://h3geo.org/docs/core-library/restable). The resulting hexes can be used to aggregate data and display spatial statistics.
+
 ### What is the purpose of the dataset?
+
+This dataset is suitable for normal GIS point-in-polygon operations, however, UGRC recommends using the [H3 API](https://h3geo.org/docs/api/indexing) to assign a hex ID to your points, aggregating/analyzing your points based on ID, and then joining your aggregated data to this layer on the hex IDs.
 
 ### What does the dataset represent?
 
+Each hex in this dataset indicates a H3 hex in or around Utah and includes the hex ID.
+
 ### How was the dataset created?
 
+The H3 Hexes were created with the H3 API produced by [Uber, Inc](https://www.uber.com/us/en/about/?uclick_id=82b730cd-637d-46eb-9e49-c7da6cd0c21e) and cover the entirety of the state. Once the geometries were created in EPSG 4326 (WGS 84 lon/lat), they were projected to EPSG 26912 (UTM 12N) using the NAD_1983_To_WGS_1984_5 transformation. Our [H3 blog post](https://gis.utah.gov/blog/2022-10-26-using-h3-hexes/) provides an overview of the system, an explanation of how we created these geometries, and an example analysis.
+
 ### How reliable and accurate is the dataset?
+
+This dataset reflects the most current and complete version of H3 Level 5 Hexes available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+Uber
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
+The polygons are copyright 2022 Uber Technologies, Inc and licensed under version 2.0 of the Apache License
+
 ## Tags
+
+- Uber
+- H3geo
+- Hexagons
 
 ## Secondary Category
 
@@ -57,5 +63,7 @@ Like the rest of our SGID data, the spatial reference for these polygons is UTM 
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
