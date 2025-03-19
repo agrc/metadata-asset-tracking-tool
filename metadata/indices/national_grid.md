@@ -12,11 +12,13 @@ Polygon dataset of USNG blocks in and around Utah.
 
 ## Summary
 
+This dataset contains polygons representing blocks in the United States National grid that cover Utah. This dataset contains boundary information only.
+
 ## Description
 
 ### What is the dataset?
 
-The United States National Grid is a nationally consistent, interoperable grid system that provides a frame of reference for determining location in GPS and GIS systems.
+The United States National Grid is a nationally consistent, interoperable grid system that provides a frame of reference for determining location in GPS and GIS systems. You can learn more about the National Grid on the [Federal Geographic Data Committee](https://www.fgdc.gov/usng/how-to-read-usng) website.
 
 ### What is the purpose of the dataset?
 
@@ -24,7 +26,7 @@ This dataset has been made available to the public for general reference and car
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates a grid square used in the National Grid system. Features in this dataset include the USNG ID number, northing, and easting.
+Each polygon in this dataset indicates a block used in the National Grid system. Features in this dataset include the USNG ID number, northing, and easting.
 
 ### How was the dataset created?
 
