@@ -10,7 +10,7 @@ Utah H3 Hexes Level 5
 
 ## Summary
 
-The [H3 indexing system](https://h3geo.org/docs) provides a standardized and high-performance grid for aggregating data at various levels. This layer contains the spatial representation of the hex IDs that cover the state of Utah for resolution level 5.
+The [H3 indexing system](https://h3geo.org/docs) provides a standardized and high-performance grid for aggregating point data at various levels. This layer contains the spatial representation of the hex IDs that cover the state of Utah for resolution level 5.
 
 ## Description
 
