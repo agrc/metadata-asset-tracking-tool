@@ -20,7 +20,7 @@ The H3 Spatial Index (created by Uber) helps users aggregate point data using a 
 
 ### What is the purpose of the dataset?
 
-This dataset is suitable for normal GIS point-in-polygon operations, however, UGRC recommends using the [H3 API](https://h3geo.org/docs/api/indexing) to assign a hex ID to your points, aggregating/analyzing your points based on ID, and then joining your aggregated data to this layer on the hex IDs.
+This dataset is suitable for normal GIS point-in-polygon spatial operations. However, UGRC recommends that you use the [H3 API](https://h3geo.org/docs/api/indexing) to assign a hex ID to your points, then aggregate and analyze your points based on those IDs, and finally join your aggregated data table to this layer on the hex IDs to get a spatial representation. This can be much faster for large datasets than spatial point-in-polygon operations.
 
 ### What does the dataset represent?
 
