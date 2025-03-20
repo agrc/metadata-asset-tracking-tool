@@ -22,7 +22,7 @@ Aerial and satellite imagery is a powerful tool that can be used in data modelin
 
 ### What is the purpose of the dataset?
 
-This dataset displays geographic areas of Utah where users can find aerial and satellite coverage. This dataset is suitable as a reference for current and past imagery projects in Utah.
+This dataset displays geographic areas of Utah where users can find aerial imagery coverage. This dataset is suitable as a reference for current and past imagery projects in Utah.
 
 ### What does the dataset represent?
 
@@ -53,7 +53,6 @@ UGRC
 ## Tags
 
 - Remote sensing
-- Satellite imagery
 - Aerial imagery
 
 ## Secondary Category
