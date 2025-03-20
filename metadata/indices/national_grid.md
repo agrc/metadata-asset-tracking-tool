@@ -26,11 +26,11 @@ This dataset has been made available to the public for general reference and car
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates a block used in the National Grid system. Features in this dataset include the USNG ID number, northing, and easting.
+Each 1000 meter x 1000 meter polygon in this dataset indicates a block used in the National Grid system. Features in this dataset include the USNG ID number, USNG grid zone designator, 100,000 meter USNG square ID, lower left northing of each polygon, and lower left easting of each polygon.
 
 ### How was the dataset created?
 
-<!--- Do we know how this dataset came to be? --->
+The Center for Interdisciplinary Geospatial Information Technologies at Delta State University developed this layer in collaboration with the US Geological Survey under the cooperative agreement [07ERAG0083](https://usngcenter.org/fema-region-8/).
 
 ### How reliable and accurate is the dataset?
 
@@ -40,7 +40,8 @@ This dataset is the most current and complete version of National Grid blocks in
 
 ### Data Source
 
-<!--- Unknown --->
+- Delta State University
+- USGS
 
 ### Host
 
@@ -57,6 +58,8 @@ UGRC
 ## Secondary Category
 
 ## Data Page Link
+
+[https://gis.utah.gov/products/sgid/indices/national-grid-index/]
 
 ## Update
 
