@@ -26,7 +26,7 @@ This dataset has been made available to the public for general reference purpose
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the geographic extent of an available USGS DRG. Features in this dataset include a general description, the resolution, available file format, file size, file path, product type, product category, tile index, and total square miles for each DRG extent.
+Each polygon in this dataset indicates the geographic extent of an available USGS DRG. DRGs are available at a variety of scales, including 1:24,000, 1:100,000, and 1:250,000. Vintage topographic map scales such as 1:62,500 and 1:125,000 are also available. Features in this dataset include a general description, available file format, file size, file path, product type, product category, tile index, and total square miles for each DRG extent.
 
 ### How was the dataset created?
 
