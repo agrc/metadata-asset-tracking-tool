@@ -32,8 +32,6 @@ Each polyline in this dataset indicates the approximate path and length of a cro
 
 UGRC digitized the trails in this dataset using aerial imagery from 2007.
 
-<!--- Are we planning on updating this dataset any time soon? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset is not comprehensive and does not contain all ski trails in Utah. Further ski trails at other resorts may be added to this dataset in the future. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
