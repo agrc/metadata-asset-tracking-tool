@@ -1,18 +1,18 @@
 # Title
 
-Utah H3 Hexes Level 5
+Utah H3 Hexes Level 6
 
 ## ID
 
-4e8fb736-5e1a-4c84-8683-88b0fcc15768
+2e5268c7-c31d-4894-98ab-cebf362aeb0a
 
 ## Brief Summary
 
-Polygon dataset of H3 Spatial Index hexes for data aggregation and spatial statistics and resolution level 5.
+Polygon dataset of H3 Spatial Index hexes for data aggregation and spatial statistics and resolution level 6.
 
 ## Summary
 
-The [H3 indexing system](https://h3geo.org/docs) provides a standardized and high-performance grid for aggregating point data at various levels. This layer contains the spatial representation of the hex IDs that cover the state of Utah for resolution level 5.
+The [H3 indexing system](https://h3geo.org/docs) provides a standardized and high-performance grid for aggregating point data at various levels. This layer contains the spatial representation of the hex IDs that cover the state of Utah for resolution level 6.
 
 ## Description
 
@@ -34,7 +34,7 @@ The H3 Hexes were created with the H3 API produced by [Uber, Inc](https://www.ub
 
 ### How reliable and accurate is the dataset?
 
-This dataset reflects the most current and complete version of H3 Level 5 Hexes available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset reflects the most current and complete version of H3 Level 6 Hexes available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
