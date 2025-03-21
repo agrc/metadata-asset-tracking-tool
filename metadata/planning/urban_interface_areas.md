@@ -12,7 +12,7 @@ Areas where wildland and human-developed areas coincide in Utah.
 
 ## Summary
 
-This dataset contains polygons representing approximate WUI areas in Utah as of a 1999 inventory. This dataset does not represent current fire conditions or community fire information.
+This dataset contains polygons representing approximate wildland-urban interface (WUI) areas in Utah as of a 1999 inventory. This dataset does not represent current fire conditions or community fire information.
 
 ## Description
 
