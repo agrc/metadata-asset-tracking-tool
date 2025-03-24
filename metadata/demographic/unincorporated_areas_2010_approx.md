@@ -12,7 +12,7 @@ Polygon dataset of lands in Utah that are not governed by a local municipality.
 
 ## Summary
 
-This dataset contains polygons representing unincorporated areas in Utah as of the 2010 Census. This dataset contains boundary information only and does not contain demographics data. For more Census-derived datasets, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
+This dataset contains polygons representing unincorporated areas in Utah as of the 2010 Census. This dataset contains approximate boundaries only and does not contain demographics data. For more Census-derived datasets, please see the [Demographic Data Index](https://gis.utah.gov/products/sgid/demographic/) available from the SGID.
 
 ## Description
 
