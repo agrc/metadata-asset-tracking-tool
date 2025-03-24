@@ -28,8 +28,6 @@ This dataset has been made available to the public for general reference and car
 
 Each polygon in this dataset represents the geographic extent of an unincorporated area in Utah. Features in this dataset include the area name (pop_place) and county number (countynbr).
 
-<!--- Given the name of the first field, pop_place, it makes me wonder if this actually represents the nearest populated place. Is that the case? --->
-
 ### How was the dataset created?
 
 UGRC derived this dataset from the [2010 Census Blocks](https://gis.utah.gov/products/sgid/demographic/census-2010-blocks/) published by the US Census Bureau.
@@ -52,11 +50,11 @@ UGRC
 
 ## License
 
+## Tags
+
 - Census
 - 2010 Census
 - Census blocks
-
-## Tags
 
 ## Secondary Category
 
