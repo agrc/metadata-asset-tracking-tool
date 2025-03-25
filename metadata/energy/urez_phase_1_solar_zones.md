@@ -30,13 +30,9 @@ This dataset has been made available to the public for general analytic and cart
 
 Each polygon in this dataset indicates an area with potential for solar energy development as determined by the UREZ Task Force' initial [Phase 1 inventory](https://ugspub.nr.utah.gov/publications/misc_pubs/MP-09-1.pdf).
 
-<!--- The only field in this dataset beyond the XID is one labelled as DNR, but the values are all decimals so it doesn't seem to be an ID from the Dept. of Natural Resources. Do we have any idea what this DNR field refers to? --->
-
 ### How was the dataset created?
 
-This dataset was created by the UREZ Task Force as part of their Phase 1 assessment of Utah lands.
-
-<!--- Was UGRC involved in the creation of this dataset? --->
+This dataset was created by consultants contracted by the UREZ Task Force as part of their Phase 1 assessment of Utah lands.
 
 ### How reliable and accurate is the dataset?
 
