@@ -30,9 +30,7 @@ Each polygon in this dataset indicates a zone with potential for wind, solar, ge
 
 ### How was the dataset created?
 
-This dataset was created by the UREZ Task Force as part of their [Phase 2 assessment](https://geology.utah.gov/docs/emp/UREZphase2.pdf) of Utah energy resources.
-
-<!--- Was UGRC involved in the creation of this dataset? --->
+This dataset was created by consultants contracted by the UREZ Task Force as part of their [Phase 2 assessment](https://geology.utah.gov/docs/emp/UREZphase2.pdf) of Utah energy resources.
 
 ### How reliable and accurate is the dataset?
 
