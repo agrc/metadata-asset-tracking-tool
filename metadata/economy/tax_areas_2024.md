@@ -16,13 +16,13 @@ This dataset contains polygons representing taxing districts (also known as taxi
 
 ## Description
 
-Centrally assessed property tax analysis areas.
-
-This dataset is derived from a spatial analysis process utilizing the USTC Tax Entities dataset. This data is for 2023. Updates are only done at the beginning of each calendar year for the previous year. The 2024 rates have not been done yet and won't be ready until September.
-
 ### What is the dataset?
 
+Taxing districts represent areas where the property tax is the same for all residential properties within the district boundaries. Each taxing area includes at least one county and school district. These district boundaries are determined by the Utah State Tax Commission.
+
 ### What is the purpose of the dataset?
+
+This dataset has been made available for general reference and analytic purposes.
 
 ### What does the dataset represent?
 
@@ -30,19 +30,31 @@ Each taxing district polygon represents a unique combination of overlapping taxi
 
 ### How was the dataset created?
 
+UGRC derived this dataset from a spatial analysis process utilizing the USTC Tax Entities dataset.
+
 ### How reliable and accurate is the dataset?
+
+This dataset reflects tax areas for 2024 only and may not represent current or future tax areas. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
 ### Data Source
 
+Utah State Tax Commission
+
 ### Host
+
+UGRC
 
 ## Restrictions
 
 ## License
 
 ## Tags
+
+- Utah State Tax Commission
+- Property taxes
+- Tax entities
 
 ## Secondary Category
 
@@ -53,5 +65,7 @@ Each taxing district polygon represents a unique combination of overlapping taxi
 ## Update
 
 ### Update Schedule
+
+Static
 
 ### Previous Updates
