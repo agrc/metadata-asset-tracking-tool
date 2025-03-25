@@ -12,13 +12,13 @@ Polygon dataset of Utah State Tax Commission tax analysis areas.
 
 ## Summary
 
-This dataset contains polygons representing taxing districts (also known as taxing areas) in Utah, as maintained by the [Utah State Tax Commission](https://tax.utah.gov/contact) (USTC). These boundaries are current as of the 2024 tax year.
+This dataset contains polygons representing taxing districts (also known as tax areas) in Utah, as maintained by the [Utah State Tax Commission](https://tax.utah.gov/contact) (USTC). These boundaries are current as of the 2024 tax year.
 
 ## Description
 
 ### What is the dataset?
 
-Taxing districts represent areas where the property tax is the same for all residential properties within the district boundaries. Each taxing area includes at least one county and school district. These district boundaries are determined by the Utah State Tax Commission.
+Taxing districts represent areas where the property tax is the same for all residential properties within the district boundaries. Each tax area includes at least one county and school district. These district boundaries are determined by the Utah State Tax Commission.
 
 ### What is the purpose of the dataset?
 
@@ -26,11 +26,15 @@ This dataset has been made available for general reference and analytic purposes
 
 ### What does the dataset represent?
 
-Each taxing district polygon represents a unique combination of overlapping taxing entities. The property tax within a taxing district should be the same for all residential properties.
+Each polygon in this dataset represents a unique combination of overlapping taxing entities.
+
+<!--- Do we have any information or documentation on the fields for this layer? --->
 
 ### How was the dataset created?
 
 UGRC derived this dataset from a spatial analysis process utilizing the USTC Tax Entities dataset.
+
+<!--- This is copied from the original metadata. Are there further details that we ought to include about the creation of this dataset, such as update schedules? --->
 
 ### How reliable and accurate is the dataset?
 
