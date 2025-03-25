@@ -30,9 +30,7 @@ Each polygon in this dataset indicates an area with potential for geothermal ene
 
 ### How was the dataset created?
 
-This dataset was created by the UREZ Task Force as part of their Phase 1 assessment of Utah lands.
-
-<!--- Was UGRC involved in the creation of this dataset? --->
+This dataset was created by consultants contracted by the UREZ Task Force as part of their Phase 1 assessment of Utah lands.
 
 ### How reliable and accurate is the dataset?
 
