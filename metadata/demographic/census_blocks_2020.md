@@ -2,7 +2,7 @@
 
 Utah Census 2020 Blocks
 
-## Item ID
+## ID
 
 f1d471af-8db1-4597-a6bb-b4f2125ad70d
 
@@ -52,8 +52,6 @@ For more information on usage limitations for this dataset, please see our discl
 
 ## License
 
-CC BY 4.0 License
-
 ## Tags
 
 - UGRC
@@ -64,7 +62,7 @@ CC BY 4.0 License
 
 ## Data Page Link
 
-https://gis.utah.gov/products/sgid/demographic/census-2020-blocks/
+[https://gis.utah.gov/products/sgid/demographic/census-2020-blocks/]
 
 ## Update
 
@@ -73,5 +71,3 @@ https://gis.utah.gov/products/sgid/demographic/census-2020-blocks/
 Static
 
 ### Previous Updates
-
-August 2021 - Initial load

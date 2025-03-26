@@ -66,7 +66,7 @@ ODbL 1.0
 
 ## Secondary Category
 
-## Data Page
+## Data Page Link
 
 [https://gis.utah.gov/products/sgid/society/open-source-places/]
 

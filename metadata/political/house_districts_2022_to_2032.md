@@ -10,7 +10,7 @@ Utah House Districts
 
 Polygon dataset of House of Representatives districts for the years 2022-2032.
 
-## Summary  
+## Summary
 
 This dataset contains Utah House of Representatives district boundaries for the years 2022-2032. Statewide House district boundaries are drawn by the [Utah State Legislature](https://le.utah.gov/) after each decennial Census and adopted into State law.
 
