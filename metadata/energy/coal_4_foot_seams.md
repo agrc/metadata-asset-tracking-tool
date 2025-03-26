@@ -18,7 +18,7 @@ This dataset contains polygons representing areas where coal seams have been loc
 
 ### What is the dataset?
 
-Coal seams are visible deposits of coal found between layers of rock. These seams are generally located underground and can be an important energy resource.
+Coal seams are visible deposits of coal found between layers of rock. These seams are generally located underground and can be an important energy resource for many public and private industries.
 
 ### What is the purpose of the dataset?
 
@@ -27,6 +27,8 @@ This dataset has been made available to the public for general reference and car
 ### What does the dataset represent?
 
 Each polygon in this dataset represents a coal seam in Utah wider than four feet.
+
+<!--- This is an estimate, as I was unsure what the '4 foot' in the title of this dataset referred to. --->
 
 ### How was the dataset created?
 
