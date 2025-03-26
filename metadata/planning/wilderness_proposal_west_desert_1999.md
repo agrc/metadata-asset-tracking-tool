@@ -32,8 +32,6 @@ Each polygon in this dataset indicates the geographic extent of a proposed wilde
 
 This layer was developed using data from the BLM Wilderness Study Areas and the Citizen's Wilderness Proposal.
 
-<!--- Did we create this one or did the BLM create it? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset contains proposed wilderness areas only. This layer is intended for historic reference and does not reflect current wilderness or wilderness study area boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
