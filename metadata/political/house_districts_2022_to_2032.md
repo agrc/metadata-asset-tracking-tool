@@ -66,6 +66,6 @@ UGRC
 
 ### Update Schedule
 
-Static.
+Static
 
 ### Previous Updates

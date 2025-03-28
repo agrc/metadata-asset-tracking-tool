@@ -8,7 +8,7 @@ Utah Senate Districts
 
 ## Brief Summary
 
-Utah Senate Districts defined after every decennial census.
+Utah Senate Districts defined after every decennial Census.
 
 ## Summary
 
@@ -47,8 +47,6 @@ Utah State Legislature
 UGRC
 
 ## Restrictions
-
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
 
 ## License
 

@@ -34,7 +34,7 @@ UGRC created this dataset using map data purchased from Orbital View by the GOED
 
 ### How reliable and accurate is the dataset?
 
-This dataset is still a work-in-process and does not represent all trailheads available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset does not represent all trailheads available in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 

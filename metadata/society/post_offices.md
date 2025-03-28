@@ -36,6 +36,8 @@ UGRC created this dataset by geocoding points from a [United States Postal Servi
 
 ### How reliable and accurate is the dataset?
 
+This dataset represents the most current and complete version of post office point locations available in Utah. Some discrepancies may exist in the data. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+
 ## Credits
 
 ### Data Source

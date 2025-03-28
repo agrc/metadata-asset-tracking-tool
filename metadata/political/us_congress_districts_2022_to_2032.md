@@ -8,7 +8,7 @@ fb6e620b-4146-413c-a003-9388c52718e9
 
 ## Brief Summary
 
-United States House of Representatives Districts for Utah defined after every decennial census.
+United States House of Representatives Districts for Utah defined after every decennial Census.
 
 ## Summary
 

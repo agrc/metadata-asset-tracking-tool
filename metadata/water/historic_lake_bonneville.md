@@ -8,6 +8,8 @@ Utah Historic Lake Bonneville
 
 ## Brief Summary
 
+Polygon dataset of the historic extent of Lake Bonneville as derived from a 2016 study.
+
 ## Summary
 
 This dataset contains a polygon representation of Lake Bonneville, a historic Ice Age lake that was the predecessor for the modern Great Salt Lake. This dataset contains boundary information only and does not contain other hydrologic attributes. You can learn more about Lake Bonneville through [documentation](https://geology.utah.gov/popular/great-salt-lake/) from the Utah Geological Survey.

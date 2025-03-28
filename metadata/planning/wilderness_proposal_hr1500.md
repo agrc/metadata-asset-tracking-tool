@@ -18,7 +18,7 @@ This dataset contains polygons for areas proposed for wilderness designation in 
 
 ### What is the dataset?
 
-Established in 1964, the [National Wilderness Preservation System](https://www.wilderness.org/articles/article/national-wilderness-preservation-system) allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains areas proposed for wilderness designation by former Utah representative Wayne Owens in U.S. House of Representatives Bill HR1500 (1991). These areas included the Great Basin, Zion and Mojave Desert, Grand Staircase, Kaiparowits Plateau, Escalante Canyons, Henry Mountains, Dirty Devil River, Cedar Mesa Wilderness, Canyonlands, San Rafael Swell, Book Cliffs, and the Uinta Basin Wilderness regions.
+Established in 1964, the [National Wilderness Preservation System](https://www.wilderness.org/articles/article/national-wilderness-preservation-system) allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains areas proposed for wilderness designation by former Utah representative Wayne Owens in U.S. House of Representatives Bill HR1500 (1991). These areas included the Great Basin, Zion and Mojave Desert, Grand Staircase, Kaiparowits Plateau, Escalante Canyons, Henry Mountains, Dirty Devil River, Cedar Mesa Wilderness, Canyonlands, San Rafael Swell, Book Cliffs, and the Uintah Basin Wilderness regions.
 
 ### What is the purpose of the dataset?
 

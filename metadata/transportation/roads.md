@@ -20,8 +20,6 @@ Utah Roads is a comprehensive statewide roads dataset for mapping, addressing, a
 
 This dataset includes information such as road name, type, speed limit, and infrastructure. To see specifics about the data model including field names, field descriptions, data types and coded value domains, see the [data model spreadsheet](https://docs.google.com/spreadsheets/d/1jQ_JuRIEtzxj60F0FAGmdu5JrFpfYBbSt3YzzCjxpfI/edit#gid=811360546) and the corresponding tabs for update notes. The color-coded section titled "Addressing" is primarily maintained by local stewards, whereas the section titled "DOT/FHWA" is primarily maintained by UDOT. UGRC spatially assigns fields in the section titled "Placename/Area", based on current SGID polygon boundaries.
 
-Please reach out to [our team](https://gis.utah.gov/contact/) with questions concerning this dataset.
-
 ### What is the purpose of the dataset?
 
 The Utah Roads dataset aggregates all road information from various cities, agencies, and counties into a single, multi-purpose dataset. Additionally, it plays an important role in [active transportation](https://gis.utah.gov/products/sgid/transportation/) planning in Utah. For example, recent collaborative efforts between UGRC, [UDOT](https://www.udot.utah.gov/connect/,) and [WFRC](https://wfrc.org/) have led to significant enhancements in the bike and pedestrian data. These enhancements can be seen not only on this roads layer, but also on the [trails and pathways layers](https://gis.utah.gov/products/sgid/recreation/trails-pathways/). You can contribute to the on-street bike data by [letting us know](https://gis.utah.gov/contact/) where we have gaps or inaccurate information.
@@ -38,7 +36,7 @@ The Utah Roads dataset utilizes a data model based on Next-Generation 911 (NG911
 
 ### How reliable and accurate is the dataset?
 
-This is the most authoritative representation of statewide roads and highways. While this dataset does contain USFS roads, please visit the [FSGeodata Clearinghouse](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=transportation) for the most current and complete datasets for USFS roads.
+This is the most authoritative representation of statewide roads and highways in Utah. While this dataset does contain USFS roads, please visit the [FSGeodata Clearinghouse](https://data.fs.usda.gov/geodata/edw/datasets.php?dsetCategory=transportation) for the most current and complete datasets for USFS roads. Please reach out to [our team](https://gis.utah.gov/contact/) with other questions concerning this dataset.
 
 ## Credits
 
@@ -74,6 +72,6 @@ UGRC
 
 ### Update Schedule
 
-This dataset is updated on a monthly basis; however, not all counties provide data for each update.
+This dataset is updated on a monthly basis.
 
 ### Previous Updates

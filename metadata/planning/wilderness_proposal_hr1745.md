@@ -52,7 +52,7 @@ UGRC
 
 ## Tags
 
-- Bureau of Land management
+- Bureau of Land Management
 - National Wilderness Preservation System
 - Wilderness Study Areas
 - WSA

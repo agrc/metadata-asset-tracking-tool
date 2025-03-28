@@ -40,6 +40,10 @@ This dataset represents the most current and complete version of fire response b
 
 ### Data Source
 
+- Utah FFSL
+- UGRC
+- Utah State Fire Marshal
+
 ### Host
 
 UGRC

@@ -36,7 +36,7 @@ More information on the history of this database can be found in [official publi
 
 ### How reliable and accurate is the dataset?
 
-The NHD is the primary source for hydrographic data in the United States.  Questions or concerns about this dataset can be directed to [USGS](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution). Utah-specific inquiries can be directed to [our team](https://gis.utah.gov/contact/) at UGRC.
+Questions or concerns about this dataset can be directed to [USGS](https://www.usgs.gov/national-hydrography/nhdplus-high-resolution). Utah-specific inquiries can be directed to [our team](https://gis.utah.gov/contact/) at UGRC.
 
 ## Credits
 
