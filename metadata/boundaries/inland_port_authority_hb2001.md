@@ -45,7 +45,7 @@ This dataset is the most current and complete version of Utah inland port bounda
 
 ### Host
 
-- UGRC
+UGRC
 
 ## Restrictions
 

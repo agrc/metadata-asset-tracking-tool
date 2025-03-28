@@ -26,15 +26,15 @@ Geography is a fundamental aspect of the Census, providing the framework for the
 
 ### What does the dataset represent
 
-Each Census block in this dataset includes a unique four-digit Census Block Number. For more information on how to interpret the Census Block Number, refer to [this article](https://www.census.gov/newsroom/blogs/random-samplings/2011/07/what-are-census-blocks.html) from the US Census Bureau. While census blocks include information on major racial groups, housing, and population, it is important to note that census blocks are delineated by physical and municipal boundaries, not by population size. Thus, a larger block does not denote a larger population size. In fact, many census blocks contain a population number of zero (such as in the case of water-only areas).
+Each Census block in this dataset includes a unique four-digit Census Block Number. For more information on how to interpret the Census Block Number, refer to [this article](https://www.census.gov/newsroom/blogs/random-samplings/2011/07/what-are-census-blocks.html) from the US Census Bureau. While Census blocks include information on major racial groups, housing, and population, it is important to note that Census blocks are delineated by physical and municipal boundaries, not by population size. Thus, a larger block does not denote a larger population size. In fact, many Census blocks contain a population number of zero (such as in the case of water-only areas).
 
 ### How was the dataset created
 
-Utah's 2020 census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau released a user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. UGRC, in collaboration from the Analytics Group at [WFRC](https://wfrc.org/) used that August 12 release to create user-friendly, ready-to-use GIS data in several formats. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
+Utah's 2020 Census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau released a user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. UGRC, in collaboration from the Analytics Group at [WFRC](https://wfrc.org/) used that August 12 release to create user-friendly, ready-to-use GIS data in several formats. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
 
 ### How reliable and accurate is the dataset
 
-The data available on this page was downloaded from the [2020 Census Redistricting Data (P.L. 94-171)](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the [census redistricting data](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
+The data available on this page was downloaded from the [2020 Census Redistricting Data (P.L. 94-171)](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). All 2020 Census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the [census redistricting data](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
 
 ## Credits
 
@@ -47,8 +47,6 @@ US Census Bureau
 UGRC
 
 ## Restrictions
-
-For more information on usage limitations for this dataset, please see our disclaimer [here](https://gis.utah.gov/documentation/policy/license/#disclaimer).
 
 ## License
 

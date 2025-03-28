@@ -8,7 +8,7 @@ e9eba9ba-3950-4b99-89d2-b1d9282133b6
 
 ### owner
 
-The physical Owner of the parcel of land.
+The physical owner of the parcel of land.
 
 Values:
 

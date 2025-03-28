@@ -12,7 +12,7 @@ Polygon dataset of the first-level hierarchical breakdown of the Public Land Sur
 
 ## Summary
 
-This datset represents the first-level hierarchical breakdown of the Public Land Survey System (PLSS). UGRC created the township division class from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
+This dataset represents the first-level hierarchical breakdown of the Public Land Survey System (PLSS). UGRC created the township division class from the base attributes in the Geographic Coordinate Database ([GCDB](https://www.sciencebase.gov/catalog/item/4f4e4a7fe4b07f02db648dce)).
 
 ## Description
 

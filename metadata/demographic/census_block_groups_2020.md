@@ -36,7 +36,7 @@ The Census Bureau released a user-friendly version of the 2020 Census Redistrict
 
 ### How reliable and accurate is the dataset?
 
-The data available on this page was downloaded from the [2020 Census Redistricting Data (P.L. 94-171)](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the [census redistricting data](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
+The data available on this page was downloaded from the [2020 Census Redistricting Data (P.L. 94-171)](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). All 2020 Census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the [census redistricting data](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
 
 ## Credits
 
@@ -49,8 +49,6 @@ US Census Bureau
 UGRC
 
 ## Restrictions
-
-For more information on usage limitations for this dataset, please see our [disclaimer](https://gis.utah.gov/documentation/policy/license/#disclaimer).
 
 ## License
 

@@ -30,11 +30,11 @@ Each point in this dataset represents the approximate location of a GPS base sta
 
 ### How was the dataset created?
 
-UGRC created this dataset using coordinates of Turn GPS base stations. We update this dataset as new stations become active.
+UGRC created this dataset using coordinates of TURN GPS base stations. We update this dataset as new stations become active.
 
 ### How reliable and accurate is the dataset?
 
-This dataset represents all current TurnGPS stations. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset represents all current TURN GPS stations. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 

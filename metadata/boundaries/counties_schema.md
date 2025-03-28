@@ -8,7 +8,7 @@ b2c8af56-3d92-4aa7-ac2f-b1388051d9ce
 
 ### COUNTYNBR
 
-<!--- No definition for this field. -->
+Number associated with the county.
 
 ### ENTITYNBR
 
@@ -37,10 +37,6 @@ The county population as of the most recent census.
 ### POP_CURRENTESTIMATE
 
 Population estimate for the county as of July 1, 2022.
-
-### GLOBAL_ID
-
-<!--- No definition for this field. -->
 
 ### FIPS_STR
 

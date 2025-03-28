@@ -18,7 +18,7 @@ This dataset includes polygon boundaries for the National Weather Service (NWS) 
 
 ### What is the dataset?
 
-These data represent the [National Weather Service](https://www.weather.gov/) (NWS) Forecast Zone boundaries within the state of Utah. The NWS issues forecasts and some watches and warnings for these zones, which often align with county boundaries, but in many cases are subsets of counties. Counties are broken or combined into zones to account for differences in weather trends due to topographic factors.
+These data represent the [National Weather Service](https://www.weather.gov/) (NWS) Forecast Zone boundaries within the state of Utah. The NWS issues forecasts, watches, warnings for these zones, which often align with county boundaries, but in many cases are subsets of counties. Counties are broken or combined into zones to account for differences in weather trends due to topographic factors.
 
 ### What is the purpose of the dataset?
 

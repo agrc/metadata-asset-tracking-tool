@@ -83,6 +83,6 @@ Boundaries
 
 ### Update Schedule
 
-SITLA posts revisions to the dataset on a weekly basis.
+SITLA revises this dataset on a weekly basis.
 
 ### Previous Updates

@@ -8,7 +8,7 @@ ed312c4c-c0b7-41dc-b77e-50649bed8ebd
 
 ## Brief Summary
 
-Points dataset of census places with age, race, income, and other demographic data.
+Points dataset of Census places with age, race, income, and other demographic data.
 
 ## Summary
 
@@ -18,7 +18,7 @@ This dataset contains point locations for cities, towns, and Census Designated P
 
 ### What is the dataset?
 
-Census Places include cities, towns, and Census Designated Places (CDP). The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." Both these unincorporated communities and legally incorporated municipalities are represented in this dataset.
+This dataset includes cities, towns, and Census Designated Places (CDP). The [US Census Bureau](https://www.census.gov/programs-surveys/bas/information/cdp.html) defines CDPs as "statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name." Both these unincorporated communities and legally incorporated municipalities are represented in this dataset.
 
 ### What is the purpose of the dataset?
 
