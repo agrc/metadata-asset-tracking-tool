@@ -8,6 +8,8 @@ Utah Health Small Statistical Areas Obesity and Activity
 
 ## Brief Summary
 
+Polygon dataset of Health and Human Services analysis areas with addition health statistics.
+
 ## Summary
 
 This dataset contains polygons representing small statistical areas as defined by the [Utah Department of Health and Human Services](https://dhhs.utah.gov/) (DHHS) for the year 2020. In addition to the polygon boundaries, this dataset contains statistics on physical activity, obesity, and population density.

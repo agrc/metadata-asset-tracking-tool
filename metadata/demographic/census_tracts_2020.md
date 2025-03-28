@@ -30,11 +30,11 @@ The geographic extent of Census Tracts are represented as polygons with attribut
 
 ### How was the dataset created?
 
-Utah's 2020 census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau released a user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. UGRC, in collaboration with the Analytics Group at [WFRC](https://wfrc.org/) used that August 12 release to create ready-to-use GIS data in several formats. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
+Utah's 2020 Census geographic boundaries became available in February 2021 and the demographic redistricting legacy files (the 2020 Census Redistricting P.L. 94-171 Summary Files) became available on August 12, 2021. The Census Bureau released a user-friendly version of the 2020 Census Redistricting P.L. 94-171 Summary Files on September 30, 2021. UGRC, in collaboration with the Analytics Group at [WFRC](https://wfrc.org/) used that August 12 release to create ready-to-use GIS data in several formats. You can learn more about these offerings on [our website](https://gis.utah.gov/blog/2021-08-31-census-2020-redistricting-data/).
 
 ### How reliable and accurate is the dataset?
 
-All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
+All 2020 Xensus geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2).
 
 ## Credits
 

@@ -36,7 +36,7 @@ UGRC, in collaboration with the [Wasatch Front Regional Council](https://wfrc.or
 
 ### How reliable and accurate is the dataset?
 
-All 2020 census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+All 2020 Census geographies reflect boundaries as of January 1, 2020. Additional GIS files and support products are available on the US Census Bureau [Redistricting Data Page](https://www.census.gov/programs-surveys/decennial-census/about/rdo/summary-files.html#P2). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 

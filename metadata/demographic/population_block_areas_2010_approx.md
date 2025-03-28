@@ -26,7 +26,7 @@ Geography is a fundamental aspect of the Census, providing the framework for the
 
 ### What does the dataset represent?
 
-Each polygon in this dataset represents the geographic extent of a census block in a populated area. Features in this dataset include the approximate population and number of households as of the 2010 Census.
+Each polygon in this dataset represents the geographic extent of a Census block in a populated area. Features in this dataset include the approximate population and number of households as of the 2010 Census.
 
 ### How was the dataset created?
 

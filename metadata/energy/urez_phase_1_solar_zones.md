@@ -16,8 +16,6 @@ This dataset contains polygons that display areas for potential solar energy dev
 
 ## Description
 
-This dataset depicts renewable solar resources identified by the Utah Renewable Energy Zone (UREZ) task force.
-
 ### What is the dataset?
 
 The Utah Renewable Energy Zone (UREZ) Task Force was commissioned in 2008 by Governor Jon Huntsman to assess Utah's renewable energy resources such as geothermal, wind, and solar. This dataset contains polygons representing areas that the UREZ Task Force determined to be viable for future solar energy development. These areas do not include private homes or businesses where solar energy is already in use but rather represents areas for commercial solar development on a large scale. You can learn more about the UREZ Task Force on the [Utah Geological Survey website](https://geology.utah.gov/map-pub/survey-notes/energy-news/energy-news-utahs-renewable-energy-zone-assessment/).

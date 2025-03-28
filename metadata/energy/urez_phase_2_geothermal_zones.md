@@ -30,7 +30,7 @@ Each point in this dataset indicates the approximate location of a current or pa
 
 ### How was the dataset created?
 
-This dataset was created by consultants contracted by the UREZ Task Force as part of their Phase 1 assessment of Utah lands.
+This dataset was created by consultants contracted by the UREZ Task Force as part of their Phase 2 assessment of Utah resources.
 
 ### How reliable and accurate is the dataset?
 

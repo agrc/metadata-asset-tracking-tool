@@ -6,8 +6,6 @@ Utah Google Flight Blocks
 
 fd67267e14534f3a96f1b53be22c0caf
 
-<!--- This layer does not have a row in the SGID Index. Is that intentional? --->
-
 ## Brief Summary
 
 Polygon dataset of Google Imagery Service boundaries and associated flight dates from 2011-2018.

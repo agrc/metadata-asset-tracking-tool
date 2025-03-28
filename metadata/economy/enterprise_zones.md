@@ -12,13 +12,13 @@ Polygon dataset of enterprise zones in Utah as defined by the Utah Governor's Of
 
 ## Summary
 
-The Utah Enterprise Zone Tax Credit program was created to promote economic development and business growth in Utah's rural areas. Under this program, qualifying businesses locating to or expanding in designated enterprise zones may claim state of Utah tax credits. This dataset contains polygon boundaries of current enterprise zones in Utah.
+The Utah Enterprise Zone Tax Credit program was created in 1988 to promote economic development and business growth in Utah's rural areas. Under this program, qualifying businesses locating to or expanding in designated enterprise zones may claim state of Utah tax credits. This dataset contains polygon boundaries of current enterprise zones in Utah.
 
 ## Description
 
 ### What is the dataset?
 
-An enterprise zone is an area designated by the [Utah Governor's Office of Economic Opportunity](https://business.utah.gov/rural/enterprise-zone-tax-credits/) that provides income tax credits to eligible businesses within its boundaries. Zone designation is based on the need for development and other economic distress factors as determined by local elected officials. These zones were established in 1988 as part of the Utah Enterprise Zone Tax Credit Program to encourage economic growth and support businesses in Utah's rural areas.
+An enterprise zone is an area designated by the [Utah Governor's Office of Economic Opportunity](https://business.utah.gov/rural/enterprise-zone-tax-credits/) that provides income tax credits to eligible businesses within its boundaries. Zone designation is based on the need for development and other economic distress factors as determined by local elected officials.
 
 ### What is the purpose of the dataset?
 

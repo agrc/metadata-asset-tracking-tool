@@ -79,6 +79,6 @@ Address
 
 ### Update Schedule
 
-Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. The "Big 5" counties in Utah (Davis, Salt Lake, Utah, Washington, and Weber) are updated monthly, while less populous counties are updated quarterly or semi-annually.
+Counties have been placed on an update schedule depending on numerous factors, including rates of development and population growth. Davis, Salt Lake, Utah, Washington, and Weber counties are updated monthly, while all other counties are updated quarterly or semi-annually.
 
 ### Previous Updates

@@ -40,11 +40,11 @@ This dataset is the most current and complete compilation of monuments and memor
 
 ### Data Source
 
-- UHS
+UHS
 
 ### Host
 
-- UGRC
+UGRC
 
 ## Restrictions
 
