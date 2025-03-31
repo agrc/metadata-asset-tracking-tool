@@ -30,7 +30,7 @@ Each polygon in this dataset indicates the geographic extent of a proposed wilde
 
 ### How was the dataset created?
 
-This layer was developed using data from the BLM Wilderness Study Areas.
+The BLM developed this layer in collaboration with local government partners and former US Senator Bob Bennett's office.
 
 ### How reliable and accurate is the dataset?
 
