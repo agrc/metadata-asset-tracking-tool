@@ -32,8 +32,6 @@ This dataset displays areas of imagery coverage as polygons. Each polygon repres
 
 This dataset was provided to UGRC from Hexagon. It was created by dissolving individual flight lines into blocks with the same flight date.
 
-<!--- This is under the assumption that this layer was created similarly to the Google imagery service dates layer --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset is the most current and complete version of Hexagon imagery service areas and dates available in Utah. Please reach out to [our team](https://gis.utah.gov/about/) with questions or concerns about this layer.
