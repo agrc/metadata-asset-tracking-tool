@@ -1,10 +1,10 @@
 # Title
 
-Utah Tax Areas 2024
+Utah Tax Areas 2020
 
 ## ID
 
-0f3f43fc-d906-4b9d-8940-e4c1f12347e0
+804e29cc-32b7-43cc-9fda-8bafebc40c7f
 
 ## Brief Summary
 
@@ -12,7 +12,7 @@ Polygon dataset of Utah State Tax Commission tax analysis areas.
 
 ## Summary
 
-This dataset contains polygons representing taxing districts (also known as tax areas) in Utah, as maintained by the [Utah State Tax Commission](https://tax.utah.gov/contact) (USTC). These boundaries are current as of the 2024 tax year.
+This dataset contains polygons representing taxing districts (also known as tax areas) in Utah, as maintained by the [Utah State Tax Commission](https://tax.utah.gov/contact) (USTC). These boundaries are current as of the 2020 tax year.
 
 ## Description
 
@@ -34,7 +34,7 @@ The Utah State Tax Commission provided this dataset to UGRC.
 
 ### How reliable and accurate is the dataset?
 
-This dataset reflects tax areas for 2024 only and may not represent current or future tax areas. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+This dataset reflects tax areas for 2020 only and may not represent current or future tax areas. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
