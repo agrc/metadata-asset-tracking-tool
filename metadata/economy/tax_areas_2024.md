@@ -32,9 +32,7 @@ Each polygon in this dataset represents a unique combination of overlapping taxi
 
 ### How was the dataset created?
 
-UGRC derived this dataset from a spatial analysis process utilizing the USTC Tax Entities dataset.
-
-<!--- This is copied from the original metadata. Are there further details that we ought to include about the creation of this dataset, such as update schedules? --->
+The Utah State Tax Commission provided this dataset to UGRC.
 
 ### How reliable and accurate is the dataset?
 
