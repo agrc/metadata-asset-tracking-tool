@@ -32,8 +32,6 @@ Each polygon in this dataset indicates the geographic extent of an aerial photog
 
 UGRC compiled this dataset from project boundaries submitted to us by various data collection vendors. These boundaries include the original project area we sent to them with a buffer to ensure complete coverage of the area. UGRC maintains updates this dataset as new projects become available.
 
-<!--- This is a guesstimate on how this layer came to be. --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset represents polygon extents only and does not include aerial imagery or photography. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
