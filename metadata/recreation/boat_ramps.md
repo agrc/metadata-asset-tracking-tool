@@ -32,11 +32,9 @@ Each point in this dataset indicates the approximate location of a boat ramp in 
 
 UGRC digitized this layer using aerial imagery and assigned attributes using data submitted by government partners.
 
-<!--- A guesstimate. Do we have info on this dataset was created or how it's being maintained? --->
-
 ### How reliable and accurate is the dataset?
 
-<!--- Do we have a way of knowing if these data are comprehensive? --->
+These data represent the most complete collection of boat ramps points currently available, however, this dataset is not comprehensive and may not represent all boat ramps in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
