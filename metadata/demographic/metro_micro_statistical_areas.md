@@ -37,6 +37,7 @@ UGRC derived this layer from the nationwide Topologically Integrated Geographic 
 This dataset represents all CBSAs currently defined in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
+- US Census Bureau
 
 ### Data Source
 
