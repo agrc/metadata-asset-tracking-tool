@@ -34,7 +34,22 @@ MAF/TIGER feature class code.
 
 ### funcstat
 
-<!--- not sure what this field is referring to. --->
+Functional status code representing the current status of a geographic entity.
+
+Values:
+
+- A = Active government providing primary general purpose functions or otherwise active entity
+- B = Active government that is partially consolidated with another government but with separate officials providing primary general-purpose functions
+- C = Active government consolidated with another government with a single set of officials
+- E = Active government providing special-purpose functions
+- F = Fictitious entity created to fill the Census Bureau geographic hierarchy
+- G = Active government that is subordinate to another unit of government
+- I = Inactive governmental unit that has the power to provide primary special-purpose functions
+- L = Inactive, nonfunctioning legal real property entity with potential quasi-legal administrative functions
+- M = Active legal real property entity with quasi-legal functions, such as a military installation
+- N = Nonfunctioning legal entity
+- S = Statistical entity
+- T = Active state-recognized entity
 
 ### aland
 
@@ -54,4 +69,4 @@ Current longitude of the internal point
 
 ### partflg
 
-<!--- No field definition for this one either. All the others came from this metadata file: https://meta.geo.census.gov/data/existing/decennial/GEO/GPMB/TIGERline/Archived_19110/tl_2021_cbsa.shp.ea.iso.xml --->
+<!--- May refer to whether the area is part of a combined statistical area, but we still need confirmation. --->
