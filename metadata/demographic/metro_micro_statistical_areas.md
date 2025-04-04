@@ -65,8 +65,6 @@ UGRC
 
 ### Update Schedule
 
-Static
-
-<!--- The TIGER website seems to have multiple years for these data. If this is a static dataset, what year do these areas represent? They align with current boundaries as far as I could tell, so should we just say they're 2024 boundaries? Or should we say this dataset is actually updated as needed? --->
+This dataset is updated as needed.
 
 ### Previous Updates
