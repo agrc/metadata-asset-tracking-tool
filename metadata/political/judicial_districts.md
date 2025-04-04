@@ -26,7 +26,7 @@ In addition to helping Utah residents know [which State Court District](https://
 
 ### What does the dataset represent?
 
-Each polygon in this dataset represents the geographic jurisdiction of a judicial district in Utah. Features in this dataset include the districts, juvenile courts, and counties found within each polygon boundary.
+Each polygon in this dataset represents the geographic jurisdiction of a judicial district in Utah. Features in this dataset include the district courts, juvenile courts, and counties found within each polygon boundary.
 
 ### How was the dataset created?
 
