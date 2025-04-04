@@ -18,7 +18,7 @@ This dataset contains points representing approximate locations for boat ramps f
 
 ### What is the dataset?
 
-Boat ramps are sloping surfaces used to launch small and retrieve small watercraft from a body of water. This dataset contains approximate locations for boat ramps found in Utah.
+Boat ramps are sloping surfaces used to launch and retrieve small watercraft from a body of water. This dataset contains approximate locations for boat ramps found in Utah.
 
 ### What is the purpose of the dataset?
 
