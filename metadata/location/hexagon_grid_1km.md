@@ -30,7 +30,7 @@ Each hexagon in this dataset measures a half kilometer on each side and one kilo
 
 ### How was the dataset created?
 
-<!--- I assume we created this dataset through calculation? --->
+UGRC created this dataset using the Esri ArcGIS Pro [Generate Tessellation](https://pro.arcgis.com/en/pro-app/latest/tool-reference/data-management/generatetesellation.htm) tool.
 
 ### How reliable and accurate is the dataset?
 
