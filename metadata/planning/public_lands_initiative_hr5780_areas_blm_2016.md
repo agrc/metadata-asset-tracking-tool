@@ -30,7 +30,7 @@ Each polygon in this dataset indicates the geographic extent of an area included
 
 ### How was the dataset created?
 
-<!--- Did we create this one? --->
+This layer was created using data from government sources.
 
 ### How reliable and accurate is the dataset?
 
