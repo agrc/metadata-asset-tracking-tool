@@ -30,7 +30,7 @@ Each polyline in this dataset indicates the approximate path of a road or trail 
 
 ### How was the dataset created?
 
-<!--- Did we create this one? --->
+This layer was created using data from government sources.
 
 ### How reliable and accurate is the dataset?
 
