@@ -28,11 +28,9 @@ This dataset has been made available to the public for general reference and car
 
 Each polygon in this dataset represents a coal seam in Utah wider than four feet.
 
-<!--- This is an estimate, as I was unsure what the '4 foot' in the title of this dataset referred to. --->
-
 ### How was the dataset created?
 
-This layer was developed using data from the Utah Division of Oil, Gas, and Mining.
+This layer was developed using data collected by the Utah Division of Oil, Gas and Mining from sources created by other government agencies and private entities.
 
 ### How reliable and accurate is the dataset?
 

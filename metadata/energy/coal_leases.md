@@ -28,8 +28,6 @@ This dataset has been made available to the public for general reference and car
 
 Each polygon in this dataset indicates the approximate geographic extent of a coal lease in Utah. Features in this dataset include the perimeter, owner ID number, and OGM code.
 
-<!--- These are also estimates on what the attributes indicate. Further information or corrections much appreciated. --->
-
 ### How was the dataset created?
 
 This layer was developed using data from the Utah Division of Oil, Gas, and Mining. This layer was originally compiled in 1988 and has since been updated with newly inventoried coal lease areas.

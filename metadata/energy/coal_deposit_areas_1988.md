@@ -30,7 +30,7 @@ Each polygon in this dataset represents the approximate area where current or pa
 
 ### How was the dataset created?
 
-This layer was developed using data from the Utah Division of Oil, Gas, and Mining. This layer was originally compiled in 1988 and has since been updated with newly inventoried coal deposit areas.
+This layer was developed using data collected by the Utah Division of Oil, Gas and Mining from sources created by other government agencies and private entities. This layer was originally compiled in 1988 and has since been updated with newly inventoried coal deposit areas.
 
 ### How reliable and accurate is the dataset?
 
