@@ -18,7 +18,7 @@ This dataset contains boundary information for rural telephone providers in Utah
 
 ### What is the dataset?
 
-This dataset contains polygons showing service areas of telephone providers whose primary customer base are rural Utah residents. This dataset also includes local urban exchange carriers, which often serve individual cities or counties.
+This dataset contains polygons showing service areas of telephone providers whose primary customer base are rural Utah residents as well as other telecom providers throughout the state. This dataset also includes local urban exchange carriers, which often serve individual cities or counties.
 
 ### What is the purpose of the dataset?
 
