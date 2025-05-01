@@ -8,21 +8,21 @@ d3959e12-c08e-4104-a0f0-857f8cc33075
 
 ## Brief Summary
 
-Polygon dataset of areas considered for wilderness designation under HR 3031.
+Polygon dataset of areas considered for wilderness designation under America's Red Rock Wilderness Act.
 
 ## Summary
 
-This dataset contains polygons for areas proposed for wilderness designation by The US Congressional Delegation as part of [HR 3031](https://www.congress.gov/bill/118th-congress/house-bill/3031/text), also known as America's Red Rock Wilderness Act. For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers.
+This dataset contains polygons for areas proposed for wilderness designation by The US Congressional Delegation as part of America's Red Rock Wilderness Act, most recently in discussion as [HR 3031](https://www.congress.gov/bill/118th-congress/house-bill/3031/text). For datasets of current areas designated as wilderness or under consideration, please see the [Utah Wilderness Areas](https://gis.utah.gov/products/sgid/boundaries/wilderness/) and [BLM Wilderness Study Areas for Utah](https://gis.utah.gov/products/sgid/boundaries/blm-wilderness-study-areas/) layers.
 
 ## Description
 
 ### What is the dataset?
 
-Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation as part of HR 3031. The bill was introduced in 2023 and was sponsored by Representative Melanie Ann Stansbury (D-NM-1).
+Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation as part of America's Red Rock Wilderness Act. The bill was first introduced in 1989 by Representative Wayne Owens.
 
 ### What is the purpose of the dataset?
 
-Wilderness area data are used for natural resource management, [NEPA](https://www.epa.gov/nepa) documentation, and recreational planning.
+This dataset has been made available for general cartographic and analytic purposes.
 
 ### What does the dataset represent?
 
