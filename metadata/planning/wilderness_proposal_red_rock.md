@@ -18,7 +18,7 @@ This dataset contains polygons for areas proposed for wilderness designation by 
 
 ### What is the dataset?
 
-Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing areas in Utah that were considered for official wilderness designation as part of America's Red Rock Wilderness Act. The bill was first introduced in 1989 by Representative Wayne Owens.
+Established in 1964, the National Wilderness Preservation System allows for the protection and preservation of designated natural areas throughout the United States. This dataset contains polygons representing over eight million acres in Utah that were considered for official wilderness designation as part of America's Red Rock Wilderness Act. The bill was first introduced in 1989 by Representative Wayne Owens.
 
 ### What is the purpose of the dataset?
 
