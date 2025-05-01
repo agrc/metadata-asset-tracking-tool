@@ -2,8 +2,6 @@
 
 Utah Airports
 
-<!--- This layer is called just 'airports' on Open Data but is referred to as 'Airport Runways' on the gis.utah.gov site. --->
-
 ## ID
 
 b066bd11-a177-4e2b-b1cd-b20f241362cf
@@ -34,8 +32,6 @@ Each feature in this dataset indicates the perimeter of an airport or landing fa
 
 UGRC derived this dataset using data products available from the [Federal Aviation Administration](https://www.faa.gov/). We extracted and refined the data to provide a more focused dataset for Utah-based users. We update this dataset as new information becomes available.
 
-<!--- This is under the assumption that this dataset was made in a similar fashion to the airport locations points dataset. is that the case? --->
-
 ### How reliable and accurate is the dataset?
 
 This dataset represents approximate outlines for airports and runways only. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
@@ -45,8 +41,6 @@ This dataset represents approximate outlines for airports and runways only. Plea
 ### Data Source
 
 FAA
-
-<!--- Probably? --->
 
 ### Host
 
