@@ -64,6 +64,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- Do we intend to update this dataset? --->
+Static
 
 ### Previous Updates

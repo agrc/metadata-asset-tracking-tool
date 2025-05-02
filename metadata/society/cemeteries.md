@@ -34,7 +34,7 @@ This dataset was created by the Utah State Historic Preservation Office using hi
 
 ### How reliable and accurate is the dataset?
 
-<!--- In OpenData we have two datasets for cemetery points, this one and one called SHPO cemeteries. The SHPO Cemeteries one seems to have more points, so I assume it's more up to date. Does this dataset have a particular purpose that is not being served by the SHPO Cemeteries dataset? --->
+This is a static dataset and may not represent all cemeteries and current cemetery metrics in Utah. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -67,6 +67,6 @@ UGRC
 
 ### Update Schedule
 
-<!--- Do we intend to update this dataset? --->
+Static
 
 ### Previous Updates
