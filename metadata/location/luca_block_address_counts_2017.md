@@ -30,7 +30,7 @@ Each polygon in this dataset represents a Census block as of the 2010 Census. Fe
 
 ### How was the dataset created?
 
-<!--- I have my guesstimates, but do we know who created this dataset and how it was done? --->
+This dataset was created from a 2010 Census block layer that included a count of addresses from the Census Bureau's MAF. The number of Utah address points falling within each census block was then summed up and added as an attribute. Additional attributes were calculated by the comparing the difference between Utah and Census Bureau address point counts.
 
 ### How reliable and accurate is the dataset?
 
