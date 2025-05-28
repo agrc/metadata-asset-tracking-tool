@@ -22,7 +22,7 @@ Correctional facilities include any facility or location where individuals are r
 
 ### What is the purpose of the dataset?
 
-<!--- The original metadata listed several use cases by Homeland Security, but are there any specific Utah agencies that use these data? Or is just for general reference? --->
+This dataset is used by many state agencies, including the [Utah Division of Emergency Management](https://dem.utah.gov/), for planning purposes.
 
 ### What does the dataset represent?
 
@@ -30,9 +30,7 @@ Each point in this dataset represents the location of a correctional facility in
 
 ### How was the dataset created?
 
-UGRC created this layer using data from the [Utah Department of Corrections](https://corrections.utah.gov/).
-
-<!--- Do we have further information on how this dataset came to be or how it is presently maintained? --->
+UGRC created this layer using data from the [Utah Department of Corrections](https://corrections.utah.gov/), the [Utah Department of Health and Human Services](https://jjys.utah.gov/services/secure-care-facilities/), and the [Federal Bureau of Prisons](https://www.bop.gov/locations/list.jsp).
 
 ### How reliable and accurate is the dataset?
 
@@ -42,7 +40,9 @@ This dataset is the most current and complete collection of Utah correctional fa
 
 ### Data Source
 
-<!--- Utah Dept. of Corrections? --->
+- Utah Department of Corrections
+- Utah Department of Health and Human Services
+- Federal Bureau of Prisons
 
 ### Host
 
