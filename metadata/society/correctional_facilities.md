@@ -22,7 +22,7 @@ Correctional facilities include any facility or location where individuals are r
 
 ### What is the purpose of the dataset?
 
-This dataset is used by many state agencies, including the [Utah Division of Emergency Management](https://dem.utah.gov/), for planning purposes.
+This dataset is used by many state agencies, including the [Utah Division of Emergency Management](https://dem.utah.gov/), for planning purposes. This layer is also used by the Utah Department of Public Safety in their online [Situational Awareness tool](https://experience.arcgis.com/experience/91e70170980f4967ae88463070faf458/page/Community-Lifelines-Home?views=Law-Enforcement).
 
 ### What does the dataset represent?
 
