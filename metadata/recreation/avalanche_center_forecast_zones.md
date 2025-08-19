@@ -12,7 +12,7 @@ Polygon dataset of zones used by the Utah Avalanche Center to issue avalanche co
 
 ## Summary
 
-This dataset includes polygon boundaries for the Utah Avalanche Center (UAC) Forecast Zones found within Utah. This dataset includes forecast zones only and does not include current forecast or hazard information.  For current information, users are encouraged to visit the [UAC website](https://utahavalanchecenter.org/) or join forecast data from [UAC's API](https://utahavalanchecenter.org/docs/api/forecast) to the forecast zones polygons.  More information about interpreting UAC forecasts can be found on their [Forecast Tutorial page](https://utahavalanchecenter.org/forecast/tutorial).
+This dataset includes polygon boundaries for the Utah Avalanche Center (UAC) Forecast Zones found within Utah. This dataset includes forecast zones only and does not include current forecast or hazard information. For current information, users are encouraged to visit the [UAC website](https://utahavalanchecenter.org/) or join forecast data from [UAC's API](https://utahavalanchecenter.org/docs/api/forecast) to the forecast zones polygons. More information about interpreting UAC forecasts can be found on their [Forecast Tutorial page](https://utahavalanchecenter.org/forecast/tutorial).
 
 ## Description
 
@@ -30,7 +30,7 @@ Each polygon feature in this dataset represents the approximate geographic bound
 
 ### How was the dataset created?
 
-UGRC created this dataset from a geojson layer provided by the [Utah Avalanche Center API](https://api.avalanche.org/v2/public/products/map-layer/UAC). We projected the data into UTM Zone 12N and simplified the data schema. These zones will be updated if UAC changes their forecast zones.
+UGRC created this dataset from a geojson layer provided by the [Utah Avalanche Center API](https://api.avalanche.org/v2/public/products/map-layer/UAC). We projected the data into UTM Zone 12N and simplified the data schema.
 
 ### How reliable and accurate is the dataset?
 
@@ -72,6 +72,6 @@ UGRC
 
 ### Update Schedule
 
-This dataset is updated as needed.
+As needed; these zones will be updated if UAC changes their forecast zones.
 
 ### Previous Updates
