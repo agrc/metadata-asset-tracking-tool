@@ -22,7 +22,7 @@ These data represent the [Utah Avalanche Center](https://utahavalanchecenter.org
 
 ### What is the purpose of the dataset?
 
-UAC uses these zones to issue avalanche forecasts for areas in Utah. This dataset serves as a resource for recreational planning and use by organizations that benefit from avalanche forecasts. It is suitable for cartographic and general analytic purposes.  Current forecast data can be pulled from UAC's [API](https://utahavalanchecenter.org/docs/api/forecast) or [website](https://utahavalanchecenter.org/) and joined to this polygon layer for symbolizing in maps or web applications.
+UAC uses these zones to issue avalanche forecasts for areas in Utah. This dataset serves as a resource for recreational planning and use by organizations that benefit from avalanche forecasts. It is suitable for cartographic and general analytic purposes. Current forecast data can be pulled from UAC's [API](https://utahavalanchecenter.org/docs/api/forecast) or [website](https://utahavalanchecenter.org/) and joined to this polygon layer for symbolizing in maps or web applications.
 
 ### What does the dataset represent?
 
