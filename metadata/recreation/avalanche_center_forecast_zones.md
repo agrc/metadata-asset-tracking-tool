@@ -18,7 +18,7 @@ This dataset includes polygon boundaries for the Utah Avalanche Center (UAC) For
 
 ### What is the dataset?
 
-These data represent the [Utah Avalanche Center](https://utahavalanchecenter.org/) (UAC) Forecast Zone boundaries within the state of Utah. The UAC issues forecasts, watches, warnings, bulletin, and information about mountain and weather conditions for these zones.
+These data represent the [Utah Avalanche Center](https://utahavalanchecenter.org/) (UAC) Forecast Zone boundaries within the state of Utah. The UAC issues forecasts, watches, warnings, bulletins, and information about mountain and weather conditions for these zones.
 
 ### What is the purpose of the dataset?
 
