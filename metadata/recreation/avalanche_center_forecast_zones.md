@@ -4,7 +4,7 @@ Utah Avalanche Center Forecast Zones
 
 ## ID
 
-{insert-SGID-index-here}
+7ebadd43-53f2-4e86-986a-513c44b44d84
 
 ## Brief Summary
 
