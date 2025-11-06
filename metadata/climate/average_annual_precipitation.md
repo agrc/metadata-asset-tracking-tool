@@ -30,7 +30,7 @@ Each polygon feature in this dataset represents a 1-inch range of average annual
 
 ### How was the dataset created?
 
-UGRC derived this dataset from a nationwide analysis completed by the [PRISM Group](https://prism.oregonstate.edu/overview/) at Oregon State University. The original raster dataset (approximately 800m resolution) was downloaded from the PRISM site, clipped to a buffer around Utah, and converted from millimeters to inches. Then it was contoured for every whole inch as an interval of 1 inch, to create a polygon dataset. The polygon data was then projected into UTM 12N (WKID: 26912), and clipped to the state of Utah boundary.
+UGRC derived this dataset from a nationwide analysis completed by the [PRISM Group](https://prism.oregonstate.edu/overview/) at Oregon State University. The original raster dataset (approximately 800m resolution) was downloaded from the PRISM site, clipped to a buffer around Utah, and converted from millimeters to inches. Then it was contoured for every whole inch as an interval of 1 inch, to create a polygon dataset. The polygon data was then projected into UTM NAD83 Zone 12N (WKID: 26912), and clipped to the state of Utah boundary.
 
 ### How reliable and accurate is the dataset?
 
