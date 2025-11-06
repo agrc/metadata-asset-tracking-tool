@@ -12,13 +12,13 @@ Polygon dataset of average annual precipitation (inches) in Utah.
 
 ## Summary
 
-This dataset includes polygon boundaries for contours of average annual precipitation, measured in inches.  The data represent the average or normal amount of precipitation, based on the most recent standard 30-year climate period from 1991-2020.
+This dataset includes polygon boundaries for contours of average annual precipitation, measured in inches. The data represent the average or normal amount of precipitation, based on the most recent standard 30-year climate period from 1991-2020.
 
 ## Description
 
 ### What is the dataset?
 
-These data represent average annual precipitation amounts in Utah for the 1991-2020 period.  The dataset was created to provide a generalized polygon alternative to the original raster data that is typically used in the scientific community.  The polygon version makes it easier to work with for GIS users in Utah.
+These data represent average annual precipitation amounts in Utah for the 1991-2020 period. The dataset was created to provide a generalized polygon alternative to the original raster data that is typically used in the scientific community. The polygon version makes it easier to work with for GIS users in Utah.
 
 ### What is the purpose of the dataset?
 
