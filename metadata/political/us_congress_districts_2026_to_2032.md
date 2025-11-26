@@ -18,11 +18,11 @@ This dataset contains United States House of Representatives Districts found in 
 
 ### What is the dataset?
 
-The United States House of Representatives is comprised of 435 members, four of which represent Utah as elected members of Congress. This feature class represents the four Congressional Districts in Utah that will be used from 2026 to 2032. General voter precinct boundaries are not found in this dataset, but can be found in the [Utah Vista Ballot Areas](https://gis.utah.gov/products/sgid/political/voter-precincts/) dataset available on the SGID.
+The United States House of Representatives is comprised of 435 members, four of which represent Utah as elected members of Congress. This feature class represents the four Congressional Districts in Utah that will be used from 2026 to 2032. General voter precinct boundaries are not found in this dataset, but can be found in the [Utah Ballot Areas](https://gis.utah.gov/products/sgid/political/voter-precincts/) dataset available on the SGID.
 
 ### What is the purpose of the dataset?
 
-The data will be used for election purposes beginning January 1, 2026. Elected officials began representing these districts in January 2027. These boundaries supersede the US Congress districts that were used in 2022-2025 and is suitable for general analytic purposes.
+The data will be used for election purposes beginning January 1, 2026. Elected officials began representing these districts in January 2027. These boundaries supersede the US Congress districts that were used in 2022-2025 and are suitable for general analytic purposes.
 
 ### What does the dataset represent?
 
