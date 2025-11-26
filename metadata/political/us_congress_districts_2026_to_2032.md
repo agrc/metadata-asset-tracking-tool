@@ -22,7 +22,7 @@ The United States House of Representatives is comprised of 435 members, four of 
 
 ### What is the purpose of the dataset?
 
-The data will be used for election purposes beginning January 1, 2026. Elected officials began representing these districts in January 2027. These boundaries supersede the US Congress districts that were used in 2022-2025 and is suitable for general analytic purposes.
+The data will be used for election purposes beginning January 1, 2026. Elected officials began representing these districts in January 2027. These boundaries supersede the US Congress districts that were used in 2022-2025 and are suitable for general analytic purposes.
 
 ### What does the dataset represent?
 
