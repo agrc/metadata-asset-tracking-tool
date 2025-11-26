@@ -38,6 +38,12 @@ The boundaries in this dataset will eventually be superseded by new data drawn f
 
 This dataset reflects the official boundaries in use for the years 2026-2032. It is the most current source for these boundaries. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
+## Prior versions
+
+- [Utah US Congress Districts 2022 to 2032](https://utah.maps.arcgis.com/home/item.html?id=b5ef0b24f994467fb4f22b27b1a47e25)
+- [Utah US Congress Districts 2012 to 2022](https://utah.maps.arcgis.com/home/item.html?id=f86be475250b474d965e42971f50c0d3)
+- [Utah US Congress Districts 2002 to 2012](https://utah.maps.arcgis.com/home/item.html?id=62580d50881f48489f2813358cad791d)
+
 ## Credits
 
 ### Data Source
