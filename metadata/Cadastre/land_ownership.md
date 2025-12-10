@@ -12,7 +12,7 @@ Land ownership area polygons categorized as federal, state, private, or tribal l
 
 ## Summary
 
-Maintained by a joint effort between the School and Institutional Trust Lands Administration [(SITLA)](https://trustlands.utah.gov/), the Bureau of Land Management [(BLM)](https://gbp-blm-egis.hub.arcgis.com/pages/utah), and UGRC, this dataset represents current land ownership in the state of Utah. At the top level, it categorizes land as federal, state, private, or tribal land. For federal, state, or tribal land, it further specifies the organization or agency that claims stewardship over that area. However, in the case of private land, it does not identify the specific landowner.
+Maintained by a joint effort between the School and Institutional Trust Lands Administration [(SITLA)](https://trustlands.utah.gov/), the Bureau of Land Management [(BLM)](https://gbp-blm-egis.hub.arcgis.com/pages/utah), and UGRC, this dataset attempts to represent current land ownership in the state of Utah. At the top level, it categorizes land as federal, state, private, or tribal land. For federal, state, or tribal land, it further specifies the organization or agency that claims stewardship over that area. However, in the case of private land, it does not identify the specific landowner.
 
 ## Description
 
@@ -24,7 +24,7 @@ We recommend using standard colors when displaying this feature class. A layer f
 
 ### What is the purpose of the dataset?
 
-Land ownership data are used by many government and private entities to demarcate boundaries, provide evidence in legal disputes, and display administrative jurisdictions for agencies such as the BLM and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts.
+Land ownership data are used by many government and private entities to demarcate boundaries and display administrative jurisdictions for agencies such as the BLM and the US Forest Service. This dataset is also a helpful resource for public recreation, news outlets, and data analysts.
 
 ### What does the dataset represent?
 
@@ -57,6 +57,8 @@ UGRC
 ## Restrictions
 
 Data represented in this dataset is for reference only and is not suitable for legal, engineering, or surveying purposes. Users of this information should review or consult the primary data and information sources to ascertain the usability of the information. The Trust Lands Administration provides this data in good faith and shall in no event be liable for any incorrect results, or any special, indirect or consequential damages to any party, arising out of or in connection with the use or the inability to use the data hereon.
+
+The Tribal ownership should not be used to create official tribal boundaries or jurisdictions.
 
 For more information on usage limitations for this dataset, please visit the [SITLA website](https://trustlands.utah.gov/tools/maps/).
 
