@@ -34,7 +34,7 @@ The dataset is derived from a combination of analytical inputs, including satell
 
 ### How reliable and accurate is the dataset?
 
-This dataset reflects the most current and complete version of the Utah High Risk Wildland Urban Interface that have been created by the DNR's Forestry, Fire, and State Lands (FFSL). Please reach out to [FFSL](https://contact.ffsl.utah.gov/) with questions or concerns about this dataset.
+This dataset reflects the most current and complete version of the Utah High Risk Wildland Urban Interface that has been created by the DNR's Forestry, Fire, and State Lands (FFSL). Please reach out to [FFSL](https://contact.ffsl.utah.gov/) with questions or concerns about this dataset.
 
 ## Credits
 
