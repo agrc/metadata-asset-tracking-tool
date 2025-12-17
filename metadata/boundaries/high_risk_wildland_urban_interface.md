@@ -59,6 +59,8 @@ FFSL
 
 ## Secondary Category
 
+- Bioscience
+
 ## Data Page Link
 
 [https://gis.utah.gov/products/sgid/boundaries/high-risk-wildland-urban-interface/]
