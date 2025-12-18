@@ -30,11 +30,11 @@ This dataset represents areas where the mixture of human development, wildland v
 
 ### How was the dataset created?
 
-The dataset is derived from a combination of analytical inputs, including satellite imagery, slope and aspect data (topography), detailed FFSL vegetation type and fuelscape maps, weather, fire occurrence, ember loading, housing density metrics and buffers around existing structures. The resulting boundaries provide a standardized, data-driven layer for all land ownerships to effectively plan for and adapt to Utah's unique wildfire risk landscape."
+The dataset is derived from a combination of analytical inputs, including satellite imagery, slope and aspect data (topography), detailed FFSL vegetation type and fuelscape maps, weather, fire occurrence, ember loading, housing density metrics and buffers around existing structures. The resulting boundaries provide a standardized, data-driven layer for all land ownerships to effectively plan for and adapt to Utah's unique wildfire risk landscape.
 
 ### How reliable and accurate is the dataset?
 
-This dataset reflects the most current and complete version of the Utah High Risk Wildland Urban Interface that have been created by the DNR's Forestry, Fire, and State Lands (FFSL). Please reach out to [FFSL](https://contact.ffsl.utah.gov/) with questions or concerns about this dataset.
+This dataset reflects the most current and complete version of the Utah High Risk Wildland Urban Interface that has been created by the DNR's Forestry, Fire, and State Lands (FFSL). Please reach out to [FFSL](https://contact.ffsl.utah.gov/) with questions or concerns about this dataset.
 
 ## Credits
 
@@ -59,7 +59,7 @@ FFSL
 
 ## Secondary Category
 
-- Bioscience
+Bioscience
 
 ## Data Page Link
 
