@@ -8,11 +8,11 @@ Utah Buildings
 
 ## Brief Summary
 
-Polygon dataset of building footprints in Utah derived from Microsoft.
+Polygon dataset of building footprints in Utah derived from Microsoft and OpenStreetMap.
 
 ## Summary
 
-This dataset contains polygons representing the approximate footprint of buildings in Utah. UGRC derived these footprints from Microsoft and made adjustments to provide a Utah-focused dataset that minimizes errors where possible. This dataset contains building polygon geometries only and does not show the ownership or use of the buildings.
+This dataset contains polygons representing the approximate footprint of buildings in Utah. UGRC derived these footprints from Microsoft and OpenStreetMap and made adjustments to provide a Utah-focused dataset that minimizes errors where possible. This dataset contains building polygon geometries only and does not show the ownership or use of the buildings.
 
 ## Description
 
@@ -26,27 +26,31 @@ This dataset is used to delineate buildings in several of the statewide base map
 
 ### What does the dataset represent?
 
-Each polygon in this dataset indicates the approximate geographic extent of a building, otherwise known as a footprint. Where possible, features in this dataset include the city, zip code, and county that the building is in.
+Each polygon in this dataset indicates the approximate geographic extent of a building, otherwise known as a footprint. Where possible, features in this dataset include the address, city, zip code, and county that the building is in.
 
 ### How was the dataset created?
 
-[Microsoft Maps](https://www.microsoft.com/en-us/maps) created the polygon geometries found in this dataset using pixel prediction algorithms on satellite imagery obtained in 2019-2020. In some cases, these methods may have identified buildings where none existed. To flag these potential errors, UGRC used [2010 Census data](https://gis.utah.gov/products/sgid/demographic/population-block-areas-2010-approx/) and the [Utah Address Points](https://gis.utah.gov/products/sgid/location/address-points/) dataset to designate buildings as either a likely structure or unlikely structure. Those buildings which are more than 750 meters away from known populated areas or more than 500 meters from known physical addresses were marked as unlikely to be a real structure (as indicated in the TYPE field).
+[Microsoft Maps](https://www.microsoft.com/en-us/maps) created the polygon geometries found in this dataset using pixel prediction algorithms on satellite imagery obtained in 2019-2020. In some cases, these methods may have identified buildings where none existed. To flag these potential errors, UGRC used [2010 Census data](https://gis.utah.gov/products/sgid/demographic/population-block-areas-2010-approx/) and the [Utah Address Points](https://gis.utah.gov/products/sgid/location/address-points/) dataset to designate buildings as either a likely structure or unlikely structure. Those buildings which are more than 750 meters away from known populated areas or more than 500 meters from known physical addresses were marked as unlikely to be a real structure (as indicated in the TYPE field). Additional buildings from [OpenStreetMap](https://www.openstreetmap.org/) were added that were located more than three meters from already-existing buildings in the dataset. Finally, attributes were added for address, city, county, and ZIP code from other SGID data sources, where possible.
 
 ### How reliable and accurate is the dataset?
 
-These data were originally developed using computer vision algorithms that have been compared with hand-digitized polygons from [OpenStreetMap](https://www.openstreetmap.org/#map=6/45.49/-109.36) and found to be of similar quality, according to Microsoft. Due to the generated nature of these polygons, and the use of satellite imagery from 2020, some discrepancies in the data may exist. You can learn more about how these data were generated through [official documentation](https://github.com/microsoft/USBuildingFootprints). Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
+These data were originally developed using computer vision algorithms that have been compared with hand-digitized polygons from [OpenStreetMap](https://www.openstreetmap.org/#map=6/45.49/-109.36) and found to be of similar quality, according to Microsoft. Due to the generated nature of these polygons, and the use of satellite imagery from 2020, some discrepancies in the data may exist. You can learn more about how these data were generated through [official documentation](https://github.com/microsoft/USBuildingFootprints). OpenStreetMap (OSM) data was included as-is, and is typically manually edited or reviewed by OSM contributors before added to that data source. Please reach out to [our team](https://gis.utah.gov/contact/) with questions or concerns about this dataset.
 
 ## Credits
 
+Microsoft, OpenStreetMap contributors, and UGRC
+
 ### Data Source
 
-Microsoft
+Microsoft, OpenStreetMap
 
 ### Host
 
 UGRC
 
 ## Restrictions
+
+You are free to copy, distribute, transmit and adapt our data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same ODbL license. The full [legal code](https://opendatacommons.org/licenses/odbl/1.0/), explains your rights and responsibilities.
 
 ## License
 
@@ -58,6 +62,7 @@ These data are [licensed by Microsoft](https://github.com/Microsoft/USBuildingFo
 - Microsoft
 - Pixel prediction
 - Computer vision
+- OpenStreetMap
 
 ## Secondary Category
 
