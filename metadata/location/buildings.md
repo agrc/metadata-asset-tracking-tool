@@ -54,7 +54,7 @@ You are free to copy, distribute, transmit and adapt our data, as long as you cr
 
 ## License
 
-These data are [licensed by Microsoft](https://github.com/Microsoft/USBuildingFootprints#license) under the [Open Data Commons Database License](https://opendatacommons.org/licenses/odbl/) (ODbL).
+These data are licensed by Microsoft and the OpenStreetMap Foundation under the same [Open Data Database License (ODbL)](https://opendatacommons.org/licenses/odbl/1.0). This combined Utah Buildings dataset incorporates data from both sources and is made available subject to the terms of the ODbL, including the requirement to provide appropriate attribution to Microsoft and to OpenStreetMap and its contributors.
 
 ## Tags
 
