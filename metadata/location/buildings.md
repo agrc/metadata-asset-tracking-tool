@@ -50,7 +50,7 @@ UGRC
 
 ## Restrictions
 
-You are free to copy, distribute, transmit and adapt our data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same ODbL license. The full [legal code](https://opendatacommons.org/licenses/odbl/1.0/), explains your rights and responsibilities.
+You are free to copy, distribute, transmit and adapt our data, as long as you credit OpenStreetMap and its contributors. If you alter or build upon our data, you may distribute the result only under the same ODbL license. The full [legal code](https://opendatacommons.org/licenses/odbl/1.0/) explains your rights and responsibilities.
 
 ## License
 
