@@ -18,21 +18,19 @@ This dataset contains information such as parcel ID, serial number, parcel addre
 
 ### What is the dataset?
 
-A parcel is a defined area of land that is owned by a public or private entity. This dataset contains attributes such as the total market value and tax district of a given parcel. Each county provides its individual parcel data to UGRC; thus, users should expect some variation in schema and completeness between counties.
-
-<!--- Brought this over from our other metadata file on parcels. Are there specific attributes we'd like to highlight for this one? -->
+A parcel is a defined area of land that is owned by a public or private entity. This dataset contains government-owned parcel data that was submitted by county governments and aggregated by UGRC into a single layer with consistent schema.
 
 ### What is the purpose of the dataset?
 
-These data represent UGRC's ongoing efforts to compile statewide parcels following the passage of [HB113](https://le.utah.gov/~2005/bills/hbillenr/HB0113.htm) in 2005. This dataset has been made available to the public for general reference and cartographic purposes.
+These data represent UGRC's ongoing efforts to compile statewide parcels following the passage of HB433. This dataset has been made available to the public for general reference and cartographic purposes.
 
 ### What does the dataset represent?
 
-Polygons in this dataset indicate approximate boundaries of parcels that are owned by city, county, state, or federal entities.
+Polygons in this dataset indicate approximate boundaries of parcels that are owned by city, county, state, or federal entities. Parcel polygons contain attributes such as a unique parcel ID, account number, governmental ownership grouping category, street address (where available), city, ZIP code, owner name, and the approximate area in acres.
 
 ### How was the dataset created?
 
-<!--- Did we just aggregate info from counties or? -->
+UGRC aggregated this layer from county-provided parcel data. We also used the geometry from the [Utah Parcels](https://gis.utah.gov/products/sgid/cadastre/parcels/) layers and tax roll records from county assessors.
 
 ### How reliable and accurate is the dataset?
 
@@ -58,7 +56,7 @@ UGRC
 - Land ownership
 - Private land
 - Public land
-- HB113
+- HB433
 
 ## Secondary Category
 
