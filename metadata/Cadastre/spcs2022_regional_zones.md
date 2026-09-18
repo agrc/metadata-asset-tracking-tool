@@ -12,10 +12,7 @@ Polygons depicting 11 regional zones in Utah for the State Plane Coordinate Syst
 
 ## Summary
 
-This data layer represents the multizone complete projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization program and constitute what NOAA refers to as the "Multizone Complete" layer. The 11 zones provide seamless, full coverage for the entire state of Utah, balancing minimal distortion with practical multi-county administrative coverage for surveying, mapping, and engineering.
-
-This data layer representing the low distortion projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization and are what the NOAA National Geodetic Survey (NGS) refers to as the "Multizone Partial" layer. The 79 low distortion zones have partial coverage of the state, but provided the lowest amount of linear distortion for high-precision work in localized areas.
-
+This data layer represents the 11 multizone complete projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization program and constitute what NOAA refers to as the "Multizone Complete" layer. The 11 zones provide seamless, full coverage for the entire state of Utah, balancing minimal distortion with practical multi-county administrative coverage for surveying, mapping, and engineering.
 
 ## Description
 
@@ -25,15 +22,11 @@ This dataset contains vector polygons depicting the 11 "Multizone Complete" proj
 
 ### What is the purpose of the dataset?
 
-This dataset provides GIS professionals, surveyors, and civil engineers with official boundaries and projection parameters for Utah's complete SPCS2022 multizone layout. It allows users to identify appropriate SPCS2022 coordinate zones for regional and multi-county projects while aligning with modern National Spatial Reference System (NSRS) standards.
-
-This dataset has been made available to the public to provide land surveyors, civil engineers, GIS professionals, and other users with spatial boundaries and parameters for Utah's SPCS2022 low distortion zones. Utilizing these localized zone definitions minimizes grid-to-ground scale differences, allowing high-precision spatial measurements without complex ground-to-grid transformation adjustments. It is suitable for general analytic and cartographic purposes.
+This dataset provides GIS professionals, land surveyors, and civil engineers with official boundaries and projection parameters for Utah's complete SPCS2022 multizone layout. It allows users to identify appropriate SPCS2022 coordinate zones for regional and multi-county projects while aligning with modern National Spatial Reference System (NSRS) standards. It is suitable for general analytic and cartographic purposes.
 
 ### What does the dataset represent?
 
 Each polygon represents the designated geographic extent of an individual SPCS2022 complete zone. Features contain attribute metadata defining zone codes, zone names, central meridians, scale factors, and official projection parameters defined by NOAA NGS.
-
-Each polygon represents the defined geographic extent of an individual SPCS2022 low distortion zone. Features contain attribute information detailing zone codes, zone names and abbreviations, zone numbers, zone types, projection definitions, central meridians, scale factors, and reference surface elevations established by NOAA NGS.
 
 ### How was the dataset created?
 
@@ -61,6 +54,7 @@ UGRC
 
 - SPCS2022
 - Surveying
+- GPS
 
 ## Secondary Category
 
