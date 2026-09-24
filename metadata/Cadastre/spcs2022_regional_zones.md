@@ -12,7 +12,7 @@ Polygons depicting 11 regional zones in Utah for the State Plane Coordinate Syst
 
 ## Summary
 
-This data layer represents the 11 multizone complete projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization program and constitute what NOAA refers to as the "Multizone Complete" layer. The 11 zones provide seamless, full coverage for the entire state of Utah, balancing minimal distortion with practical multi-county administrative coverage for surveying, mapping, and engineering.
+The SPCS2022 Region Zones layer represents the 11 multizone complete projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization program and constitute what NOAA refers to as the "Multizone Complete" layer, but local entities often refer to them as "Regional Zones." The 11 zones provide seamless, full coverage for the entire state of Utah, balancing minimal distortion with practical multi-county administrative coverage for surveying, mapping, and engineering.
 
 ## Description
 
