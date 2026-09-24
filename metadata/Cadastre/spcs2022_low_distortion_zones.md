@@ -12,7 +12,7 @@ Polygons depicting 79 low distortion zones in Utah for the State Plane Coordinat
 
 ## Summary
 
-This data layer represents the 79 low distortion projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization and are what the NOAA National Geodetic Survey (NGS) refers to as the "Multizone Partial" layer. The 79 low distortion zones have partial coverage of the state, but provided the lowest amount of linear distortion for high-precision work in localized areas.
+The SPCS2022 Low Distortion Zones layer represents the 79 multizone partial projection zones in the State Plane Coordinate System of 2022 (SPCS2022). These zones are part of the National Spatial Reference System (NSRS) Modernization and are what the NOAA National Geodetic Survey (NGS) refers to as the "Multizone Partial" layer, but local entities often refer to them as "Low Distortion Zones." The 79 low distortion zones have partial coverage of the state and provide the lowest amount of linear distortion for high-precision work in localized areas.
 
 
 ## Description
