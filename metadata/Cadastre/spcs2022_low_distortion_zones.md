@@ -31,7 +31,7 @@ Each polygon represents the defined geographic extent of an individual SPCS2022 
 
 ### How was the dataset created?
 
-This dataset was created NOAA.  UGRC imported NOAA's Shapefile into a file geodatabase and then enterprise geodatabase.  No other alterations were made to the data.
+This dataset was created NOAA.  UGRC imported NOAA's Shapefile into a file geodatabase, projected into UTM 12N (EPSG: 26912), and then imported into an enterprise geodatabase.  No other alterations were made to the data.
 
 ### How reliable and accurate is the dataset?
 
