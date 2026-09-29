@@ -4,7 +4,7 @@ Utah SPCS2022 Regional Zones
 
 ## ID
 
-paste from SGID Index after it's auto-generated
+32a36e64-b973-4608-86dc-16c1809233fd
 
 ## Brief Summary
 
