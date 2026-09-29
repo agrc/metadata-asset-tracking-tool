@@ -4,7 +4,7 @@ Utah SPCS2022 Low Distortion Zones
 
 ## ID
 
-paste from SGID Index after it's auto-generated
+4a2f5150-66dd-48a7-9e1b-83864b2df8ff
 
 ## Brief Summary
 
